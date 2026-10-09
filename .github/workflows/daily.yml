@@ -39,7 +39,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data/tenders.json docs/private-report.html
+          git add docs/data/tenders.json docs/private-report.html docs/reports
           if ! git diff --cached --quiet; then
             git commit -m "update private report $(date -u +%F)"
             git push
@@ -47,8 +47,8 @@ jobs:
 
       - name: 一覧へのリンクを表示
         env:
-          REPORT_URL: ${{ github.server_url }}/${{ github.repository }}/blob/${{ github.ref_name }}/docs/private-report.html
+          REPORT_URL: ${{ github.server_url }}/${{ github.repository }}/blob/${{ github.ref_name }}/docs/reports/README.md
         run: |
           echo '## 一覧の保存が完了しました' >> "$GITHUB_STEP_SUMMARY"
           echo "[一覧ファイルを開く]($REPORT_URL)" >> "$GITHUB_STEP_SUMMARY"
-          echo 'ファイル画面右上の Download raw file（下向き矢印）で保存し、ブラウザで開いてください。' >> "$GITHUB_STEP_SUMMARY"
+          echo 'GitHub上で地域を選んで閲覧できます。ダウンロードは不要です。' >> "$GITHUB_STEP_SUMMARY"
