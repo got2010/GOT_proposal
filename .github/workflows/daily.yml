@@ -2,25 +2,27 @@ name: daily-collect
 
 on:
   schedule:
-    - cron: "0 22 * * *" # 毎日 日本時間 7:00
-  workflow_dispatch: # 手動実行ボタン
+    - cron: "0 22 * * *" # 日本時間 毎朝7時（遅延する場合があります）
+  workflow_dispatch:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: pages
   cancel-in-progress: false
 
 jobs:
-  collect-and-deploy:
+  collect-private-report:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    timeout-minutes: 20
     steps:
+      - name: 非公開設定を確認
+        if: ${{ github.event.repository.private != true }}
+        run: |
+          echo "このワークフローはPrivateのリポジトリ専用です。SettingsでPrivateに変更してください。"
+          exit 1
+
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
@@ -30,21 +32,23 @@ jobs:
       - name: 公告を収集
         run: python collect.py
 
-      - name: データを保存
+      - name: ダウンロード用の一覧を作成
+        run: python make_private_report.py
+
+      - name: 非公開リポジトリに保存
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data
+          git add docs/data/tenders.json docs/private-report.html
           if ! git diff --cached --quiet; then
-            git commit -m "update data $(date -u +%F)"
+            git commit -m "update private report $(date -u +%F)"
             git push
           fi
 
-      - uses: actions/configure-pages@v5
-
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: docs
-
-      - id: deployment
-        uses: actions/deploy-pages@v4
+      - name: 一覧へのリンクを表示
+        env:
+          REPORT_URL: ${{ github.server_url }}/${{ github.repository }}/blob/${{ github.ref_name }}/docs/private-report.html
+        run: |
+          echo '## 一覧の保存が完了しました' >> "$GITHUB_STEP_SUMMARY"
+          echo "[一覧ファイルを開く]($REPORT_URL)" >> "$GITHUB_STEP_SUMMARY"
+          echo 'ファイル画面右上の Download raw file（下向き矢印）で保存し、ブラウザで開いてください。' >> "$GITHUB_STEP_SUMMARY"
