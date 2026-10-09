@@ -6,11 +6,13 @@
 - 出力: docs/data/tenders.json (前回までの結果に新規分をマージ。初回取得日を first_seen に記録)
 """
 import json
+import html
 import re
 import sys
 import time
 import urllib.parse
 import urllib.request
+import unicodedata
 import xml.etree.ElementTree as ET
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
@@ -125,28 +127,58 @@ def parse_results(raw):
                 "url": url,
                 "attachments": attachments[:5],
                 "snippet": re.sub(r"\s+", " ", description)[:200],
-                "_body": description[:2000],
+                "description": description,
             }
         )
     return hits, items
 
 
-def classify(item, video_keywords, proposal_words):
-    """映像関連かどうかと、プロポーザル系かどうかを判定する。関連しなければ None を返す。"""
-    title, body = item["title"], item["_body"]
-    title_kw = [k for k in video_keywords if k in title]
-    body_kw = [k for k in video_keywords if k in body]
-    is_proposal = any(w in title or w in body for w in proposal_words)
-    if title_kw:
-        match, kws = "title", title_kw
-    elif body_kw and is_proposal:
-        match, kws = "body", body_kw
-    else:
+def normalized(value):
+    value = re.sub(r"<\s*(?:br\b[^>]*|/?(?:p|div|li|tr|h[1-6])\b[^>]*)>", "\n", value or "", flags=re.IGNORECASE)
+    value = re.sub(r"<[^>]+>", " ", value)
+    return re.sub(r"[^\S\r\n]+", " ", unicodedata.normalize("NFKC", html.unescape(value))).strip()
+
+
+def classify(item, cfg):
+    """業務としての映像制作を優先。一般PR語や提案書の提出方法だけでは採用しない。"""
+    title = normalized(item.get("title", ""))
+    body = normalized(item.get("description") or item.get("_body") or item.get("snippet", ""))
+    rules = cfg["relevance_rules"]
+    flags = re.IGNORECASE
+
+    def hits(text, patterns):
+        return list(dict.fromkeys(m.group(0) for p in patterns for m in re.finditer(p, text, flags)))
+
+    # 医療撮影、測量、機材保守などが件名の主目的なら対象外。
+    # 広報動画の本文に「医療」等があるだけでは除外しない。
+    if hits(title, rules["exclude_title_patterns"]):
         return None
-    item["is_proposal"] = is_proposal
-    item["match"] = match
-    item["keywords"] = kws
-    return item
+
+    title_hits = hits(title, rules["work_patterns"])
+    body_hits = []
+    evidence = ""
+    for sentence in re.split(r"[。！？\n\r]", body):
+        # 提案・実績・審査用動画などは委託成果物の根拠にしない。
+        if hits(sentence, rules["ignore_body_patterns"]):
+            continue
+        matched = hits(sentence, rules["work_patterns"])
+        if matched:
+            body_hits.extend(matched)
+            if not evidence:
+                first = min(m.start() for p in rules["work_patterns"] for m in re.finditer(p, sentence, flags))
+                evidence = sentence[max(0, first - 35):first + 165]
+    if not title_hits and not body_hits:
+        return None
+
+    result = dict(item)
+    result.pop("_body", None)
+    result["is_proposal"] = any(normalized(w) in title or normalized(w) in body for w in cfg["proposal_words"])
+    result["match"] = "title" if title_hits else "body"
+    result["keywords"] = list(dict.fromkeys(title_hits or body_hits))[:8]
+    result["relevance_score"] = 100 if title_hits else 60
+    result["relevance_label"] = "件名に映像業務" if title_hits else "本文に映像業務"
+    result["evidence"] = title if title_hits else evidence
+    return result
 
 
 def load_store():
@@ -181,9 +213,8 @@ def main():
         for item in items:
             if not item["key"]:
                 continue
-            classified = classify(item, cfg["video_keywords"], cfg["proposal_words"])
-            if classified:
-                found.setdefault(item["key"], classified)
+            # 不採用の最新データも保持し、旧判定が残り続けることを防ぐ。
+            found.setdefault(item["key"], item)
         time.sleep(1)
 
     if failures == len(cfg["video_keywords"]):
@@ -192,10 +223,10 @@ def main():
 
     store = load_store()
     old = {i["key"]: i for i in store["items"]}
+    previous_keys = set(old)
     today_s = today.isoformat()
     new_count = 0
     for key, item in found.items():
-        item.pop("_body", None)
         if key in old:
             item["first_seen"] = old[key].get("first_seen", today_s)
         else:
@@ -204,8 +235,15 @@ def main():
         old[key] = item
 
     cutoff = (today - timedelta(days=cfg["keep_days"])).isoformat()
-    merged = [i for i in old.values() if (i.get("cft") or today_s) >= cutoff]
-    merged.sort(key=lambda i: (i.get("cft", ""), i["key"]), reverse=True)
+    merged = []
+    for item in old.values():
+        if (item.get("cft") or today_s) < cutoff:
+            continue
+        classified = classify(item, cfg)
+        if classified:
+            merged.append(classified)
+    merged.sort(key=lambda i: (i["relevance_score"], i.get("cft", ""), i["key"]), reverse=True)
+    new_count = sum(i["key"] not in previous_keys for i in merged)
 
     store = {"updated_at": datetime.now(JST).isoformat(timespec="minutes"), "items": merged}
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)

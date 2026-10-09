@@ -107,7 +107,7 @@ footer { margin-top: 32px; font-size: 12px; color: var(--muted); max-width: 70ch
 <div class="wrap">
   <header>
     <h1>映像プロポーザル情報</h1>
-    <p>東海・近畿・中国・四国・九州・沖縄の公告から、映像・動画・撮影に関する案件を毎朝集めています。</p>
+    <p>東海・近畿・中国・四国・九州・沖縄の公告から、映像制作・動画制作・撮影・映像編集・CG・アニメーションの業務を毎朝集めています。</p>
     <div class="stats" id="stats" aria-live="polite"></div>
   </header>
 
@@ -116,6 +116,7 @@ footer { margin-top: 32px; font-size: 12px; color: var(--muted); max-width: 70ch
     <div class="row">
       <input type="search" id="q" placeholder="件名・発注元で検索" aria-label="件名・発注元で検索">
       <select id="sort" aria-label="並び順">
+        <option value="relevance">映像業務の関連度順</option>
         <option value="cft">公告日が新しい順</option>
         <option value="deadline">締切が近い順</option>
         <option value="new">新着順</option>
@@ -133,6 +134,7 @@ footer { margin-top: 32px; font-size: 12px; color: var(--muted); max-width: 70ch
   </main>
 
   <footer>
+    <p>件名に映像業務の記載がある案件を優先し、本文だけに記載がある案件はその後に表示します。一般的な観光PR・企画業務は、映像制作の具体的な記載が見つかった場合に表示します。キーワードによる判定のため、見落としや誤判定があります。添付PDFのリンク先は別途解析しません。</p>
     <p>出典:官公需情報ポータルサイト(中小企業庁)の検索API。締切日は公告文から自動で推定した目安で、誤りや抜けがあります。応募の前に必ず公告の原文で確認してください。</p>
   </footer>
 </div>
@@ -146,7 +148,7 @@ const REGIONS = {
   "九州・沖縄": ["40", "41", "42", "43", "44", "45", "46", "47"]
 };
 
-const state = { region: "すべて", onlyProposal: true, hideExpired: true, q: "", sort: "cft" };
+const state = { region: "すべて", onlyProposal: true, hideExpired: true, q: "", sort: "relevance" };
 let items = [];
 let updatedAt = null;
 let minFirstSeen = "";
@@ -193,7 +195,9 @@ function matches(it) {
 
 function sorted(list) {
   const a = list.slice();
-  if (state.sort === "deadline") {
+  if (state.sort === "relevance") {
+    a.sort((x, y) => (y.relevance_score || 0) - (x.relevance_score || 0) || y.cft.localeCompare(x.cft));
+  } else if (state.sort === "deadline") {
     const key = (it) => { const d = daysLeft(it); return d === null || d < 0 ? 1e9 : d; };
     a.sort((x, y) => key(x) - key(y) || y.cft.localeCompare(x.cft));
   } else if (state.sort === "new") {
@@ -237,6 +241,7 @@ function render() {
     const badges = el("span", "badges");
     if (isNew(it)) badges.append(el("span", "badge new", "新着"));
     if (it.is_proposal) badges.append(el("span", "badge kind", "プロポーザル"));
+    if (it.relevance_label) badges.append(el("span", "badge kind", it.relevance_label));
     h.append(badges);
     const href = safeUrl(it.url);
     if (href) {
@@ -256,6 +261,7 @@ function render() {
     if (it.deadline) meta.append(el("span", "", "締切の目安 " + it.deadline));
     body.append(meta);
 
+    if (it.evidence) body.append(el("p", "snippet", "判定根拠：" + it.evidence));
     if (it.snippet) body.append(el("p", "snippet", it.snippet));
 
     const files = (it.attachments || []).filter((f) => safeUrl(f.uri));
