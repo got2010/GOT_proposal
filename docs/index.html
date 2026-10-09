@@ -107,7 +107,7 @@ footer { margin-top: 32px; font-size: 12px; color: var(--muted); max-width: 70ch
 <div class="wrap">
   <header>
     <h1>映像プロポーザル情報</h1>
-    <p>東海・近畿・中国・四国・九州・沖縄の公告から、映像制作・動画制作・撮影・映像編集・CG・アニメーションの業務を毎朝集めています。</p>
+    <p>全国47都道府県の公告から、映像制作・動画制作・撮影・映像編集・CG・アニメーションの業務を毎朝集めています。</p>
     <div class="stats" id="stats" aria-live="polite"></div>
   </header>
 
@@ -141,16 +141,81 @@ footer { margin-top: 32px; font-size: 12px; color: var(--muted); max-width: 70ch
 
 <script>
 const REGIONS = {
-  "東海": ["21", "23", "24"],
-  "近畿": ["25", "26", "27", "28", "29", "30"],
-  "中国": ["31", "32", "33", "34", "35"],
-  "四国": ["36", "37", "38", "39"],
-  "九州・沖縄": ["40", "41", "42", "43", "44", "45", "46", "47"]
+  "北海道": [
+    "01"
+  ],
+  "東北": [
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07"
+  ],
+  "関東": [
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14"
+  ],
+  "甲信越": [
+    "15",
+    "19",
+    "20"
+  ],
+  "北陸": [
+    "16",
+    "17",
+    "18"
+  ],
+  "東海": [
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "近畿": [
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30"
+  ],
+  "中国": [
+    "31",
+    "32",
+    "33",
+    "34",
+    "35"
+  ],
+  "四国": [
+    "36",
+    "37",
+    "38",
+    "39"
+  ],
+  "九州": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+  ],
+  "沖縄": [
+    "47"
+  ]
 };
 
-const state = { region: "すべて", onlyProposal: true, hideExpired: true, q: "", sort: "relevance" };
+const state = { region: "全国", onlyProposal: true, hideExpired: true, q: "", sort: "relevance" };
 let items = [];
 let updatedAt = null;
+let collectionWarnings = [];
 let minFirstSeen = "";
 
 const $ = (id) => document.getElementById(id);
@@ -181,7 +246,7 @@ function daysLeft(it) {
 
 function matches(it) {
   if (state.onlyProposal && !it.is_proposal) return false;
-  if (state.region !== "すべて" && !REGIONS[state.region].includes(it.lg_code)) return false;
+  if (state.region !== "全国" && !REGIONS[state.region].includes(it.lg_code)) return false;
   if (state.hideExpired) {
     const d = daysLeft(it);
     if (d !== null && d < 0) return false;
@@ -294,12 +359,13 @@ function render() {
   const s1 = el("span", "", "表示 ");
   s1.append(el("b", "", String(rows.length)), " 件");
   stats.append(s1);
+  if (collectionWarnings.length) stats.append(el("span", "", "一部の検索で取得に失敗しています：" + collectionWarnings.join("、")));
   if (updatedAt) stats.append(el("span", "", "最終更新 " + updatedAt.replace("T", " ").slice(0, 16)));
 }
 
 function setupControls() {
   const box = $("regions");
-  for (const name of ["すべて", ...Object.keys(REGIONS)]) {
+  for (const name of ["全国", ...Object.keys(REGIONS)]) {
     const b = el("button", "chip", name);
     b.type = "button";
     b.setAttribute("aria-pressed", String(name === state.region));
@@ -324,6 +390,7 @@ async function load() {
     const data = await res.json();
     items = data.items || [];
     updatedAt = data.updated_at || null;
+    collectionWarnings = data.collection_warnings || [];
     minFirstSeen = items.reduce((m, it) => (!m || it.first_seen < m ? it.first_seen : m), "");
   } catch (e) {
     const notice = $("notice");

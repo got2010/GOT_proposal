@@ -187,6 +187,38 @@ def load_store():
     return {"updated_at": None, "items": []}
 
 
+def collect_keyword(keyword, cfg, since, until):
+    """1000件の上限を超えたら期間、必要に応じて都道府県を分割して取得する。"""
+    requests = 0
+    limit = cfg.get("max_requests_per_keyword", 32)
+
+    def search(start, end, codes):
+        nonlocal requests
+        if requests >= limit:
+            raise RuntimeError(f"取得回数が上限{limit}回に達しました。検索期間を短くしてください。")
+        requests += 1
+        params = {
+            "Query": keyword,
+            "LG_Code": ",".join(codes),
+            "CFT_Issue_Date": f"{start.isoformat()}/{end.isoformat()}",
+            "Count": cfg["count"],
+        }
+        hits, items = parse_results(fetch(params))
+        time.sleep(1)
+        if hits <= len(items):
+            return items
+        if start < end:
+            middle = start + (end - start) // 2
+            return search(start, middle, codes) + search(middle + timedelta(days=1), end, codes)
+        if len(codes) > 1:
+            middle = len(codes) // 2
+            return search(start, end, codes[:middle]) + search(start, end, codes[middle:])
+        raise RuntimeError("1日・1都道府県でも取得上限を超えました。検索語を絞ってください。")
+
+    items = search(date.fromisoformat(since), date.fromisoformat(until), cfg["lg_codes"])
+    return list({i["key"]: i for i in items if i.get("key")}.values())
+
+
 def main():
     cfg = load_config()
     today = datetime.now(JST).date()
@@ -194,28 +226,21 @@ def main():
 
     found = {}
     failures = 0
+    failed_keywords = []
     for kw in cfg["video_keywords"]:
-        params = {
-            "Query": kw,
-            "LG_Code": ",".join(cfg["lg_codes"]),
-            "CFT_Issue_Date": f"{since}/",
-            "Count": cfg["count"],
-        }
         try:
-            hits, items = parse_results(fetch(params))
+            items = collect_keyword(kw, cfg, since, today.isoformat())
         except Exception as e:  # noqa: BLE001
             failures += 1
+            failed_keywords.append(kw)
             print(f"[警告] キーワード「{kw}」の取得に失敗: {e}", file=sys.stderr)
             continue
-        print(f"キーワード「{kw}」: ヒット {hits} 件 / 取得 {len(items)} 件")
-        if hits > len(items):
-            print(f"[警告] 「{kw}」は取得上限を超えています。lookback_days を短くしてください。", file=sys.stderr)
+        print(f"キーワード「{kw}」: 取得 {len(items)} 件")
         for item in items:
             if not item["key"]:
                 continue
             # 不採用の最新データも保持し、旧判定が残り続けることを防ぐ。
             found.setdefault(item["key"], item)
-        time.sleep(1)
 
     if failures == len(cfg["video_keywords"]):
         print("すべての取得に失敗したため、データを更新しません。", file=sys.stderr)
@@ -245,7 +270,8 @@ def main():
     merged.sort(key=lambda i: (i["relevance_score"], i.get("cft", ""), i["key"]), reverse=True)
     new_count = sum(i["key"] not in previous_keys for i in merged)
 
-    store = {"updated_at": datetime.now(JST).isoformat(timespec="minutes"), "items": merged}
+    store = {"updated_at": datetime.now(JST).isoformat(timespec="minutes"), "items": merged,
+             "collection_warnings": failed_keywords}
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
     DATA_PATH.write_text(json.dumps(store, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"完了: 新着 {new_count} 件 / 保存済み合計 {len(merged)} 件")
