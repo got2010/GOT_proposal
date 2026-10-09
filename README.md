@@ -1,3 +1,4 @@
+# GOT　prop info
 
 
 ## ファイル構成
