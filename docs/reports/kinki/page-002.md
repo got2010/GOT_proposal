@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-09T19:00+09:00（収集時点）
+最終更新：2026-10-10T07:11+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**178件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**187件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,15 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 大阪府 | [郵送期限：9月9日 用地補償総合技術支援業務委託(寝屋川大東線2期)](<https://www.city.kadoma.osaka.jp/material/files/group/40/youryou.pdf>) | 大阪府門真市 | 2026-08-28 | 原文を確認 | その他補償額の算定に必要と認められる事項八 当該設備の概要が把握できる写真の撮影(附帯工作物)第14条 附帯工作物の調査は、附帯工作物調査算定要領(平成24 年3月30 日付け国土用第49号土地・建設産業局地価調査課長通知(以下「附帯工作物要領」という | [仕様書 (PDFファイル: 426.3KB)](<https://www.city.kadoma.osaka.jp/material/files/group/40/shiyousyo.pdf>) / [位置図 (PDFファイル: 387.4KB)](<https://www.city.kadoma.osaka.jp/material/files/group/40/ichizu.pdf>) / [設計書 (PDFファイル: 325.4KB)](<https://www.city.kadoma.osaka.jp/material/files/group/40/sekkeisyo.pdf>) / [様式 (圧縮ファイル: 130.0KB)](<https://www.city.kadoma.osaka.jp/material/files/group/40/youshiki.zip>) |
+| 京都府 | [不用物品売却（普通特種自動車（塵芥車）計１台）について](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/437706.htm>) | 京都府京都市 | 2026-08-28 | 原文を確認 | ついて文字等の抹消が完了した車両の車台番号とその車両全体一周を中断なく動画撮影し、1台分を1ファイルとして保存すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./437706_12_08200920.pdf>) |
+| 奈良県 | [令和8年 奈良市基盤地図データ更新等業務委託に係る一般競争入札について](<https://www.city.nara.lg.jp/soshiki/6/272768.html>) | 奈良県奈良市 | 2026-08-27 | 2026-09-09 | 公告日を基準に過去2年間に、政令市又は中核市の発注において、撮影業務、地形図更新業務の業務実績を各2件以上有する者であること | [公告文 \[Wordファイル／21KB\]](<https://www.city.nara.lg.jp/uploaded/life/272768_610568_misc.docx>) / [入札説明書 \[Wordファイル／36KB\]](<https://www.city.nara.lg.jp/uploaded/life/272768_610577_misc.docx>) / [仕様書 \[Wordファイル／32KB\]](<https://www.city.nara.lg.jp/uploaded/life/272768_610569_misc.docx>) / [別図\_図郭割図 \[PDFファイル／1.06MB\]](<https://www.city.nara.lg.jp/uploaded/life/272768_610570_misc.pdf>) |
+| 京都府 | [kou14-koukoku.pdf](<https://www.kaiho.mlit.go.jp/08kanku/nyuusatu/tenpu/R8/kouji_fune/kou14/kou14-koukoku.pdf>) | 海上保安庁第八管区海上保安本部 | 2026-08-27 | 2026-09-16 | 建築改修工事標準仕様書(機械設備工事編)・建築工事標準詳細図・営繕工事写真撮影要領(国土交通省大臣官房官庁営繕部監修)・土木工事共通仕様書(国土交通省)・電気通信設備工事共通仕様書(国土交通省大臣官房技術調査課電気通信室編集)・建築工事標準仕様書(JASS)(日本建築学会)・港湾工事共通仕様書(国土交通省港湾局)全ての… | [入札説明書](<https://www.kaiho.mlit.go.jp/08kanku/nyuusatu/tenpu/R8/kouji_fune/kou14/kou14-nyuusetu.pdf>) / [仕様書](<https://www.kaiho.mlit.go.jp/08kanku/nyuusatu/tenpu/R8/kouji_fune/kou14/kou14-siyousyo.pdf>) |
+| 滋賀県 | [伊崎国有林境界検測事業](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/siga/20260827_1.html>) | 林野庁近畿中国森林管理局滋賀森林管理署 | 2026-08-27 | 2026-09-30 | 2 契約区間の総ての境界標識の容態の確認及び写真撮影を行う | [入札公告(PDF : 164KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/siga/attach/pdf/20260827_1-1.pdf>) / [入札説明書(PDF : 141KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/siga/attach/pdf/20260827_1-2.pdf>) / [閲覧図書１(PDF : 24,818KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/siga/attach/pdf/20260827_1-5.pdf>) / [閲覧図書２(PDF : 15,176KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/siga/attach/pdf/20260827_1-4.pdf>) |
+| 和歌山県 | [田辺市庁舎総合管理業務に係る公募型プロポーザルの実施について](<https://www.city.tanabe.lg.jp/material/files/group/10/koukokubun_r8tyousyakanri.pdf>) | 和歌山県田辺市 | 2026-08-26 | 2026-11-11 | 、施工前、施工中及び施工後の状況について、同一位置及び同一方向から記録写真を撮影し、報告書へ添付すること | [実施要領 (PDFファイル: 172.3KB)](<https://www.city.tanabe.lg.jp/material/files/group/10/jissiyouryou_r8tyousyakanri_.pdf>) / [仕様書 (PDFファイル: 1.8MB)](<https://www.city.tanabe.lg.jp/material/files/group/10/siyousyo_r8tyousyakanri.pdf>) |
+| 大阪府 | [令和9年執行統一地方選挙における公営選挙ポスター掲示場設置等業務に係る条件付一般競争入札の実施について](<https://www.city.yao.osaka.jp/_res/projects/default_project/_page_/001/025/065/0826koukokubun01.pdf>) | 大阪府八尾市 | 2026-08-26 | 2026-09-09 | 3設置作業に着手する日までに、すべての場所の現場確認を行い、写真を撮影し、データで選管に提出すること | [仕様書 （zip 519.4KB）](<https://www.city.yao.osaka.jp/_res/projects/default_project/_page_/001/025/065/0826siyousyo005.zip>) |
+| 大阪府 | [08-高見フローラルタウン四番街他２団地総合設計業務 （令和8年8月26日）](<https://www.ur-net.go.jp/orders/west/pdf/order_43884_3.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-08-26 | 原文を確認 | 理(日影、省エネルギー関係、防災関係)、トレース、資料収集、資料整理、写真撮影、模型 製作、パース作成、写真撮影等をいい、これらを第三者に再委託する場合は、発注者の承諾を特に得なくともよい | [仕様書\[8520KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_43884_4.pdf>) |
+| 京都府 | [令和８年度クリーンセンターに係る大気質調査委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/437758.htm>) | 京都府京都市 | 2026-08-25 | 原文を確認 | 量証明に係る分析、報告書の作成、提出に係る費用(2) 各種試験、検査、写真撮影等に必要な費用(3) 打合せ、解析結果の報告説明等のための本市施設への訪問に伴う交通費(4) 本市の施設・職員及び第三者等に損害を与えた場合、復旧する費用及び補償(5) 官公署等に対する書類の作成及び届出等の手続きに必要な費用(6) 受注者の… | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./437758_12_08201051.pdf>) |
 | 奈良県 | [ネットワーク道路整備工事（橘地内）](<https://www.asukamura.jp/files/nyusatsu_joho/260824/08-114-01.pdf>) | 奈良県明日香村 | 2026-08-24 | 原文を確認 | 4 工事写真 共通仕様書1-1-1-26-8 - ○ 1 ○ ○・工事写真の撮影にあたっては、写真管理基準(案)を適用する | [特記仕様書](<https://www.asukamura.jp/files/nyusatsu_joho/260824/08-114-02.pdf>) / [数量計算書](<https://www.asukamura.jp/files/nyusatsu_joho/260824/08-114-04.pdf>) / [図面](<https://www.asukamura.jp/files/nyusatsu_joho/260824/08-114-05.pdf>) / [工事関係書類一覧表](<https://www.asukamura.jp/files/nyusatsu_joho/260824/08-114-08.pdf>) / [位置図](<https://www.asukamura.jp/files/nyusatsu_joho/260824/08-114-09.pdf>) |
 | 兵庫県 | [【制限付一般競争入札】明石市立小・中学校受変電設備高圧コンデンサ取替修繕（８月21日発注）](<https://www.city.akashi.lg.jp/documents/40326/3-011_koukoku_kondensa.pdf>) | 兵庫県明石市 | 2026-08-21 | 原文を確認 | 場着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、完成時に現状復旧が行われているか確認すること | [業務仕様書（PDF：277KB）](<https://www.city.akashi.lg.jp/documents/40326/21-siyousho_kondensa.pdf>) / [特記仕様書（PDF：231KB）](<https://www.city.akashi.lg.jp/documents/40326/22_tokki_bessi_kondensa.pdf>) |
 | 京都府 | [令和８年度京都市東部山間埋立処分地環境モニタリング解析業務委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/437207.htm>) | 京都府京都市 | 2026-08-21 | 原文を確認 | )及び報告書の作成、提出に係る費用(2) 各種試験、検査、写真撮影等に必要な費用(3) 打合せ、解析結果の報告説明等のための本市施設への訪問に伴う交通費(4) 本市の施設及び第三者等に損害を与えた場合、復旧する費用及び補償(5) 官公署等に対する書類の作成及び届出等の手続きに必要な費用(6) 受注者の本委託業務の履行不… | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./437207_12_08181410.pdf>) |

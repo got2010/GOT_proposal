@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-09T19:00+09:00（収集時点）
+最終更新：2026-10-10T07:11+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**229件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**231件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 秋田県 | [桧原沢治山工事](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kamikoani/20260716hibarasawa.html>) | 林野庁東北森林管理局米代東部森林管理署上小阿仁支署 | 2026-07-17 | 2026-09-01 | れた苗木の規格及び形質を明らかにするため、監督職員の指示により苗木等の写真撮影をしなければならない | [入札公告(PDF : 249KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kamikoani/./attach/pdf/20260716hibarasawa-1.pdf>) / [入札説明書(PDF : 356KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kamikoani/./attach/pdf/20260716hibarasawa-2.pdf>) / [特記仕様書(PDF : 2,133KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kamikoani/./attach/pdf/20260716hibarasawa-5.pdf>) / [現場説明書(PDF : 396KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kamikoani/./attach/pdf/20260716hibarasawa-6.pdf>) / [図面(PDF : 8,346KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kamikoani/./attach/pdf/20260716hibarasawa-7.pdf>) |
+| 青森県 | [社委第35号](<https://www.town.aomori-nanbu.lg.jp/uploaded/attachment/8128.zip>) | 青森県南部町 | 2026-07-17 | 2026-08-12 | 容 出土金属製品の保存処理及び報告書の作成6.参考処理方法1処理前調査写真撮影、遺物本来の形状や内部状態の把握のためにX線透過撮影 | — |
 | 青森県 | [建設工第19号](<https://www.town.aomori-nanbu.lg.jp/uploaded/attachment/8125.zip>) | 青森県南部町 | 2026-07-17 | 2026-08-12 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | — |
 | 青森県 | [建設工第15号](<https://www.town.aomori-nanbu.lg.jp/uploaded/attachment/8124.zip>) | 青森県南部町 | 2026-07-17 | 2026-08-12 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | — |
 | 岩手県 | [三崎山地区地すべり防止工事](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kuji/20260714_doboku.html>) | 林野庁東北森林管理局三陸北部森林管理署久慈支署 | 2026-07-16 | 2026-09-02 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [入札公告(PDF : 152KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kuji/./attach/pdf/20260714_doboku-1.pdf>) / [入札説明書(PDF : 218KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kuji/./attach/pdf/20260714_doboku-2.pdf>) / [現場説明書(PDF : 399KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kuji/./attach/pdf/20260714_doboku-11.pdf>) / [特記仕様書(PDF : 2,993KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kuji/./attach/pdf/20260714_doboku-4.pdf>) / [位置図・図面(PDF : 2,875KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kuji/./attach/pdf/20260714_doboku-5.pdf>) |

@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-09T19:00+09:00（収集時点）
+最終更新：2026-10-10T07:11+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県
 
-**156件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**162件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,12 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 宮崎県 | [宮崎大学（清武２）環境整備（外灯）工事](<http://www.miyazaki-u.ac.jp/administration/20260818_koukoku01.pdf>) | 国立大学法人宮崎大学 | 2026-08-18 | 2026-09-15 | (4) 工事写真等1 工事写真等は,文部科学省が定めた「工事記録写真撮影要領」により撮影し,次表のものを提出すること | [入札説明書（PDF:10,665KB）](<http://www.miyazaki-u.ac.jp/administration/20260818_koukoku02.pdf>) / [現場説明書（PDF:540KB）](<http://www.miyazaki-u.ac.jp/administration/20260818_koukoku03.pdf>) / [別紙様式1～9（Excel:65KB）](<http://www.miyazaki-u.ac.jp/administration/20260818_youshiki01.xls>) |
+| 福岡県 | [【令和8年9月4日申込締切】EV普及啓発発信事業の業務委託に係る公募型プロポーザルについて](<https://www.city.kitakyushu.lg.jp/files/001222496.pdf>) | 福岡県北九州市 | 2026-08-18 | 2026-08-31 | ※「エコライフステージ」と同時開催• 会場: 北九州市本庁舎敷地内5.動画作成市民が、経済性と防災性の両面から導入意欲を高められるようなショート動画を制作する | [実施説明書（PDF形式：504KB）](<https://www.city.kitakyushu.lg.jp/files/001222497.pdf>) |
+| 熊本県 | [【入札関係】熊本城数寄屋丸二階御広間解体保存工事に伴う部材破損状況調査ほか業務委託について](<https://www.city.kumamoto.jp/kiji00371454/3_71454_up_57nvztpp.pdf>) | 熊本県熊本市 | 2026-08-12 | 原文を確認 | 部材寸法、材種、破損状況、各部の仕様等を調査(記録採取、野帳作成、記録写真撮影)する | [02-1\_仕様書（PDF：759.6キロバイト）](<https://www.city.kumamoto.jp/kiji00371454/3_71454_up_knulpzl2.pdf>) / [02-2\_図面（PDF：35.9メガバイト）](<https://www.city.kumamoto.jp/kiji00371454/3_71454_up_1huetnz7.pdf>) |
+| 鹿児島県 | [文京町団地屋根外壁等改修工事（D棟）](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/12r80810koukoku.pdf>) | 鹿児島県いちき串木野市 | 2026-08-10 | 2026-08-24 | 備 考 規 格 規 格各工法の施工状況(施工中の写真は、同じ番号で工事写真を撮影のこと | [図面（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/02r80810juukan01zumen.pdf>) / [閲覧設計書等（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/05r80810juukan01eturan.pdf>) / [工事内訳書（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/06r80810juukan01utiwakesyo.pdf>) |
+| 鹿児島県 | [相撲競技場解体工事](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/11r80810koukoku.pdf>) | 鹿児島県いちき串木野市 | 2026-08-10 | 2026-08-24 | 完成写真の撮影業者・監督職員の承諾する建築写真専門業者 ※監督職員の承諾する撮影者・電気引込み線の切断・給水引込み管のプラグ止め・汚水管のプラグ止め・浄化槽の撤去・都市ガス引込み管のプラグ止め工 事 箇 所・電気工事士(第2種以上)による・配管技能士による・配管技能士による・ガス設備士による職 種 資 格・浄化槽設備士… | [図面（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/2r80810yotakushisu1zumen.pdf>) / [閲覧設計書等（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/5r80810yotakushisu1eturan.pdf>) / [工事内訳書（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/6r80810yotakushisu1utiwake.pdf>) |
+| 鹿児島県 | [ハイウェイ灯設置工事（内門古瀬戸線）](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/8r80810koukoku.pdf>) | 鹿児島県いちき串木野市 | 2026-08-10 | 2026-08-24 | 条 工事写真1 請負者は工事の進行とともに請負者の負担において次の記録写真を撮影し、工事完成後監督職員へ提出しなければならない | [位置図（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/1r80810douikuri03itizu.pdf>) / [図面（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/2r80810douikuri03zumen.pdf>) / [数量計算書（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/3r80810douikuri03suryo.pdf>) / [特記仕様書（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/4r80810douikuri03tokki.pdf>) / [閲覧設計書等（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/5r80810douikuri03eturan.pdf>) |
 | 鹿児島県 | [ハイウェイ灯設置工事（向井原線）](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/7r80810koukoku.pdf>) | 鹿児島県いちき串木野市 | 2026-08-10 | 2026-08-24 | 条 工事写真1 請負者は工事の進行とともに請負者の負担において次の記録写真を撮影し、工事完成後監督職員へ提出しなければならない | [位置図（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/1r80810shinkaikurisyakai01itizu.pdf>) / [図面（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/2r80810shinkaikurisyakai01zumen.pdf>) / [数量計算書（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/3r80810shinkaikurisyakai01suryo.pdf>) / [特記仕様書（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/4r80810shinkaikurisyakai01tokki.pdf>) / [閲覧設計書等（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/5r80810shinkaikurisyakai01eturan.pdf>) |
 | 鹿児島県 | [都心平江線道路照明灯設置工事](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/6r80810koukoku.pdf>) | 鹿児島県いちき串木野市 | 2026-08-10 | 2026-08-24 | 条 工事写真1 請負者は工事の進行とともに請負者の負担において次の記録写真を撮影し、工事完成後監督職員へ提出しなければならない | [位置図（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/1r80810douikuri2itizu.pdf>) / [図面（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/2r80810douikuri2zumen.pdf>) / [数量計算書（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/3r80810douikuri2suryo.pdf>) / [特記仕様書（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/4r80810douikuri2tokki.pdf>) / [閲覧設計書等（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/5r80810douikuri2eturan.pdf>) |
 | 鹿児島県 | [健康増進センター母子相談室他改修工事](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/4r80810koukoku.pdf>) | 鹿児島県いちき串木野市 | 2026-08-10 | 2026-08-24 | 部 ・( )部) 12 完成図等 ※作成しない\[1.9.2\]13 完成写真等 撮影箇所及び方法については、「工事写真撮影ガイドブック(平成30年版)」による下記のものを監督職員に提出する | [位置図（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/01r80810kenzou01itizu.pdf>) / [図面（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/02r80810rkenzou01zumen.pdf>) / [閲覧設計書等（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/05r80810kenzou01eturan.pdf>) / [工事内訳書（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/06r80810kenzou01utiwakesyo.pdf>) |

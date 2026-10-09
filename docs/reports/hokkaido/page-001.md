@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-09T19:00+09:00（収集時点）
+最終更新：2026-10-10T07:11+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：北海道
 
-**43件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**45件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 1
 
@@ -18,6 +18,8 @@
 |---|---|---|---|---|---|---|
 | 北海道 | [サロマ湖漁港外航空写真撮影 (PDF:545KB)](<https://www.hkd.mlit.go.jp/ab/keiyaku/k232su0000000a80-att/s27mdu0000001gqh.pdf>) | 国土交通省北海道開発局網走開発建設部 | 2026-08-10 | 2026-09-02 | サロマ湖漁港外航空写真撮影 (PDF:545KB) | — |
 | 北海道 | [一般競争入札の実施（令和８年度(2026年度)農業DX人材育成プログラム動画制作・配信委託業務）](<https://www.pref.hokkaido.lg.jp/sm/kmc/265624.html>) | 北海道 | 2026-07-24 | 原文を確認 | 一般競争入札の実施(令和8年度(2026年度)農業DX人材育成プログラム動画制作・配信委託業務) | [北海道告示第11230号（入札の公告） (PDF 129KB)](<https://www.pref.hokkaido.lg.jp/fs/1/3/1/8/6/2/9/0/_/%E5%8C%97%E6%B5%B7%E9%81%93%E5%91%8A%E7%A4%BA%E7%AC%AC11230%E5%8F%B7.pdf>) / [関係書類 (ZIP 1.32MB)](<https://www.pref.hokkaido.lg.jp/fs/1/3/1/8/6/2/9/1/_/%E9%96%A2%E4%BF%82%E8%B3%87%E6%96%99%E4%B8%80%E5%BC%8F.zip>) |
+| 北海道 | [当別町新庁舎建設事業業務委託公募型プロポーザルの実施について](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31699.pdf>) | 北海道当別町 | 2026-10-09 | 2027-02-19 | 築、運営、災害対応及び後継事業のため無償で利用、複製、改変できる写真・映像・報告書作成者に帰属 | [公募型プロポーザル基本方針(20261009追加) \[PDFファイル／1月01日MB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31697.pdf>) / [公募型プロポーザル提案説明書(20260924修正済) \[PDFファイル／408KB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31588.pdf>) / [基本協定書（案）(20261009修正済) \[PDFファイル／207KB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31698.pdf>) / [譲渡特約付き賃貸借契約書（案） \[PDFファイル／296KB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31590.pdf>) / [事業契約書（案）\_その他 \[PDFファイル／1.32MB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31495.pdf>) |
+| 北海道 | [令和8年度 宗谷森林管理署ほか構内除排雪機械賃貸借単価契約（第1号～第6号）（電子調達対象案件）](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/souya/attach/pdf/261009_21-1.pdf>) | 林野庁北海道森林管理局 | 2026-10-09 | 2026-10-28 | 認票・集計表」に記載し、作業開始前と作業終了後のアワーメーター及び現地写真を撮影し、監督職員に提出するものとする | [仕様書等(PDF : 536KB)](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/souya/attach/pdf/261009_21-2.pdf>) |
 | 北海道 | [令和8年度上川中部森林管理署外除排雪単価契約（電子調達対象案件）](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/kamikawatyubu/attach/pdf/261007-1.pdf>) | 林野庁北海道森林管理局 | 2026-10-07 | 2026-10-30 | また、積雪状況(測尺等による)、作業前及び作業後の現地状況写真を撮影し、併せて提出すること | [仕様書等(PDF : 919KB)](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/kamikawatyubu/attach/pdf/261007-2.pdf>) |
 | 北海道 | [奥尻地区公務員宿舎修繕工事（オープンカウンター方式による見積合わせ）](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/hiyama/attach/pdf/261006-2.pdf>) | 林野庁北海道森林管理局 | 2026-10-06 | 原文を確認 | 注者は当該工事の施工にあたって、各種工事区分・戸別毎に施工前と施工後の写真撮影により管理し、発注者に提出すること | [仕様書等(PDF : 2,846KB)](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/hiyama/attach/pdf/261006-1.pdf>) |
 | 北海道 | [令和8年度白老地区その3建設機械賃貸借単価契約（電子調達対象案件）](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/iburitoubu/attach/pdf/261005-1.pdf>) | 林野庁北海道森林管理局 | 2026-10-05 | 2026-10-23 | また、それぞれのアワーメーターを写真撮影し賃借人に提出すること | [仕様書等1(PDF : 562KB)](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/iburitoubu/attach/pdf/261005-2.pdf>) |

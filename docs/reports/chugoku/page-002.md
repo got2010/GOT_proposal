@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-09T19:00+09:00（収集時点）
+最終更新：2026-10-10T07:11+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**194件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**198件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,10 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 広島県 | [広島市立学校窓ガラス等清掃業務（佐伯区（石内北小学校を除く。））](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012500101.pdf>) | 広島県広島市 | 2026-08-18 | 2026-09-29 | 受注者は、業務実施に際し、建物(1棟)ごとに1箇所以上の清掃作業中の写真を撮影するものとする | [05 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012500105.pdf>) / [06 仕様書別紙](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012500106.pdf>) |
+| 広島県 | [広島市立学校窓ガラス等清掃業務（東区・安芸区）](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012700101.pdf>) | 広島県広島市 | 2026-08-18 | 2026-09-29 | 受注者は、業務実施に際し、建物(1棟)ごとに1箇所以上の清掃作業中の写真を撮影するものとする | [05 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012700105.pdf>) / [06 仕様書別紙](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012700106.pdf>) |
+| 広島県 | [広島市立学校窓ガラス等清掃業務（中区（広瀬小学校を除く。）・南区）](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012400101.pdf>) | 広島県広島市 | 2026-08-18 | 2026-09-29 | 受注者は、業務実施に際し、建物(1棟)ごとに1箇所以上の清掃作業中の写真を撮影するものとする | [05 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012400105.pdf>) / [06 仕様書別紙](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012400106.pdf>) |
+| 広島県 | [広島市立学校窓ガラス等清掃業務（安佐南区・石内北小学校）](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012600101.pdf>) | 広島県広島市 | 2026-08-18 | 2026-09-29 | 受注者は、業務実施に際し、建物(1棟)ごとに1箇所以上の清掃作業中の写真を撮影するものとする | [05 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012600105.pdf>) / [06 仕様書別紙１、２](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012600106.pdf>) |
 | 広島県 | [広島市立学校窓ガラス等清掃業務（幼稚園・特別支援学校）](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650011700101.pdf>) | 広島県広島市 | 2026-08-18 | 2026-09-29 | 受注者は、業務実施に際し、建物(1棟)ごとに1箇所以上の清掃作業中の写真を撮影するものとする | [06仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650011700106.pdf>) / [07仕様書別紙](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650011700107.pdf>) |
 | 岡山県 | [奈義町公共施設等ＬＥＤ化業務公募型プロポーザルの実施について](<https://www.town.nagi.okayama.jp/gyousei/nourin_jigyousha/nyusatsu_keiyaku/nyusatsujouhou/documents/zisshiyouryou.pdf>) | 岡山県奈義町 | 2026-08-14 | 2026-11-02 | 図面の写真撮影、デジタル化は可とする | [・仕様書（PDF：396KB）](<https://www.town.nagi.okayama.jp/gyousei/nourin_jigyousha/nyusatsu_keiyaku/nyusatsujouhou/documents/siyousyo.pdf>) |
 | 広島県 | [総8-108-19高屋圧送幹線改築工事（東08-1）(PDFファイル:294.9KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-19.pdf>) | 広島県東広島市 | 2026-08-13 | 2026-08-13 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [8-108-19(PDFファイル:3.5MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-19tosho.pdf>) |
