@@ -18,12 +18,13 @@ def build_report(template, data):
     page = re.sub(r'<link\b[^>]*href="https://fonts\.[^"]*"[^>]*>\s*', '', page)
     page = page.replace('<title>映像プロポーザル情報</title>', '<title>映像プロポーザル情報 — 保存版</title>')
     page = page.replace('<div class="stats"', '<p>このファイルは保存時点の一覧です。最新の一覧はGitHubからダウンロードしてください。</p>\n    <div class="stats"', 1)
+    # 埋め込む収集データは検査対象にせず、テンプレートの読込処理を確認する。
+    if 'fetch(' in page:
+        raise ValueError("一覧に外部データの読込処理が残っています。")
     marker = '<script>'
     if page.count(marker) != 1:
         raise ValueError("一覧テンプレートのscriptタグを確認してください。")
     page = page.replace(marker, '<script id="saved-data" type="application/json">' + embedded + '</script>\n' + marker, 1)
-    if 'fetch(' in page:
-        raise ValueError("一覧に外部データの読込処理が残っています。")
     return page
 
 
