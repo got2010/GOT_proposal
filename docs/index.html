@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>映像プロポーザル情報</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #f2f4f5;
+  --panel: #ffffff;
+  --ink: #1c2630;
+  --muted: #64707c;
+  --line: #d8dee2;
+  --accent: #c8312b;
+  --accent-ink: #ffffff;
+  --teal: #176a73;
+  --teal-bg: #e1f0f1;
+  --focus: #176a73;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #171c21;
+    --panel: #20272e;
+    --ink: #e7ecef;
+    --muted: #9aa6b0;
+    --line: #36404a;
+    --accent: #e5564f;
+    --accent-ink: #1b0907;
+    --teal: #6cc3cc;
+    --teal-bg: #1f3a3e;
+    --focus: #6cc3cc;
+  }
+}
+* { box-sizing: border-box; }
+html { background: var(--bg); }
+body {
+  margin: 0;
+  color: var(--ink);
+  background: var(--bg);
+  font-family: "Zen Kaku Gothic New", "Hiragino Sans", "Yu Gothic", "Meiryo", sans-serif;
+  line-height: 1.7;
+}
+a { color: inherit; }
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+.wrap { max-width: 920px; margin: 0 auto; padding: 32px 20px 64px; }
+
+header h1 { margin: 0; font-size: 28px; font-weight: 700; letter-spacing: 0.02em; }
+header p { margin: 6px 0 0; color: var(--muted); font-size: 14px; max-width: 60ch; }
+.stats { margin-top: 14px; display: flex; flex-wrap: wrap; gap: 4px 20px; font-size: 13px; color: var(--muted); }
+.stats b { color: var(--ink); font-weight: 700; font-variant-numeric: tabular-nums; }
+
+.controls { margin-top: 24px; padding: 16px 0; border-top: 2px solid var(--ink); border-bottom: 1px solid var(--line); display: grid; gap: 14px; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  font: inherit; font-size: 14px; padding: 4px 14px; cursor: pointer;
+  background: transparent; color: var(--ink); border: 1px solid var(--line); border-radius: 999px;
+}
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.row { display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: center; }
+.row label { font-size: 14px; display: inline-flex; gap: 8px; align-items: center; cursor: pointer; }
+.row input[type="search"], .row select {
+  font: inherit; font-size: 14px; padding: 6px 10px; color: var(--ink);
+  background: var(--panel); border: 1px solid var(--line); border-radius: 4px;
+}
+.row input[type="search"] { flex: 1 1 220px; min-width: 0; }
+
+.list { list-style: none; margin: 0; padding: 0; }
+.item {
+  display: grid; grid-template-columns: 84px 1fr; gap: 4px 18px;
+  padding: 18px 0 18px 14px; border-bottom: 1px solid var(--line);
+  border-left: 4px solid transparent;
+}
+.item.urgent { border-left-color: var(--accent); }
+.count { text-align: center; line-height: 1.1; padding-top: 2px; }
+.count .small { display: block; font-size: 12px; color: var(--muted); }
+.count .num { font-size: 34px; font-weight: 700; font-variant-numeric: tabular-nums; }
+.count .unit { font-size: 14px; margin-left: 2px; }
+.count.muted .num { font-size: 22px; color: var(--muted); font-weight: 500; }
+.urgent .count .num { color: var(--accent); }
+.title { margin: 0; font-size: 17px; font-weight: 700; line-height: 1.5; }
+.title a { text-decoration: none; }
+.title a:hover { text-decoration: underline; }
+.badges { display: inline-flex; gap: 6px; margin-right: 8px; vertical-align: 1px; }
+.badge { font-size: 12px; font-weight: 700; padding: 1px 8px; border-radius: 3px; white-space: nowrap; }
+.badge.new { background: var(--accent); color: var(--accent-ink); }
+.badge.kind { background: var(--teal-bg); color: var(--teal); }
+.meta { display: flex; flex-wrap: wrap; gap: 0 16px; margin-top: 4px; font-size: 13px; color: var(--muted); }
+.snippet { margin: 6px 0 0; font-size: 13px; color: var(--muted); max-width: 70ch; }
+.files { margin-top: 6px; display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 13px; }
+.files a { color: var(--teal); }
+
+.notice { padding: 32px 0; color: var(--muted); font-size: 15px; }
+footer { margin-top: 32px; font-size: 12px; color: var(--muted); max-width: 70ch; }
+
+@media (max-width: 560px) {
+  .item { grid-template-columns: 1fr; padding-left: 12px; }
+  .count { text-align: left; display: flex; align-items: baseline; gap: 8px; }
+  .count .small { display: inline; }
+  .count .num { font-size: 26px; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>映像プロポーザル情報</h1>
+    <p>東海・近畿・中国・四国・九州・沖縄の公告から、映像・動画・撮影に関する案件を毎朝集めています。</p>
+    <div class="stats" id="stats" aria-live="polite"></div>
+  </header>
+
+  <section class="controls" aria-label="絞り込み">
+    <div class="chips" id="regions" role="group" aria-label="地域"></div>
+    <div class="row">
+      <input type="search" id="q" placeholder="件名・発注元で検索" aria-label="件名・発注元で検索">
+      <select id="sort" aria-label="並び順">
+        <option value="cft">公告日が新しい順</option>
+        <option value="deadline">締切が近い順</option>
+        <option value="new">新着順</option>
+      </select>
+    </div>
+    <div class="row">
+      <label><input type="checkbox" id="onlyProposal" checked>プロポーザル・企画競争のみ</label>
+      <label><input type="checkbox" id="hideExpired" checked>締切が過ぎた案件を隠す</label>
+    </div>
+  </section>
+
+  <main>
+    <ul class="list" id="list"></ul>
+    <div class="notice" id="notice" hidden></div>
+  </main>
+
+  <footer>
+    <p>出典:官公需情報ポータルサイト(中小企業庁)の検索API。締切日は公告文から自動で推定した目安で、誤りや抜けがあります。応募の前に必ず公告の原文で確認してください。</p>
+  </footer>
+</div>
+
+<script>
+const REGIONS = {
+  "東海": ["21", "23", "24"],
+  "近畿": ["25", "26", "27", "28", "29", "30"],
+  "中国": ["31", "32", "33", "34", "35"],
+  "四国": ["36", "37", "38", "39"],
+  "九州・沖縄": ["40", "41", "42", "43", "44", "45", "46", "47"]
+};
+
+const state = { region: "すべて", onlyProposal: true, hideExpired: true, q: "", sort: "cft" };
+let items = [];
+let updatedAt = null;
+let minFirstSeen = "";
+
+const $ = (id) => document.getElementById(id);
+const todayJST = new Intl.DateTimeFormat("sv-SE", { timeZone: "Asia/Tokyo" }).format(new Date());
+
+function dayDiff(from, to) {
+  const t = (s) => Date.UTC(+s.slice(0, 4), +s.slice(5, 7) - 1, +s.slice(8, 10));
+  return Math.round((t(to) - t(from)) / 86400000);
+}
+function safeUrl(u) {
+  try {
+    const x = new URL(u);
+    return x.protocol === "https:" || x.protocol === "http:" ? x.href : null;
+  } catch (e) { return null; }
+}
+function el(tag, cls, text) {
+  const n = document.createElement(tag);
+  if (cls) n.className = cls;
+  if (text !== undefined) n.textContent = text;
+  return n;
+}
+function isNew(it) {
+  return it.first_seen > minFirstSeen && dayDiff(it.first_seen, todayJST) <= 2;
+}
+function daysLeft(it) {
+  return it.deadline ? dayDiff(todayJST, it.deadline) : null;
+}
+
+function matches(it) {
+  if (state.onlyProposal && !it.is_proposal) return false;
+  if (state.region !== "すべて" && !REGIONS[state.region].includes(it.lg_code)) return false;
+  if (state.hideExpired) {
+    const d = daysLeft(it);
+    if (d !== null && d < 0) return false;
+  }
+  if (state.q) {
+    const hay = (it.title + " " + it.org + " " + it.pref + " " + it.city).toLowerCase();
+    if (!state.q.toLowerCase().split(/\s+/).every((w) => hay.includes(w))) return false;
+  }
+  return true;
+}
+
+function sorted(list) {
+  const a = list.slice();
+  if (state.sort === "deadline") {
+    const key = (it) => { const d = daysLeft(it); return d === null || d < 0 ? 1e9 : d; };
+    a.sort((x, y) => key(x) - key(y) || y.cft.localeCompare(x.cft));
+  } else if (state.sort === "new") {
+    a.sort((x, y) => y.first_seen.localeCompare(x.first_seen) || y.cft.localeCompare(x.cft));
+  } else {
+    a.sort((x, y) => y.cft.localeCompare(x.cft));
+  }
+  return a;
+}
+
+function countCell(it) {
+  const d = daysLeft(it);
+  const box = el("div", "count");
+  if (d === null) {
+    box.classList.add("muted");
+    box.append(el("span", "num", "—"), el("span", "small", "締切不明"));
+  } else if (d < 0) {
+    box.classList.add("muted");
+    box.append(el("span", "num", "終了"));
+  } else if (d === 0) {
+    box.append(el("span", "num", "本日"), el("span", "small", "締切"));
+  } else {
+    const n = el("span", "");
+    n.append(el("span", "num", String(d)), el("span", "unit", "日"));
+    box.append(el("span", "small", "締切まで"), n);
+  }
+  return box;
+}
+
+function render() {
+  const rows = sorted(items.filter(matches));
+  const list = $("list");
+  list.replaceChildren();
+  for (const it of rows) {
+    const d = daysLeft(it);
+    const li = el("li", "item" + (d !== null && d >= 0 && d <= 7 ? " urgent" : ""));
+    li.append(countCell(it));
+
+    const body = el("div", "");
+    const h = el("h2", "title");
+    const badges = el("span", "badges");
+    if (isNew(it)) badges.append(el("span", "badge new", "新着"));
+    if (it.is_proposal) badges.append(el("span", "badge kind", "プロポーザル"));
+    h.append(badges);
+    const href = safeUrl(it.url);
+    if (href) {
+      const a = el("a", "", it.title || "(件名なし)");
+      a.href = href; a.target = "_blank"; a.rel = "noopener noreferrer";
+      h.append(a);
+    } else {
+      h.append(it.title || "(件名なし)");
+    }
+    body.append(h);
+
+    const meta = el("div", "meta");
+    meta.append(el("span", "", it.org || "発注元不明"));
+    const place = (it.pref || "") + (it.city || "");
+    if (place) meta.append(el("span", "", place));
+    if (it.cft) meta.append(el("span", "", "公告 " + it.cft));
+    if (it.deadline) meta.append(el("span", "", "締切の目安 " + it.deadline));
+    body.append(meta);
+
+    if (it.snippet) body.append(el("p", "snippet", it.snippet));
+
+    const files = (it.attachments || []).filter((f) => safeUrl(f.uri));
+    if (files.length) {
+      const box = el("div", "files");
+      for (const f of files) {
+        const a = el("a", "", f.name);
+        a.href = safeUrl(f.uri); a.target = "_blank"; a.rel = "noopener noreferrer";
+        box.append(a);
+      }
+      body.append(box);
+    }
+    li.append(body);
+    list.append(li);
+  }
+
+  const notice = $("notice");
+  if (!items.length) {
+    notice.hidden = false;
+    notice.textContent = "まだデータがありません。GitHubのActionsタブで daily-collect を一度手動で実行してください。";
+  } else if (!rows.length) {
+    notice.hidden = false;
+    notice.textContent = "条件に合う案件がありません。「プロポーザル・企画競争のみ」を外すと、入札公告も表示されます。";
+  } else {
+    notice.hidden = true;
+  }
+
+  const stats = $("stats");
+  stats.replaceChildren();
+  const s1 = el("span", "", "表示 ");
+  s1.append(el("b", "", String(rows.length)), " 件");
+  stats.append(s1);
+  if (updatedAt) stats.append(el("span", "", "最終更新 " + updatedAt.replace("T", " ").slice(0, 16)));
+}
+
+function setupControls() {
+  const box = $("regions");
+  for (const name of ["すべて", ...Object.keys(REGIONS)]) {
+    const b = el("button", "chip", name);
+    b.type = "button";
+    b.setAttribute("aria-pressed", String(name === state.region));
+    b.addEventListener("click", () => {
+      state.region = name;
+      for (const c of box.children) c.setAttribute("aria-pressed", String(c.textContent === name));
+      render();
+    });
+    box.append(b);
+  }
+  $("q").addEventListener("input", (e) => { state.q = e.target.value.trim(); render(); });
+  $("sort").addEventListener("change", (e) => { state.sort = e.target.value; render(); });
+  $("onlyProposal").addEventListener("change", (e) => { state.onlyProposal = e.target.checked; render(); });
+  $("hideExpired").addEventListener("change", (e) => { state.hideExpired = e.target.checked; render(); });
+}
+
+async function load() {
+  setupControls();
+  try {
+    const res = await fetch("data/tenders.json", { cache: "no-cache" });
+    if (!res.ok) throw new Error(res.status);
+    const data = await res.json();
+    items = data.items || [];
+    updatedAt = data.updated_at || null;
+    minFirstSeen = items.reduce((m, it) => (!m || it.first_seen < m ? it.first_seen : m), "");
+  } catch (e) {
+    const notice = $("notice");
+    notice.hidden = false;
+    notice.textContent = "データを読み込めませんでした。ページを再読み込みしてください。";
+    return;
+  }
+  render();
+}
+load();
+</script>
+</body>
+</html>
