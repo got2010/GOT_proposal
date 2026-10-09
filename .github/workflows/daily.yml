@@ -7,48 +7,71 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: pages
   cancel-in-progress: false
 
 jobs:
-  collect-private-report:
+  collect-and-publish:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: 非公開設定を確認
-        if: ${{ github.event.repository.private != true }}
+      - name: 公開設定を確認
+        env:
+          IS_PRIVATE: ${{ github.event.repository.private }}
         run: |
-          echo "このワークフローはPrivateのリポジトリ専用です。SettingsでPrivateに変更してください。"
-          exit 1
+          if [ "$IS_PRIVATE" != "false" ]; then
+            echo "先にSettingsでリポジトリをPublicに変更してください。"
+            exit 1
+          fi
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+      - name: GitHub Pagesの設定を確認
+        uses: actions/configure-pages@v5
 
       - name: 公告を収集
-        run: python collect.py
+        run: python3 collect.py
 
-      - name: ダウンロード用の一覧を作成
-        run: python make_private_report.py
+      - name: データを軽量化して一覧を更新
+        run: python3 make_private_report.py
 
-      - name: 非公開リポジトリに保存
+      - name: 収集結果を保存
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/data/tenders.json docs/private-report.html docs/reports
           if ! git diff --cached --quiet; then
-            git commit -m "update private report $(date -u +%F)"
+            git commit -m "update proposal listings $(date -u +%F)"
             git push
           fi
 
-      - name: 一覧へのリンクを表示
-        env:
-          REPORT_URL: ${{ github.server_url }}/${{ github.repository }}/blob/${{ github.ref_name }}/docs/reports/README.md
+      - name: 公開ページを準備
         run: |
-          echo '## 一覧の保存が完了しました' >> "$GITHUB_STEP_SUMMARY"
-          echo "[一覧ファイルを開く]($REPORT_URL)" >> "$GITHUB_STEP_SUMMARY"
-          echo 'GitHub上で地域を選んで閲覧できます。ダウンロードは不要です。' >> "$GITHUB_STEP_SUMMARY"
+          mkdir -p _site/data
+          cp docs/index.html _site/index.html
+          cp docs/data/tenders.json _site/data/tenders.json
+          touch _site/.nojekyll
+
+      - name: 公開ファイルを転送
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - name: GitHub Pagesへ公開
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: 公開URLを表示
+        env:
+          PAGE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: |
+          echo '## 公開ページの更新が完了しました' >> "$GITHUB_STEP_SUMMARY"
+          echo "[映像制作の案件一覧を開く]($PAGE_URL)" >> "$GITHUB_STEP_SUMMARY"
+          echo '同じURLで最新の一覧を閲覧できます。ダウンロードは不要です。' >> "$GITHUB_STEP_SUMMARY"
