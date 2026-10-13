@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-13T07:09+09:00（収集時点）
+最終更新：2026-10-14T07:19+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**187件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**189件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 京都府 | [京都市健康管理システム再構築等業務委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/436933.htm>) | 京都府京都市 | 2026-09-01 | 2026-10-09 | たり、研修計画の策定、研修実施に用いる操作マニュアル、研修用テキスト、研修動画等の作成及び利用者からの問合せ対応を行うものとする | [入札公告](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./436933_01_08211648.pdf>) / [入札説明書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./436933_02_08211648.pdf>) / [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./436933_03_08211648.pdf>) / [契約書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./436933_08_08211648.pdf>) |
+| 奈良県 | [庁内マニュアル作成・共有ツール利用及び保守契約に係る一般競争入札](<https://www.city.nara.lg.jp/soshiki/6/273532.html>) | 奈良県奈良市 | 2026-08-31 | 2026-09-30 | (6) マニュアルには任意の画像・動画を取り込み及び編集ができ、作成時にツール内でファイルのアップロード機能を有すること | [庁内マニュアル作成・共有ツール利用及び保守契約に係る一般競争入札 公告文および入札説明書 \[PDFファイル／889KB\]](<https://www.city.nara.lg.jp/uploaded/life/273532_612431_misc.pdf>) / [庁内マニュアル作成・共有ツール利用及び保守契約に係る一般競争入札 書類一式 \[PDFファイル／371KB\]](<https://www.city.nara.lg.jp/uploaded/life/273532_612432_misc.pdf>) |
 | 大阪府 | [郵送期限：9月9日 用地補償総合技術支援業務委託(寝屋川大東線2期)](<https://www.city.kadoma.osaka.jp/material/files/group/40/youryou.pdf>) | 大阪府門真市 | 2026-08-28 | 原文を確認 | その他補償額の算定に必要と認められる事項八 当該設備の概要が把握できる写真の撮影(附帯工作物)第14条 附帯工作物の調査は、附帯工作物調査算定要領(平成24 年3月30 日付け国土用第49号土地・建設産業局地価調査課長通知(以下「附帯工作物要領」という | [仕様書 (PDFファイル: 426.3KB)](<https://www.city.kadoma.osaka.jp/material/files/group/40/shiyousyo.pdf>) / [位置図 (PDFファイル: 387.4KB)](<https://www.city.kadoma.osaka.jp/material/files/group/40/ichizu.pdf>) / [設計書 (PDFファイル: 325.4KB)](<https://www.city.kadoma.osaka.jp/material/files/group/40/sekkeisyo.pdf>) / [様式 (圧縮ファイル: 130.0KB)](<https://www.city.kadoma.osaka.jp/material/files/group/40/youshiki.zip>) |
 | 京都府 | [不用物品売却（普通特種自動車（塵芥車）計１台）について](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/437706.htm>) | 京都府京都市 | 2026-08-28 | 原文を確認 | ついて文字等の抹消が完了した車両の車台番号とその車両全体一周を中断なく動画撮影し、1台分を1ファイルとして保存すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./437706_12_08200920.pdf>) |
 | 奈良県 | [令和8年 奈良市基盤地図データ更新等業務委託に係る一般競争入札について](<https://www.city.nara.lg.jp/soshiki/6/272768.html>) | 奈良県奈良市 | 2026-08-27 | 2026-09-09 | 公告日を基準に過去2年間に、政令市又は中核市の発注において、撮影業務、地形図更新業務の業務実績を各2件以上有する者であること | [公告文 \[Wordファイル／21KB\]](<https://www.city.nara.lg.jp/uploaded/life/272768_610568_misc.docx>) / [入札説明書 \[Wordファイル／36KB\]](<https://www.city.nara.lg.jp/uploaded/life/272768_610577_misc.docx>) / [仕様書 \[Wordファイル／32KB\]](<https://www.city.nara.lg.jp/uploaded/life/272768_610569_misc.docx>) / [別図\_図郭割図 \[PDFファイル／1.06MB\]](<https://www.city.nara.lg.jp/uploaded/life/272768_610570_misc.pdf>) |

@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-13T07:09+09:00（収集時点）
+最終更新：2026-10-14T07:19+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：徳島県 香川県 愛媛県 高知県
 
-**120件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**122件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 2
 
@@ -21,6 +21,8 @@
 | 香川県 | [令和8年度文化観光推進事業に係る収蔵刀剣類のデジタル撮影業務の公募について](<https://www.pref.kagawa.lg.jp/documents/63303/01_koukoku_touken.pdf>) | 香川県 | 2026-09-04 | 2026-09-15 | 令和8年度文化観光推進事業に係る収蔵刀剣類のデジタル撮影業務の公募について | [仕様書（PDF：325KB）](<https://www.pref.kagawa.lg.jp/documents/63303/02_shiyousyo_touken.pdf>) |
 | 愛媛県 | [「プレコンセプションケア」普及啓発動画制作・広告配信業務委託（公募型プロポーザル方式）（すくすく支援課）](<https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/purekonpuropo.files/1_boshuuyouryou.pdf>) | 愛媛県松山市 | 2026-08-03 | 2026-09-07 | 「プレコンセプションケア」普及啓発動画制作・広告配信業務委託(公募型プロポーザル方式)(すくすく支援課) | [2\_（別紙1）仕様書（PDF：236KB）](<https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/purekonpuropo.files/2_siyousho.pdf>) |
 | 高知県 | [消費者被害未然防止啓発動画放送委託業務に係る一般競争入札について](<https://www.pref.kochi.lg.jp/doc/2026072900091/file_contents/file_2026730414200_1.pdf>) | 高知県 | 2026-07-31 | 2026-09-01 | 消費者被害未然防止啓発動画放送委託業務に係る一般競争入札について | [06\_仕様書\[PDF：45KB\]](<https://www.pref.kochi.lg.jp/doc/2026072900091/file_contents/file_2026730414220_1.pdf>) |
+| 徳島県 | [阿南市スポーツ総合センター排煙窓改修工事](<https://www.city.anan.tokushima.jp/docs/2026100900116/file_contents/261013-4.pdf>) | 徳島県阿南市 | 2026-10-13 | 原文を確認 | 又はスポーツ振興課へ問い合わせ,工事に遺漏のないようにすること◎工事写真の撮影は, 国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」によること.◎工事完成撮影は, 別途指定がある場合を除き,専門家によらないものとする. | [阿南市スポーツ総合センター排煙窓改修工事 1.閲覧補足説明書\[PDF：93.9KB\]](<https://www.city.anan.tokushima.jp/docs/2026100900116/file_contents/261013-4-1.pdf>) / [阿南市スポーツ総合センター排煙窓改修工事 2.図面\[PDF：822KB\]](<https://www.city.anan.tokushima.jp/docs/2026100900116/file_contents/261013-4-2.pdf>) |
+| 香川県 | [01koukoku.pdf](<https://www.pref.kagawa.lg.jp/documents/64034/01koukoku.pdf>) | 香川県 | 2026-10-13 | 2026-11-09 | 50回備考☑ YouTube 広告については、県が独自に実施する「選挙啓発動画コンテスト」に入賞した作品(動画)を用いることとする | [仕様書（統一地方選挙）（PDF：900KB）](<https://www.pref.kagawa.lg.jp/documents/64034/02siyousyo.pdf>) |
 | 高知県 | [令和8年度高知市立学校屋内運動場ＬＥＤ化推進業務委託の実施について](<https://www.city.kochi.kochi.jp/uploaded/life/271546_1171216_misc.docx>) | 高知県高知市 | 2026-10-09 | 2026-10-27 | また、産業廃棄物を搬出する車両について、処分場ごとに1台のみ写真撮影し、随時担当職員に報告すること | [(2)-1仕様書](<https://www.city.kochi.kochi.jp/uploaded/life/271546_1171217_misc.docx>) |
 | 徳島県 | [R8 旧北小松島公民館解体工事（工事番号40）](<https://www.city.komatsushima.lg.jp/fs/6/4/2/4/0/2/_/40_%E5%85%A5%E6%9C%AD%E6%83%85%E5%A0%B1.pdf>) | 徳島県小松島市 | 2026-10-08 | 原文を確認 | に関する資料・ その他監督員が指示する図書(必要部数)4 5 6 工事写真の撮影は、 国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」によること | [設計図書等 (PDF 1.89MB)](<https://www.city.komatsushima.lg.jp/fs/6/4/2/2/7/9/_/40_%E8%A8%AD%E8%A8%88%E5%9B%B3%E6%9B%B8%E7%AD%89.pdf>) |
 | 徳島県 | [R8 旧市営バス整備工場等解体工事（工事番号39）](<https://www.city.komatsushima.lg.jp/fs/6/4/2/4/0/1/_/39_%E5%85%A5%E6%9C%AD%E6%83%85%E5%A0%B1.pdf>) | 徳島県小松島市 | 2026-10-08 | 原文を確認 | に関する資料・ その他監督員が指示する図書(必要部数)4 5 6 工事写真の撮影は、 国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」によること | [設計図書等 (PDF 3.27MB)](<https://www.city.komatsushima.lg.jp/fs/6/4/2/2/7/6/_/39_%E8%A8%AD%E8%A8%88%E5%9B%B3%E6%9B%B8%E7%AD%89.pdf>) |
@@ -114,7 +116,5 @@
 | 高知県 | [令和８年度シカ森林被害対策事業委託に係る一般競争入札](<https://www.pref.kochi.lg.jp/doc/2026071700210/file_contents/file_20267245103210_1.doc>) | 高知県 | 2026-07-24 | 2026-07-29 | 知県内で赤外線サーマルカメラを搭載した「夜間飛行」及び「目視外飛行」のドローン調査でシカを撮影した実績があること | [シカ森林被害対策事業委託 仕様書\[PDF：11.5MB\]](<https://www.pref.kochi.lg.jp/doc/2026071700210/file_contents/file_2026724510225_1.pdf>) / [金抜設計書（シカ森林被害対策事業委託）\[PDF：122KB\]](<https://www.pref.kochi.lg.jp/doc/2026071700210/file_contents/file_20267245112447_1.pdf>) |
 | 高知県 | [(建第08016号)市道舞子線道路改良工事【7月22日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_ken08016-1.pdf>) | 高知県香南市 | 2026-07-22 | 2026-08-10 | 及び所在地が計画と一致す運搬車のナンバーが写るよう運搬車後面のデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 380.5KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_ken08016-.pdf>) / [公表単価一覧表 (PDFファイル: 29.8KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_ken08016.pdf>) / [数量計算書 (PDFファイル: 1.1MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/suryou_ken08016.pdf>) / [位置図 (PDFファイル: 1.6MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_ken08016-1.pdf>) / [図面 (PDFファイル: 1.2MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_ken08016.pdf>) |
 | 高知県 | [(農第08035号)武市溝第3期水路改修工事【7月22日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_nou08035.pdf>) | 高知県香南市 | 2026-07-22 | 2026-08-10 | の処理数量を重さ(「t」)の単位とする場合 等のスケールをあてデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 8.9MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_nou08035-1.pdf>) / [公表単価一覧表 (PDFファイル: 269.4KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_nou08035.pdf>) / [位置図 (PDFファイル: 624.8KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_nou08035.pdf>) / [図面 (PDFファイル: 2.1MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_8nou08035.pdf>) |
-| 高知県 | [(上水第08032号)香我美町山南地区配水管更新工事（2−2工区）【7月22日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_jyousui08032.pdf>) | 高知県香南市 | 2026-07-22 | 2026-08-10 | ト交付番号も記載 荷姿、運搬車のナンバーが写るよう運搬車後面のデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 406.1KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_jyousui08032.pdf>) / [公表単価一覧表 (PDFファイル: 256.9KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_jyousui08032.pdf>) / [位置図 (PDFファイル: 271.7KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_jyousui08032.pdf>) / [図面 (圧縮ファイル: 218.4KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_jyousui08032.zip>) |
-| 愛媛県 | [「まつやま上下水道フェスタ2026」の企画・運営に関する業務委託（公募型プロポーザル方式）（企業総務課）](<https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/suidofesta2026.files/01_boshuyouryou_R8.pdf>) | 愛媛県松山市 | 2026-07-22 | 原文を確認 | 9 発注者が指定するYouTubeに掲載されているPR動画の視聴を促す工夫をすること | [仕様書（PDF：282KB）](<https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/suidofesta2026.files/02_siyousho_R8.pdf>) / [仕様書別紙（PDF：401KB）](<https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/suidofesta2026.files/03_siyoushobessi_R8.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

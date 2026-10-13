@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-13T07:09+09:00（収集時点）
+最終更新：2026-10-14T07:19+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**436件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**439件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 5
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（港北ニュータウン プロムナード仲町台団地他２団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44057_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（神奈川地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19269KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44057_3.pdf>) / [仕様書\[19792KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44057_4.pdf>) |
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（港北ニュータウン コンフォール東山田団地他２団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44058_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（神奈川地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19261KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44058_3.pdf>) / [仕様書\[19377KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44058_4.pdf>) |
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（中山駅前ハイツ団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44059_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（神奈川地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19026KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44059_3.pdf>) / [仕様書\[18933KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44059_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（新山下ベイシティ団地他２団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44061_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（神奈川地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19150KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44061_3.pdf>) / [仕様書\[21486KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44061_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（横浜ヴェールタワー他４団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44062_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（神奈川地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19249KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44062_3.pdf>) / [仕様書\[21119KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44062_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（井土ヶ谷東団地他１団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44063_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（神奈川地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19064KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44063_3.pdf>) / [仕様書\[19675KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44063_4.pdf>) |
@@ -113,8 +116,5 @@
 | 群馬県 | [水沼地区有害鳥獣（ニホンジカ）の誘引捕獲委託事業（R7当初明許）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/20260909-0223-02.html>) | 林野庁関東森林管理局群馬森林管理署 | 2026-09-09 | 2027-02-26 | (2) 捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [入札公告(PDF : 862KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-1.pdf>) / [入札説明書(PDF : 1,245KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-2.pdf>) / [共通仕様書(PDF : 1,005KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-4.pdf>) / [特記仕様書(PDF : 464KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-5.pdf>) / [実施箇所位置図(PDF : 1,513KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-6.pdf>) |
 | 群馬県 | [倉渕・細野地区有害鳥獣（二ホンジカ）の誘引捕獲委託事業（R7当初明許）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/20260909-0223-01.html>) | 林野庁関東森林管理局群馬森林管理署 | 2026-09-09 | 2027-02-26 | (2) 捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [入札公告(PDF : 908KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-01-4.pdf>) / [入札説明書(PDF : 1,313KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-01-5.pdf>) / [共通仕様書(PDF : 1,005KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-01-7.pdf>) / [特記仕様書(PDF : 463KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-01-1.pdf>) / [実施箇所位置図(PDF : 1,139KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-01-2.pdf>) |
 | 茨城県 | [【電子入札】【電子契約】負圧計、排気流量計及び風速計の定期点検](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01333.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-09-09 | 2026-10-26 | 7 写真を撮影し、作業報告書に添付すること | — |
-| 神奈川県 | [逗子市地域活動センターLED導入工事](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_tiikikatudousentaledkouzi.pdf>) | 神奈川県逗子市 | 2026-09-08 | 2026-09-30 | (工事写真)第9条 受注者は、工事中の写真を撮影し、工事着手前、施工中、完成時の工程順に整理編集し、工事完了後写真帳(デジタルカメラ可)を提出すること | [02\_図面等一式 （PDF 4.0 MB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8zumen_tiikikatudousentaledkouzi.pdf>) / [03\_設計書 （Excel 401.0 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8utiwake_tiikikatudousentaledkouzi.xls>) / [01\_仕様書 （PDF 499.2 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8siyo_tiikikatudousentaledkouzi.pdf>) |
-| 茨城県 | [（RE-09646）ITERダイバータ外側垂直ターゲットの輸送(3)【掲載期間：2026-09-08～2026-09-30】](<https://www.qst.go.jp/uploaded/attachment/53102.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-09-08 | 原文を確認 | (5)QSTが立会いに当たり現場の写真撮影の必要性を認めた場合には、受注者の許可の元に、QSTが撮影できるものとする | [仕様書 \[PDFファイル／1.07MB\]](<https://www.qst.go.jp/uploaded/attachment/53107.pdf>) |
-| 茨城県 | [（RE-09554）ITERブランケット遠隔保守機器用滑り軸受の評価試験【掲載期間：2026-09-08～2026-09-30】](<https://www.qst.go.jp/uploaded/attachment/53104.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-09-08 | 原文を確認 | 含む) 軸受けの外観∙ 試験前に滑り軸受の全体の外観および、摺動部を写真撮影すること | [仕様書 \[PDFファイル／427KB\]](<https://www.qst.go.jp/uploaded/attachment/53106.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

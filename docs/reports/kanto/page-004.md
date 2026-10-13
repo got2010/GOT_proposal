@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-13T07:09+09:00（収集時点）
+最終更新：2026-10-14T07:19+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**436件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**439件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 4 / 5
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 神奈川県 | [保全工事積算基準（令和９年版）改定等業務 （令和8年8月17日）](<https://www.ur-net.go.jp/orders/honsha/pdf/order_43852_3.pdf>) | 独立行政法人都市再生機構本社 | 2026-08-17 | 2026-10-01 | 典の明示できる図表、既往成果を用いることは支障ないが、本件のために特に作成したCG、詳細図面等を用いることは認めない | [仕様書\[411KB\]](<https://www.ur-net.go.jp/orders/honsha/pdf/order_43852_4.pdf>) |
+| 神奈川県 | [ＵＲ賃貸住宅の既存ストックにおける省エネルギー性向上に係る検討業務 （令和8年8月17日）](<https://www.ur-net.go.jp/orders/honsha/pdf/order_43855_3.pdf>) | 独立行政法人都市再生機構本社 | 2026-08-17 | 2026-09-30 | 典の明示できる図表、既往成果を用いることは支障ないが、本件のために特に作成したCG、詳細図面等を用いることは認めない | [仕様書\[201KB\]](<https://www.ur-net.go.jp/orders/honsha/pdf/order_43855_4.pdf>) |
+| 茨城県 | [【電子入札】【電子契約】令和８年度換気空調用蒸気供給設備定期点検作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01162.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-08-17 | 2026-09-25 | (9)以下に従い写真を撮影して報告書に添付すること | — |
 | 茨城県 | [【電子入札】【電子契約】令和8年度 JMTR炉室給排気用バタフライ弁等の点検整備作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01103.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-08-17 | 2026-10-15 | (10)構内の写真等撮影は、許可を受けた場合以外は原則として禁止する | — |
 | 東京都 | [%E2%96%B62026.08.13\_%E5%81%A5%E5%BA%B7%E6%88%90%E4%BA%BA%EF%BE%8E%EF%BE%9E%EF%BE%97%EF%BE%9D%EF%BE%83%EF%BD%A8%EF%BD%B1%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8BSpaceORAL%E3%81%AE%E5%86%8D%E8%A3%85%E7%9D%80%E5%86%8D%E7%8F%BE%E6%80%A7%E3%81%8A%E3%…](<https://www.tmd.ac.jp/archive-tmdu/zaimukeiyaku/%E2%96%B62026.08.13_%E5%81%A5%E5%BA%B7%E6%88%90%E4%BA%BA%EF%BE%8E%EF%BE%9E%EF%BE%97%EF%BE%9D%EF%BE%83%EF%BD%A8%EF%BD%B1%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8BSpaceORAL%E3%81%AE%E5%86%8D%E8%A3%85%E7%9D%80%E5%86%8D%E7%8F%BE%E6%80%A7%E3%81%8A%E3%82%88%E3%81%B3%E5%8F%A3%E8%85%94%E5%86%85%E5%B9%BE%E4%BD%95%E5%AD%A6%E8%A9%95%E4%BE%A1%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%89%8D%E5%90%91%E3%81%8DMRI%E7%A0%94%E7%A9%B6%EF%BC%88POC3%EF%BC%89%E6%94%AF%E6%8F%B4%E6%A5%AD%E5%8B%99%20%E4%B8%80%E5%BC%8F.pdf>) | 国立大学法人東京科学大学 | 2026-08-13 | 原文を確認 | 教育研究評議会学長選考・監察会議広報誌・刊行物広報誌・刊行物トップ大学紹介動画大学紹介動画トップ大学紹介動画キャンパスライフ編留学制度編多職種連携教育編学長×医学部学生懇談学長×歯学部学生懇談東京医科歯科大学の歴史大学概要(冊子)統合報告書広報誌広報誌トップ広報誌「Bloom! 医科歯科大」英語版広報誌「TMDU AN… | — |
 | 東京都 | [%E2%96%B62026.08.12\_%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A8\_%E6%89%8B%E8%A1%93%E9%83%A8%E6%98%A0%E5%83%8F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%A2%97%E8%A8%AD%20%E4%B8%80%E5%BC%8F.pdf](<https://www.tmd.ac.jp/archive-tmdu/zaimukeiyaku/%E2%96%B62026.08.12_%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A8_%E6%89%8B%E8%A1%93%E9%83%A8%E6%98%A0%E5%83%8F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%A2%97%E8%A8%AD%20%E4%B8%80%E5%BC%8F.pdf>) | 国立大学法人東京科学大学 | 2026-08-12 | 原文を確認 | 教育研究評議会学長選考・監察会議広報誌・刊行物広報誌・刊行物トップ大学紹介動画大学紹介動画トップ大学紹介動画キャンパスライフ編留学制度編多職種連携教育編学長×医学部学生懇談学長×歯学部学生懇談東京医科歯科大学の歴史大学概要(冊子)統合報告書広報誌広報誌トップ広報誌「Bloom! 医科歯科大」英語版広報誌「TMDU AN… | — |
@@ -113,8 +116,5 @@
 | 茨城県 | [Ｒ7国補公下（更生）第4号](<https://www.city.tsuchiura.lg.jp/data/doc/1784195610_doc_245_0.pdf>) | 茨城県土浦市 | 2026-07-17 | 2026-08-07 | 1 工事概要2 職務分担及び緊急時の連絡体制3 工事記録写真撮影計画4 実施工程表5 施工工法(※)6 主要機械7 主要資材8 材料設計及び水理性能評価9 材料品質証明の内容10 前処理計画(※)11 施工管理(※)12 品質管理(※)13 環境対策14 安全・衛生管理15 材料の製造から使用までの保管期間と保管方法1… | [設計書等\[ZIP形式\]](<https://www.city.tsuchiura.lg.jp/data/doc/1784195921_doc_245_0.zip>) / [位置図\[PDF形式\]](<https://www.city.tsuchiura.lg.jp/data/doc/1784195917_doc_245_0.pdf>) |
 | 茨城県 | [Ｒ7国補公下（更生）第3号](<https://www.city.tsuchiura.lg.jp/data/doc/1784195605_doc_245_0.pdf>) | 茨城県土浦市 | 2026-07-17 | 2026-08-07 | 1 工事概要2 職務分担及び緊急時の連絡体制3 工事記録写真撮影計画4 実施工程表5 施工工法(※)6 主要機械7 主要資材8 材料設計及び水理性能評価9 材料品質証明の内容10 前処理計画(※)11 施工管理(※)12 品質管理(※)13 環境対策14 安全・衛生管理15 材料の製造から使用までの保管期間と保管方法1… | [設計書等\[ZIP形式\]](<https://www.city.tsuchiura.lg.jp/data/doc/1784195913_doc_245_0.zip>) / [位置図\[PDF形式\]](<https://www.city.tsuchiura.lg.jp/data/doc/1784195908_doc_245_0.pdf>) |
 | 群馬県 | [【入札公告】利根沼田振興局庁舎太陽光発電設備PCS更新工事に係る一般競争入札](<https://www.pref.gunma.jp/site/nyuusatsu/766512.html>) | 群馬県 | 2026-07-17 | 2026-07-30 | 11 工事写真工事写真は、(一社)公共建築協会「営繕工事写真撮影要領による工事写真撮影ガイドブック電気設備工事編令和 5 年版」に準拠して撮影、記録等をすること | [入札公告兼説明書 （PDF：999KB）](<https://www.pref.gunma.jp/uploaded/attachment/707767.pdf>) / [特記仕様書 （PDF：363KB）](<https://www.pref.gunma.jp/uploaded/attachment/707719.pdf>) |
-| 東京都 | [新国立劇場舞台美術センター保管棟Ａ・Ｂ換気設備改修工事](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTcentreKaishu/01_R8NNTTcentreKaishu_Koukoku.pdf>) | 独立行政法人日本芸術文化振興会 | 2026-07-17 | 2026-09-03 | なお、本項に規定していない事項は「工事写真撮影要領(文部科学省大臣官房文教施設企画・防災部参事官)」に準ずる | [入札説明書等 (796.59KB)](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTcentreKaishu/02_R8NNTTcentreKaishu_Explanation.pdf>) / [特記仕様書・図面 (1.29MB)](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTcentreKaishu/04_R8NNTTcentreKaishu_ShiyousyoandZumen.pdf>) / [現場説明書 (599.59KB)](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTcentreKaishu/05_R8NNTTcentreKaishu_Genbasetsumeisyo.pdf>) |
-| 群馬県 | [砂川地区外有害鳥獣（ニホンジカ）誘引捕獲委託事業（R7当初明許）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tone/20260717-001.html>) | 林野庁関東森林管理局利根沼田森林管理署 | 2026-07-17 | 2026-12-10 | (2) 捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [入札公告(PDF : 879KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tone/attach/pdf/20260717-001-1.pdf>) / [(1)入札説明書(PDF : 1,109KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tone/attach/pdf/20260717-001-2.pdf>) / [(3)共通仕様書(PDF : 927KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tone/attach/pdf/20260717-001-4.pdf>) / [(4)特記仕様書(PDF : 268KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tone/attach/pdf/20260717-001-5.pdf>) / [(5)実施個所位置図(PDF : 2,032KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tone/attach/pdf/20260717-001-6.pdf>) |
-| 神奈川県 | [箱根地区車両系建設機械チャーター等単価契約](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tokyo_kanagawa/tk20260817_rindou02.html>) | 林野庁関東森林管理局東京神奈川森林管理署 | 2026-07-17 | 2026-08-17 | )※時間の管理方法は、作業日ごとにアワーメーターの写真を撮影管理すること | [入札公告(PDF : 251KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tokyo_kanagawa/attach/pdf/tk20260817_rindou02-1.pdf>) / [入札説明資料等【箱根地区】(PDF : 1,719KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tokyo_kanagawa/attach/pdf/tk20260817_rindou02-2.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-003.md) ｜ [次の100件](page-005.md)

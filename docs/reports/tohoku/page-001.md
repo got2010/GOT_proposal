@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-13T07:09+09:00（収集時点）
+最終更新：2026-10-14T07:19+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**231件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**232件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -21,6 +21,7 @@
 | 秋田県 | [【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-08-17 | 2026-09-16 | 【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務 | — |
 | 岩手県 | [【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-21 | 原文を確認 | 【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務 | — |
 | 岩手県 | [龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について](<https://www.town.iwaizumi.lg.jp/docs/2026071400011/file_contents/00.pdf>) | 岩手県岩泉町 | 2026-07-17 | 2026-09-04 | 龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について | — |
+| 青森県 | [（RE-12620)極低温高強度構造材料の試験片製作及び試験【掲載期間：2026-10-13～2026-11-4】](<https://www.qst.go.jp/uploaded/attachment/53447.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門六ヶ所核融合研究所 | 2026-10-13 | 原文を確認 | (4) QST が立会時に現場の写真撮影の必要性を認めた場合は、受注者の許可の下3に、QST が写真撮影できることとする | [仕様書 \[PDFファイル／762KB\]](<https://www.qst.go.jp/uploaded/attachment/53448.pdf>) |
 | 山形県 | [【郵送入札】告示第602号 酒田市美術館収蔵品移設業務委託（10月9日公告、10月29日開札）](<https://www.city.sakata.lg.jp/shisei/nyusatsu/nyusatsukoukoku/keiyaku602.files/602koukoku.pdf>) | 山形県酒田市 | 2026-10-09 | 2026-10-20 | • 業務完了報告書• 業務写真(作業前、作業中、作業後の写真を撮影し提出のこと)11. 委託料の支払い発注者は、業務完了後の検査に受注者が合格し、受注者から正当な請求書を受領した日から30日以内に委託料を支払うものとする | [仕様書（PDF：208KB）](<https://www.city.sakata.lg.jp/shisei/nyusatsu/nyusatsukoukoku/keiyaku602.files/602siyou.pdf>) / [移設物品リスト（PDF：248KB）](<https://www.city.sakata.lg.jp/shisei/nyusatsu/nyusatsukoukoku/keiyaku602.files/602list.pdf>) |
 | 秋田県 | [【入札】第５０回全国高等学校総合文化祭大会記録集製作等業務委託の条件付き一般競争入札を行います。](<https://www.pref.akita.lg.jp/uploads/public/archive_0000099947_00/01%E3%80%80%E6%9D%A1%E4%BB%B6%E4%BB%98%E3%81%8D%E4%B8%80%E8%88%AC%E7%AB%B6%E4%BA%89%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A.pdf>) | 秋田県 | 2026-10-09 | 2026-10-16 | 4 大会記録映像大会記録映像DVDは別途提供する | [02-1 【仕様書】大会記録集製作等業務委託 \[135KB\]](<https://www.pref.akita.lg.jp/uploads/public/archive_0000099947_00/02-1%E3%80%80%E3%80%90%E4%BB%95%E6%A7%98%E6%9B%B8%E3%80%91%E5%A4%A7%E4%BC%9A%E8%A8%98%E9%8C%B2%E9%9B%86%E8%A3%BD%E4%BD%9C%E7%AD%89%E6%A5%AD%E5%8B%99%E5%A7%94%E8%A8%97.pdf>) / [02-2 【別紙１】大会記録集\_編集計画書 \[56KB\]](<https://www.pref.akita.lg.jp/uploads/public/archive_0000099947_00/02-2%E3%80%80%E3%80%90%E5%88%A5%E7%B4%99%EF%BC%91%E3%80%91%E5%A4%A7%E4%BC%9A%E8%A8%98%E9%8C%B2%E9%9B%86_%E7%B7%A8%E9%9B%86%E8%A8%88%E7%94%BB%E6%9B%B8.pdf>) / [02-3 【別紙２】大会記録集\_発送先一覧 \[56KB\]](<https://www.pref.akita.lg.jp/uploads/public/archive_0000099947_00/02-3%E3%80%80%E3%80%90%E5%88%A5%E7%B4%99%EF%BC%92%E3%80%91%E5%A4%A7%E4%BC%9A%E8%A8%98%E9%8C%B2%E9%9B%86_%E7%99%BA%E9%80%81%E5%85%88%E4%B8%80%E8%A6%A7.pdf>) |
 | 青森県 | [ナラ枯れ防除事業請負（中里・今泉・市浦地区）](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kanagi/naragare261008.html>) | 林野庁東北森林管理局津軽森林管理署金木支署 | 2026-10-08 | 2026-11-17 | 出来形管理基準(b) 出来形図面(3) 実行記録写真 (a) 実行記録写真の撮影要領(b) 実行記録写真の撮影と整理4.管理の実施(1) 現場代理人は、作業の実施の都度、その結果を記録するとともに、その結果に基づいて適切な実行管理を行わなければならない | [入札公告(PDF : 182KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kanagi/./attach/pdf/naragare261008-8.pdf>) / [01\_入札説明書(PDF : 202KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kanagi/./attach/pdf/naragare261008-9.pdf>) / [02\_申請書様式・記載要領(PDF : 195KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kanagi/./attach/pdf/naragare261008-1.pdf>) / [03\_造林事業標準仕様書・特記仕様書(PDF : 824KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kanagi/./attach/pdf/naragare261008-10.pdf>) / [06\_図面(PDF : 9,314KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kanagi/./attach/pdf/naragare261008-4.pdf>) |
@@ -115,6 +116,5 @@
 | 宮城県 | [令８−防安・交 下水道管路耐震化に伴う基礎調査業務委託](<https://www.city.shiogama.miyagi.jp/uploaded/life/58381_149033_misc.pdf>) | 宮城県塩竃市 | 2026-09-01 | 2026-09-03 | 全天球カメラおよび全方位照射型照明を使用してマンホール内部の画像または映像を撮影し,点検を行うものである | [設計書一式 \[その他のファイル／10.14MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/58381_149031_misc.zip>) |
 | 岩手県 | [令和8年9月1日公告 令和8年度大沼山市有林保育間伐作業業務委託に係る一般競争入札の実施について（林政課）](<https://www.city.morioka.iwate.jp/_res/projects/default_project/_page_/001/058/681/011.pdf>) | 岩手県盛岡市 | 2026-09-01 | 2026-09-14 | (現地写真の撮影及び提出)第4条 受注者は、作業の施行地ごとの現地写真を別紙「写真撮影基準」に基づき撮影し、作業完了後速やかに提出する | [02-1 仕様書 （PDF 155.9 KB）](<https://www.city.morioka.iwate.jp/_res/projects/default_project/_page_/001/058/681/02-1.pdf>) / [06 公正な職務の執行に係る特記仕様書 （PDF 87.3 KB）](<https://www.city.morioka.iwate.jp/_res/projects/default_project/_page_/001/058/681/06.pdf>) |
 | 岩手県 | [令和8年9月1日公告 令和8年度大沼山市有林保育間伐作業業務委託に係る一般競争入札の実施について（林政課）](<https://www.city.morioka.iwate.jp/_res/projects/default_project/_page_/001/058/681/01.pdf>) | 岩手県盛岡市 | 2026-09-01 | 2026-09-14 | (現地写真の撮影及び提出)第4条 受注者は、作業の施行地ごとの現地写真を別紙「写真撮影基準」に基づき撮影し、作業完了後速やかに提出する | [02-1 仕様書 （PDF 155.9 KB）](<https://www.city.morioka.iwate.jp/_res/projects/default_project/_page_/001/058/681/02-1.pdf>) / [06 公正な職務の執行に係る特記仕様書 （PDF 87.3 KB）](<https://www.city.morioka.iwate.jp/_res/projects/default_project/_page_/001/058/681/06.pdf>) |
-| 福島県 | [令和8年度しんち魅力発信・プロモーションツール制作事業業務委託公募型プロポーザルの実施について](<https://www.shinchi-town.jp/uploaded/attachment/9977.pdf>) | 福島県新地町 | 2026-09-01 | 原文を確認 | 作1 仕様:A4サイズ、両面カラー、4,000部2 記載内容及び要件【取材及び撮影】:チラシの質を高めるため、必要に応じて現地(新地町内)の取材および撮影を適宜行うこと | [業務委託仕様書 \[PDFファイル／167KB\]](<https://www.shinchi-town.jp/uploaded/attachment/9976.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

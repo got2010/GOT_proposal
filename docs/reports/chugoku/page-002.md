@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-13T07:09+09:00（収集時点）
+最終更新：2026-10-14T07:19+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**198件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**199件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 広島県 | [広島市立学校窓ガラス等清掃業務（西区・広瀬小学校）](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012200101.pdf>) | 広島県広島市 | 2026-08-18 | 2026-09-29 | 受注者は、業務実施に際し、建物(1棟)ごとに1箇所以上の清掃作業中の写真を撮影するものとする | [05 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012200105.pdf>) / [06 仕様書別紙](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012200106.pdf>) |
 | 広島県 | [広島市立学校窓ガラス等清掃業務（佐伯区（石内北小学校を除く。））](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012500101.pdf>) | 広島県広島市 | 2026-08-18 | 2026-09-29 | 受注者は、業務実施に際し、建物(1棟)ごとに1箇所以上の清掃作業中の写真を撮影するものとする | [05 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012500105.pdf>) / [06 仕様書別紙](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012500106.pdf>) |
 | 広島県 | [広島市立学校窓ガラス等清掃業務（東区・安芸区）](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012700101.pdf>) | 広島県広島市 | 2026-08-18 | 2026-09-29 | 受注者は、業務実施に際し、建物(1棟)ごとに1箇所以上の清掃作業中の写真を撮影するものとする | [05 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012700105.pdf>) / [06 仕様書別紙](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012700106.pdf>) |
 | 広島県 | [広島市立学校窓ガラス等清掃業務（中区（広瀬小学校を除く。）・南区）](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012400101.pdf>) | 広島県広島市 | 2026-08-18 | 2026-09-29 | 受注者は、業務実施に際し、建物(1棟)ごとに1箇所以上の清掃作業中の写真を撮影するものとする | [05 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012400105.pdf>) / [06 仕様書別紙](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012400106.pdf>) |

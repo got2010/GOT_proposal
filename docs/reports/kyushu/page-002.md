@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-13T07:09+09:00（収集時点）
+最終更新：2026-10-14T07:19+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県
 
-**162件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**167件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,11 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 福岡県 | [鹿児島運輸支局 庁舎トイレ改修工事](<https://wwwtb.mlit.go.jp/kyushu/content/000379438.pdf>) | 国土交通省九州運輸局 | 2026-08-20 | 2026-09-15 | 必要に応じて工事工程写真及び完成写真を撮影し、現像・整理の上、当局へ提出すること | [②仕様書【PDF(81KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000379439.pdf>) / [③仕様書別添図面【PDF(1829KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000379440.pdf>) / [④入札説明書【PDF(151KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000379441.pdf>) / [⑥入札時積算数量書【Excel(35KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000379443.xlsx>) |
+| 福岡県 | [鹿児島運輸支局 庁舎トイレ改修工事](<https://wwwtb.mlit.go.jp/kyushu/content/000379670.pdf>) | 国土交通省九州運輸局 | 2026-08-20 | 2026-09-15 | 必要に応じて工事工程写真及び完成写真を撮影し、現像・整理の上、当局へ提出すること | [②仕様書【PDF(81KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000379439.pdf>) / [③仕様書別添図面【PDF(1829KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000379440.pdf>) / [④入札説明書【PDF(151KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000379441.pdf>) / [⑥入札時積算数量書【Excel(35KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000379443.xlsx>) |
+| 福岡県 | [公共工事設計労務費に係る調査業務 （令和8年8月19日）](<https://www.ur-net.go.jp/orders/kyushu/pdf/order_43893_3.pdf>) | 独立行政法人都市再生機構九州支社 | 2026-08-19 | 2026-09-29 | 、資料収集、要約などの簡易業務・ トレース業務、模型製作、パース作成、写真撮影※記載のない内容を再委託する場合はその作業の質と表の範囲を勘案して判断するものとする | [仕様書\[676KB\]](<https://www.ur-net.go.jp/orders/kyushu/pdf/order_43893_4.pdf>) |
+| 福岡県 | [設計業務等の調達先に係る調査業務 （令和8年8月19日）](<https://www.ur-net.go.jp/orders/kyushu/pdf/order_43894_3.pdf>) | 独立行政法人都市再生機構九州支社 | 2026-08-19 | 2026-09-29 | 、資料収集、要約などの簡易業務・ トレース業務、模型製作、パース作成、写真撮影※記載のない内容を再委託する場合はその作業の質と表の範囲を勘案して判断するものとする | [仕様書\[585KB\]](<https://www.ur-net.go.jp/orders/kyushu/pdf/order_43894_4.pdf>) |
+| 宮崎県 | [庁舎等の設備維持管理業務委託（消防設備の点検及び保守）の条件付一般競争入札の公告](<https://www.pref.miyazaki.lg.jp/zaisansogokanri/kense/chotatsu/20260814100225.html>) | 宮崎県 | 2026-08-18 | 2026-09-01 | ンスキャラバン業務委託に係る企画提案競技について 令和8年度明るい選挙啓発動画作品コンテスト業務委託企画提案競技の実施について 県内観光機運醸成CMプロモーション業務委託企画提案競技の実施について 令和8年度デジタル導入による業務刷新支援業務に関する情報提供依頼 | [個別公告文（PDF：173KB）](<https://www.pref.miyazaki.lg.jp/documents/111700/111700_20260814104223-1.pdf>) / [現場説明書（PDF：80KB）](<https://www.pref.miyazaki.lg.jp/documents/111700/111700_20260814104438-1.pdf>) / [金抜設計書（PDF：42KB）](<https://www.pref.miyazaki.lg.jp/documents/111700/111700_20260814104839-1.pdf>) / [個別公告文（PDF：170KB）](<https://www.pref.miyazaki.lg.jp/documents/111700/111700_20260814104307-1.pdf>) / [現場説明書（PDF：80KB）](<https://www.pref.miyazaki.lg.jp/documents/111700/111700_20260814104518-1.pdf>) |
 | 宮崎県 | [宮崎大学（清武２）環境整備（外灯）工事](<http://www.miyazaki-u.ac.jp/administration/20260818_koukoku01.pdf>) | 国立大学法人宮崎大学 | 2026-08-18 | 2026-09-15 | (4) 工事写真等1 工事写真等は,文部科学省が定めた「工事記録写真撮影要領」により撮影し,次表のものを提出すること | [入札説明書（PDF:10,665KB）](<http://www.miyazaki-u.ac.jp/administration/20260818_koukoku02.pdf>) / [現場説明書（PDF:540KB）](<http://www.miyazaki-u.ac.jp/administration/20260818_koukoku03.pdf>) / [別紙様式1～9（Excel:65KB）](<http://www.miyazaki-u.ac.jp/administration/20260818_youshiki01.xls>) |
 | 福岡県 | [【令和8年9月4日申込締切】EV普及啓発発信事業の業務委託に係る公募型プロポーザルについて](<https://www.city.kitakyushu.lg.jp/files/001222496.pdf>) | 福岡県北九州市 | 2026-08-18 | 2026-08-31 | ※「エコライフステージ」と同時開催• 会場: 北九州市本庁舎敷地内5.動画作成市民が、経済性と防災性の両面から導入意欲を高められるようなショート動画を制作する | [実施説明書（PDF形式：504KB）](<https://www.city.kitakyushu.lg.jp/files/001222497.pdf>) |
 | 熊本県 | [【入札関係】熊本城数寄屋丸二階御広間解体保存工事に伴う部材破損状況調査ほか業務委託について](<https://www.city.kumamoto.jp/kiji00371454/3_71454_up_57nvztpp.pdf>) | 熊本県熊本市 | 2026-08-12 | 原文を確認 | 部材寸法、材種、破損状況、各部の仕様等を調査(記録採取、野帳作成、記録写真撮影)する | [02-1\_仕様書（PDF：759.6キロバイト）](<https://www.city.kumamoto.jp/kiji00371454/3_71454_up_knulpzl2.pdf>) / [02-2\_図面（PDF：35.9メガバイト）](<https://www.city.kumamoto.jp/kiji00371454/3_71454_up_1huetnz7.pdf>) |

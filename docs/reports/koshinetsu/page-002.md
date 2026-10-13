@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-13T07:09+09:00（収集時点）
+最終更新：2026-10-14T07:19+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**149件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**156件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,13 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 長野県 | [令和8年度 辰野町民体育館受変電設備更新工事（令和8年8月7日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku801.pdf>) | 長野県辰野町 | 2026-08-07 | 2026-09-01 | 施工アンカー防 火 区 画 等 の 貫 通 処 理 貫通個所の両面から写真撮影し、工事写真として提出する | [2 設計書 (PDFファイル: 230.1KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo801.pdf>) / [3 特記仕様書 (PDFファイル: 823.6KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo801.pdf>) / [4 工事内訳書 (Excelファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/04_utiwake801.xls>) |
+| 長野県 | [令和8年度 町単道路舗装事業町道2101号線外1工事（令和8年8月7日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku811.pdf>) | 長野県辰野町 | 2026-08-07 | 2026-09-01 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [2 設計書 (PDFファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo811.pdf>) / [3 特記仕様書 (PDFファイル: 175.3KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo811.pdf>) / [5 位置図 (PDFファイル: 489.8KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/05_itizu811.pdf>) / [6 図面 (PDFファイル: 36.8KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/06_zumen811.pdf>) / [7 工事内訳書 (Excelファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/07_utiwake811.xls>) |
+| 長野県 | [（8.8.7公告）令和8年度 千曲市立屋代中学校放送設備及び非常用放送設備更新工事(PDFファイル:292.6KB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080825-05.pdf>) | 長野県千曲市 | 2026-08-07 | 原文を確認 | 、処分状況の写真(中間処理にあっては、中間処理状況の写真)及び日報工事写真撮影要領 ・着手前及び完成後の撮影部位は、同方向同位置とする | [図面等(PDFファイル:8.6MB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080825-07.pdf>) |
+| 山梨県 | [神徳橋上部工耐荷補強（その1）工事（明許）](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11752.pdf>) | 山梨県山梨市 | 2026-08-06 | 原文を確認 | おいて指定機械であることを識別するラベルが確認できるように、建設機械を写真撮影し、工事写真帳に添付すること | [第一般52号 設計書 \[その他のファイル／7.4MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11719.zip>) |
+| 山梨県 | [神徳橋上部工耐荷補強（その1）工事（明許）](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11736.pdf>) | 山梨県山梨市 | 2026-08-06 | 原文を確認 | おいて指定機械であることを識別するラベルが確認できるように、建設機械を写真撮影し、工事写真帳に添付すること | [第一般52号 設計書 \[その他のファイル／7.4MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11719.zip>) |
+| 山梨県 | [(都)加納岩小学校西通り線歩道舗装外(8-3工区)工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11737.pdf>) | 山梨県山梨市 | 2026-08-06 | 2026-08-20 | おいて指定機械であることを識別するラベルが確認できるように、建設機械を写真撮影し、工事写真帳に添付すること | [第一般51号 設計書 \[その他のファイル／5.73MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11718.zip>) |
+| 山梨県 | [橋梁長寿命化 円川橋補修工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11734.pdf>) | 山梨県山梨市 | 2026-08-06 | 2026-08-20 | おいて指定機械であることを識別するラベルが確認できるように、建設機械を写真撮影し、工事写真帳に添付すること | [第一般50号 設計書 \[その他のファイル／2.18MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11717.zip>) |
 | 山梨県 | [(都)加納岩小学校西通り線外道路改良(8-4工区)工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11733.pdf>) | 山梨県山梨市 | 2026-08-06 | 2026-08-20 | おいて指定機械であることを識別するラベルが確認できるように、建設機械を写真撮影し、工事写真帳に添付すること | [第一般49号 設計書 \[その他のファイル／6.38MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11716.zip>) |
 | 山梨県 | [中央第2浄水場建設に伴う送水管布設及び配水管布設替工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11731.pdf>) | 山梨県山梨市 | 2026-08-06 | 2026-08-20 | おいて指定機械であることを識別するラベルが確認できるように、建設機械を写真撮影し、工事写真綴りに添付すること | [第一般48号 設計書 \[その他のファイル／3.65MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11715.zip>) |
 | 山梨県 | [(都)加納岩小学校西通り線街路事業に伴う配水管布設替工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11730.pdf>) | 山梨県山梨市 | 2026-08-06 | 2026-08-20 | おいて指定機械であることを識別するラベルが確認できるように、建設機械を写真撮影し、工事写真綴りに添付すること | [第一般47号 設計書 \[その他のファイル／4.6MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11714.zip>) |

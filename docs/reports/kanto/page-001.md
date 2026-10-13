@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-13T07:09+09:00（収集時点）
+最終更新：2026-10-14T07:19+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**436件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**439件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 5
 
@@ -37,6 +37,9 @@
 | 東京都 | [2027（令和９）年国民生活基礎調査マニュアル動画・広報用動画改修業務一式](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 厚生労働省 | 2026-08-05 | 2026-09-09 | 2027(令和9)年国民生活基礎調査マニュアル動画・広報用動画改修業務一式 | — |
 | 東京都 | [緊急地震速報20周年映像資料の制作](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-29 | 2026-08-19 | 緊急地震速報20周年映像資料の制作 | — |
 | 東京都 | [令和７年度新宿御苑日本館御殿工事（Ⅰ）展示映像撮影業務（総合評価落札方式）](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 環境省 | 2026-07-23 | 2026-08-05 | 令和7年度新宿御苑日本館御殿工事(I)展示映像撮影業務(総合評価落札方式) | — |
+| 東京都 | [令和8年度国家森林資源データベースシステムの運用及びデータ整備等業務(PDF : 228KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/system-718.pdf>) | 林野庁 | 2026-10-13 | 2026-10-28 | 2 閲覧資料については、撮影及び複製を行いません | [入札説明書(PDF : 1,198KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/system-719.pdf>) / [仕様書(PDF : 2,673KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/system-720.pdf>) |
+| 東京都 | [江戸川区河川敷施設維持管理業務委託 事業者選定プロポーザルの実施について](<https://www.city.edogawa.tokyo.jp/documents/30835/edogawakukasenjikishisetsuijikanrigyomuitakuboshuyoko.pdf>) | 東京都江戸川区 | 2026-10-13 | 2026-11-13 | ・清掃後の現場写真を毎月1回撮影し、上記報告書に添付すること | [江戸川区河川敷施設維持管理業務委託仕様書（河川敷グラウンド：運営）（PDF：1,085KB）](<https://www.city.edogawa.tokyo.jp/documents/30835/edogawakukasenjikiijikanrigyomuitakushiyosho-kasenjikiground-unei.pdf>) / [江戸川区河川敷施設維持管理業務委託仕様書（河川敷グラウンド：整備・修繕等）（PDF：222KB）](<https://www.city.edogawa.tokyo.jp/documents/30835/edogawakukasenjikiijikanrigyomuitakushiyosho-kasenjikiground-seibishuzento.pdf>) / [江戸川区河川敷施設維持管理業務委託仕様書（河川敷緑地）（PDF：2,151KB）](<https://www.city.edogawa.tokyo.jp/documents/30835/edogawakukasenjikiijikanrigyomuitakushiyosho-kasenjikiryokuchi.pdf>) |
+| 東京都 | [国立赤城青少年交流の家 建具改修工事](<https://www.niye.go.jp/wp-content/uploads/2026/10/20261013_%E8%B5%A4%E5%9F%8E%E5%BB%BA%E5%85%B701.pdf>) | 独立行政法人国立青少年教育振興機構 | 2026-10-13 | 2026-11-16 | なお、本項に規定していない事項は「工事写真撮影要領(文部科学省大臣官房文教施設企画・防災部参事官)」に準ずる | [入札説明書（PDF/1MB）](<https://www.niye.go.jp/wp-content/uploads/2026/10/20261013_%E8%B5%A4%E5%9F%8E%E5%BB%BA%E5%85%B702.pdf>) / [設計図書（PDF/5MB）](<https://www.niye.go.jp/wp-content/uploads/2026/10/20261013_%E8%B5%A4%E5%9F%8E%E5%BB%BA%E5%85%B703.pdf>) |
 | 茨城県 | [【電子入札】【電子契約】ふげん構内除雪作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0804C00490.pdf>) | 国立研究開発法人日本原子力研究開発機構敦賀 | 2026-10-10 | 2026-11-25 | 4.6 写真等の管理受注者は、作業の必要上写真、ビデオ映像等の撮影を行う場合には、次の事項を厳守すること | — |
 | 埼玉県 | [こども育成課：【第518号】春日部第2児童センター屋上防球ネット修繕](<https://www.city.kasukabe.lg.jp/jigyoshamuke/nyusatsu_keiyaku/nyusatsukokokuichiran/65/38731.html>) | 埼玉県春日部市 | 2026-10-09 | 2026-11-05 | は、ビニールシート等で養生を行うものとする・修繕写真 施工前と施工後の写真撮影を行い、整理したものを提出すること・修繕用 水 構内既存の施設を利用することができる・修繕用 電力 構内既存の施設を利用することができる・屋上防球ネット張り替え 故障している春日部第2児童センターの防球ネットを修繕すること | [仕様書(PDFファイル:59.5KB)](<https://www.city.kasukabe.lg.jp/material/files/group/25/siyousho008.pdf>) / [参考資料(PDFファイル:59.8KB)](<https://www.city.kasukabe.lg.jp/material/files/group/25/sankousiryou08.pdf>) |
 | 茨城県 | [【電子入札】【電子契約】中央運転管理室コンデンサ内蔵空調機更新作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03812.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-10-09 | 2026-12-02 | 2.10 作業報告書及び写真撮影(1) 作業報告書1 作業結果の各項目、測定結果に対して、異常の有無の判定を記載すること | — |
@@ -113,8 +116,5 @@
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（プラザシティ新所沢けやき通り団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44093_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[18958KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44093_3.pdf>) / [仕様書\[18659KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44093_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（西大和団地他４団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44094_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19084KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44094_3.pdf>) / [仕様書\[27227KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44094_4.pdf>) |
 | 神奈川県 | [令和８年度ＤＸリテラシー醸成に向けた学習教材提供業務 （令和8年9月17日）](<https://www.ur-net.go.jp/orders/honsha/pdf/order_44002_3.pdf>) | 独立行政法人都市再生機構本社 | 2026-09-17 | 2026-10-30 | ・問題及び解説の作成にあたっては、動画コンテンツとの対応関係が分かるよう整理し、受講後の復習や職場での対話につなげやすい内容とすること | [仕様書\[241KB\]](<https://www.ur-net.go.jp/orders/honsha/pdf/order_44002_4.pdf>) |
-| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（港北ニュータウン プロムナード仲町台団地他２団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44057_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（神奈川地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19269KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44057_3.pdf>) / [仕様書\[19792KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44057_4.pdf>) |
-| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（港北ニュータウン コンフォール東山田団地他２団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44058_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（神奈川地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19261KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44058_3.pdf>) / [仕様書\[19377KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44058_4.pdf>) |
-| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（中山駅前ハイツ団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44059_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（神奈川地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19026KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44059_3.pdf>) / [仕様書\[18933KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44059_4.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)
