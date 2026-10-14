@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-14T07:19+09:00（収集時点）
+最終更新：2026-10-15T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**156件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**157件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 長野県 | [令和8年度 県道与地辰野線拡幅工事に伴う公共マス・止水栓等移設工事（令和8年8月7日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku804.pdf>) | 長野県辰野町 | 2026-08-07 | 2026-09-01 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [2 設計書 (PDFファイル: 526.5KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo804.pdf>) / [3 特記仕様書 (PDFファイル: 285.7KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo804.pdf>) / [4 位置図 (PDFファイル: 789.4KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/04_itizu804.pdf>) / [5 図面 (PDFファイル: 576.2KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/05_zumen804.pdf>) / [6 工事内訳書 (Excelファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/06_utiwake804.xls>) |
 | 長野県 | [令和8年度 辰野町民体育館受変電設備更新工事（令和8年8月7日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku801.pdf>) | 長野県辰野町 | 2026-08-07 | 2026-09-01 | 施工アンカー防 火 区 画 等 の 貫 通 処 理 貫通個所の両面から写真撮影し、工事写真として提出する | [2 設計書 (PDFファイル: 230.1KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo801.pdf>) / [3 特記仕様書 (PDFファイル: 823.6KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo801.pdf>) / [4 工事内訳書 (Excelファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/04_utiwake801.xls>) |
 | 長野県 | [令和8年度 町単道路舗装事業町道2101号線外1工事（令和8年8月7日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku811.pdf>) | 長野県辰野町 | 2026-08-07 | 2026-09-01 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [2 設計書 (PDFファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo811.pdf>) / [3 特記仕様書 (PDFファイル: 175.3KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo811.pdf>) / [5 位置図 (PDFファイル: 489.8KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/05_itizu811.pdf>) / [6 図面 (PDFファイル: 36.8KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/06_zumen811.pdf>) / [7 工事内訳書 (Excelファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/07_utiwake811.xls>) |
 | 長野県 | [（8.8.7公告）令和8年度 千曲市立屋代中学校放送設備及び非常用放送設備更新工事(PDFファイル:292.6KB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080825-05.pdf>) | 長野県千曲市 | 2026-08-07 | 原文を確認 | 、処分状況の写真(中間処理にあっては、中間処理状況の写真)及び日報工事写真撮影要領 ・着手前及び完成後の撮影部位は、同方向同位置とする | [図面等(PDFファイル:8.6MB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080825-07.pdf>) |

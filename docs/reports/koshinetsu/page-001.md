@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-14T07:19+09:00（収集時点）
+最終更新：2026-10-15T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**156件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**157件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 2
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 新潟県 | [消雪施設点検調整業務 委託 \[PDFファイル／132KB\]](<https://www.city.mitsuke.niigata.jp/uploaded/attachment/27169.pdf>) | 新潟県見附市 | 2026-10-14 | 2026-10-28 | 4 成果品(1)別紙「融雪施設点検調整マニュアル」に従い写真を撮影し提出する | [仕様書等 \[その他のファイル／4.48MB\]](<https://www.city.mitsuke.niigata.jp/uploaded/attachment/27170.zip>) |
 | 山梨県 | [令和8年10月29日一般競争入札予定（若尾新田地区配水管路耐震化工事）](<https://www.city.nirasaki.lg.jp/material/files/group/1/207koukoku.docx>) | 山梨県韮崎市 | 2026-10-13 | 2026-10-29 | 化装置を装着した建設機械を使用する場合、施工現場において使用する機械の写真撮影を行い提出するものとする | [設計書(PDF)](<https://www.city.nirasaki.lg.jp/material/files/group/1/207sekkei.pdf>) / [設計書(Excel)](<https://www.city.nirasaki.lg.jp/material/files/group/1/207sekkeisyo.xls>) / [図面(PDF)](<https://www.city.nirasaki.lg.jp/material/files/group/1/207zumen.pdf>) |
 | 長野県 | [令和8年度 小豆坂トンネル定期点検業務委託【建設コンサルタント（トンネル）（県内本店又は支店・営業所）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081013_8_koukoku.files/8_1_koukoku_azukizaka_tonneru.pdf>) | 長野県伊那市 | 2026-10-13 | 2026-10-27 | 交通状況、交通規制の要否、近接手段等について現場の概況を調査して記録(写真撮影含む)する | [特記仕様書（PDF：102KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081013_8_koukoku.files/8_3_tokki_azukizaka_tonneru.pdf>) / [数量総括表（PDF：82KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081013_8_koukoku.files/8_4_sokatu_azukizaka_tonneru.pdf>) / [位置図（PDF：5,566KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081013_8_koukoku.files/8_5_itizu_azukizaka_tonneru.pdf>) / [図面（PDF：149KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081013_8_koukoku.files/8_6_zumen_azukizaka_tonneru.pdf>) |
 | 長野県 | [令和8年度 道路防災工事 市道 鹿嶺線【土木一式工事Ｄ・Ｅ・Ｆ級（市内本店）（一抜け方式4番）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081013_7_koukoku.files/7_1_koukoku_dourobousai_karei.pdf>) | 長野県伊那市 | 2026-10-13 | 2026-10-27 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [特記仕様書（PDF：122KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081013_7_koukoku.files/7_3_tokki_dourobousai_karei.pdf>) / [位置図（PDF：1,703KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081013_7_koukoku.files/7_5_itizu_dourobousai_karei.pdf>) / [図面（PDF：157KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081013_7_koukoku.files/7_6_zumen_dourobousai_karei.pdf>) |
@@ -115,6 +116,5 @@
 | 長野県 | [00\_koukoku\_0831\_douro.pdf](<https://www.town.minowa.lg.jp/material/files/group/4/00_koukoku_0831_douro.pdf>) | 長野県箕輪町 | 2026-08-14 | 2026-08-14 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [閲覧設計書](<https://www.town.minowa.lg.jp/material/files/group/4/01_eturansekkei_0831_douro.pdf>) / [数量総括表](<https://www.town.minowa.lg.jp/material/files/group/4/02_suuryousoukatu_0831_douro.pdf>) / [特記仕様書](<https://www.town.minowa.lg.jp/material/files/group/4/03_tokkisiyousyo_0831_douro.pdf>) / [図面](<https://www.town.minowa.lg.jp/material/files/group/4/04_zumen_0831_doro.pdf>) / [位置図](<https://www.town.minowa.lg.jp/material/files/group/4/05_ichizu_0831_doro.pdf>) |
 | 長野県 | [00\_koukoku\_0831\_sokkou\_368.pdf](<https://www.town.minowa.lg.jp/material/files/group/4/00_koukoku_0831_sokkou_368.pdf>) | 長野県箕輪町 | 2026-08-14 | 2026-08-31 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [閲覧設計書](<https://www.town.minowa.lg.jp/material/files/group/4/01_eturansekkeisyo_0831_sokkou_368gou.pdf>) / [数量総括表](<https://www.town.minowa.lg.jp/material/files/group/4/02_suuryou_0831_sokkou_368.pdf>) / [図面](<https://www.town.minowa.lg.jp/material/files/group/4/04_zumen_0831_sokkou_368.pdf>) / [位置図](<https://www.town.minowa.lg.jp/material/files/group/4/05_ichizu_0831_sokkou_368.pdf>) / [全部書類(圧縮ファイル)](<https://www.town.minowa.lg.jp/material/files/group/4/06_zenbusyorui_0831_sokkou_368.zip>) |
 | 長野県 | [令和8年度 小野駅前団地B棟屋根及び外壁等改修工事（令和8年8月7日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku807.pdf>) | 長野県辰野町 | 2026-08-07 | 2026-09-01 | 工事写真撮影要領 ム)で労働基準監督署と長野県へ報告すること | [2 設計書 (PDFファイル: 232.7KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo807.pdf>) / [3 特記仕様書 (PDFファイル: 2.4MB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo807.pdf>) / [4 工事内訳書 (Excelファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/04_utiwake807.xls>) |
-| 長野県 | [令和8年度 県道与地辰野線拡幅工事に伴う公共マス・止水栓等移設工事（令和8年8月7日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku804.pdf>) | 長野県辰野町 | 2026-08-07 | 2026-09-01 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [2 設計書 (PDFファイル: 526.5KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo804.pdf>) / [3 特記仕様書 (PDFファイル: 285.7KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo804.pdf>) / [4 位置図 (PDFファイル: 789.4KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/04_itizu804.pdf>) / [5 図面 (PDFファイル: 576.2KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/05_zumen804.pdf>) / [6 工事内訳書 (Excelファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/06_utiwake804.xls>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

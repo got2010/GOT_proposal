@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-14T07:19+09:00（収集時点）
+最終更新：2026-10-15T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県
 
-**167件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**172件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,11 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 大分県 | [一般競争入札に付する事項](<https://www.pref.oita.jp/uploaded/attachment/2275193.pdf>) | 大分県 | 2026-08-24 | 2026-09-03 | 完了の報告及びマニフェスト(1) 業務時に施設ごとに以下の状況がわかる写真を撮影し、業務終了後に写真と清掃作業完了報告書(様式第1号)及びマニフェストを対象校へ提出すること | [入札説明書 \[PDFファイル／182KB\]](<https://www.pref.oita.jp/uploaded/attachment/2275194.pdf>) / [仕様書 \[PDFファイル／6.6MB\]](<https://www.pref.oita.jp/uploaded/attachment/2275285.pdf>) |
+| 熊本県 | [【入札関係】熊本市託麻児童館外9施設防犯カメラシステム構築業務委託に係る一般競争入札について](<https://www.city.kumamoto.jp/kiji00372465/3_72465_up_abr17pnt.pdf>) | 熊本県熊本市 | 2026-08-24 | 原文を確認 | ・記録映像の再生中も映像記録が可能であること | [仕様書（PDF：2.51メガバイト）](<https://www.city.kumamoto.jp/kiji00372465/3_72465_up_p15w52ss.pdf>) |
+| 熊本県 | [【入札関係】【公募型プロポーザル】熊本市西消防署建設基本・実施設計業務委託に係るプロポーザルについて](<https://www.city.kumamoto.jp/kiji00372585/3_72585_up_g7w0iucg.pdf>) | 熊本県熊本市 | 2026-08-24 | 原文を確認 | 7写真・動画の著作権の権利等について 受託者は写真・動画の撮影を再委託する場合は、次の事項を条件とすること | [01 公募型プロポーザル実施要領（PDF：368.1キロバイト）](<https://www.city.kumamoto.jp/kiji00372585/3_72585_up_6xnnoizp.pdf>) / [02 別紙1 基本仕様書（PDF：318.1キロバイト）](<https://www.city.kumamoto.jp/kiji00372585/3_72585_up_nm1ebae0.pdf>) / [05 別紙4 建築設計業務委託特記仕様書（PDF：571.4キロバイト）](<https://www.city.kumamoto.jp/kiji00372585/3_72585_up_wadipivu.pdf>) / [06 別紙5 地質調査業務委託仕様書（PDF：558キロバイト）](<https://www.city.kumamoto.jp/kiji00372585/3_72585_up_8s5554r7.pdf>) |
+| 宮崎県 | [令和８年度 町営住宅 蓼池第３団地 解体工事](<https://secure.haishin.jp/mimata/files/1025_tadeikedai3danchi-kaitaikouji_koukoku_20260910.pdf>) | 宮崎県三股町 | 2026-08-20 | 2026-09-10 | とも 完成図書等作成要領(三股町都市整備課・建築係策定)建築・設備工事写真撮影要領・完成図書等作成要領(平成24年4月三股町都市整備課・建築係策定)により,次のものを原版(ネガ等)ともに監督員 に提出する | [１](<https://secure.haishin.jp/mimata/files/1025_tadeikedai3danchi-kaitaikouji_sekkei_20260910.pdf>) / [１](<https://secure.haishin.jp/mimata/files/1025_tadeikedai3danchi-kaitaikouji_zumen_20260910.pdf>) |
+| 福岡県 | [【令和8年8月21日申込締切】令和8年度高年齢者及び就職氷河期世代リスキリング・就職支援事業業務（公募型プロポーザル）](<https://www.city.kitakyushu.lg.jp/files/001223534.pdf>) | 福岡県北九州市 | 2026-08-20 | 2026-09-04 | ・チラシ作成・画像加工・SNS活用画像作成・地域活動・就労に活かす資料作成・動画編集4 【選択】自由提案ウ 就職支援・社会参加支援・研修前から参加者の状況把握及び意向確認を行い、個別支援を実施すること必要に応じて高年齢者就業支援センター等への利用の取次を行うこと・全参加者について、研修期間中に高年齢者就業支援センターへ… | [仕様書（PDF形式：722KB）](<https://www.city.kitakyushu.lg.jp/files/001223844.pdf>) |
 | 福岡県 | [鹿児島運輸支局 庁舎トイレ改修工事](<https://wwwtb.mlit.go.jp/kyushu/content/000379438.pdf>) | 国土交通省九州運輸局 | 2026-08-20 | 2026-09-15 | 必要に応じて工事工程写真及び完成写真を撮影し、現像・整理の上、当局へ提出すること | [②仕様書【PDF(81KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000379439.pdf>) / [③仕様書別添図面【PDF(1829KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000379440.pdf>) / [④入札説明書【PDF(151KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000379441.pdf>) / [⑥入札時積算数量書【Excel(35KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000379443.xlsx>) |
 | 福岡県 | [鹿児島運輸支局 庁舎トイレ改修工事](<https://wwwtb.mlit.go.jp/kyushu/content/000379670.pdf>) | 国土交通省九州運輸局 | 2026-08-20 | 2026-09-15 | 必要に応じて工事工程写真及び完成写真を撮影し、現像・整理の上、当局へ提出すること | [②仕様書【PDF(81KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000379439.pdf>) / [③仕様書別添図面【PDF(1829KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000379440.pdf>) / [④入札説明書【PDF(151KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000379441.pdf>) / [⑥入札時積算数量書【Excel(35KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000379443.xlsx>) |
 | 福岡県 | [公共工事設計労務費に係る調査業務 （令和8年8月19日）](<https://www.ur-net.go.jp/orders/kyushu/pdf/order_43893_3.pdf>) | 独立行政法人都市再生機構九州支社 | 2026-08-19 | 2026-09-29 | 、資料収集、要約などの簡易業務・ トレース業務、模型製作、パース作成、写真撮影※記載のない内容を再委託する場合はその作業の質と表の範囲を勘案して判断するものとする | [仕様書\[676KB\]](<https://www.ur-net.go.jp/orders/kyushu/pdf/order_43893_4.pdf>) |

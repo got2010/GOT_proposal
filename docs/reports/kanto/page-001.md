@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-14T07:19+09:00（収集時点）
+最終更新：2026-10-15T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**439件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**441件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 5
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 東京都 | [令和９年度政府広報ラジオ定時番組の制作・放送実施業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 内閣府 | 2026-10-14 | 原文を確認 | 令和9年度政府広報ラジオ定時番組の制作・放送実施業務 | — |
 | 東京都 | [秩父宮記念スポーツ博物館 資料撮影業務](<https://www.jpnsport.go.jp/corp/Portals/0/corp/R8tyoutatsu/20261009_koukoku_museumsatsuei.pdf>) | 独立行政法人日本スポーツ振興センター | 2026-10-09 | 2026-11-09 | 秩父宮記念スポーツ博物館 資料撮影業務 | — |
 | 東京都 | [令和９年毎月勤労統計調査統計調査員用動画作成業務一式](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 厚生労働省 | 2026-10-07 | 2026-10-26 | 令和9年毎月勤労統計調査統計調査員用動画作成業務一式 | — |
 | 東京都 | [令和８年度国民保護共同訓練資機材借上及び撮影等業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 内閣官房 | 2026-09-30 | 原文を確認 | 令和8年度国民保護共同訓練資機材借上及び撮影等業務 | — |
@@ -37,6 +38,7 @@
 | 東京都 | [2027（令和９）年国民生活基礎調査マニュアル動画・広報用動画改修業務一式](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 厚生労働省 | 2026-08-05 | 2026-09-09 | 2027(令和9)年国民生活基礎調査マニュアル動画・広報用動画改修業務一式 | — |
 | 東京都 | [緊急地震速報20周年映像資料の制作](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-29 | 2026-08-19 | 緊急地震速報20周年映像資料の制作 | — |
 | 東京都 | [令和７年度新宿御苑日本館御殿工事（Ⅰ）展示映像撮影業務（総合評価落札方式）](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 環境省 | 2026-07-23 | 2026-08-05 | 令和7年度新宿御苑日本館御殿工事(I)展示映像撮影業務(総合評価落札方式) | — |
+| 埼玉県 | [自転車等の放置防止対策包括業務委託に係る公募型プロポーザルの参加者募集について](<https://www.city.kawaguchi.lg.jp/material/files/group/116/zissiyouryou.pdf>) | 埼玉県川口市 | 2026-10-14 | 2026-11-19 | 札の貼付時及び一定時間経過後の確認時は、専用のシステム端末等で1台ずつ写真を撮影(遠景・近景)し、日時や場所等をシステムに記録する | [別紙1\_仕様書 (PDFファイル: 299.0KB)](<https://www.city.kawaguchi.lg.jp/material/files/group/116/siyoousyo.pdf>) |
 | 東京都 | [令和8年度国家森林資源データベースシステムの運用及びデータ整備等業務(PDF : 228KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/system-718.pdf>) | 林野庁 | 2026-10-13 | 2026-10-28 | 2 閲覧資料については、撮影及び複製を行いません | [入札説明書(PDF : 1,198KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/system-719.pdf>) / [仕様書(PDF : 2,673KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/system-720.pdf>) |
 | 東京都 | [江戸川区河川敷施設維持管理業務委託 事業者選定プロポーザルの実施について](<https://www.city.edogawa.tokyo.jp/documents/30835/edogawakukasenjikishisetsuijikanrigyomuitakuboshuyoko.pdf>) | 東京都江戸川区 | 2026-10-13 | 2026-11-13 | ・清掃後の現場写真を毎月1回撮影し、上記報告書に添付すること | [江戸川区河川敷施設維持管理業務委託仕様書（河川敷グラウンド：運営）（PDF：1,085KB）](<https://www.city.edogawa.tokyo.jp/documents/30835/edogawakukasenjikiijikanrigyomuitakushiyosho-kasenjikiground-unei.pdf>) / [江戸川区河川敷施設維持管理業務委託仕様書（河川敷グラウンド：整備・修繕等）（PDF：222KB）](<https://www.city.edogawa.tokyo.jp/documents/30835/edogawakukasenjikiijikanrigyomuitakushiyosho-kasenjikiground-seibishuzento.pdf>) / [江戸川区河川敷施設維持管理業務委託仕様書（河川敷緑地）（PDF：2,151KB）](<https://www.city.edogawa.tokyo.jp/documents/30835/edogawakukasenjikiijikanrigyomuitakushiyosho-kasenjikiryokuchi.pdf>) |
 | 東京都 | [国立赤城青少年交流の家 建具改修工事](<https://www.niye.go.jp/wp-content/uploads/2026/10/20261013_%E8%B5%A4%E5%9F%8E%E5%BB%BA%E5%85%B701.pdf>) | 独立行政法人国立青少年教育振興機構 | 2026-10-13 | 2026-11-16 | なお、本項に規定していない事項は「工事写真撮影要領(文部科学省大臣官房文教施設企画・防災部参事官)」に準ずる | [入札説明書（PDF/1MB）](<https://www.niye.go.jp/wp-content/uploads/2026/10/20261013_%E8%B5%A4%E5%9F%8E%E5%BB%BA%E5%85%B702.pdf>) / [設計図書（PDF/5MB）](<https://www.niye.go.jp/wp-content/uploads/2026/10/20261013_%E8%B5%A4%E5%9F%8E%E5%BB%BA%E5%85%B703.pdf>) |
@@ -114,7 +116,5 @@
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（浦和白幡団地他２団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44087_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1503KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44087_3.pdf>) / [仕様書\[23410KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44087_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（コンフォール与野本町西団地他４団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44088_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1506KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44088_3.pdf>) / [仕様書\[26563KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44088_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（プラザシティ新所沢けやき通り団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44093_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[18958KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44093_3.pdf>) / [仕様書\[18659KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44093_4.pdf>) |
-| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（西大和団地他４団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44094_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19084KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44094_3.pdf>) / [仕様書\[27227KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44094_4.pdf>) |
-| 神奈川県 | [令和８年度ＤＸリテラシー醸成に向けた学習教材提供業務 （令和8年9月17日）](<https://www.ur-net.go.jp/orders/honsha/pdf/order_44002_3.pdf>) | 独立行政法人都市再生機構本社 | 2026-09-17 | 2026-10-30 | ・問題及び解説の作成にあたっては、動画コンテンツとの対応関係が分かるよう整理し、受講後の復習や職場での対話につなげやすい内容とすること | [仕様書\[241KB\]](<https://www.ur-net.go.jp/orders/honsha/pdf/order_44002_4.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

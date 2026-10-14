@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-14T07:19+09:00（収集時点）
+最終更新：2026-10-15T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**189件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**191件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 京都府 | [精華町要介護認定調査支援システム導入業務に係る公募型プロポーザルの実施について](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesshiyousyo2026.pdf>) | 京都府精華町 | 2026-09-02 | 原文を確認 | 員が本番前にシステム操作等を自習できるテスト環境を用意する、自習できる研修動画等、研修後にユーザが自習できる方法を提案することが望ましい | [参加申請書 (PDFファイル: 57.7KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesssannkamousikomi2026.pdf>) / [参加申請書受付票 (PDFファイル: 20.8KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesssankamousikomisyo2026.pdf>) / [辞退届 (PDFファイル: 49.9KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesszitaihyou2026.pdf>) |
+| 京都府 | [旧京都市公設小売市場に対する建築基準法第12条に基づく点検業務委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/439627.htm>) | 京都府京都市 | 2026-09-01 | 原文を確認 | ※ 「点検場所」欄は、点検様式3-3「関係写真」に添付の写真を撮影した室名等を記載してください | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./439627_12_08271526.pdf>) |
 | 京都府 | [京都市健康管理システム再構築等業務委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/436933.htm>) | 京都府京都市 | 2026-09-01 | 2026-10-09 | たり、研修計画の策定、研修実施に用いる操作マニュアル、研修用テキスト、研修動画等の作成及び利用者からの問合せ対応を行うものとする | [入札公告](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./436933_01_08211648.pdf>) / [入札説明書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./436933_02_08211648.pdf>) / [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./436933_03_08211648.pdf>) / [契約書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./436933_08_08211648.pdf>) |
 | 奈良県 | [庁内マニュアル作成・共有ツール利用及び保守契約に係る一般競争入札](<https://www.city.nara.lg.jp/soshiki/6/273532.html>) | 奈良県奈良市 | 2026-08-31 | 2026-09-30 | (6) マニュアルには任意の画像・動画を取り込み及び編集ができ、作成時にツール内でファイルのアップロード機能を有すること | [庁内マニュアル作成・共有ツール利用及び保守契約に係る一般競争入札 公告文および入札説明書 \[PDFファイル／889KB\]](<https://www.city.nara.lg.jp/uploaded/life/273532_612431_misc.pdf>) / [庁内マニュアル作成・共有ツール利用及び保守契約に係る一般競争入札 書類一式 \[PDFファイル／371KB\]](<https://www.city.nara.lg.jp/uploaded/life/273532_612432_misc.pdf>) |
 | 大阪府 | [郵送期限：9月9日 用地補償総合技術支援業務委託(寝屋川大東線2期)](<https://www.city.kadoma.osaka.jp/material/files/group/40/youryou.pdf>) | 大阪府門真市 | 2026-08-28 | 原文を確認 | その他補償額の算定に必要と認められる事項八 当該設備の概要が把握できる写真の撮影(附帯工作物)第14条 附帯工作物の調査は、附帯工作物調査算定要領(平成24 年3月30 日付け国土用第49号土地・建設産業局地価調査課長通知(以下「附帯工作物要領」という | [仕様書 (PDFファイル: 426.3KB)](<https://www.city.kadoma.osaka.jp/material/files/group/40/shiyousyo.pdf>) / [位置図 (PDFファイル: 387.4KB)](<https://www.city.kadoma.osaka.jp/material/files/group/40/ichizu.pdf>) / [設計書 (PDFファイル: 325.4KB)](<https://www.city.kadoma.osaka.jp/material/files/group/40/sekkeisyo.pdf>) / [様式 (圧縮ファイル: 130.0KB)](<https://www.city.kadoma.osaka.jp/material/files/group/40/youshiki.zip>) |

@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-14T07:19+09:00（収集時点）
+最終更新：2026-10-15T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**232件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**237件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,11 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 秋田県 | [造林事業請負（杉沢地区、地拵・植付）](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yonesiroseibu/zourin_20260722.html>) | 林野庁東北森林管理局米代西部森林管理署 | 2026-07-22 | 2026-08-05 | 出来形管理基準(b) 出来形図面(3) 実行記録写真 (a) 実行記録写真の撮影要領(b) 実行記録写真の撮影と整理4.管理の実施(1) 現場代理人は、作業の実施の都度、その結果を記録するとともに、その結果に基づいて適切な実行管理を行わなければならない | [入札公告(PDF : 237KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yonesiroseibu/./attach/pdf/zourin_20260722-1.pdf>) / [入札説明書(PDF : 471KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yonesiroseibu/./attach/pdf/zourin_20260722-2.pdf>) / [競争参加資格確認申請書及び技術提案書作成要領(PDF : 3,456KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yonesiroseibu/./attach/pdf/zourin_20260722-3.pdf>) / [造林事業請負標準仕様書(PDF : 593KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yonesiroseibu/./attach/pdf/zourin_20260722-4.pdf>) / [入札説明資料(PDF : 458KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yonesiroseibu/./attach/pdf/zourin_20260722-5.pdf>) |
+| 山形県 | [7月21公告（電気AB）格付指定型一般競争入札の公告について 工事名：八久和線トンネル照明設備ボーリング接地工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260721koukokou1.files/20260721koukoku1-1.pdf>) | 山形県鶴岡市 | 2026-07-21 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：3,852KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260721koukokou1.files/20260721koukoku1-2.pdf>) |
+| 青森県 | [造林事業請負（横沢地区）外2](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanpatikamikita/260721.html>) | 林野庁東北森林管理局三八上北森林管理署 | 2026-07-21 | 2026-08-04 | 出来形管理基準(b) 出来形図面(3) 実行記録写真 (a) 実行記録写真の撮影要領(b) 実行記録写真の撮影と整理4.管理の実施(1) 現場代理人は、作業の実施の都度、その結果を記録するとともに、その結果に基づいて適切な実行管理を行わなければならない | [入札公告(PDF : 176KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanpatikamikita/./attach/pdf/260721-1.pdf>) / [入札説明書(PDF : 202KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanpatikamikita/./attach/pdf/260721-2.pdf>) / [競争参加資格確認申請書及び技術提案書作成要領(PDF : 3,118KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanpatikamikita/./attach/pdf/260721-3.pdf>) / [造林事業請負標準仕様書等(PDF : 2,407KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanpatikamikita/./attach/pdf/260721-4.pdf>) / [紙入札方式参加承諾願(PDF : 42KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanpatikamikita/./attach/pdf/260721-5.pdf>) |
+| 秋田県 | [大アザミ沢治山工事](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/akita/20260721oazamisawa.html>) | 林野庁東北森林管理局秋田森林管理署 | 2026-07-21 | 2026-09-01 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [入札公告(PDF : 337KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/akita/./attach/pdf/20260721oazamisawa-1.pdf>) / [1.入札説明書(PDF : 539KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/akita/./attach/pdf/20260721oazamisawa-2.pdf>) / [3.特記仕様書(PDF : 3,011KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/akita/./attach/pdf/20260721oazamisawa-4.pdf>) / [4.現場説明書(PDF : 417KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/akita/./attach/pdf/20260721oazamisawa-5.pdf>) / [6.数量計算書(PDF : 488KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/akita/./attach/pdf/20260721oazamisawa-7.pdf>) |
+| 岩手県 | [【入札公告】令和8年度ドローンによる松くい虫被害木航空調査委託業務](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/100/466/nyuusatukoukoku.pdf>) | 岩手県 | 2026-07-17 | 2026-08-04 | (業務概要)1 ドローン写真撮影(マルチスペクトルカメラによる複数の帯域画像での撮影)2 撮影した写真を用いたオルソ画像、NDVI等画像データの生成3 画像データによる枯損木の位置情報の特定4 森林内での枯損木の現地調査5 ドローン調査業務報告書の作成及び報告(業務目的)本業務は、岩手県における松くい虫被害先端地域等で… | [令和8年度ドローンによる松くい虫被害木航空調査委託業務入札説明書 （PDF 99.5KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/100/466/nyuusatusetumeisho.pdf>) / [令和8年度ドローンによる松くい虫被害木航空調査委託業務仕様書 （PDF 419.3KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/100/466/shiyousho.pdf>) |
 | 青森県 | [（RE-07777)根拠データ取得のための試験片製作及び試験【掲載期間：2026-7-17～2026-8-6】](<https://www.qst.go.jp/uploaded/attachment/52421.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門六ヶ所核融合研究所 | 2026-07-17 | 原文を確認 | (4) QST が立会時に現場の写真撮影の必要性を認めた場合は、受注者の許可の下に、QST が写真撮影できることとする | [仕様書 \[PDFファイル／1.45MB\]](<https://www.qst.go.jp/uploaded/attachment/52423.pdf>) |
 | 秋田県 | [桧原沢治山工事](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kamikoani/20260716hibarasawa.html>) | 林野庁東北森林管理局米代東部森林管理署上小阿仁支署 | 2026-07-17 | 2026-09-01 | れた苗木の規格及び形質を明らかにするため、監督職員の指示により苗木等の写真撮影をしなければならない | [入札公告(PDF : 249KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kamikoani/./attach/pdf/20260716hibarasawa-1.pdf>) / [入札説明書(PDF : 356KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kamikoani/./attach/pdf/20260716hibarasawa-2.pdf>) / [特記仕様書(PDF : 2,133KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kamikoani/./attach/pdf/20260716hibarasawa-5.pdf>) / [現場説明書(PDF : 396KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kamikoani/./attach/pdf/20260716hibarasawa-6.pdf>) / [図面(PDF : 8,346KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kamikoani/./attach/pdf/20260716hibarasawa-7.pdf>) |
 | 青森県 | [社委第35号](<https://www.town.aomori-nanbu.lg.jp/uploaded/attachment/8128.zip>) | 青森県南部町 | 2026-07-17 | 2026-08-12 | 容 出土金属製品の保存処理及び報告書の作成6.参考処理方法1処理前調査写真撮影、遺物本来の形状や内部状態の把握のためにX線透過撮影 | — |

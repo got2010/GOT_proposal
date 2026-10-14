@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-14T07:19+09:00（収集時点）
+最終更新：2026-10-15T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：徳島県 香川県 愛媛県 高知県
 
-**122件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**123件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 高知県 | [(農第08035号)武市溝第3期水路改修工事【7月22日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_nou08035.pdf>) | 高知県香南市 | 2026-07-22 | 2026-08-10 | の処理数量を重さ(「t」)の単位とする場合 等のスケールをあてデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 8.9MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_nou08035-1.pdf>) / [公表単価一覧表 (PDFファイル: 269.4KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_nou08035.pdf>) / [位置図 (PDFファイル: 624.8KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_nou08035.pdf>) / [図面 (PDFファイル: 2.1MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_8nou08035.pdf>) |
 | 高知県 | [(上水第08032号)香我美町山南地区配水管更新工事（2−2工区）【7月22日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_jyousui08032.pdf>) | 高知県香南市 | 2026-07-22 | 2026-08-10 | ト交付番号も記載 荷姿、運搬車のナンバーが写るよう運搬車後面のデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 406.1KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_jyousui08032.pdf>) / [公表単価一覧表 (PDFファイル: 256.9KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_jyousui08032.pdf>) / [位置図 (PDFファイル: 271.7KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_jyousui08032.pdf>) / [図面 (圧縮ファイル: 218.4KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_jyousui08032.zip>) |
 | 愛媛県 | [「まつやま上下水道フェスタ2026」の企画・運営に関する業務委託（公募型プロポーザル方式）（企業総務課）](<https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/suidofesta2026.files/01_boshuyouryou_R8.pdf>) | 愛媛県松山市 | 2026-07-22 | 原文を確認 | 9 発注者が指定するYouTubeに掲載されているPR動画の視聴を促す工夫をすること | [仕様書（PDF：282KB）](<https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/suidofesta2026.files/02_siyousho_R8.pdf>) / [仕様書別紙（PDF：401KB）](<https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/suidofesta2026.files/03_siyoushobessi_R8.pdf>) |
 | 徳島県 | [市道苅屋蛭子ノ本蛭子ノ東線配水管移設工事](<https://www.city.anan.tokushima.jp/docs/2026071400011/file_contents/260721-1.pdf>) | 徳島県阿南市 | 2026-07-21 | 原文を確認 | 受注者は、工事全般にわたって、監督員の指示により、工事過程を段階的に撮影、編集して工事検査の際写真帳として提出しなければならない | [市道苅屋蛭子ノ本蛭子ノ東線配水管移設工事 3.特記仕様書\[PDF：251KB\]](<https://www.city.anan.tokushima.jp/docs/2026071400011/file_contents/260721-1-3.pdf>) / [市道苅屋蛭子ノ本蛭子ノ東線配水管移設工事 4.設計書\[PDF：804KB\]](<https://www.city.anan.tokushima.jp/docs/2026071400011/file_contents/260721-1-4.pdf>) / [市道苅屋蛭子ノ本蛭子ノ東線配水管移設工事 6.位置図\[PDF：108KB\]](<https://www.city.anan.tokushima.jp/docs/2026071400011/file_contents/260721-1-6.pdf>) / [市道苅屋蛭子ノ本蛭子ノ東線配水管移設工事 7.図面\[PDF：242KB\]](<https://www.city.anan.tokushima.jp/docs/2026071400011/file_contents/260721-1-7.pdf>) |

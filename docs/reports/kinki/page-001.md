@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-14T07:19+09:00（収集時点）
+最終更新：2026-10-15T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**189件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**191件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 2
 
@@ -26,6 +26,8 @@
 | 兵庫県 | [宝塚市広報番組制作業務委託に係る公募型プロポーザル](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/boshuyoko.pdf>) | 兵庫県宝塚市 | 2026-08-05 | 原文を確認 | 宝塚市広報番組制作業務委託に係る公募型プロポーザル | [業務仕様書 （PDF 345.9 KB）](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/2_gyomusiyosho.pdf>) / [資料2\_秘密保持等に関する特記仕様書 （PDF 196.0 KB）](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/2_himituhojitounikansurutoltukisiyousho.pdf>) |
 | 京都府 | [令和8年度きょうとプレコン推進事業（幼児期から中学生等を対象とした教育プログラムに係るデザイン・動画作成事業）](<https://www.pref.kyoto.jp/kosodate/news/2026/purecon-sougouhyoka.html>) | 京都府 | 2026-08-03 | 2027-03-31 | 令和8年度きょうとプレコン推進事業(幼児期から中学生等を対象とした教育プログラムに係るデザイン・動画作成事業) | [総合評価競争入札公告（PDF：264KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/01_koukoku.pdf>) / [入札説明書（PDF：228KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/02_nyuusatusetumeisyo_1.pdf>) / [(別紙1)業務委託仕様書（PDF：267KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/03_siyousyo.pdf>) / [(別紙2)企画提案書作成要領（PDF：137KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/03_sakuseiyouryou.pdf>) / [落札者決定基準（PDF：52KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/15_ketteikizyunn.pdf>) |
 | 京都府 | [令和８年度京都市美術館所蔵品撮影業務](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/432372.htm>) | 京都府京都市 | 2026-07-27 | 原文を確認 | 令和8年度京都市美術館所蔵品撮影業務 | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./432372_12_07241115.pdf>) |
+| 兵庫県 | [【制限付一般競争入札】中崎公会堂屋根雨樋等修繕業務 （10月14日発注）](<https://www.city.akashi.lg.jp/documents/40502/20261013_03_koukokubun.pdf>) | 兵庫県明石市 | 2026-10-14 | 原文を確認 | 繕着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、修繕完成時に現状復旧が行われているか確認すること | [共通仕様書（PDF：474KB）](<https://www.city.akashi.lg.jp/documents/40502/20261013_20_kyoutuushiyosyo.pdf>) / [特記仕様書（PDF：188KB）](<https://www.city.akashi.lg.jp/documents/40502/20261013_21_toltukishiyosyo.pdf>) |
+| 大阪府 | [令和8年度近畿環境局管内国立公園タイアップ記事等作成業務](<https://kinki.env.go.jp/content/000434782.pdf>) | 環境省近畿地方環境事務所 | 2026-10-14 | 2026-11-02 | の3国立公園のオンラインプロモーション強化を目的に、タイアップ記事及び動画等を作成し、国立公園ならではの高付加価値な体験や地域の魅力を発信することで、国立公園の誘客を促進するとともに、地域の持続可能な観光の推進及び地域経済の活性化に寄与することを目的するものである | [別紙1\_入札心得\[PDF 172KB\]](<https://kinki.env.go.jp/content/000434783.pdf>) / [別紙2\_業務請負条件\[Word 29KB\]](<https://kinki.env.go.jp/content/000434785.docx>) / [別添1\_契約書（案）\[PDF 195KB\]](<https://kinki.env.go.jp/content/000434786.pdf>) / [別添2\_仕様書\[PDF 217KB\]](<https://kinki.env.go.jp/content/000434787.pdf>) |
 | 奈良県 | [令和8年度自動車騒音常時監視面的評価業務委託の入札(令和8年10月13日公告)](<https://www.city.gojo.lg.jp/material/files/group/25/nyuusatukoukokuR8.pdf>) | 奈良県五條市 | 2026-10-13 | 2026-11-04 | なお測定箇所は、概況が判別できるよう周辺の写真撮影を行い、台帳を整理する | [入札説明書 (PDFファイル: 106.0KB)](<https://www.city.gojo.lg.jp/material/files/group/25/nyuusatusetumeisyoR8.pdf>) / [仕様書 (PDFファイル: 135.7KB)](<https://www.city.gojo.lg.jp/material/files/group/25/shiyousyoR8.pdf>) / [金抜き設計書 (PDFファイル: 84.9KB)](<https://www.city.gojo.lg.jp/material/files/group/25/kinnukisekkeisyoR8.pdf>) |
 | 大阪府 | [令和８年度 こどもつながるＵＲの実現にむけたコミュニティ拠点の活用方策等検討業務 （令和8年10月13日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44265_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-10-13 | 2026-11-30 | の明示できる図表、既往成果等を用いることは支障ないが、本件のために特に作成したCG、詳細図面等を用いることは認めない | [仕様書\[1230KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44265_4.pdf>) |
 | 兵庫県 | [携帯電話回線（モバイルルーター）提供業務](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/B26100903.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-10-09 | 2026-10-29 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |
@@ -114,7 +116,5 @@
 | 兵庫県 | [【制限付一般競争入札】明石市立大久保南小学校屋内運動場2階屋上防水改修修繕（9月4日発注）](<https://www.city.akashi.lg.jp/documents/40342/2026-minamisho-3-011_koukoku.pdf>) | 兵庫県明石市 | 2026-09-04 | 原文を確認 | 場着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、完成時に現状復旧が行われているか確認すること | [仕様書一式（PDF：162KB）](<https://www.city.akashi.lg.jp/documents/40342/2026-minamisho-21-22-siyousho.pdf>) |
 | 京都府 | [令和８年度京都市森林経営管理事業間伐業務（京都集計R7-16ほか）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/440490.htm>) | 京都府京都市 | 2026-09-04 | 原文を確認 | 作業日報(様式4)ウ 業務写真エ その他市長が必要とする書類なお、業務写真については、撮影日、林相、業務内容(測量中、選木前、選木後(マーキングが鮮明に写るようにすること)、保育間伐中、保育間伐後、伐採整理前、伐採整理後)がわかるよう撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./440490_12_08311640.pdf>) |
 | 奈良県 | [R8-koukoku111.pdf](<https://www.city.yamatotakada.nara.jp/material/files/group/14/R8-koukoku111.pdf>) | 奈良県大和高田市 | 2026-09-02 | 2026-09-25 | 年9月2日大和高田市長 堀内 大造1 業務名 令和8年度大和高田市航空写真撮影業務委託2 履行場所 大和高田市全域3 履行期間 契約締結日から令和9年3月23日(火)まで4 業務内容 入札説明書(仕様書)のとおり5 入札参加資格要件 この競争入札に参加することができる者は、次に掲げる要件を全てみたしているものとします | — |
-| 京都府 | [精華町要介護認定調査支援システム導入業務に係る公募型プロポーザルの実施について](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesshiyousyo2026.pdf>) | 京都府精華町 | 2026-09-02 | 原文を確認 | 員が本番前にシステム操作等を自習できるテスト環境を用意する、自習できる研修動画等、研修後にユーザが自習できる方法を提案することが望ましい | [参加申請書 (PDFファイル: 57.7KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesssannkamousikomi2026.pdf>) / [参加申請書受付票 (PDFファイル: 20.8KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesssankamousikomisyo2026.pdf>) / [辞退届 (PDFファイル: 49.9KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesszitaihyou2026.pdf>) |
-| 京都府 | [旧京都市公設小売市場に対する建築基準法第12条に基づく点検業務委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/439627.htm>) | 京都府京都市 | 2026-09-01 | 原文を確認 | ※ 「点検場所」欄は、点検様式3-3「関係写真」に添付の写真を撮影した室名等を記載してください | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./439627_12_08271526.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

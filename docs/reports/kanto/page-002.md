@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-14T07:19+09:00（収集時点）
+最終更新：2026-10-15T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**439件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**441件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 5
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（西大和団地他４団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44094_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19084KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44094_3.pdf>) / [仕様書\[27227KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44094_4.pdf>) |
+| 神奈川県 | [令和８年度ＤＸリテラシー醸成に向けた学習教材提供業務 （令和8年9月17日）](<https://www.ur-net.go.jp/orders/honsha/pdf/order_44002_3.pdf>) | 独立行政法人都市再生機構本社 | 2026-09-17 | 2026-10-30 | ・問題及び解説の作成にあたっては、動画コンテンツとの対応関係が分かるよう整理し、受講後の復習や職場での対話につなげやすい内容とすること | [仕様書\[241KB\]](<https://www.ur-net.go.jp/orders/honsha/pdf/order_44002_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（港北ニュータウン プロムナード仲町台団地他２団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44057_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（神奈川地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19269KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44057_3.pdf>) / [仕様書\[19792KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44057_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（港北ニュータウン コンフォール東山田団地他２団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44058_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（神奈川地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19261KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44058_3.pdf>) / [仕様書\[19377KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44058_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（中山駅前ハイツ団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44059_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（神奈川地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19026KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44059_3.pdf>) / [仕様書\[18933KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44059_4.pdf>) |
@@ -114,7 +116,5 @@
 | 埼玉県 | [さいたま市岩槻人形博物館 企画展（雛）広報物製作等業務の入札情報](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133638_d/fil/kokuji.pdf>) | 埼玉県さいたま市 | 2026-09-09 | 2026-09-16 | また印刷物用の撮影業務も行う | [入札説明書（PDF形式 146キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133638_d/fil/setumeiyo.pdf>) / [仕様書（PDF形式 803キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133638_d/fil/siyousyo.pdf>) |
 | 埼玉県 | [公園緑地課：【第469号】大池親水公園水浄化施設維持管理業務委託](<https://www.city.kasukabe.lg.jp/jigyoshamuke/nyusatsu_keiyaku/nyusatsukokokuichiran/50/38100.html>) | 埼玉県春日部市 | 2026-09-09 | 2026-10-01 | (写真撮影)第4条 作業写真は作業着手前、作業実施中、作業完了後の状態が確認できるように撮影すること | [仕様書(PDFファイル:991.5KB)](<https://www.city.kasukabe.lg.jp/material/files/group/40/R8siyousyo2.pdf>) |
 | 群馬県 | [水沼地区有害鳥獣（ニホンジカ）の誘引捕獲委託事業（R7当初明許）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/20260909-0223-02.html>) | 林野庁関東森林管理局群馬森林管理署 | 2026-09-09 | 2027-02-26 | (2) 捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [入札公告(PDF : 862KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-1.pdf>) / [入札説明書(PDF : 1,245KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-2.pdf>) / [共通仕様書(PDF : 1,005KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-4.pdf>) / [特記仕様書(PDF : 464KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-5.pdf>) / [実施箇所位置図(PDF : 1,513KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-6.pdf>) |
-| 群馬県 | [倉渕・細野地区有害鳥獣（二ホンジカ）の誘引捕獲委託事業（R7当初明許）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/20260909-0223-01.html>) | 林野庁関東森林管理局群馬森林管理署 | 2026-09-09 | 2027-02-26 | (2) 捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [入札公告(PDF : 908KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-01-4.pdf>) / [入札説明書(PDF : 1,313KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-01-5.pdf>) / [共通仕様書(PDF : 1,005KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-01-7.pdf>) / [特記仕様書(PDF : 463KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-01-1.pdf>) / [実施箇所位置図(PDF : 1,139KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-01-2.pdf>) |
-| 茨城県 | [【電子入札】【電子契約】負圧計、排気流量計及び風速計の定期点検](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01333.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-09-09 | 2026-10-26 | 7 写真を撮影し、作業報告書に添付すること | — |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

@@ -2,20 +2,22 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-14T07:19+09:00（収集時点）
+最終更新：2026-10-15T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**199件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**201件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
-## 一覧 2 / 2
+## 一覧 2 / 3
 
-[この地域の目次](README.md) ｜ [前の100件](page-001.md)
+[この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 岡山県 | [令和8年度地すべり災害新技術点検手法検討調査業務](<https://www.maff.go.jp/chushi/nyusatsu/ekimu/attach/pdf/index-401.pdf>) | 農林水産省中国四国農政局 | 2026-08-20 | 原文を確認 | (1)作業計画 一式(2)UAV写真・動画撮影 0.045km2×4通り(3)UAV写真点群測量 0.045km2×4通り(4)UAVレーザ測量 0.045km2(5)三次元標高モデル解析 0.045km2(6)三次元標高モデル差分解析 0.045km2×3セット(7)実証調査結果取りまとめ 一式(8)報告書の作成 一… | [仕様書(PDF : 2,699KB)](<https://www.maff.go.jp/chushi/nyusatsu/ekimu/attach/pdf/index-403.pdf>) |
+| 広島県 | [広島市立学校窓ガラス等清掃業務（安佐北区）](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012100101.pdf>) | 広島県広島市 | 2026-08-18 | 2026-09-29 | 受注者は、業務実施に際し、建物(1棟)ごとに1箇所以上の清掃作業中の写真を撮影するものとする | [05 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012100105.pdf>) / [06 仕様書別紙1，別紙2](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012100106.pdf>) |
 | 広島県 | [広島市立学校窓ガラス等清掃業務（西区・広瀬小学校）](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012200101.pdf>) | 広島県広島市 | 2026-08-18 | 2026-09-29 | 受注者は、業務実施に際し、建物(1棟)ごとに1箇所以上の清掃作業中の写真を撮影するものとする | [05 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012200105.pdf>) / [06 仕様書別紙](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012200106.pdf>) |
 | 広島県 | [広島市立学校窓ガラス等清掃業務（佐伯区（石内北小学校を除く。））](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012500101.pdf>) | 広島県広島市 | 2026-08-18 | 2026-09-29 | 受注者は、業務実施に際し、建物(1棟)ごとに1箇所以上の清掃作業中の写真を撮影するものとする | [05 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012500105.pdf>) / [06 仕様書別紙](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012500106.pdf>) |
 | 広島県 | [広島市立学校窓ガラス等清掃業務（東区・安芸区）](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012700101.pdf>) | 広島県広島市 | 2026-08-18 | 2026-09-29 | 受注者は、業務実施に際し、建物(1棟)ごとに1箇所以上の清掃作業中の写真を撮影するものとする | [05 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012700105.pdf>) / [06 仕様書別紙](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012700106.pdf>) |
@@ -114,6 +116,5 @@
 | 広島県 | [2号7-108-120下三永3号線道路改良工事.pdf(PDFファイル:93.2KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-120.pdf>) | 広島県東広島市 | 2026-07-13 | 2026-07-31 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-120(PDFファイル:1.8MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_7-108-120.pdf>) |
 | 広島県 | [【公告】安芸高田市役所本庁第一庁舎改修工事](<https://www.akitakata.jp/akitakata-media/filer_public/0b/57/0b57ccec-f088-4f06-a5e8-0677334fcea2/koukoku-bun-aki-takadashi-yakusho-honchou-daiichi-chousha-kaishuukouji.pdf>) | 広島県安芸高田市 | 2026-07-13 | 原文を確認 | 隣接した場所に影響する施設がある場合は,その建物管理者立会のうえ,現状写真を撮影し,整理した写真を一部現場事務所に保管すること | [【仕様書】安芸高田市役所本庁第一庁舎改修工事.zip](<https://www.akitakata.jp/akitakata-media/filer_public/87/cc/87cc2798-118e-46fe-a0f9-0ca4dec56b1c/shiyousho-aki-takadashi-yakusho-honchou-daiichi-chousha-kaishuukouji.zip>) |
 | 広島県 | [【公告】旧小田東保育所解体工事](<https://www.akitakata.jp/akitakata-media/filer_public/d7/27/d7275853-6d3c-41ee-a04d-0da16d2a6906/koukoku-bun-kyuu-oda-higashi-hoikusho-kaitai-kouji.pdf>) | 広島県安芸高田市 | 2026-07-13 | 原文を確認 | 隣接した場所に影響する施設がある場合は,その建物管理者立会のうえ,現状写真を撮影し,整理した写真を一部現場事務所に保管すること | [【仕様書】旧小田東保育所解体工事.zip](<https://www.akitakata.jp/akitakata-media/filer_public/17/16/1716fe4b-583e-4228-ba78-d5ce62248248/shiyousho-kyuu-oda-higashi-hoikusho-kaitai-kouji.zip>) |
-| 広島県 | [【公告】八千代フォルテ大ホール空調改修工事](<https://www.akitakata.jp/akitakata-media/filer_public/c3/aa/c3aa8995-f184-4726-8c02-175eda94313a/koukoku-bun-yachiyo-forute-dai-ho-ru-kuuchou-kaishuukouji.pdf>) | 広島県安芸高田市 | 2026-07-13 | 原文を確認 | 隣接した場所に影響する施設がある場合は,その建物管理者立会のうえ,現状写真を撮影し,整理した写真を一部現場事務所に保管すること | [【仕様書】八千代フォルテ大ホール空調改修工事.zip](<https://www.akitakata.jp/akitakata-media/filer_public/d6/fe/d6feceec-b1ed-48d1-8831-dcba26c7e525/shiyousho-yachiyo-forute-dai-ho-ru-kuuchou-kaishuukouji.zip>) |
 
-[この地域の目次](README.md) ｜ [前の100件](page-001.md)
+[この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

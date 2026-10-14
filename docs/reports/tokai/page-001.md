@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-14T07:19+09:00（収集時点）
+最終更新：2026-10-15T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：岐阜県 静岡県 愛知県 三重県
 
-**104件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**107件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 2
 
@@ -19,6 +19,9 @@
 | 岐阜県 | [令和8年度地方創生SDGsワークスタイル情報発信動画制作・広告出稿業務委託に関する一般競争入札公告](<https://www.pref.gifu.lg.jp/uploaded/life/516685_2972474_misc.pdf>) | 岐阜県 | 2026-09-09 | 2026-09-18 | 令和8年度地方創生SDGsワークスタイル情報発信動画制作・広告出稿業務委託に関する一般競争入札公告 | — |
 | 岐阜県 | [令和8年度地方創生SDGsワークスタイル情報発信動画制作・広告出稿業務委託に関する一般競争入札公告](<https://www.pref.gifu.lg.jp/uploaded/life/516416_2970143_misc.pdf>) | 岐阜県 | 2026-09-07 | 2026-09-18 | 令和8年度地方創生SDGsワークスタイル情報発信動画制作・広告出稿業務委託に関する一般競争入札公告 | — |
 | 静岡県 | [R8年度熱海市・三島市・函南町航空写真共同撮影業務委託](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-kokoku.pdf>) | 静岡県熱海市 | 2026-08-13 | 原文を確認 | R8年度熱海市・三島市・函南町航空写真共同撮影業務委託 | [設計書 （PDF 228.3KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-sekkei1.pdf>) / [仕様書 （PDF 319.9KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-siyou1.pdf>) / [仕様書別添1 （PDF 490.6KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-siyou2.pdf>) / [仕様書別添2 （PDF 563.5KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-siyou3.pdf>) / [仕様書別添3 （PDF 5.6MB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-siyou4.pdf>) |
+| 岐阜県 | [契公下第20号 原黒岩幹線27管更生工事 (圧縮ファイル: 6.2MB)](<https://www.city.ena.lg.jp/material/files/group/3/20261014kouge20.zip>) | 岐阜県恵那市 | 2026-10-14 | 2026-10-20 | 6.作業記録写真受注者は、次の各項に従って、作業記録写真を撮影し、作業完了時には、工種ごとに工程順に編集したものを、作業記録写真帳に整理し、完成届に添付して監督員に提出すること | — |
+| 岐阜県 | [契公下第19号 原黒岩準幹線44-1ほか管更生工事 (圧縮ファイル: 3.5MB)](<https://www.city.ena.lg.jp/material/files/group/3/20261014kouge19.zip>) | 岐阜県恵那市 | 2026-10-14 | 2026-10-20 | 6.作業記録写真受注者は、次の各項に従って、作業記録写真を撮影し、作業完了時には、工種ごとに工程順に編集したものを、作業記録写真帳に整理し、完成届に添付して監督員に提出すること | — |
+| 愛知県 | [R09-名古屋住まいセンター消防用設備点検等業務（その1) （令和8年10月14日）](<https://www.ur-net.go.jp/orders/central/pdf/order_44273_3.pdf>) | 独立行政法人都市再生機構中部支社 | 2026-10-14 | 2027-01-20 | に規定する消防設備士でなくても行える軽微な整備ホ 記録方法については、写真撮影(着手前後)による記録も行う | [仕様書\[15775KB\]](<https://www.ur-net.go.jp/orders/central/pdf/order_44273_4.pdf>) |
 | 三重県 | [ふるさと津かがやき寄附事業運営業務に係るプロポーザルの実施](<https://www.info.city.tsu.mie.jp/_res/projects/default_project/_page_/001/013/995/koukoku1.pdf>) | 三重県津市 | 2026-10-09 | 2026-11-13 | 5品提供事業者の魅力等が寄附者に伝わるようにするとともに、見栄えの良い写真の撮影及び加工など、寄附者に選ばれやすい返礼品となるよう、返礼品提供事業者と調整の上、ポータルサイト上の掲載情報を充実させること | [プロポーザル実施要領 (PDF 143.9KB)](<https://www.info.city.tsu.mie.jp/_res/projects/default_project/_page_/001/013/995/youryou.pdf>) / [ふるさと津かがやき寄附事業運営業務仕様書 (PDF 124.8KB)](<https://www.info.city.tsu.mie.jp/_res/projects/default_project/_page_/001/013/995/shiyousyo.pdf>) |
 | 三重県 | [令和8年度 北部公民館避難階段設置工事](<https://www.town.kisosaki.lg.jp/cmsfiles/contents/0000003/3204/84_koukoku.pdf>) | 三重県木曾岬町 | 2026-10-09 | 原文を確認 | 営繕工事写真撮影要領(国土交通省大臣官房官庁営繕部 (令和5年版))に従い撮影すること | [一般競争入札参加説明書 (PDF形式、134.83KB)](<https://www.town.kisosaki.lg.jp/cmsfiles/contents/0000003/3204/84_setsumeisho.pdf>) / [参考資料 (PDF形式、1.29MB)](<https://www.town.kisosaki.lg.jp/cmsfiles/contents/0000003/3204/84_sankoushiryou.pdf>) / [図面 (PDF形式、2.79MB)](<https://www.town.kisosaki.lg.jp/cmsfiles/contents/0000003/3204/84_zumen_tokkishiyousho.pdf>) / [位置図 (PDF形式、604.44KB)](<https://www.town.kisosaki.lg.jp/cmsfiles/contents/0000003/3204/84_ichizu.pdf>) |
 | 岐阜県 | [生環委第26号](<https://www.city.kaizu.lg.jp/shisei/cmsfiles/contents/0000004/4837/20261008_seikani26_05koukoku.pdf>) | 岐阜県海津市 | 2026-10-08 | 2026-10-15 | の提出が妥当でない業務(積算事務、現場技術事務、広報用の映画作成や航空写真撮影等)及び補償調査業務は対象外とする | [業務箇所図 (PDF形式、259.10KB)](<https://www.city.kaizu.lg.jp/shisei/cmsfiles/contents/0000004/4837/20261008_seikani26_02kashozu.pdf>) / [仕様書別紙 (PDF形式、151.28KB)](<https://www.city.kaizu.lg.jp/shisei/cmsfiles/contents/0000004/4837/20261008_seikani26_03siyousho.pdf>) / [業務カルテ特記仕様書 (PDF形式、160.97KB)](<https://www.city.kaizu.lg.jp/shisei/cmsfiles/contents/0000004/4837/20261008_seikani26_04tokki.pdf>) / [設計書 (エクセル形式、49.26KB)](<https://www.city.kaizu.lg.jp/shisei/cmsfiles/contents/0000004/4837/20261008_seikani26_01sekkei.xlsx>) |
@@ -113,8 +116,5 @@
 | 岐阜県 | [令和8年度下水道舗装復旧工事](<https://www.city.kani.lg.jp/secure/30312/1-54koukoku.pdf>) | 岐阜県可児市 | 2026-07-22 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 8894KB)](<https://www.city.kani.lg.jp/secure/30312/1-54siyousyo.pdf>) |
 | 岐阜県 | [広見東地区センター外部改修工事](<https://www.city.kani.lg.jp/secure/30311/1-53koukoku.pdf>) | 岐阜県可児市 | 2026-07-22 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 3869KB)](<https://www.city.kani.lg.jp/secure/30311/1-53siyouryo.pdf>) |
 | 岐阜県 | [令和８年度 愛岐ケ丘地内上水道舗装復旧工事](<https://www.city.kani.lg.jp/secure/30310/1-52koukoku.pdf>) | 岐阜県可児市 | 2026-07-22 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 2092KB)](<https://www.city.kani.lg.jp/secure/30310/1-52siyousyo.pdf>) |
-| 岐阜県 | [長山系基幹管路（羽崎～緑ケ丘）布設替その２工事](<https://www.city.kani.lg.jp/secure/30309/1-51koukoku.pdf>) | 岐阜県可児市 | 2026-07-22 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 2754KB)](<https://www.city.kani.lg.jp/secure/30309/1-51siyousyo.pdf>) |
-| 岐阜県 | [08水下第167号特環 新平湯処理区旧福地浄化センター解体工事](<https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/023/837/08suige167.pdf>) | 岐阜県高山市 | 2026-07-21 | 2026-08-04 | 負者は、必要に応じて付近の地盤沈下の状況、近隣建物の状況を調査・記録・写真撮影し事後に備えること | [08suige167 （zip 2.6MB）](<https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/023/837/08suige167.zip>) |
-| 静岡県 | [令和8年度 公共下水道管渠点検業務委託 入札](<https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/016/732/koukokubun.pdf>) | 静岡県磐田市 | 2026-07-16 | 2026-07-29 | 12. 作業記録写真受注者は、次の各項に従って、点検記録写真を撮影し、作業完了時には、工種ごと4に工程順に編集したものを、点検記録写真帳に整理し、業務完了届出書に添付して監督員に提出すること | [仕様書 （PDF 535.9KB）](<https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/016/732/shiyousho.pdf>) / [設計書 （PDF 2.7MB）](<https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/016/732/sextukeisho.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

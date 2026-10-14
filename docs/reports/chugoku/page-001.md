@@ -2,15 +2,15 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-14T07:19+09:00（収集時点）
+最終更新：2026-10-15T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**199件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**201件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
-## 一覧 1 / 2
+## 一覧 1 / 3
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)
 
@@ -18,6 +18,8 @@
 |---|---|---|---|---|---|---|
 | 岡山県 | [中国職業能力開発大学校広報用動画の制作業務について（中国能開大） (PDF 191 KB)](<https://www.jeed.go.jp/location/shibu/okayama/q2k4vk000002zr26-att/aj91gk0000005fjm.pdf>) | 独立行政法人高齢・障害・求職者雇用支援機構岡山支部 | 2026-09-11 | 2026-09-18 | 中国職業能力開発大学校広報用動画の制作業務について(中国能開大) (PDF 191 KB) | — |
 | 岡山県 | [令和８年度岡山市固定資産航空写真撮影業務委託](<https://keiyaku.city.okayama.jp/webftp/itaku/2026025875.pdf>) | 岡山県岡山市 | 2026-09-01 | 原文を確認 | 令和8年度岡山市固定資産航空写真撮影業務委託 | [1](<https://keiyaku.city.okayama.jp/webftp/itaku/2026025875_1.zip>) |
+| 岡山県 | [奈義町公共施設等LED化業務公募型プロポーザルの実施について](<https://www.town.nagi.okayama.jp/gyousei/nourin_jigyousha/nyusatsu_keiyaku/nyusatsujouhou/documents/jiltushiyouryou.pdf>) | 岡山県奈義町 | 2026-10-14 | 2026-11-02 | 図面の写真撮影、デジタル化は可とする | [仕様書（PDF：396KB）](<https://www.town.nagi.okayama.jp/gyousei/nourin_jigyousha/nyusatsu_keiyaku/nyusatsujouhou/documents/siyousyo.pdf>) |
+| 鳥取県 | [汐川前国有林松くい虫防除事業](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/tottori/20261014_2.html>) | 林野庁近畿中国森林管理局鳥取森林管理署 | 2026-10-14 | 2026-11-20 | 4 実行記録写真は、造林事業請負実行管理基準に定める実行記録写真の撮影要領に基づき撮影することとするが、一連の記録写真は契約の記番毎に1箇所以上撮影するものとする | [入札公告(PDF : 148KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/tottori/attach/pdf/20261014_2-1.pdf>) / [入札説明書(PDF : 194KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/tottori/attach/pdf/20261014_2-2.pdf>) / [閲覧図書(PDF : 1,562KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/tottori/attach/pdf/20261014_2-3.pdf>) |
 | 広島県 | [中央公民館長寿命化改修工事（その１）（建築主体工事）](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/167013.pdf>) | 広島県三原市 | 2026-10-13 | 2026-11-09 | ・完成写真(竣工写真)の撮影を外注する場合は、撮影データを三原市が利用することについての承諾書を提出す ること | [仕様書等](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/167043.pdf>) |
 | 広島県 | [吉島ポンプ場自家発電設備用燃料貯蔵地下タンク修理](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640110800104.pdf>) | 広島県広島市 | 2026-10-09 | 原文を確認 | 提出について(1)本修繕においては、別に定める「下水道用機械・電気設備写真撮影要領」に準じ撮影し、修繕完了時に提出すること | [05 図面](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640110800105.pdf>) |
 | 広島県 | [浅野文庫等施設（仮称）整備に伴う発掘調査業務](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640112000101.pdf>) | 広島県広島市 | 2026-10-06 | 2026-10-21 | 含層の掘削カ 遺構の検出キ 遺構掘削ク 排土処理等ケ 遺構記録(実測・写真撮影等)コ 遺物の取扱いサ 現地説明会の実施シ 調査記録の一次整理ス 基礎整理作業セ 自然科学分析ソ 成果品の作成・整理及び出土品等の整理・引渡しタ 発掘作業員の雇用・管理、現場事務所等の設置・撤去、安全対策・管理等チ その他、本業務の目的を達成… | [03 特記仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640112000103.pdf>) |
@@ -114,7 +116,5 @@
 | 岡山県 | [令和８年度大久野島ビジターセンターグラフィック等制作業務（再度公告）](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 環境省 | 2026-08-20 | 2026-09-18 | 写真の調達 一式4) グラフィック(イラスト、テキスト含む)データの制作一式5) アニメーションの制作 一式6) 実施設計図の作成 一式2 報告書の作成 一式(3) 履行期間 契約締結の翌日~令和9年3月26日(4) 本業務は、技術提案を受け付け、価格以外の要素と価格を総合的に評価して落札者を決定する総合評価落札方式の… | — |
 | 広島県 | [移動通信システム撤去工事（令和8年8月20日～令和8年9月3日）](<https://www.chugokushikoku.npa.go.jp/kaikei/ippan/file/hiroshima/nyusatu-koukoku-080820.pdf>) | 国家公安委員会（警察庁）中国四国管区警察局 | 2026-08-20 | 2026-09-04 | (特定資料並びに特定物件の複製及び写真撮影)第6条 乙は、主たる契約に定められている場合を除き、特定資料を複製し又は 特定物件の見取図、試験成績表等の製作若しくは写真撮影をしようとするとき は、あらかじめ甲の許可を受けるものとする | — |
 | 広島県 | [移動通信システム撤去工事（令和8年8月20日～令和8年9月3日）](<https://www.chugokushikoku.npa.go.jp/kaikei/ippan/file/hiroshima/nyusatu-koukoku-080820.pdf>) | 国家公安委員会（警察庁）中国管区警察局 | 2026-08-20 | 2026-09-04 | (特定資料並びに特定物件の複製及び写真撮影)第6条 乙は、主たる契約に定められている場合を除き、特定資料を複製し又は 特定物件の見取図、試験成績表等の製作若しくは写真撮影をしようとするとき は、あらかじめ甲の許可を受けるものとする | — |
-| 岡山県 | [令和8年度地すべり災害新技術点検手法検討調査業務](<https://www.maff.go.jp/chushi/nyusatsu/ekimu/attach/pdf/index-401.pdf>) | 農林水産省中国四国農政局 | 2026-08-20 | 原文を確認 | (1)作業計画 一式(2)UAV写真・動画撮影 0.045km2×4通り(3)UAV写真点群測量 0.045km2×4通り(4)UAVレーザ測量 0.045km2(5)三次元標高モデル解析 0.045km2(6)三次元標高モデル差分解析 0.045km2×3セット(7)実証調査結果取りまとめ 一式(8)報告書の作成 一… | [仕様書(PDF : 2,699KB)](<https://www.maff.go.jp/chushi/nyusatsu/ekimu/attach/pdf/index-403.pdf>) |
-| 広島県 | [広島市立学校窓ガラス等清掃業務（安佐北区）](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012100101.pdf>) | 広島県広島市 | 2026-08-18 | 2026-09-29 | 受注者は、業務実施に際し、建物(1棟)ごとに1箇所以上の清掃作業中の写真を撮影するものとする | [05 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012100105.pdf>) / [06 仕様書別紙1，別紙2](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202650012100106.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)
