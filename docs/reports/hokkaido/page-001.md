@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-15T07:20+09:00（収集時点）
+最終更新：2026-10-16T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：北海道
 
-**47件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**51件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 1
 
@@ -16,8 +16,12 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 北海道 | [６４７０２ 落石漁港外３港航空写真撮影](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-10-15 | 原文を確認 | 64702 落石漁港外3港航空写真撮影 | — |
+| 北海道 | [64702 落石漁港外3港航空写真撮影 (PDF:348KB)](<https://www.hkd.mlit.go.jp/ks/keiyaku/qgmend0000002uuv-att/qk1q5400000004on.pdf>) | 国土交通省北海道開発局釧路開発建設部 | 2026-10-15 | 2026-11-05 | 64702 落石漁港外3港航空写真撮影 (PDF:348KB) | — |
 | 北海道 | [サロマ湖漁港外航空写真撮影 (PDF:545KB)](<https://www.hkd.mlit.go.jp/ab/keiyaku/k232su0000000a80-att/s27mdu0000001gqh.pdf>) | 国土交通省北海道開発局網走開発建設部 | 2026-08-10 | 2026-09-02 | サロマ湖漁港外航空写真撮影 (PDF:545KB) | — |
 | 北海道 | [一般競争入札の実施（令和８年度(2026年度)農業DX人材育成プログラム動画制作・配信委託業務）](<https://www.pref.hokkaido.lg.jp/sm/kmc/265624.html>) | 北海道 | 2026-07-24 | 原文を確認 | 一般競争入札の実施(令和8年度(2026年度)農業DX人材育成プログラム動画制作・配信委託業務) | [北海道告示第11230号（入札の公告） (PDF 129KB)](<https://www.pref.hokkaido.lg.jp/fs/1/3/1/8/6/2/9/0/_/%E5%8C%97%E6%B5%B7%E9%81%93%E5%91%8A%E7%A4%BA%E7%AC%AC11230%E5%8F%B7.pdf>) / [関係書類 (ZIP 1.32MB)](<https://www.pref.hokkaido.lg.jp/fs/1/3/1/8/6/2/9/1/_/%E9%96%A2%E4%BF%82%E8%B3%87%E6%96%99%E4%B8%80%E5%BC%8F.zip>) |
+| 北海道 | [当別町新庁舎建設事業業務委託公募型プロポーザルの実施について](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31716.pdf>) | 北海道当別町 | 2026-10-15 | 2027-02-19 | 築、運営、災害対応及び後継事業のため無償で利用、複製、改変できる写真・映像・報告書作成者に帰属 | [想定規模からの法定点検一覧 \[PDFファイル／46KB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31699.pdf>) / [公募型プロポーザル基本方針(20261009追加) \[PDFファイル／1月01日MB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31697.pdf>) / [公募型プロポーザル提案説明書(20260924修正済) \[PDFファイル／408KB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31588.pdf>) / [基本協定書（案）(20261009修正済) \[PDFファイル／207KB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31698.pdf>) / [譲渡特約付き賃貸借契約書（案） \[PDFファイル／296KB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31590.pdf>) |
+| 北海道 | [一般競争入札の実施（令和8年度（2026年度）HOKKAIDO WOOD 展示交流会企画運営委託業務）【210-2】](<https://www.pref.hokkaido.lg.jp/sm/kmc/272503.html>) | 北海道 | 2026-10-15 | 原文を確認 | 日 運営補助(交流会ファシリテーター)研究員D @ 円 × 1 人 動画編集研究員F @ 円 × 0 人研究員D @ 円 × 1 人 報告書等資料の作成、課題等の分析研究員F @ 円 × 1 人 実施結果とりまとめ、資料作成補助直接人件費区 分 項 目 数量小計展示交流会準備講演動画作成展示交流会当日報告書作成No.2… | [北海道告示第11534号（入札の公告） (PDF 135KB)](<https://www.pref.hokkaido.lg.jp/fs/1/3/2/2/9/7/0/8/_/%E5%85%A5%E6%9C%AD%E3%81%AE%E5%85%AC%E5%91%8A%28%E5%8C%97%E6%B5%B7%E9%81%93%E5%91%8A%E7%A4%BA%E7%AC%AC11534%E5%8F%B7%29.pdf>) / [入札関係書類 (ZIP 173KB)](<https://www.pref.hokkaido.lg.jp/fs/1/3/2/2/9/7/1/3/_/02_%E5%85%A5%E6%9C%AD%E9%96%A2%E4%BF%82%E8%B3%87%E6%96%99.zip>) / [【参考資料】設計書 (PDF 203KB)](<https://www.pref.hokkaido.lg.jp/fs/1/3/2/2/9/7/4/6/_/03-2-5_%E3%80%90%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99%E3%80%91%E8%A8%AD%E8%A8%88%E6%9B%B8%28R8HW%E5%B1%95%E7%A4%BA%E4%BA%A4%E6%B5%81%E4%BC%9A%29_%E9%96%B2%E8%A6%A7%E7%94%A8.pdf>) / [契約関係書類（事業者に対する留意事項） (PDF 481KB)](<https://www.pref.hokkaido.lg.jp/fs/1/3/2/2/9/7/5/2/_/03-3_%E4%BA%8B%E6%A5%AD%E8%80%85%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E7%95%99%E6%84%8F%E4%BA%8B%E9%A0%85.pdf>) |
 | 北海道 | [令和8年度北海道森林管理局庁舎構内除雪及び排雪業務（単価契約）ほか3件について（オープンカウンター方式による見積合わせ）](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/keiri/attach/pdf/261014-1.pdf>) | 林野庁北海道森林管理局 | 2026-10-14 | 原文を確認 | でとし、作業実施前及び作業終了後に積雪状況が確認(測尺等による)できる写真を撮影し監督職員に提出すること | [仕様書等(PDF : 3,792KB)](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/keiri/attach/pdf/261014-2.pdf>) |
 | 北海道 | [令和8年度空知森林管理署3条東地区宿舎14号棟及び15号棟給湯機更新工事（オープンカウンター方式による見積合わせ）](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/sorati/attach/pdf/261013-1.pdf>) | 林野庁北海道森林管理局 | 2026-10-13 | 原文を確認 | ・ 受注者は当該工事の施工にあたって、各種工事区分毎に施工前と施工後の写真撮影により管理し、発注者に提出すること | [仕様書等(PDF : 772KB)](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/sorati/attach/pdf/261013-2.pdf>) |
 | 北海道 | [当別町新庁舎建設事業業務委託公募型プロポーザルの実施について](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31699.pdf>) | 北海道当別町 | 2026-10-09 | 2027-02-19 | 築、運営、災害対応及び後継事業のため無償で利用、複製、改変できる写真・映像・報告書作成者に帰属 | [公募型プロポーザル基本方針(20261009追加) \[PDFファイル／1月01日MB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31697.pdf>) / [公募型プロポーザル提案説明書(20260924修正済) \[PDFファイル／408KB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31588.pdf>) / [基本協定書（案）(20261009修正済) \[PDFファイル／207KB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31698.pdf>) / [譲渡特約付き賃貸借契約書（案） \[PDFファイル／296KB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31590.pdf>) / [事業契約書（案）\_その他 \[PDFファイル／1.32MB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31495.pdf>) |

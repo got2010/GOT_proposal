@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-15T07:20+09:00（収集時点）
+最終更新：2026-10-16T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**441件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**445件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 4 / 5
 
@@ -16,6 +16,10 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 茨城県 | [【電子入札】【電子契約】令和8年度 JMTR炉室給排気プロセス計装設備点検整備](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01193.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-08-20 | 2026-10-15 | (10)構内の写真等撮影は、許可を受けた場合以外は原則として禁止する | — |
+| 茨城県 | [【電子入札】【電子契約】UF非常用発電設備機器更新作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03222.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-08-20 | 2026-10-13 | 2.10 作業報告書及び写真撮影(1) 作業報告書1 作業結果の各項目、測定結果に対して、異常の有無の判定を記載すること | — |
+| 東京都 | [令和８年度皇居外苑和田倉休憩所トイレ塗装等改修工事（再度公告）](<https://www.env.go.jp/garden/kokyogaien/4_sup/2022/sup_00143.html>) | 環境省皇居外苑 | 2026-08-18 | 2026-09-14 | サルデザイン 皇居ラン(マラソン)について 個人撮影について メディア取材、撮影について 駐車場について 校外学習について 団体利用について 案内板等設置等について 調達情報 フォトアルバム リンク集 国民公園一覧 皇居外苑 京都御苑 新宿御苑 千鳥ケ淵戦没者墓苑 環境省(法人番号1000012110001)皇居外苑管… | [入札説明書](<https://www.env.go.jp/garden/content/000423127.pdf>) / [別記様式](<https://www.env.go.jp/garden/content/000423129.doc>) / [特記仕様書等](<https://www.env.go.jp/garden/content/000423128.pdf>) |
+| 東京都 | [令和８年度安全保障国際シンポジウム及び国際安全保障コロキアム開催に 係る運営業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 防衛省 | 2026-08-18 | 原文を確認 | また、直近1年間のウェビナー及び動画の撮影・編集を伴う会議(ウェビナー参加人数10 0人以上、日英同時通訳のもの)運営に係る複数回の実績を有すること | — |
 | 神奈川県 | [令和8年度 市内遺跡出土文化財整理作業業務委託](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukou_isekisyutudoseirisagyo.pdf>) | 神奈川県逗子市 | 2026-08-18 | 2026-09-02 | h)写真撮影写真撮影には原則として35ミリ一眼レフ以上のカメラ及びモノクロフィルム(ISO100)を用い、出土遺物の内、外面を個別に撮影する | [01\_仕様書 （PDF 1.7 MB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8siyo_isekisyutudoseirisagyo.pdf>) |
 | 東京都 | [%E2%96%B62026.08.17\_%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A9\_%E9%AB%98%E6%84%9F%E5%BA%A6%E3%83%BB%E9%AB%98%E6%B7%B1%E5%BA%A6%E8%B3%AA%E9%87%8F%E5%88%86%E6%9E%90%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%20%E4%B8%80%E5%BC%8F.pdf](<https://www.tmd.ac.jp/archive-tmdu/zaimukeiyaku/%E2%96%B62026.08.17_%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A9_%E9%AB%98%E6%84%9F%E5%BA%A6%E3%83%BB%E9%AB%98%E6%B7%B1%E5%BA%A6%E8%B3%AA%E9%87%8F%E5%88%86%E6%9E%90%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%20%E4%B8%80%E5%BC%8F.pdf>) | 国立大学法人東京科学大学 | 2026-08-17 | 原文を確認 | 教育研究評議会学長選考・監察会議広報誌・刊行物広報誌・刊行物トップ大学紹介動画大学紹介動画トップ大学紹介動画キャンパスライフ編留学制度編多職種連携教育編学長×医学部学生懇談学長×歯学部学生懇談東京医科歯科大学の歴史大学概要(冊子)統合報告書広報誌広報誌トップ広報誌「Bloom! 医科歯科大」英語版広報誌「TMDU AN… | — |
 | 神奈川県 | [保全工事積算基準（令和９年版）改定等業務 （令和8年8月17日）](<https://www.ur-net.go.jp/orders/honsha/pdf/order_43852_3.pdf>) | 独立行政法人都市再生機構本社 | 2026-08-17 | 2026-10-01 | 典の明示できる図表、既往成果を用いることは支障ないが、本件のために特に作成したCG、詳細図面等を用いることは認めない | [仕様書\[411KB\]](<https://www.ur-net.go.jp/orders/honsha/pdf/order_43852_4.pdf>) |
@@ -112,9 +116,5 @@
 | 神奈川県 | [市民交流センター湧水・汚水ポンプ等更新工事](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_siminkoryuponpukousin.pdf>) | 神奈川県逗子市 | 2026-07-21 | 2026-08-05 | (工事写真)第9条 受注者は、工事中の写真を撮影し、工事着手前、施工中、完成時の工程順に整理編集し、工事完了後写真帳(デジタルカメラ可)を提出すること | [02\_図面一式 （PDF 6.0 MB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8zumen_siminkoryuponpukousin2.pdf>) / [03\_設計書 （Excel 306.0 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8utiwakesiminkoryuponpukousin.xls>) / [01\_仕様書 （PDF 432.8 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8siyo_siminkoryuponpukousin.pdf>) |
 | 神奈川県 | [市民交流センタープール空調システム更新工事](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_siminnkoryupu-rukutyokousin.pdf>) | 神奈川県逗子市 | 2026-07-21 | 2026-08-05 | (工事写真)第9条 受注者は、工事中の写真を撮影し、工事着手前、施工中、完成時の工程順に整理編集し、工事完了後写真帳(デジタルカメラ可)を提出すること | [02\_図面一式 （PDF 5.0 MB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8zumen_siminnkoryupu-rukutyokousin.pdf>) / [03\_設計書 （Excel 313.0 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8utiwake_siminnkoryupu-rukutyokousin.xls>) / [01\_仕様書 （PDF 496.1 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8siyo_siminnkoryupu-rukutyokousin.pdf>) |
 | 栃木県 | [釈迦岳・逆川地域における有害鳥獣捕獲委託事業【R7明許】](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/nikkou/20260827_2.html>) | 林野庁関東森林管理局日光森林管理署 | 2026-07-21 | 2026-11-13 | (2) 捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [入札公告(PDF : 262KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/nikkou/attach/pdf/20260827_2-1.pdf>) / [(1)入札説明書(PDF : 358KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/nikkou/attach/pdf/20260827_2-2.pdf>) / [(3)共通仕様書(PDF : 1,711KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/nikkou/attach/pdf/20260827_2-4.pdf>) / [(4)特記仕様書(PDF : 177KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/nikkou/attach/pdf/20260827_2-5.pdf>) / [(5)実施箇所位置図(PDF : 6,227KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/nikkou/attach/pdf/20260827_2-6.pdf>) |
-| 東京都 | [法務業務支援（PDF 508KB）](<https://www.enri.go.jp/jp/procrm/doc/bidd_info/kani_20260721_1.pdf>) | 国立研究開発法人海上・港湾・航空技術研究所電子航法研究所 | 2026-07-21 | 2026-07-29 | (2) 各種機能の操作方法等について、セミナーの開催や動画配信を無料で行うこと | — |
-| 茨城県 | [土教生委第2号](<https://www.city.tsuchiura.lg.jp/data/doc/1784259203_doc_245_0.pdf>) | 茨城県土浦市 | 2026-07-17 | 2026-08-07 | 量終了から後続作業まで相当期間を要する場合があるので,測量時の境界点の写真撮影を実施し現況を確実に記録する | [設計図書等](<https://www.city.tsuchiura.lg.jp/data/doc/1784259278_doc_245_0.zip>) / [位置図](<https://www.city.tsuchiura.lg.jp/data/doc/1784259145_doc_245_0.pdf>) |
-| 茨城県 | [都下維（工）第4号](<https://www.city.tsuchiura.lg.jp/data/doc/1784195622_doc_245_0.pdf>) | 茨城県土浦市 | 2026-07-17 | 2026-08-07 | 1 工事概要2 職務分担および緊急時の連絡体制3 工事記録写真撮影計画4 実施工程表5 施工手順6 主要機械7 主要資材8 材料設計および水理性能評価9 材料品質証明の内容10 前処理計画11 施工管理(建設副産物等)12 品質管理・出来形管理13 環境対策14 安全・衛生管理15 材料の製造から使用までの保管期間と保… | [設計書等\[ZIP形式\]](<https://www.city.tsuchiura.lg.jp/data/doc/1784195937_doc_245_0.zip>) / [位置図\[PDF形式\]](<https://www.city.tsuchiura.lg.jp/data/doc/1784195932_doc_245_0.pdf>) |
-| 茨城県 | [Ｒ7国補公下（更生）第4号](<https://www.city.tsuchiura.lg.jp/data/doc/1784195610_doc_245_0.pdf>) | 茨城県土浦市 | 2026-07-17 | 2026-08-07 | 1 工事概要2 職務分担及び緊急時の連絡体制3 工事記録写真撮影計画4 実施工程表5 施工工法(※)6 主要機械7 主要資材8 材料設計及び水理性能評価9 材料品質証明の内容10 前処理計画(※)11 施工管理(※)12 品質管理(※)13 環境対策14 安全・衛生管理15 材料の製造から使用までの保管期間と保管方法1… | [設計書等\[ZIP形式\]](<https://www.city.tsuchiura.lg.jp/data/doc/1784195921_doc_245_0.zip>) / [位置図\[PDF形式\]](<https://www.city.tsuchiura.lg.jp/data/doc/1784195917_doc_245_0.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-003.md) ｜ [次の100件](page-005.md)

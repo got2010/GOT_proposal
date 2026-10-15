@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-15T07:20+09:00（収集時点）
+最終更新：2026-10-16T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**191件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**193件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 京都府 | [令和８年度京都市森林経営管理事業間伐業務（京都集計R7-16ほか）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/440490.htm>) | 京都府京都市 | 2026-09-04 | 原文を確認 | 作業日報(様式4)ウ 業務写真エ その他市長が必要とする書類なお、業務写真については、撮影日、林相、業務内容(測量中、選木前、選木後(マーキングが鮮明に写るようにすること)、保育間伐中、保育間伐後、伐採整理前、伐採整理後)がわかるよう撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./440490_12_08311640.pdf>) |
+| 奈良県 | [R8-koukoku111.pdf](<https://www.city.yamatotakada.nara.jp/material/files/group/14/R8-koukoku111.pdf>) | 奈良県大和高田市 | 2026-09-02 | 2026-09-25 | 年9月2日大和高田市長 堀内 大造1 業務名 令和8年度大和高田市航空写真撮影業務委託2 履行場所 大和高田市全域3 履行期間 契約締結日から令和9年3月23日(火)まで4 業務内容 入札説明書(仕様書)のとおり5 入札参加資格要件 この競争入札に参加することができる者は、次に掲げる要件を全てみたしているものとします | — |
 | 京都府 | [精華町要介護認定調査支援システム導入業務に係る公募型プロポーザルの実施について](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesshiyousyo2026.pdf>) | 京都府精華町 | 2026-09-02 | 原文を確認 | 員が本番前にシステム操作等を自習できるテスト環境を用意する、自習できる研修動画等、研修後にユーザが自習できる方法を提案することが望ましい | [参加申請書 (PDFファイル: 57.7KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesssannkamousikomi2026.pdf>) / [参加申請書受付票 (PDFファイル: 20.8KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesssankamousikomisyo2026.pdf>) / [辞退届 (PDFファイル: 49.9KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesszitaihyou2026.pdf>) |
 | 京都府 | [旧京都市公設小売市場に対する建築基準法第12条に基づく点検業務委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/439627.htm>) | 京都府京都市 | 2026-09-01 | 原文を確認 | ※ 「点検場所」欄は、点検様式3-3「関係写真」に添付の写真を撮影した室名等を記載してください | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./439627_12_08271526.pdf>) |
 | 京都府 | [京都市健康管理システム再構築等業務委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/436933.htm>) | 京都府京都市 | 2026-09-01 | 2026-10-09 | たり、研修計画の策定、研修実施に用いる操作マニュアル、研修用テキスト、研修動画等の作成及び利用者からの問合せ対応を行うものとする | [入札公告](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./436933_01_08211648.pdf>) / [入札説明書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./436933_02_08211648.pdf>) / [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./436933_03_08211648.pdf>) / [契約書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./436933_08_08211648.pdf>) |

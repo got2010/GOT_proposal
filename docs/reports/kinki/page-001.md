@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-15T07:20+09:00（収集時点）
+最終更新：2026-10-16T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**191件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**193件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 2
 
@@ -26,6 +26,8 @@
 | 兵庫県 | [宝塚市広報番組制作業務委託に係る公募型プロポーザル](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/boshuyoko.pdf>) | 兵庫県宝塚市 | 2026-08-05 | 原文を確認 | 宝塚市広報番組制作業務委託に係る公募型プロポーザル | [業務仕様書 （PDF 345.9 KB）](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/2_gyomusiyosho.pdf>) / [資料2\_秘密保持等に関する特記仕様書 （PDF 196.0 KB）](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/2_himituhojitounikansurutoltukisiyousho.pdf>) |
 | 京都府 | [令和8年度きょうとプレコン推進事業（幼児期から中学生等を対象とした教育プログラムに係るデザイン・動画作成事業）](<https://www.pref.kyoto.jp/kosodate/news/2026/purecon-sougouhyoka.html>) | 京都府 | 2026-08-03 | 2027-03-31 | 令和8年度きょうとプレコン推進事業(幼児期から中学生等を対象とした教育プログラムに係るデザイン・動画作成事業) | [総合評価競争入札公告（PDF：264KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/01_koukoku.pdf>) / [入札説明書（PDF：228KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/02_nyuusatusetumeisyo_1.pdf>) / [(別紙1)業務委託仕様書（PDF：267KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/03_siyousyo.pdf>) / [(別紙2)企画提案書作成要領（PDF：137KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/03_sakuseiyouryou.pdf>) / [落札者決定基準（PDF：52KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/15_ketteikizyunn.pdf>) |
 | 京都府 | [令和８年度京都市美術館所蔵品撮影業務](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/432372.htm>) | 京都府京都市 | 2026-07-27 | 原文を確認 | 令和8年度京都市美術館所蔵品撮影業務 | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./432372_12_07241115.pdf>) |
+| 奈良県 | [https://www.city.ikoma.lg.jp/0000042715.html](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42715/koukoku.pdf>) | 奈良県生駒市 | 2026-10-15 | 原文を確認 | 申請書類に必要事項の記入を案内し、申請補助タブレット端末等を用いて顔写真の撮影やマイナンバーカードの申請を行うこと | [契約主要事項説明書 (PDF形式、126.59KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42715/syuyoujikou.pdf>) / [仕様書 (PDF形式、451.02KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42715/shiyousyo.pdf>) |
+| 京都府 | [浜田海上保安部女性シャワー室新設工事](<https://www.kaiho.mlit.go.jp/08kanku/nyuusatu/tenpu/R8/kouji_fune/kei24/kei24-koukoku.pdf>) | 海上保安庁第八管区海上保安本部 | 2026-10-15 | 2026-11-06 | 槽配管に接続写真2写真3写真4 写真5凡例 WM既設給水管水道メーター写真矢印は撮影方向を示す給水管給湯管排水管コア削孔(別途写真8参照)写真9写真11写真10写真67写真1L-1配電盤浜田港湾合同庁舎給排水 1階平面図 S=1/1007,100 7,10014,2006,000 6,000 6,000 6,000 6… | [入札説明書](<https://www.kaiho.mlit.go.jp/08kanku/nyuusatu/tenpu/R8/kouji_fune/kei24/kei24-nyuusetu.pdf>) / [仕様書](<https://www.kaiho.mlit.go.jp/08kanku/nyuusatu/tenpu/R8/kouji_fune/kei24/kei24-siyousyo.pdf>) |
 | 兵庫県 | [【制限付一般競争入札】中崎公会堂屋根雨樋等修繕業務 （10月14日発注）](<https://www.city.akashi.lg.jp/documents/40502/20261013_03_koukokubun.pdf>) | 兵庫県明石市 | 2026-10-14 | 原文を確認 | 繕着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、修繕完成時に現状復旧が行われているか確認すること | [共通仕様書（PDF：474KB）](<https://www.city.akashi.lg.jp/documents/40502/20261013_20_kyoutuushiyosyo.pdf>) / [特記仕様書（PDF：188KB）](<https://www.city.akashi.lg.jp/documents/40502/20261013_21_toltukishiyosyo.pdf>) |
 | 大阪府 | [令和8年度近畿環境局管内国立公園タイアップ記事等作成業務](<https://kinki.env.go.jp/content/000434782.pdf>) | 環境省近畿地方環境事務所 | 2026-10-14 | 2026-11-02 | の3国立公園のオンラインプロモーション強化を目的に、タイアップ記事及び動画等を作成し、国立公園ならではの高付加価値な体験や地域の魅力を発信することで、国立公園の誘客を促進するとともに、地域の持続可能な観光の推進及び地域経済の活性化に寄与することを目的するものである | [別紙1\_入札心得\[PDF 172KB\]](<https://kinki.env.go.jp/content/000434783.pdf>) / [別紙2\_業務請負条件\[Word 29KB\]](<https://kinki.env.go.jp/content/000434785.docx>) / [別添1\_契約書（案）\[PDF 195KB\]](<https://kinki.env.go.jp/content/000434786.pdf>) / [別添2\_仕様書\[PDF 217KB\]](<https://kinki.env.go.jp/content/000434787.pdf>) |
 | 奈良県 | [令和8年度自動車騒音常時監視面的評価業務委託の入札(令和8年10月13日公告)](<https://www.city.gojo.lg.jp/material/files/group/25/nyuusatukoukokuR8.pdf>) | 奈良県五條市 | 2026-10-13 | 2026-11-04 | なお測定箇所は、概況が判別できるよう周辺の写真撮影を行い、台帳を整理する | [入札説明書 (PDFファイル: 106.0KB)](<https://www.city.gojo.lg.jp/material/files/group/25/nyuusatusetumeisyoR8.pdf>) / [仕様書 (PDFファイル: 135.7KB)](<https://www.city.gojo.lg.jp/material/files/group/25/shiyousyoR8.pdf>) / [金抜き設計書 (PDFファイル: 84.9KB)](<https://www.city.gojo.lg.jp/material/files/group/25/kinnukisekkeisyoR8.pdf>) |
@@ -114,7 +116,5 @@
 | 兵庫県 | [建築コース用パーソナルコンピュータシステム導入整備一式](<https://web.pref.hyogo.lg.jp/sr06/monodai/pc.html>) | 兵庫県 | 2026-09-07 | 2026-09-11 | 容の履行が行われていることを証明する上で、必要な場合には作業工程ごとの写真を明確に撮影し、この履行完了後に提出すること | [入札公告（PDF：231KB）](<https://web.pref.hyogo.lg.jp/sr06/monodai/documents/1nyusatsukoukoku.pdf>) / [仕様書（PDF：320KB）](<https://web.pref.hyogo.lg.jp/sr06/monodai/documents/2shiyousyo.pdf>) / [入札説明書（PDF：292KB）](<https://web.pref.hyogo.lg.jp/sr06/monodai/documents/3setsumeisyo.pdf>) |
 | 兵庫県 | [【制限付一般競争入札】明石市立明石養護学校屋内運動場屋上防水改修修繕（9月4日発注）](<https://www.city.akashi.lg.jp/documents/40376/2026-yougo-3-011_koukoku.pdf>) | 兵庫県明石市 | 2026-09-04 | 原文を確認 | 場着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、完成時に現状復旧が行われているか確認すること | [仕様書一式（PDF：154KB）](<https://www.city.akashi.lg.jp/documents/40376/2026-yougo-21-22-siyousho.pdf>) |
 | 兵庫県 | [【制限付一般競争入札】明石市立大久保南小学校屋内運動場2階屋上防水改修修繕（9月4日発注）](<https://www.city.akashi.lg.jp/documents/40342/2026-minamisho-3-011_koukoku.pdf>) | 兵庫県明石市 | 2026-09-04 | 原文を確認 | 場着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、完成時に現状復旧が行われているか確認すること | [仕様書一式（PDF：162KB）](<https://www.city.akashi.lg.jp/documents/40342/2026-minamisho-21-22-siyousho.pdf>) |
-| 京都府 | [令和８年度京都市森林経営管理事業間伐業務（京都集計R7-16ほか）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/440490.htm>) | 京都府京都市 | 2026-09-04 | 原文を確認 | 作業日報(様式4)ウ 業務写真エ その他市長が必要とする書類なお、業務写真については、撮影日、林相、業務内容(測量中、選木前、選木後(マーキングが鮮明に写るようにすること)、保育間伐中、保育間伐後、伐採整理前、伐採整理後)がわかるよう撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./440490_12_08311640.pdf>) |
-| 奈良県 | [R8-koukoku111.pdf](<https://www.city.yamatotakada.nara.jp/material/files/group/14/R8-koukoku111.pdf>) | 奈良県大和高田市 | 2026-09-02 | 2026-09-25 | 年9月2日大和高田市長 堀内 大造1 業務名 令和8年度大和高田市航空写真撮影業務委託2 履行場所 大和高田市全域3 履行期間 契約締結日から令和9年3月23日(火)まで4 業務内容 入札説明書(仕様書)のとおり5 入札参加資格要件 この競争入札に参加することができる者は、次に掲げる要件を全てみたしているものとします | — |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

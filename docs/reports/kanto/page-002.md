@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-15T07:20+09:00（収集時点）
+最終更新：2026-10-16T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**441件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**445件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 5
 
@@ -16,6 +16,10 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（アーバンみらい東大宮東一番街団地他１団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44086_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1495KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44086_3.pdf>) / [仕様書\[21340KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44086_4.pdf>) |
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（浦和白幡団地他２団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44087_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1503KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44087_3.pdf>) / [仕様書\[23410KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44087_4.pdf>) |
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（コンフォール与野本町西団地他４団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44088_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1506KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44088_3.pdf>) / [仕様書\[26563KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44088_4.pdf>) |
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（プラザシティ新所沢けやき通り団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44093_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[18958KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44093_3.pdf>) / [仕様書\[18659KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44093_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（西大和団地他４団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44094_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19084KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44094_3.pdf>) / [仕様書\[27227KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44094_4.pdf>) |
 | 神奈川県 | [令和８年度ＤＸリテラシー醸成に向けた学習教材提供業務 （令和8年9月17日）](<https://www.ur-net.go.jp/orders/honsha/pdf/order_44002_3.pdf>) | 独立行政法人都市再生機構本社 | 2026-09-17 | 2026-10-30 | ・問題及び解説の作成にあたっては、動画コンテンツとの対応関係が分かるよう整理し、受講後の復習や職場での対話につなげやすい内容とすること | [仕様書\[241KB\]](<https://www.ur-net.go.jp/orders/honsha/pdf/order_44002_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（港北ニュータウン プロムナード仲町台団地他２団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44057_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（神奈川地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19269KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44057_3.pdf>) / [仕様書\[19792KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44057_4.pdf>) |
@@ -112,9 +116,5 @@
 | 千葉県 | [松契一般第216号 新松戸現場事務所解体工事（PDF：143KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0911kouji1w.files/216.pdf>) | 千葉県松戸市 | 2026-09-11 | 2026-09-11 | 理人以外の検査とする)【工事完了後速やかに】報告1■工事写真(建築工事写真撮影基準に準拠)■1工事記録写真■2完成写真【工事完了後速やかに】写真帳写真帳11建1.2.4電1.2.4機1.2.4代表者■完成図PDF,CADデータCDもしくはDVD2建1.7.2電1.7.2機1.7.2□電子納品電子媒体電子媒体納品書CDも… | [松契一般第216号 設計図書（PDF：14,767KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0911kouji1w.files/216s.pdf>) |
 | 千葉県 | [松契一般第214号 日暮クリーンセンター機械式集じん機清掃業務委託（PDF：136KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0911gyoumu.files/214.pdf>) | 千葉県松戸市 | 2026-09-11 | 2026-09-17 | 作業前・作業中・作業完了等を写真撮影し、業務完了報告書とともに提出すること | [松契一般第214号 設計図書（PDF：275KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0911gyoumu.files/214s.pdf>) |
 | 神奈川県 | [105m 造波水路における吸い出し検知実験補助業務](<https://www.pari.go.jp/about/procurance/pdf/bid/3a7afe740b72b768370724622540aaa50b5c914b.pdf>) | 国立研究開発法人海上・港湾・航空技術研究所港湾空港技術研究所 | 2026-09-10 | 2026-10-05 | し、表4-23~5を用いて、波高、加速度を計測するとともに、その変状を撮影、録画する | [仕様書](<https://www.pari.go.jp/about/procurance/pdf/bid/4b035e92bb3bd2336957bc336e0a66d2785aad19.pdf>) |
-| 茨城県 | [【電子入札】【電子契約】ウラン貯蔵庫受変電設備計器用変成器等更新作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C01859.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-09-10 | 2026-10-28 | 2.10 作業報告書及び写真撮影(1) 作業報告書1 作業結果の各項目、測定結果に対して、異常の有無の判定を記載すること | — |
-| 埼玉県 | [さいたま市岩槻人形博物館 企画展（雛）広報物製作等業務の入札情報](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133638_d/fil/kokuji.pdf>) | 埼玉県さいたま市 | 2026-09-09 | 2026-09-16 | また印刷物用の撮影業務も行う | [入札説明書（PDF形式 146キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133638_d/fil/setumeiyo.pdf>) / [仕様書（PDF形式 803キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133638_d/fil/siyousyo.pdf>) |
-| 埼玉県 | [公園緑地課：【第469号】大池親水公園水浄化施設維持管理業務委託](<https://www.city.kasukabe.lg.jp/jigyoshamuke/nyusatsu_keiyaku/nyusatsukokokuichiran/50/38100.html>) | 埼玉県春日部市 | 2026-09-09 | 2026-10-01 | (写真撮影)第4条 作業写真は作業着手前、作業実施中、作業完了後の状態が確認できるように撮影すること | [仕様書(PDFファイル:991.5KB)](<https://www.city.kasukabe.lg.jp/material/files/group/40/R8siyousyo2.pdf>) |
-| 群馬県 | [水沼地区有害鳥獣（ニホンジカ）の誘引捕獲委託事業（R7当初明許）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/20260909-0223-02.html>) | 林野庁関東森林管理局群馬森林管理署 | 2026-09-09 | 2027-02-26 | (2) 捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [入札公告(PDF : 862KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-1.pdf>) / [入札説明書(PDF : 1,245KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-2.pdf>) / [共通仕様書(PDF : 1,005KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-4.pdf>) / [特記仕様書(PDF : 464KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-5.pdf>) / [実施箇所位置図(PDF : 1,513KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-6.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

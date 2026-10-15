@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-15T07:20+09:00（収集時点）
+最終更新：2026-10-16T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**441件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**445件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 5 / 5
 
@@ -16,6 +16,10 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 東京都 | [法務業務支援（PDF 508KB）](<https://www.enri.go.jp/jp/procrm/doc/bidd_info/kani_20260721_1.pdf>) | 国立研究開発法人海上・港湾・航空技術研究所電子航法研究所 | 2026-07-21 | 2026-07-29 | (2) 各種機能の操作方法等について、セミナーの開催や動画配信を無料で行うこと | — |
+| 茨城県 | [土教生委第2号](<https://www.city.tsuchiura.lg.jp/data/doc/1784259203_doc_245_0.pdf>) | 茨城県土浦市 | 2026-07-17 | 2026-08-07 | 量終了から後続作業まで相当期間を要する場合があるので,測量時の境界点の写真撮影を実施し現況を確実に記録する | [設計図書等](<https://www.city.tsuchiura.lg.jp/data/doc/1784259278_doc_245_0.zip>) / [位置図](<https://www.city.tsuchiura.lg.jp/data/doc/1784259145_doc_245_0.pdf>) |
+| 茨城県 | [都下維（工）第4号](<https://www.city.tsuchiura.lg.jp/data/doc/1784195622_doc_245_0.pdf>) | 茨城県土浦市 | 2026-07-17 | 2026-08-07 | 1 工事概要2 職務分担および緊急時の連絡体制3 工事記録写真撮影計画4 実施工程表5 施工手順6 主要機械7 主要資材8 材料設計および水理性能評価9 材料品質証明の内容10 前処理計画11 施工管理(建設副産物等)12 品質管理・出来形管理13 環境対策14 安全・衛生管理15 材料の製造から使用までの保管期間と保… | [設計書等\[ZIP形式\]](<https://www.city.tsuchiura.lg.jp/data/doc/1784195937_doc_245_0.zip>) / [位置図\[PDF形式\]](<https://www.city.tsuchiura.lg.jp/data/doc/1784195932_doc_245_0.pdf>) |
+| 茨城県 | [Ｒ7国補公下（更生）第4号](<https://www.city.tsuchiura.lg.jp/data/doc/1784195610_doc_245_0.pdf>) | 茨城県土浦市 | 2026-07-17 | 2026-08-07 | 1 工事概要2 職務分担及び緊急時の連絡体制3 工事記録写真撮影計画4 実施工程表5 施工工法(※)6 主要機械7 主要資材8 材料設計及び水理性能評価9 材料品質証明の内容10 前処理計画(※)11 施工管理(※)12 品質管理(※)13 環境対策14 安全・衛生管理15 材料の製造から使用までの保管期間と保管方法1… | [設計書等\[ZIP形式\]](<https://www.city.tsuchiura.lg.jp/data/doc/1784195921_doc_245_0.zip>) / [位置図\[PDF形式\]](<https://www.city.tsuchiura.lg.jp/data/doc/1784195917_doc_245_0.pdf>) |
 | 茨城県 | [Ｒ7国補公下（更生）第3号](<https://www.city.tsuchiura.lg.jp/data/doc/1784195605_doc_245_0.pdf>) | 茨城県土浦市 | 2026-07-17 | 2026-08-07 | 1 工事概要2 職務分担及び緊急時の連絡体制3 工事記録写真撮影計画4 実施工程表5 施工工法(※)6 主要機械7 主要資材8 材料設計及び水理性能評価9 材料品質証明の内容10 前処理計画(※)11 施工管理(※)12 品質管理(※)13 環境対策14 安全・衛生管理15 材料の製造から使用までの保管期間と保管方法1… | [設計書等\[ZIP形式\]](<https://www.city.tsuchiura.lg.jp/data/doc/1784195913_doc_245_0.zip>) / [位置図\[PDF形式\]](<https://www.city.tsuchiura.lg.jp/data/doc/1784195908_doc_245_0.pdf>) |
 | 群馬県 | [【入札公告】利根沼田振興局庁舎太陽光発電設備PCS更新工事に係る一般競争入札](<https://www.pref.gunma.jp/site/nyuusatsu/766512.html>) | 群馬県 | 2026-07-17 | 2026-07-30 | 11 工事写真工事写真は、(一社)公共建築協会「営繕工事写真撮影要領による工事写真撮影ガイドブック電気設備工事編令和 5 年版」に準拠して撮影、記録等をすること | [入札公告兼説明書 （PDF：999KB）](<https://www.pref.gunma.jp/uploaded/attachment/707767.pdf>) / [特記仕様書 （PDF：363KB）](<https://www.pref.gunma.jp/uploaded/attachment/707719.pdf>) |
 | 東京都 | [新国立劇場舞台美術センター保管棟Ａ・Ｂ換気設備改修工事](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTcentreKaishu/01_R8NNTTcentreKaishu_Koukoku.pdf>) | 独立行政法人日本芸術文化振興会 | 2026-07-17 | 2026-09-03 | なお、本項に規定していない事項は「工事写真撮影要領(文部科学省大臣官房文教施設企画・防災部参事官)」に準ずる | [入札説明書等 (796.59KB)](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTcentreKaishu/02_R8NNTTcentreKaishu_Explanation.pdf>) / [特記仕様書・図面 (1.29MB)](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTcentreKaishu/04_R8NNTTcentreKaishu_ShiyousyoandZumen.pdf>) / [現場説明書 (599.59KB)](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTcentreKaishu/05_R8NNTTcentreKaishu_Genbasetsumeisyo.pdf>) |

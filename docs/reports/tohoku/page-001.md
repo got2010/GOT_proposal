@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-15T07:20+09:00（収集時点）
+最終更新：2026-10-16T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**237件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**239件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -21,6 +21,8 @@
 | 秋田県 | [【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-08-17 | 2026-09-16 | 【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務 | — |
 | 岩手県 | [【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-21 | 原文を確認 | 【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務 | — |
 | 岩手県 | [龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について](<https://www.town.iwaizumi.lg.jp/docs/2026071400011/file_contents/00.pdf>) | 岩手県岩泉町 | 2026-07-17 | 2026-09-04 | 龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について | — |
+| 宮城県 | [令和９～１１年度 やすらぎパークとみや施設総合管理業務](<https://www.tomiya-city.miyagi.jp/uploads/pdf/4724257cde794f481ca8cd70518b68e8009eb5e9.pdf>) | 宮城県富谷市 | 2026-10-14 | 原文を確認 | 15.完成写真 ・ 作成しない ※ 作成する 宮城県建築工事写真撮影要領により,完成届に添付する完成写真とは※カラー・白黒※Lサイズ・2L・六切り※宮城県写真撮影箇所数撮影要領の完成写真程度・ 箇所 枚 (台紙寸法323×270程度)・フリーアルバムポケット式程度※工事用アルバムA4版提出様式 部 数※1部・ 部 保険… | [仕様書](<https://www.tomiya-city.miyagi.jp/uploads/pdf/7cbefde31b035926048c177d82aeebafecfb7469.pdf>) |
+| 宮城県 | [入札公告（令和8年度 松くい虫被害木伐倒業務（不伐の森））](<https://www.city.shiroishi.miyagi.jp/uploaded/attachment/31272.pdf>) | 宮城県白石市 | 2026-10-14 | 2026-10-28 | 項(1) 事業地の全景及び部分、その他必要箇所を事業着手前と完了直後に写真撮影し、その写真を明確にするため、次の事項を記入した小黒板を写し込むようにする | [【仕様書】令和8年度 松くい虫被害木伐倒業務（不伐の森） \[PDFファイル／494KB\]](<https://www.city.shiroishi.miyagi.jp/uploaded/attachment/31265.pdf>) / [【入札参加資格承認申請ほか】令和8年度 松くい虫被害木伐倒業務（不伐の森） \[PDFファイル／78KB\]](<https://www.city.shiroishi.miyagi.jp/uploaded/attachment/31266.pdf>) / [【入札参加資格承認申請ほか】令和8年度 松くい虫被害木伐倒業務（不伐の森） \[Wordファイル／16KB\]](<https://www.city.shiroishi.miyagi.jp/uploaded/attachment/31267.docx>) |
 | 宮城県 | [入札公告（令和8年度 松くい虫防除第2号総合補助金樹幹注入事業）](<https://www.city.shiroishi.miyagi.jp/uploaded/attachment/31256.pdf>) | 宮城県白石市 | 2026-10-14 | 2026-10-28 | 6 施工写真は次のとおり撮影し、アルバム等に整理すること | [【仕様書】令和8年度 松くい虫防除第2号総合補助金樹幹注入事業 \[PDFファイル／522KB\]](<https://www.city.shiroishi.miyagi.jp/uploaded/attachment/31262.pdf>) / [【入札参加資格承認申請ほか】令和8年度 松くい虫防除第2号総合補助金樹幹注入事業 \[PDFファイル／79KB\]](<https://www.city.shiroishi.miyagi.jp/uploaded/attachment/31259.pdf>) / [【入札参加資格承認申請ほか】令和8年度 松くい虫防除第2号総合補助金樹幹注入事業 \[Wordファイル／29KB\]](<https://www.city.shiroishi.miyagi.jp/uploaded/attachment/31260.docx>) |
 | 宮城県 | [入札公告（令和8年度 松くい虫被害木伐倒業務（若林公園））](<https://www.city.shiroishi.miyagi.jp/uploaded/attachment/31268.pdf>) | 宮城県白石市 | 2026-10-14 | 2026-10-28 | 項(1) 事業地の全景及び部分、その他必要箇所を事業着手前と完了直後に写真撮影し、その写真を明確にするため、次の事項を記入した小黒板を写し込むようにする | [【仕様書】令和8年度 松くい虫被害木伐倒業務（若林公園） \[PDFファイル／789KB\]](<https://www.city.shiroishi.miyagi.jp/uploaded/attachment/31269.pdf>) / [【入札参加資格承認申請ほか】令和8年度 松くい虫被害木伐倒業務（若林公園） \[PDFファイル／79KB\]](<https://www.city.shiroishi.miyagi.jp/uploaded/attachment/31270.pdf>) / [【入札参加資格承認申請ほか】令和8年度 松くい虫被害木伐倒業務（若林公園） \[Wordファイル／16KB\]](<https://www.city.shiroishi.miyagi.jp/uploaded/attachment/31271.docx>) |
 | 宮城県 | [2026001183 令和8年度 旧有備館および庭園地形図作成業務](<https://www.city.osaki.miyagi.jp/material/files/group/5/R08_koukoku1183.docx>) | 宮城県大崎市 | 2026-10-14 | 2026-10-29 | した数値地形図整備業務,又は,航空機搭載型のデジタルカメラを用いた航空写真撮影並びに地図情報レベル2500デジタルマッピングを含む業務)に従事した実績を有する者 | — |
@@ -114,7 +116,5 @@
 | 山形県 | [北俣林道A災害復旧工事（2）](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/syonai/R8.10.16kitamataAsaigai2.html>) | 林野庁東北森林管理局庄内森林管理署 | 2026-09-03 | 2026-10-16 | 注者は、林業専用道に係る工事(新設に限る)の施工に当たっては、別紙の「写真撮影基準」により施工管理を行うことができるものとする | [入札公告(PDF : 171KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/syonai/./attach/pdf/R8.10.16kitamataAsaigai2-1.pdf>) / [1.入札説明書(PDF : 209KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/syonai/./attach/pdf/R8.10.16kitamataAsaigai2-2.pdf>) / [4.特記仕様書(PDF : 1,092KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/syonai/./attach/pdf/R8.10.16kitamataAsaigai2-5.pdf>) / [5.現場説明書(PDF : 1,179KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/syonai/./attach/pdf/R8.10.16kitamataAsaigai2-6.pdf>) / [6.図面(PDF : 1,516KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/syonai/./attach/pdf/R8.10.16kitamataAsaigai2-7.pdf>) |
 | 宮城県 | [仙台市業務間連携システム等機器賃貸借 入札説明書 その2（PDF：6,516KB）](<https://www.city.sendai.jp/buppin/jigyosha/keyaku/kekka/r8buppin/documents/01-02_leaseofequipmentincludingsystemforsharinginformationwi_260902.pdf>) | 宮城県仙台市 | 2026-09-02 | 原文を確認 | ならびに適切にデータ消去が完了したことを示す画面表示を,証拠資料として写真撮影すること | — |
 | 山形県 | [上小沼地区地すべり防止工事（再）](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yamagata/20261015.html>) | 林野庁東北森林管理局山形森林管理署 | 2026-09-02 | 2026-10-15 | れた苗木の規格及び形質を明らかにするため、監督職員の指示により苗木等の写真撮影をしなければならない | [入札公告(PDF : 145KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yamagata/./attach/pdf/20261015-1.pdf>) / [1.入札説明書(PDF : 212KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yamagata/./attach/pdf/20261015-2.pdf>) / [4.特記仕様書(PDF : 890KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yamagata/./attach/pdf/20261015-5.pdf>) / [5.現場説明書(PDF : 440KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yamagata/./attach/pdf/20261015-6.pdf>) / [6.図面(PDF : 4,194KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yamagata/./attach/pdf/20261015-7.pdf>) |
-| 青森県 | [西部枝線管路施設調査業務](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8hi.k062.pdf>) | 青森県五所川原市 | 2026-09-02 | 2026-09-09 | 13.作業記録写真受注者は、次の各項に従って、調査記録写真を撮影し、作業完了時には、工種ごとで工程順に編集したものを、調査記録写真帳に整理し、完了届に添付して監督員に提出すること | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8hi.j062.zip>) |
-| 青森県 | [相内処理区管路施設調査業務](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8hi.k063.pdf>) | 青森県五所川原市 | 2026-09-02 | 2026-09-09 | 13.作業記録写真受注者は、次の各項に従って、巡視または調査記録写真を撮影し、作業完了時には、工種ごとで工程順に編集したものを、巡視または調査記録写真帳に整理し、完了届に添付して監督員に提出すること | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8hi.j063.zip>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

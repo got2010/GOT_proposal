@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-15T07:20+09:00（収集時点）
+最終更新：2026-10-16T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**441件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**445件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 5
 
@@ -16,6 +16,10 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 茨城県 | [【電子入札】【電子契約】ウラン貯蔵庫受変電設備計器用変成器等更新作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C01859.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-09-10 | 2026-10-28 | 2.10 作業報告書及び写真撮影(1) 作業報告書1 作業結果の各項目、測定結果に対して、異常の有無の判定を記載すること | — |
+| 埼玉県 | [さいたま市岩槻人形博物館 企画展（雛）広報物製作等業務の入札情報](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133638_d/fil/kokuji.pdf>) | 埼玉県さいたま市 | 2026-09-09 | 2026-09-16 | また印刷物用の撮影業務も行う | [入札説明書（PDF形式 146キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133638_d/fil/setumeiyo.pdf>) / [仕様書（PDF形式 803キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133638_d/fil/siyousyo.pdf>) |
+| 埼玉県 | [公園緑地課：【第469号】大池親水公園水浄化施設維持管理業務委託](<https://www.city.kasukabe.lg.jp/jigyoshamuke/nyusatsu_keiyaku/nyusatsukokokuichiran/50/38100.html>) | 埼玉県春日部市 | 2026-09-09 | 2026-10-01 | (写真撮影)第4条 作業写真は作業着手前、作業実施中、作業完了後の状態が確認できるように撮影すること | [仕様書(PDFファイル:991.5KB)](<https://www.city.kasukabe.lg.jp/material/files/group/40/R8siyousyo2.pdf>) |
+| 群馬県 | [水沼地区有害鳥獣（ニホンジカ）の誘引捕獲委託事業（R7当初明許）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/20260909-0223-02.html>) | 林野庁関東森林管理局群馬森林管理署 | 2026-09-09 | 2027-02-26 | (2) 捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [入札公告(PDF : 862KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-1.pdf>) / [入札説明書(PDF : 1,245KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-2.pdf>) / [共通仕様書(PDF : 1,005KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-4.pdf>) / [特記仕様書(PDF : 464KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-5.pdf>) / [実施箇所位置図(PDF : 1,513KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-02-6.pdf>) |
 | 群馬県 | [倉渕・細野地区有害鳥獣（二ホンジカ）の誘引捕獲委託事業（R7当初明許）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/20260909-0223-01.html>) | 林野庁関東森林管理局群馬森林管理署 | 2026-09-09 | 2027-02-26 | (2) 捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [入札公告(PDF : 908KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-01-4.pdf>) / [入札説明書(PDF : 1,313KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-01-5.pdf>) / [共通仕様書(PDF : 1,005KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-01-7.pdf>) / [特記仕様書(PDF : 463KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-01-1.pdf>) / [実施箇所位置図(PDF : 1,139KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260909-0223-01-2.pdf>) |
 | 茨城県 | [【電子入札】【電子契約】負圧計、排気流量計及び風速計の定期点検](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01333.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-09-09 | 2026-10-26 | 7 写真を撮影し、作業報告書に添付すること | — |
 | 神奈川県 | [逗子市地域活動センターLED導入工事](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_tiikikatudousentaledkouzi.pdf>) | 神奈川県逗子市 | 2026-09-08 | 2026-09-30 | (工事写真)第9条 受注者は、工事中の写真を撮影し、工事着手前、施工中、完成時の工程順に整理編集し、工事完了後写真帳(デジタルカメラ可)を提出すること | [02\_図面等一式 （PDF 4.0 MB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8zumen_tiikikatudousentaledkouzi.pdf>) / [03\_設計書 （Excel 401.0 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8utiwake_tiikikatudousentaledkouzi.xls>) / [01\_仕様書 （PDF 499.2 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8siyo_tiikikatudousentaledkouzi.pdf>) |
@@ -112,9 +116,5 @@
 | 東京都 | [令和8年度皇居外苑清水濠雁木坂石垣復旧工事](<https://www.env.go.jp/garden/kokyogaien/4_sup/2022/sup_00144.html>) | 環境省皇居外苑 | 2026-08-20 | 2026-09-09 | サルデザイン 皇居ラン(マラソン)について 個人撮影について メディア取材、撮影について 駐車場について 校外学習について 団体利用について 案内板等設置等について 調達情報 フォトアルバム リンク集 国民公園一覧 皇居外苑 京都御苑 新宿御苑 千鳥ケ淵戦没者墓苑 環境省(法人番号1000012110001)皇居外苑管… | [入札説明書](<https://www.env.go.jp/garden/content/000423926.pdf>) / [特記仕様書等](<https://www.env.go.jp/garden/content/000423927.pdf>) |
 | 埼玉県 | [東清掃センター空調機点検等業務委託](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/554/252k.pdf>) | 埼玉県川越市 | 2026-08-20 | 原文を確認 | (2) 清掃及び点検作業の写真撮影を行うこと | [仕様書(川越市公告契約第252号) （PDF 915.1KB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/554/252s.pdf>) |
 | 埼玉県 | [自動車騒音常時監視業務委託](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/554/249k.pdf>) | 埼玉県川越市 | 2026-08-20 | 原文を確認 | なお、測定箇所は、概況が判別できるよう、周辺の写真撮影を行い、台帳を整理する | [仕様書(川越市公告契約第249号) （PDF 375.0KB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/554/249s.pdf>) |
-| 茨城県 | [【電子入札】【電子契約】令和8年度 JMTR炉室給排気プロセス計装設備点検整備](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01193.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-08-20 | 2026-10-15 | (10)構内の写真等撮影は、許可を受けた場合以外は原則として禁止する | — |
-| 茨城県 | [【電子入札】【電子契約】UF非常用発電設備機器更新作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03222.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-08-20 | 2026-10-13 | 2.10 作業報告書及び写真撮影(1) 作業報告書1 作業結果の各項目、測定結果に対して、異常の有無の判定を記載すること | — |
-| 東京都 | [令和８年度皇居外苑和田倉休憩所トイレ塗装等改修工事（再度公告）](<https://www.env.go.jp/garden/kokyogaien/4_sup/2022/sup_00143.html>) | 環境省皇居外苑 | 2026-08-18 | 2026-09-14 | サルデザイン 皇居ラン(マラソン)について 個人撮影について メディア取材、撮影について 駐車場について 校外学習について 団体利用について 案内板等設置等について 調達情報 フォトアルバム リンク集 国民公園一覧 皇居外苑 京都御苑 新宿御苑 千鳥ケ淵戦没者墓苑 環境省(法人番号1000012110001)皇居外苑管… | [入札説明書](<https://www.env.go.jp/garden/content/000423127.pdf>) / [別記様式](<https://www.env.go.jp/garden/content/000423129.doc>) / [特記仕様書等](<https://www.env.go.jp/garden/content/000423128.pdf>) |
-| 東京都 | [令和８年度安全保障国際シンポジウム及び国際安全保障コロキアム開催に 係る運営業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 防衛省 | 2026-08-18 | 原文を確認 | また、直近1年間のウェビナー及び動画の撮影・編集を伴う会議(ウェビナー参加人数10 0人以上、日英同時通訳のもの)運営に係る複数回の実績を有すること | — |
 
 [この地域の目次](README.md) ｜ [前の100件](page-002.md) ｜ [次の100件](page-004.md)

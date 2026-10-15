@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-15T07:20+09:00（収集時点）
+最終更新：2026-10-16T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**237件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**239件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 青森県 | [西部枝線管路施設調査業務](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8hi.k062.pdf>) | 青森県五所川原市 | 2026-09-02 | 2026-09-09 | 13.作業記録写真受注者は、次の各項に従って、調査記録写真を撮影し、作業完了時には、工種ごとで工程順に編集したものを、調査記録写真帳に整理し、完了届に添付して監督員に提出すること | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8hi.j062.zip>) |
+| 青森県 | [相内処理区管路施設調査業務](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8hi.k063.pdf>) | 青森県五所川原市 | 2026-09-02 | 2026-09-09 | 13.作業記録写真受注者は、次の各項に従って、巡視または調査記録写真を撮影し、作業完了時には、工種ごとで工程順に編集したものを、巡視または調査記録写真帳に整理し、完了届に添付して監督員に提出すること | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8hi.j063.zip>) |
 | 山形県 | [9月1公告（電気AB）格付指定型一般競争入札の公告について 工事名：赤川河川緑地照明灯整備工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260901koukoku1.files/20260901koukoku1-1.pdf>) | 山形県鶴岡市 | 2026-09-01 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：1,908KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260901koukoku1.files/20260901koukoku1-2.pdf>) |
 | 宮城県 | [令７−依・学環・交 小中学校ＬＥＤ化工事（月見ケ丘小学校、玉川中学校）](<https://www.city.shiogama.miyagi.jp/uploaded/life/58379_149025_misc.pdf>) | 宮城県塩竃市 | 2026-09-01 | 2026-09-03 | 物一式のとりこわし工事に適用とし,機器等の改修工事は適用外※ 営繕工事写真撮影要領(国土交通省大臣官房官庁営繕部監修 令和5年版) 及び工事写真撮影ガイドブック&lt;電気設備工事編&gt; (国土交通省大臣官房庁営繕部監修 令和5年版)(令和7年4月1日版)白焼縮小製本A3版二つ折りうち1部は設備課保管2部CD2枚(電子データ)… | [設計書一式 \[その他のファイル／2.07MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/58379_149023_misc.zip>) |
 | 宮城県 | [令８−防安・交 下水道管路耐震化に伴う基礎調査業務委託](<https://www.city.shiogama.miyagi.jp/uploaded/life/58381_149033_misc.pdf>) | 宮城県塩竃市 | 2026-09-01 | 2026-09-03 | 全天球カメラおよび全方位照射型照明を使用してマンホール内部の画像または映像を撮影し,点検を行うものである | [設計書一式 \[その他のファイル／10.14MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/58381_149031_misc.zip>) |
@@ -114,7 +116,5 @@
 | 宮城県 | [令８−防安・交 下水道管路耐震化に伴う基礎調査業務委託](<https://www.city.shiogama.miyagi.jp/uploaded/life/57680_146678_misc.pdf>) | 宮城県塩竃市 | 2026-07-24 | 2026-07-28 | 全天球カメラおよび全方位照射型照明を使用してマンホール内部の画像または映像を撮影し,点検を行うものである | [設計書一式 \[その他のファイル／10.41MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/57680_146676_misc.zip>) |
 | 山形県 | [7月23日公告（舗装A）格付指定型一般競争入札の公告について 工事名：鶴岡市集落排水事業 田川地区管路施設清水14～31号路面復旧工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/080723-25.files/080723-25.pdf>) | 山形県鶴岡市 | 2026-07-23 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書一式 （PDF：3,544KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/080723-25.files/080723-25-01.pdf>) |
 | 宮城県 | [森林環境保全整備事業（稲子山国有林）](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sendai/20260723-0.html>) | 林野庁東北森林管理局仙台森林管理署 | 2026-07-23 | 2026-08-06 | 業区域の確認(d) 事業日報(2) 実行記録写真管理 (a) 実行記録写真の撮影要領(b) 実行記録写真の撮影と整理4 管理の実施(1) 現場代理人又は担当技術者は、作業の実施の都度、その結果を記録するとともに、その結果に基づいて適切な実行管理を行わなければならない | [入札公告(PDF : 178KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sendai/./attach/pdf/20260723-0-1.pdf>) / [入札説明書(PDF : 197KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sendai/./attach/pdf/20260723-0-2.pdf>) / [競争参加資格確認申請書及び技術提案書作成要領(PDF : 3,701KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sendai/./attach/pdf/20260723-0-3.pdf>) / [仕様書(PDF : 5,764KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sendai/./attach/pdf/20260723-0-4.pdf>) / [林分条件調査表(PDF : 57KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sendai/./attach/pdf/20260723-0-6.pdf>) |
-| 秋田県 | [桧木沢林道改良工事](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuri/260723.html>) | 林野庁東北森林管理局由利森林管理署 | 2026-07-23 | 2026-09-03 | 注者は、林業専用道に係る工事(新設に限る)の施工に当たっては、別紙の「写真撮影基準」により施工管理を行うことができるものとする | [入札公告(PDF : 148KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuri/./attach/pdf/260723-1.pdf>) / [1.入札説明書(PDF : 212KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuri/./attach/pdf/260723-2.pdf>) / [3.現場説明書(PDF : 408KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuri/./attach/pdf/260723-4.pdf>) / [4.特記仕様書(PDF : 1,234KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuri/./attach/pdf/260723-5.pdf>) / [6.位置図(PDF : 2,136KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuri/./attach/pdf/260723-7.pdf>) |
-| 山形県 | [上小沼地区地すべり防止工事](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yamagata/20260901.html>) | 林野庁東北森林管理局山形森林管理署 | 2026-07-23 | 2026-09-04 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [入札公告(PDF : 152KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yamagata/./attach/pdf/20260901-9.pdf>) / [1.入札説明書(PDF : 218KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yamagata/./attach/pdf/20260901-1.pdf>) / [4.特記仕様書(PDF : 2,974KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yamagata/./attach/pdf/20260901-4.pdf>) / [5.現場説明書(PDF : 407KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yamagata/./attach/pdf/20260901-5.pdf>) / [6.図面(PDF : 3,754KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yamagata/./attach/pdf/20260901-6.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)
