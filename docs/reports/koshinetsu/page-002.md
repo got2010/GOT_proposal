@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-16T07:20+09:00（収集時点）
+最終更新：2026-10-17T07:21+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**158件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**163件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,11 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 長野県 | [令和８年度 パークハウス滝戸屋根外壁等改修工事](<https://www.vill.nakagawa.nagano.jp/uploaded/attachment/8505.pdf>) | 長野県中川村 | 2026-08-17 | 原文を確認 | 12 13工事写真撮影要領 14 ・着手前及び完成後の撮影部位は、同方向同位置を撮影する | [03 図面等 \[PDFファイル／2.37MB\]](<https://www.vill.nakagawa.nagano.jp/uploaded/attachment/8507.pdf>) / [04 現場説明書 \[PDFファイル／132KB\]](<https://www.vill.nakagawa.nagano.jp/uploaded/attachment/8508.pdf>) / [05 数量調書 \[PDFファイル／99KB\]](<https://www.vill.nakagawa.nagano.jp/uploaded/attachment/8509.pdf>) |
+| 長野県 | [00\_koukoku\_0831\_sokkou\_116gou.pdf](<https://www.town.minowa.lg.jp/material/files/group/4/00_koukoku_0831_sokkou_116gou.pdf>) | 長野県箕輪町 | 2026-08-14 | 2026-08-31 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [閲覧設計書](<https://www.town.minowa.lg.jp/material/files/group/4/01_eturansekkeisyo_0831_sokkou_116.pdf>) / [数量総括表](<https://www.town.minowa.lg.jp/material/files/group/4/02_suuryou_0831_sokkou_116gou.pdf>) / [特記仕様書](<https://www.town.minowa.lg.jp/material/files/group/4/03_siyousyo_0831_sokkou_116gou.pdf>) / [図面](<https://www.town.minowa.lg.jp/material/files/group/4/04_zumen_0831_sokkou_116gou.pdf>) / [位置図](<https://www.town.minowa.lg.jp/material/files/group/4/05_ichizu_0831_sokkou_116gou.pdf>) |
+| 長野県 | [00\_koukoku\_0831\_hodo.pdf](<https://www.town.minowa.lg.jp/material/files/group/4/00_koukoku_0831_hodo.pdf>) | 長野県箕輪町 | 2026-08-14 | 2026-08-14 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [閲覧設計書](<https://www.town.minowa.lg.jp/material/files/group/4/01_sekkei_0831_hodo.pdf>) / [数量総括表](<https://www.town.minowa.lg.jp/material/files/group/4/02_suuryou_0831_hodo.pdf>) / [特記仕様書](<https://www.town.minowa.lg.jp/material/files/group/4/03_siyousyo_0831_hodo.pdf>) / [図面](<https://www.town.minowa.lg.jp/material/files/group/4/04_zumen_0831_hodo.pdf>) / [位置図](<https://www.town.minowa.lg.jp/material/files/group/4/05_ichizu_0831_hodo.pdf>) |
+| 長野県 | [00\_koukoku\_0831\_douro.pdf](<https://www.town.minowa.lg.jp/material/files/group/4/00_koukoku_0831_douro.pdf>) | 長野県箕輪町 | 2026-08-14 | 2026-08-14 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [閲覧設計書](<https://www.town.minowa.lg.jp/material/files/group/4/01_eturansekkei_0831_douro.pdf>) / [数量総括表](<https://www.town.minowa.lg.jp/material/files/group/4/02_suuryousoukatu_0831_douro.pdf>) / [特記仕様書](<https://www.town.minowa.lg.jp/material/files/group/4/03_tokkisiyousyo_0831_douro.pdf>) / [図面](<https://www.town.minowa.lg.jp/material/files/group/4/04_zumen_0831_doro.pdf>) / [位置図](<https://www.town.minowa.lg.jp/material/files/group/4/05_ichizu_0831_doro.pdf>) |
+| 長野県 | [00\_koukoku\_0831\_sokkou\_368.pdf](<https://www.town.minowa.lg.jp/material/files/group/4/00_koukoku_0831_sokkou_368.pdf>) | 長野県箕輪町 | 2026-08-14 | 2026-08-31 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [閲覧設計書](<https://www.town.minowa.lg.jp/material/files/group/4/01_eturansekkeisyo_0831_sokkou_368gou.pdf>) / [数量総括表](<https://www.town.minowa.lg.jp/material/files/group/4/02_suuryou_0831_sokkou_368.pdf>) / [図面](<https://www.town.minowa.lg.jp/material/files/group/4/04_zumen_0831_sokkou_368.pdf>) / [位置図](<https://www.town.minowa.lg.jp/material/files/group/4/05_ichizu_0831_sokkou_368.pdf>) / [全部書類(圧縮ファイル)](<https://www.town.minowa.lg.jp/material/files/group/4/06_zenbusyorui_0831_sokkou_368.zip>) |
 | 長野県 | [令和8年度 小野駅前団地B棟屋根及び外壁等改修工事（令和8年8月7日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku807.pdf>) | 長野県辰野町 | 2026-08-07 | 2026-09-01 | 工事写真撮影要領 ム)で労働基準監督署と長野県へ報告すること | [2 設計書 (PDFファイル: 232.7KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo807.pdf>) / [3 特記仕様書 (PDFファイル: 2.4MB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo807.pdf>) / [4 工事内訳書 (Excelファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/04_utiwake807.xls>) |
 | 長野県 | [令和8年度 県道与地辰野線拡幅工事に伴う公共マス・止水栓等移設工事（令和8年8月7日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku804.pdf>) | 長野県辰野町 | 2026-08-07 | 2026-09-01 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [2 設計書 (PDFファイル: 526.5KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo804.pdf>) / [3 特記仕様書 (PDFファイル: 285.7KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo804.pdf>) / [4 位置図 (PDFファイル: 789.4KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/04_itizu804.pdf>) / [5 図面 (PDFファイル: 576.2KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/05_zumen804.pdf>) / [6 工事内訳書 (Excelファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/06_utiwake804.xls>) |
 | 長野県 | [令和8年度 辰野町民体育館受変電設備更新工事（令和8年8月7日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku801.pdf>) | 長野県辰野町 | 2026-08-07 | 2026-09-01 | 施工アンカー防 火 区 画 等 の 貫 通 処 理 貫通個所の両面から写真撮影し、工事写真として提出する | [2 設計書 (PDFファイル: 230.1KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo801.pdf>) / [3 特記仕様書 (PDFファイル: 823.6KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo801.pdf>) / [4 工事内訳書 (Excelファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/04_utiwake801.xls>) |

@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-16T07:20+09:00（収集時点）
+最終更新：2026-10-17T07:21+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**214件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**220件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,12 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 広島県 | [広島市旅費管理システムの構築及び運用・保守業務 一式](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640082100101.pdf>) | 広島県広島市 | 2026-07-17 | 2026-08-31 | 番環境とは異なるもしくはテストアカウントを提供するなどして研修環境及び研修用動画等の研修資料を作成すること | [03-1\_仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640082100103.pdf>) / [03-2\_仕様書別紙１](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640082100104.pdf>) |
+| 広島県 | [26033竹原市歴史民俗資料館保存修理](<https://www.city.takehara.lg.jp/material/files/group/4/26033-1koukoku.pdf>) | 広島県竹原市 | 2026-07-17 | 原文を確認 | b.写真の著作権の権利等について 受託者は写真の撮影を再委託する場合は、次の事項を条件とすること | [説明書](<https://www.city.takehara.lg.jp/material/files/group/4/26033-2setsumei.pdf>) / [1](<https://www.city.takehara.lg.jp/material/files/group/4/26033-3shiyou1.pdf>) / [2](<https://www.city.takehara.lg.jp/material/files/group/4/26033-3shiyou2.pdf>) |
+| 広島県 | [【令和8年8月19日入札関係資料の修正】広島市旅費管理システムの構築及び運用・保守業務（9月1日開札）](<https://www.city.hiroshima.lg.jp/business/nyusatsu/1006046/1006111/1026551/1026552/1053285.html>) | 広島県広島市 | 2026-07-17 | 原文を確認 | 番環境とは異なるもしくはテストアカウントを提供するなどして研修環境及び研修用動画等の研修資料を作成すること | [03-1 仕様書 （PDF 685.2KB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/053/285/ryohi.pdf>) / [03-2 仕様書別紙1 （PDF 1.1MB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/053/285/bessi.pdf>) |
+| 広島県 | [新元重山国有林756は1林小班外森林整備事業（造林）](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/hirosimahokubu/080715_1.html>) | 林野庁近畿中国森林管理局広島北部森林管理署 | 2026-07-15 | 2026-08-31 | 正な使用に4 実行記録写真は、造林事業請負実行管理基準に定める実行記録写真の撮影要領に基づき撮影することとするが、一連の記録写真は契約の記番毎に1箇所以上に5 造林事業請負標準仕様書第21条における事故とは、4日以上の休業を要する6 本事業の実施に必要な諸作業で、設計図書に明記していないものは、請負者に令和 年 月 日… | [入札公告(PDF : 501KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/hirosimahokubu/attach/pdf/080715_1-1.pdf>) / [入札説明書(PDF : 1,131KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/hirosimahokubu/attach/pdf/080715_1-2.pdf>) / [閲覧図書(PDF : 2,651KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/hirosimahokubu/attach/pdf/080715_1-3.pdf>) / [造林・生産事業（一般競争・総合評価(簡易型)）(WORD : 155KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/hirosimahokubu/attach/doc/080715_1-1.docx>) |
+| 広島県 | [牛田浄水場ほかせん定等業務](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202600047000103.pdf>) | 広島県広島市 | 2026-07-14 | 原文を確認 | 緑地等維持管理標準仕様書」で指定しているもののほか、履行場所ごとに次の撮影を行うこと | [０４ 設計書等２](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202600047000104.pdf>) |
+| 広島県 | [【公募型プロポーザル】食をテーマにしたイベントと連携した食品ロス削減啓発業務](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/051/604/koujinituite.pdf>) | 広島県広島市 | 2026-07-14 | 2026-08-04 | 5 動画・写真撮影記録・保存用として、開催状況を撮影すること | [02\_食をテーマにしたイベントと連携した食品ロス削減啓発業務 基本仕様書 （PDF 444.0KB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/051/604/kihonsiyousyo.pdf>) / [10\_受託候補者特定基準 （PDF 220.7KB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/051/604/zyutakusyatokuteikizyun.pdf>) |
 | 広島県 | [総8-108-16西条第二地区雨水・汚水管渠建設及び寺家中央線道路改良工事(PDFファイル:306.4KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-16.pdf>) | 広島県東広島市 | 2026-07-13 | 2026-07-13 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [8-108-16-1(PDFファイル:7.5MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-16-1tosho.pdf>) / [8-108-16-2(PDFファイル:6.1MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-16-2tosho.pdf>) |
 | 広島県 | [1号8-108-13八本松飯田地区汚水管渠建設工事（東08-1）(PDFファイル:105.4KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-13_kokoku.pdf>) | 広島県東広島市 | 2026-07-13 | 2026-07-31 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [8-108-13(PDFファイル:3.2MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_8-108-13.pdf>) |
 | 広島県 | [2号8-108-12西条土与丸地区汚水管渠建設工事（東08-1）(PDFファイル:90.7KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-12_kokoku.pdf>) | 広島県東広島市 | 2026-07-13 | 2026-07-31 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [8-108-12(PDFファイル:5MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_8-108-12.pdf>) |
