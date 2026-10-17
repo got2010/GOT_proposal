@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-17T07:21+09:00（収集時点）
+最終更新：2026-10-18T07:14+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**163件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**165件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 2
 
@@ -20,6 +20,8 @@
 | 山梨県 | [09 若草807号線外舗装工事 (PDF 223KB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/6/9/8/0/_/09___807_______.pdf>) | 山梨県南アルプス市 | 2026-10-16 | 2026-11-10 | 異変形が生じないように注意して施工するものとし、各種施設の調査を測量、写真撮影により、施工前、施工中、施工後及び必要に応じて随時行うこと | [5081000100 (ZIP 3.98MB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/6/9/6/9/_/5081000100.zip>) |
 | 山梨県 | [04 桃園25号線水路設置工事 (PDF 226KB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/6/9/7/5/_/04___25________.pdf>) | 山梨県南アルプス市 | 2026-10-16 | 2026-11-10 | 異変形が生じないように注意して施工するものとし、各種施設の調査を測量、写真撮影により、施工前、施工中、施工後及び必要に応じて随時行うこと | [5081000095 (ZIP 8.25MB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/6/9/6/6/_/5081000095.zip>) |
 | 山梨県 | [02 東部工業団地南エリア下水道管渠布設工事(2工区) (PDF 228KB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/6/9/7/3/_/02_____________________2___.pdf>) | 山梨県南アルプス市 | 2026-10-16 | 2026-11-10 | 査項目及び仕様)1項 沿道調査施工区域の地番及び建物の変異変形を測量、写真撮影により施工前、施工中、施工後及び必要に応じて随時行わなければならない | [5081000093 (ZIP 5.41MB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/6/9/6/5/_/5081000093.zip>) |
+| 長野県 | [令和8年度 公共土木施設災害復旧事業町道74号線工事（令和8年10月16日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku1009.pdf>) | 長野県辰野町 | 2026-10-16 | 2026-10-30 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [2 設計書 (PDFファイル: 79.8KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo1009.pdf>) / [3 特記仕様書 (PDFファイル: 178.3KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo1009.pdf>) / [5 公表単価 (PDFファイル: 26.4KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/05_kohyotanka1009.pdf>) / [6 位置図 (PDFファイル: 348.3KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/06_itizu1009.pdf>) / [7 図面 (PDFファイル: 642.7KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/07_zumen1009.pdf>) |
+| 長野県 | [令和8から10年度 国道153号拡幅工事に伴う水管橋移設工事（令和8年10月16日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku1004.pdf>) | 長野県辰野町 | 2026-10-16 | 2026-10-30 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [2 設計書 (PDFファイル: 531.1KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo1004.pdf>) / [3 特記仕様書 (PDFファイル: 285.6KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo1004.pdf>) / [5 代価表 (PDFファイル: 425.8KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/05_daikahyo1004.pdf>) / [6 図面 (PDFファイル: 3.5MB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/06_zumen1004.pdf>) / [7 工事内訳書 (Excelファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/07_utiwake1004.xls>) |
 | 長野県 | [（8.10.16公告）令和8年度 森将軍塚古墳館空調設備改修工事(PDFファイル:295.6KB)](<https://www.city.chikuma.lg.jp/material/files/group/11/081105-01.pdf>) | 長野県千曲市 | 2026-10-16 | 原文を確認 | 、処分状況の写真(中間処理にあっては、中間処理状況の写真)及び日報工事写真撮影要領 ・着手前及び完成後の撮影部位は、同方向同位置とする | [図面等(PDFファイル:2.1MB)](<https://www.city.chikuma.lg.jp/material/files/group/11/081105-03.pdf>) |
 | 山梨県 | [若者新生活チャレンジ応援事業費補助金業務委託に係る一般競争入札公告](<https://www.pref.yamanashi.jp/documents/128035/koukoku.pdf>) | 山梨県 | 2026-10-15 | 原文を確認 | 作成した画像及び動画は、県が管理するSNSアカウント等でも使用できるデータ形式で県へ提出すること | [仕様書（PDF：298KB）](<https://www.pref.yamanashi.jp/documents/128035/shiyosyo.pdf>) |
 | 新潟県 | [消雪施設点検調整業務 委託 \[PDFファイル／132KB\]](<https://www.city.mitsuke.niigata.jp/uploaded/attachment/27169.pdf>) | 新潟県見附市 | 2026-10-14 | 2026-10-28 | 4 成果品(1)別紙「融雪施設点検調整マニュアル」に従い写真を撮影し提出する | [仕様書等 \[その他のファイル／4.48MB\]](<https://www.city.mitsuke.niigata.jp/uploaded/attachment/27170.zip>) |
@@ -114,7 +116,5 @@
 | 長野県 | [3 小学校トイレ改修事業 塩川小学校トイレ改修工事](<https://www.city.ueda.nagano.jp/uploaded/attachment/84666.pdf>) | 長野県上田市 | 2026-08-18 | 2026-09-03 | を行い、工事日誌へ記載するほか、点検内容等を別書面に記録し、実施状況の写真を撮影すること | [設計書 \[PDFファイル／809KB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/84669.pdf>) / [設計図 \[PDFファイル／7.61MB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/84671.pdf>) |
 | 長野県 | [2 中学校トイレ改修事業 丸子北中学校トイレ改修工事](<https://www.city.ueda.nagano.jp/uploaded/attachment/84660.pdf>) | 長野県上田市 | 2026-08-18 | 2026-09-03 | を行い、工事日誌へ記載するほか、点検内容等を別書面に記録し、実施状況の写真を撮影すること | [設計書 \[PDFファイル／456KB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/84663.pdf>) / [設計図 \[PDFファイル／2.19MB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/84665.pdf>) |
 | 長野県 | [令和8年度 一般道路改良工事 市道 大門荒城線【舗装工事Ａ・Ｂ・Ｃ級（市内本店）（支店・営業所の本店扱い含む）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080818_2_koukoku.files/2_1_koukoku_daimon_arajo.pdf>) | 長野県伊那市 | 2026-08-18 | 2026-09-01 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [特記仕様書（PDF：121KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080818_2_koukoku.files/2_4_jouken_daimon_arajo.pdf>) / [位置図（PDF：7,191KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080818_2_koukoku.files/2_5_itizu_daimon_arajo.pdf>) / [図面（PDF：474KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080818_2_koukoku.files/2_6_zumen_daimon_arajo.pdf>) |
-| 長野県 | [令和8年度 下牧伊駒線道路関連 下水道補償工事【土木一式工事Ｂ・Ｃ級（市内本店）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080818_1_koukoku.files/1_1_koukoku_simomakiikoma_gesui.pdf>) | 長野県伊那市 | 2026-08-18 | 2026-09-01 | 2-5 工事記録写真写真の撮影は、長野県土木部写真管理基準をもとに、別に定める「下水道工事写真撮影箇所一覧表」に従い撮影すること | [仕様書（PDF：443KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080818_1_koukoku.files/1_3_siyou_simomakiikoma_gesui.pdf>) / [位置図（PDF：683KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080818_1_koukoku.files/1_5_itizu_simomakiikoma_gesui.pdf>) / [図面（PDF：882KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080818_1_koukoku.files/1_6_zumen_simomakiikoma_gesui.pdf>) |
-| 新潟県 | [4(451)綱木水道施設配水管布設第18次工事](<https://www.town.aga.niigata.jp/material/files/group/3/08-451.xls>) | 新潟県阿賀町 | 2026-08-17 | 2026-08-24 | 設機械を使用する場 合、現場代理人は施工現場において使用する建設機械の写真撮影を行い、監督職員に 提出するものとする | [4(451)設計図書 (PDFファイル: 10.0MB)](<https://www.town.aga.niigata.jp/material/files/group/3/0800817-451.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

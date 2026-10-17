@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-17T07:21+09:00（収集時点）
+最終更新：2026-10-18T07:14+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**163件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**165件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 長野県 | [令和8年度 下牧伊駒線道路関連 下水道補償工事【土木一式工事Ｂ・Ｃ級（市内本店）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080818_1_koukoku.files/1_1_koukoku_simomakiikoma_gesui.pdf>) | 長野県伊那市 | 2026-08-18 | 2026-09-01 | 2-5 工事記録写真写真の撮影は、長野県土木部写真管理基準をもとに、別に定める「下水道工事写真撮影箇所一覧表」に従い撮影すること | [仕様書（PDF：443KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080818_1_koukoku.files/1_3_siyou_simomakiikoma_gesui.pdf>) / [位置図（PDF：683KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080818_1_koukoku.files/1_5_itizu_simomakiikoma_gesui.pdf>) / [図面（PDF：882KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080818_1_koukoku.files/1_6_zumen_simomakiikoma_gesui.pdf>) |
+| 新潟県 | [4(451)綱木水道施設配水管布設第18次工事](<https://www.town.aga.niigata.jp/material/files/group/3/08-451.xls>) | 新潟県阿賀町 | 2026-08-17 | 2026-08-24 | 設機械を使用する場 合、現場代理人は施工現場において使用する建設機械の写真撮影を行い、監督職員に 提出するものとする | [4(451)設計図書 (PDFファイル: 10.0MB)](<https://www.town.aga.niigata.jp/material/files/group/3/0800817-451.pdf>) |
 | 長野県 | [令和８年度 パークハウス滝戸屋根外壁等改修工事](<https://www.vill.nakagawa.nagano.jp/uploaded/attachment/8505.pdf>) | 長野県中川村 | 2026-08-17 | 原文を確認 | 12 13工事写真撮影要領 14 ・着手前及び完成後の撮影部位は、同方向同位置を撮影する | [03 図面等 \[PDFファイル／2.37MB\]](<https://www.vill.nakagawa.nagano.jp/uploaded/attachment/8507.pdf>) / [04 現場説明書 \[PDFファイル／132KB\]](<https://www.vill.nakagawa.nagano.jp/uploaded/attachment/8508.pdf>) / [05 数量調書 \[PDFファイル／99KB\]](<https://www.vill.nakagawa.nagano.jp/uploaded/attachment/8509.pdf>) |
 | 長野県 | [00\_koukoku\_0831\_sokkou\_116gou.pdf](<https://www.town.minowa.lg.jp/material/files/group/4/00_koukoku_0831_sokkou_116gou.pdf>) | 長野県箕輪町 | 2026-08-14 | 2026-08-31 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [閲覧設計書](<https://www.town.minowa.lg.jp/material/files/group/4/01_eturansekkeisyo_0831_sokkou_116.pdf>) / [数量総括表](<https://www.town.minowa.lg.jp/material/files/group/4/02_suuryou_0831_sokkou_116gou.pdf>) / [特記仕様書](<https://www.town.minowa.lg.jp/material/files/group/4/03_siyousyo_0831_sokkou_116gou.pdf>) / [図面](<https://www.town.minowa.lg.jp/material/files/group/4/04_zumen_0831_sokkou_116gou.pdf>) / [位置図](<https://www.town.minowa.lg.jp/material/files/group/4/05_ichizu_0831_sokkou_116gou.pdf>) |
 | 長野県 | [00\_koukoku\_0831\_hodo.pdf](<https://www.town.minowa.lg.jp/material/files/group/4/00_koukoku_0831_hodo.pdf>) | 長野県箕輪町 | 2026-08-14 | 2026-08-14 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [閲覧設計書](<https://www.town.minowa.lg.jp/material/files/group/4/01_sekkei_0831_hodo.pdf>) / [数量総括表](<https://www.town.minowa.lg.jp/material/files/group/4/02_suuryou_0831_hodo.pdf>) / [特記仕様書](<https://www.town.minowa.lg.jp/material/files/group/4/03_siyousyo_0831_hodo.pdf>) / [図面](<https://www.town.minowa.lg.jp/material/files/group/4/04_zumen_0831_hodo.pdf>) / [位置図](<https://www.town.minowa.lg.jp/material/files/group/4/05_ichizu_0831_hodo.pdf>) |
