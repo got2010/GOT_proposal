@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-19T07:15+09:00（収集時点）
+最終更新：2026-10-20T07:22+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：岐阜県 静岡県 愛知県 三重県
 
-**107件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**108件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 2
 
@@ -19,6 +19,7 @@
 | 岐阜県 | [令和8年度地方創生SDGsワークスタイル情報発信動画制作・広告出稿業務委託に関する一般競争入札公告](<https://www.pref.gifu.lg.jp/uploaded/life/516685_2972474_misc.pdf>) | 岐阜県 | 2026-09-09 | 2026-09-18 | 令和8年度地方創生SDGsワークスタイル情報発信動画制作・広告出稿業務委託に関する一般競争入札公告 | — |
 | 岐阜県 | [令和8年度地方創生SDGsワークスタイル情報発信動画制作・広告出稿業務委託に関する一般競争入札公告](<https://www.pref.gifu.lg.jp/uploaded/life/516416_2970143_misc.pdf>) | 岐阜県 | 2026-09-07 | 2026-09-18 | 令和8年度地方創生SDGsワークスタイル情報発信動画制作・広告出稿業務委託に関する一般競争入札公告 | — |
 | 静岡県 | [R8年度熱海市・三島市・函南町航空写真共同撮影業務委託](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-kokoku.pdf>) | 静岡県熱海市 | 2026-08-13 | 原文を確認 | R8年度熱海市・三島市・函南町航空写真共同撮影業務委託 | [設計書 （PDF 228.3KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-sekkei1.pdf>) / [仕様書 （PDF 319.9KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-siyou1.pdf>) / [仕様書別添1 （PDF 490.6KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-siyou2.pdf>) / [仕様書別添2 （PDF 563.5KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-siyou3.pdf>) / [仕様書別添3 （PDF 5.6MB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-siyou4.pdf>) |
+| 岐阜県 | [Pythonチュートリアル動画の整備 一式](<https://www.nifs.ac.jp/procurement/kokoku_20261019.pdf>) | 大学共同利用機関法人自然科学研究機構核融合科学研究所 | 2026-10-19 | 2026-10-23 | キュメントの作成・ 音声読み上げソフトウェアの利用によるチュートリアル動画の作成参考リンク・ Pythonチュートリアル:https://researchmap.jp/takeo\_hoshi/works/512890821.一般事項1) 上記の作業(以下「作業」という)は、本仕様書に基づいて行うこと | [仕様書](<https://www.nifs.ac.jp/procurement/shiyosho_20261019.pdf>) |
 | 岐阜県 | [契公下第20号 原黒岩幹線27管更生工事 (圧縮ファイル: 6.2MB)](<https://www.city.ena.lg.jp/material/files/group/3/20261014kouge20.zip>) | 岐阜県恵那市 | 2026-10-14 | 2026-10-20 | 6.作業記録写真受注者は、次の各項に従って、作業記録写真を撮影し、作業完了時には、工種ごとに工程順に編集したものを、作業記録写真帳に整理し、完成届に添付して監督員に提出すること | — |
 | 岐阜県 | [契公下第19号 原黒岩準幹線44-1ほか管更生工事 (圧縮ファイル: 3.5MB)](<https://www.city.ena.lg.jp/material/files/group/3/20261014kouge19.zip>) | 岐阜県恵那市 | 2026-10-14 | 2026-10-20 | 6.作業記録写真受注者は、次の各項に従って、作業記録写真を撮影し、作業完了時には、工種ごとに工程順に編集したものを、作業記録写真帳に整理し、完成届に添付して監督員に提出すること | — |
 | 愛知県 | [R09-名古屋住まいセンター消防用設備点検等業務（その1) （令和8年10月14日）](<https://www.ur-net.go.jp/orders/central/pdf/order_44273_3.pdf>) | 独立行政法人都市再生機構中部支社 | 2026-10-14 | 2027-01-20 | に規定する消防設備士でなくても行える軽微な整備ホ 記録方法については、写真撮影(着手前後)による記録も行う | [仕様書\[15775KB\]](<https://www.ur-net.go.jp/orders/central/pdf/order_44273_4.pdf>) |
@@ -115,6 +116,5 @@
 | 岐阜県 | [中区系基幹管路（中区配水場～大森ﾎﾟﾝﾌﾟ場）舗装復旧（その４）工事](<https://www.city.kani.lg.jp/secure/30313/1-55koukoku.pdf>) | 岐阜県可児市 | 2026-07-22 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 4632KB)](<https://www.city.kani.lg.jp/secure/30313/1-55siyousyo.pdf>) |
 | 岐阜県 | [令和8年度下水道舗装復旧工事](<https://www.city.kani.lg.jp/secure/30312/1-54koukoku.pdf>) | 岐阜県可児市 | 2026-07-22 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 8894KB)](<https://www.city.kani.lg.jp/secure/30312/1-54siyousyo.pdf>) |
 | 岐阜県 | [広見東地区センター外部改修工事](<https://www.city.kani.lg.jp/secure/30311/1-53koukoku.pdf>) | 岐阜県可児市 | 2026-07-22 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 3869KB)](<https://www.city.kani.lg.jp/secure/30311/1-53siyouryo.pdf>) |
-| 岐阜県 | [令和８年度 愛岐ケ丘地内上水道舗装復旧工事](<https://www.city.kani.lg.jp/secure/30310/1-52koukoku.pdf>) | 岐阜県可児市 | 2026-07-22 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 2092KB)](<https://www.city.kani.lg.jp/secure/30310/1-52siyousyo.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

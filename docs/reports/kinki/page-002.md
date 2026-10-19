@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-19T07:15+09:00（収集時点）
+最終更新：2026-10-20T07:22+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**193件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**198件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,11 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 京都府 | [西羽束師排水機場ほか１４機場 クレーン設備点検・検査業務委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/441175.htm>) | 京都府京都市 | 2026-09-08 | 原文を確認 | 託業務の履行の際には、その履行状況(履行前・中・後)が確認できるような写真を撮影し、写真帳として取りまとめて1部提出すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./441175_12_09081617.pdf>) |
+| 兵庫県 | [オートコールシステム利用サービスの提供](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/B26090701.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-09-07 | 2026-09-07 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |
+| 兵庫県 | [建築コース用パーソナルコンピュータシステム導入整備一式](<https://web.pref.hyogo.lg.jp/sr06/monodai/pc.html>) | 兵庫県 | 2026-09-07 | 2026-09-11 | 容の履行が行われていることを証明する上で、必要な場合には作業工程ごとの写真を明確に撮影し、この履行完了後に提出すること | [入札公告（PDF：231KB）](<https://web.pref.hyogo.lg.jp/sr06/monodai/documents/1nyusatsukoukoku.pdf>) / [仕様書（PDF：320KB）](<https://web.pref.hyogo.lg.jp/sr06/monodai/documents/2shiyousyo.pdf>) / [入札説明書（PDF：292KB）](<https://web.pref.hyogo.lg.jp/sr06/monodai/documents/3setsumeisyo.pdf>) |
+| 兵庫県 | [【制限付一般競争入札】明石市立明石養護学校屋内運動場屋上防水改修修繕（9月4日発注）](<https://www.city.akashi.lg.jp/documents/40376/2026-yougo-3-011_koukoku.pdf>) | 兵庫県明石市 | 2026-09-04 | 原文を確認 | 場着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、完成時に現状復旧が行われているか確認すること | [仕様書一式（PDF：154KB）](<https://www.city.akashi.lg.jp/documents/40376/2026-yougo-21-22-siyousho.pdf>) |
+| 兵庫県 | [【制限付一般競争入札】明石市立大久保南小学校屋内運動場2階屋上防水改修修繕（9月4日発注）](<https://www.city.akashi.lg.jp/documents/40342/2026-minamisho-3-011_koukoku.pdf>) | 兵庫県明石市 | 2026-09-04 | 原文を確認 | 場着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、完成時に現状復旧が行われているか確認すること | [仕様書一式（PDF：162KB）](<https://www.city.akashi.lg.jp/documents/40342/2026-minamisho-21-22-siyousho.pdf>) |
 | 京都府 | [令和８年度京都市森林経営管理事業間伐業務（京都集計R7-16ほか）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/440490.htm>) | 京都府京都市 | 2026-09-04 | 原文を確認 | 作業日報(様式4)ウ 業務写真エ その他市長が必要とする書類なお、業務写真については、撮影日、林相、業務内容(測量中、選木前、選木後(マーキングが鮮明に写るようにすること)、保育間伐中、保育間伐後、伐採整理前、伐採整理後)がわかるよう撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./440490_12_08311640.pdf>) |
 | 奈良県 | [R8-koukoku111.pdf](<https://www.city.yamatotakada.nara.jp/material/files/group/14/R8-koukoku111.pdf>) | 奈良県大和高田市 | 2026-09-02 | 2026-09-25 | 年9月2日大和高田市長 堀内 大造1 業務名 令和8年度大和高田市航空写真撮影業務委託2 履行場所 大和高田市全域3 履行期間 契約締結日から令和9年3月23日(火)まで4 業務内容 入札説明書(仕様書)のとおり5 入札参加資格要件 この競争入札に参加することができる者は、次に掲げる要件を全てみたしているものとします | — |
 | 京都府 | [精華町要介護認定調査支援システム導入業務に係る公募型プロポーザルの実施について](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesshiyousyo2026.pdf>) | 京都府精華町 | 2026-09-02 | 原文を確認 | 員が本番前にシステム操作等を自習できるテスト環境を用意する、自習できる研修動画等、研修後にユーザが自習できる方法を提案することが望ましい | [参加申請書 (PDFファイル: 57.7KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesssannkamousikomi2026.pdf>) / [参加申請書受付票 (PDFファイル: 20.8KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesssankamousikomisyo2026.pdf>) / [辞退届 (PDFファイル: 49.9KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesszitaihyou2026.pdf>) |

@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-19T07:15+09:00（収集時点）
+最終更新：2026-10-20T07:22+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：岐阜県 静岡県 愛知県 三重県
 
-**107件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**108件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 岐阜県 | [令和８年度 愛岐ケ丘地内上水道舗装復旧工事](<https://www.city.kani.lg.jp/secure/30310/1-52koukoku.pdf>) | 岐阜県可児市 | 2026-07-22 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 2092KB)](<https://www.city.kani.lg.jp/secure/30310/1-52siyousyo.pdf>) |
 | 岐阜県 | [長山系基幹管路（羽崎～緑ケ丘）布設替その２工事](<https://www.city.kani.lg.jp/secure/30309/1-51koukoku.pdf>) | 岐阜県可児市 | 2026-07-22 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 2754KB)](<https://www.city.kani.lg.jp/secure/30309/1-51siyousyo.pdf>) |
 | 岐阜県 | [08水下第167号特環 新平湯処理区旧福地浄化センター解体工事](<https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/023/837/08suige167.pdf>) | 岐阜県高山市 | 2026-07-21 | 2026-08-04 | 負者は、必要に応じて付近の地盤沈下の状況、近隣建物の状況を調査・記録・写真撮影し事後に備えること | [08suige167 （zip 2.6MB）](<https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/023/837/08suige167.zip>) |
 | 静岡県 | [令和8年度 公共下水道管渠点検業務委託 入札](<https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/016/732/koukokubun.pdf>) | 静岡県磐田市 | 2026-07-16 | 2026-07-29 | 12. 作業記録写真受注者は、次の各項に従って、点検記録写真を撮影し、作業完了時には、工種ごと4に工程順に編集したものを、点検記録写真帳に整理し、業務完了届出書に添付して監督員に提出すること | [仕様書 （PDF 535.9KB）](<https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/016/732/shiyousho.pdf>) / [設計書 （PDF 2.7MB）](<https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/016/732/sextukeisho.pdf>) |

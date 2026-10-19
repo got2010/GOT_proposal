@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-19T07:15+09:00（収集時点）
+最終更新：2026-10-20T07:22+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**464件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**468件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 5 / 5
 
@@ -16,6 +16,10 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 茨城県 | [【電子入札】【電子契約】高速炉用パッド付ラッパ管の試作試験](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01048.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-07-27 | 2026-10-09 | 報告:合否、写真(400倍で撮影)(5) 結晶粒度試験同一素材ロットの異なる管より1試料をサンプリングし、JIS G0551(2022) に準じて試験を行う | — |
+| 東京都 | [令和８年度皇居外苑和田倉休憩所トイレ塗装等改修工事](<https://www.env.go.jp/garden/kokyogaien/4_sup/2022/sup_00142.html>) | 環境省皇居外苑 | 2026-07-24 | 2026-09-02 | サルデザイン 皇居ラン(マラソン)について 個人撮影について メディア取材、撮影について 駐車場について 校外学習について 団体利用について 案内板等設置等について 調達情報 フォトアルバム リンク集 国民公園一覧 皇居外苑 京都御苑 新宿御苑 千鳥ケ淵戦没者墓苑 環境省(法人番号1000012110001)皇居外苑管… | [入札説明書](<https://www.env.go.jp/garden/content/000418596.pdf>) / [別記様式](<https://www.env.go.jp/garden/content/000418593.doc>) / [特記仕様書等](<https://www.env.go.jp/garden/content/000418594.pdf>) |
+| 埼玉県 | [建築課：【第420号】市営住宅樹木維持管理業務委託](<https://www.city.kasukabe.lg.jp/jigyoshamuke/nyusatsu_keiyaku/nyusatsukokokuichiran/67/32449.html>) | 埼玉県春日部市 | 2026-07-24 | 2026-08-18 | 写真は撮影方向が分かるように配置図に示すこと | [仕様書(PDFファイル:2.3MB)](<https://www.city.kasukabe.lg.jp/material/files/group/45/01_shiyousyo_jyumoku.pdf>) |
+| 東京都 | [【再度公告】入札公告「ラボポータルサイト第三期システム」の運用・保守業務に係る一般競争入札](<https://www.ipa.go.jp/choutatsu/nyusatsu/2026/nyusatsu20260724-2.html>) | 独立行政法人情報処理推進機構 | 2026-07-24 | 2026-07-31 | 閲覧物の内容のメモは可とするが、写真撮影、コピー等の複写行為は不可とする | [入札説明書(PDF:922 KB)](<https://www.ipa.go.jp/choutatsu/nyusatsu/2026/rcu1hd0000017od4-att/nyusatsu20260724-2.pdf>) |
 | 千葉県 | [松契一般第175号 松戸市立旭町小学校公共下水道接続工事（PDF：371KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-07524kouji2w.files/175.pdf>) | 千葉県松戸市 | 2026-07-24 | 2026-07-24 | 〇全空気方式●工事写真@ 国土交通省大臣官房官庁営繕部制定の「営繕工事写真撮影要領(令和5年版)」による | [松契一般第175号 設計図書（PDF：5,436KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-07524kouji2w.files/175s.pdf>) |
 | 千葉県 | [松契一般第176号 小山ポンプ場ゲート駆動部修繕 （PDF：343KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0724shuzen.files/176.pdf>) | 千葉県松戸市 | 2026-07-24 | 2026-07-24 | 1 5.写真撮影要領 1)現地及び工場における写真を工程毎に撮影すること | [松契一般第176号 設計図書（PDF：13,459KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0724shuzen.files/176s.pdf>) |
 | 千葉県 | [松契一般第180号 八柱駅周辺地区電線共同溝整備工事（PDF：301KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0724kouji_sougou.files/180.pdf>) | 千葉県松戸市 | 2026-07-24 | 2026-09-24 | 写真管理 写真撮影内容は目的を満足しているか | [松契一般第180号 設計図書（PDF：8,927KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0724kouji_sougou.files/180s.pdf>) |

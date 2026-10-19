@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-19T07:15+09:00（収集時点）
+最終更新：2026-10-20T07:22+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：徳島県 香川県 愛媛県 高知県
 
-**124件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**127件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 徳島県 | [宝田小学校屋内運動場屋根改修工事](<https://www.city.anan.tokushima.jp/docs/2026070200018/file_contents/080727.pdf>) | 徳島県阿南市 | 2026-07-27 | 原文を確認 | 等については,不可視部分の出来形が写真で 的確に確認できること.◎工事写真の撮影は, 国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」によること. ・阿南市建築工事様式集で監督員が指示した図書(必要部数)22. 工事検査及び技術検査23. 完成図等◎工事完成撮影は, 別途指定がある場合を除き,専門家によらないも… | [宝田小学校屋内運動場屋根改修工事 入札情報\[PDF：62.5KB\]](<https://www.city.anan.tokushima.jp/docs/2026070200018/file_contents/260709-1.pdf>) / [宝田小学校屋内運動場屋根改修工事 3.閲覧補足説明書（１）\[PDF：112KB\]](<https://www.city.anan.tokushima.jp/docs/2026070200018/file_contents/260709-1-3.pdf>) / [宝田小学校屋内運動場屋根改修工事 4.閲覧補足説明書（２）\[PDF：142KB\]](<https://www.city.anan.tokushima.jp/docs/2026070200018/file_contents/260709-1-4.pdf>) / [宝田小学校屋内運動場屋根改修工事 5.図面\[PDF：2.55MB\]](<https://www.city.anan.tokushima.jp/docs/2026070200018/file_contents/260709-1-5.pdf>) |
+| 徳島県 | [公営住宅大京原団地１号棟屋上防水改修工事](<https://www.city.anan.tokushima.jp/docs/2026072200085/file_contents/0724-2.pdf>) | 徳島県阿南市 | 2026-07-24 | 原文を確認 | 等については,不可視部分の出来形が写真で 的確に確認できること.◎工事写真の撮影は, 国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」によること. ・阿南市建築工事様式集で監督員が指示した図書(必要部数)20. 仮設トイレ21. 設計変更箇所確認22. 工事検査及び技術検査23. 完成図等◎工事完成撮影は, 別… | [公営住宅大京原団地１号棟屋上防水改修工事 1.補足説明書\[PDF：93KB\]](<https://www.city.anan.tokushima.jp/docs/2026072200085/file_contents/0724-2-1.pdf>) / [公営住宅大京原団地１号棟屋上防水改修工事 2.図面\[PDF：755KB\]](<https://www.city.anan.tokushima.jp/docs/2026072200085/file_contents/0724-2-2.pdf>) |
+| 高知県 | [令和８年度シカ森林被害対策事業委託に係る一般競争入札](<https://www.pref.kochi.lg.jp/doc/2026071700210/file_contents/file_20267245103210_1.doc>) | 高知県 | 2026-07-24 | 2026-07-29 | 知県内で赤外線サーマルカメラを搭載した「夜間飛行」及び「目視外飛行」のドローン調査でシカを撮影した実績があること | [シカ森林被害対策事業委託 仕様書\[PDF：11.5MB\]](<https://www.pref.kochi.lg.jp/doc/2026071700210/file_contents/file_2026724510225_1.pdf>) / [金抜設計書（シカ森林被害対策事業委託）\[PDF：122KB\]](<https://www.pref.kochi.lg.jp/doc/2026071700210/file_contents/file_20267245112447_1.pdf>) |
 | 高知県 | [(建第08016号)市道舞子線道路改良工事【7月22日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_ken08016-1.pdf>) | 高知県香南市 | 2026-07-22 | 2026-08-10 | 及び所在地が計画と一致す運搬車のナンバーが写るよう運搬車後面のデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 380.5KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_ken08016-.pdf>) / [公表単価一覧表 (PDFファイル: 29.8KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_ken08016.pdf>) / [数量計算書 (PDFファイル: 1.1MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/suryou_ken08016.pdf>) / [位置図 (PDFファイル: 1.6MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_ken08016-1.pdf>) / [図面 (PDFファイル: 1.2MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_ken08016.pdf>) |
 | 高知県 | [(農第08035号)武市溝第3期水路改修工事【7月22日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_nou08035.pdf>) | 高知県香南市 | 2026-07-22 | 2026-08-10 | の処理数量を重さ(「t」)の単位とする場合 等のスケールをあてデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 8.9MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_nou08035-1.pdf>) / [公表単価一覧表 (PDFファイル: 269.4KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_nou08035.pdf>) / [位置図 (PDFファイル: 624.8KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_nou08035.pdf>) / [図面 (PDFファイル: 2.1MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_8nou08035.pdf>) |
 | 高知県 | [(上水第08032号)香我美町山南地区配水管更新工事（2−2工区）【7月22日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_jyousui08032.pdf>) | 高知県香南市 | 2026-07-22 | 2026-08-10 | ト交付番号も記載 荷姿、運搬車のナンバーが写るよう運搬車後面のデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 406.1KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_jyousui08032.pdf>) / [公表単価一覧表 (PDFファイル: 256.9KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_jyousui08032.pdf>) / [位置図 (PDFファイル: 271.7KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_jyousui08032.pdf>) / [図面 (圧縮ファイル: 218.4KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_jyousui08032.zip>) |

@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-19T07:15+09:00（収集時点）
+最終更新：2026-10-20T07:22+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**243件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**245件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 青森県 | [森林環境保全整備事業（北来満山地区）](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanpatikamikita/260727.html>) | 林野庁東北森林管理局三八上北森林管理署 | 2026-07-27 | 2026-08-17 | 業区域の確認(d) 事業日報(2) 実行記録写真管理 (a) 実行記録写真の撮影要領(b) 実行記録写真の撮影と整理4 管理の実施(1) 現場代理人又は担当技術者は、作業の実施の都度、その結果を記録するとともに、その結果に基づいて適切な実行管理を行わなければならない | [入札公告(PDF : 158KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanpatikamikita/./attach/pdf/260727-1.pdf>) / [入札説明書(PDF : 178KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanpatikamikita/./attach/pdf/260727-2.pdf>) / [競争参加資格確認申請書及び技術提案書作成要領外(PDF : 5,647KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanpatikamikita/./attach/pdf/260727-3.pdf>) / [標準・特記仕様書等(PDF : 3,964KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanpatikamikita/./attach/pdf/260727-5.pdf>) / [木取寸法調書外(PDF : 38KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanpatikamikita/./attach/pdf/260727-6.pdf>) |
+| 宮城県 | [保安林総合改良整備事業(仙台地区B)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sendai/260727sendaichikub.html>) | 林野庁東北森林管理局仙台森林管理署 | 2026-07-27 | 2026-08-18 | (準備器材)2 写真撮影にあたり準備する器材は、次のとおり | [入札公告(PDF : 259KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sendai/./attach/pdf/260727sendaichikub-1.pdf>) / [入札説明書(PDF : 320KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sendai/./attach/pdf/260727sendaichikub-2.pdf>) / [競争参加資格確認申請書及び技術提案書作成要領(PDF : 3,859KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sendai/./attach/pdf/260727sendaichikub-3.pdf>) / [造林事業請負標準仕様書(PDF : 7,917KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sendai/./attach/pdf/260727sendaichikub-4.pdf>) / [入札説明資料(PDF : 4,596KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sendai/./attach/pdf/260727sendaichikub-5.pdf>) |
 | 山形県 | [保安林総合改良整備事業（酒田海岸地区）【再公告】](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/syonai/20260727.html>) | 林野庁東北森林管理局庄内森林管理署 | 2026-07-27 | 2026-08-14 | 出来形管理基準(b) 出来形図面(3) 実行記録写真 (a) 実行記録写真の撮影要領(b) 実行記録写真の撮影と整理4.管理の実施(1) 現場代理人は、作業の実施の都度、その結果を記録するとともに、その結果に基づいて適切な実行管理を行わなければならない | [入札公告(PDF : 277KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/syonai/./attach/pdf/20260727-1.pdf>) / [入札説明書(PDF : 322KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/syonai/./attach/pdf/20260727-2.pdf>) / [競争参加資格確認申請書及び技術提案書作成要領(PDF : 4,357KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/syonai/./attach/pdf/20260727-3.pdf>) / [入札説明資料(PDF : 2,045KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/syonai/./attach/pdf/20260727-4.pdf>) |
 | 宮城県 | [令８−防安・交 下水道管路耐震化に伴う基礎調査業務委託](<https://www.city.shiogama.miyagi.jp/uploaded/life/57680_146678_misc.pdf>) | 宮城県塩竃市 | 2026-07-24 | 2026-07-28 | 全天球カメラおよび全方位照射型照明を使用してマンホール内部の画像または映像を撮影し,点検を行うものである | [設計書一式 \[その他のファイル／10.41MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/57680_146676_misc.zip>) |
 | 山形県 | [7月23日公告（舗装A）格付指定型一般競争入札の公告について 工事名：鶴岡市集落排水事業 田川地区管路施設清水14～31号路面復旧工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/080723-25.files/080723-25.pdf>) | 山形県鶴岡市 | 2026-07-23 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書一式 （PDF：3,544KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/080723-25.files/080723-25-01.pdf>) |

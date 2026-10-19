@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-19T07:15+09:00（収集時点）
+最終更新：2026-10-20T07:22+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**464件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**468件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 4 / 5
 
@@ -16,6 +16,10 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 埼玉県 | [【8月26日公告】公共下水道管改築工事（第11工区）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608262.files/8-603_604_koukoku.pdf>) | 埼玉県狭山市 | 2026-08-26 | 原文を確認 | 1 工事概要2 職務分担および緊急時の連絡体制3 工事記録写真撮影計画4 実施工程表5 工法6 主要機械7 主要資材8 材料設計および水理性能評価9 材料品質証明の内容10 前処理計画11 施工管理12 品質管理13 環境対策14 安全・衛生管理15 材料の製造から使用までの保管期間と保管方法16 材料の運搬方法17 … | [入札説明書（PDF・70KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608262.files/8-604-1_nyuusatusetumeisyo.pdf>) / [位置図（PDF・295KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608262.files/8-604-2_itizu.pdf>) / [仕様書（PDF・295KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608262.files/8-604-3_siyousyo.pdf>) / [特記仕様書（PDF・1,488KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608262.files/8-604-4_tokkisiyousyo.pdf>) / [図面（PDF・1,321KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608262.files/8-604-6_zumen.pdf>) |
+| 埼玉県 | [さいたま市技能者表彰式典運営等業務の入札情報](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133083_d/fil/kokuji.pdf>) | 埼玉県さいたま市 | 2026-08-26 | 2026-09-15 | カメラマンを手配し、市長と受賞者の集合写真及び各受賞者の壇上の様子の写真撮影を行うこと | [02\_入札説明書（さいたま市技能者表彰式典運営等業務）（PDF形式 172キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133083_d/fil/setsumei.pdf>) / [03\_仕様書（PDF形式 298キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133083_d/fil/shiyou.pdf>) |
+| 千葉県 | [ちばの「海と夕陽」を活用した観光プロモーション事業に係る企画提案の募集について](<https://www.pref.chiba.lg.jp/kankou/chiba-nature/r8chiba-sea-sunset.html>) | 千葉県 | 2026-08-26 | 2026-09-18 | 成等本業務の趣旨を踏まえ、キャンペーンの周知に必要なチラシ、ポスター、動画等の作成・納品、上映を行うこと | [仕様書（PDF：310.4KB）](<https://www.pref.chiba.lg.jp/kankou/chiba-nature/documents/shiyousyo.pdf>) |
+| 千葉県 | [「令和8年度養老渓谷温泉郷の観光地域づくりに関する調査等業務委託」に係る企画提案の募集について](<https://www.pref.chiba.lg.jp/kankou/chiba-nature/r8yourou-research.html>) | 千葉県 | 2026-08-26 | 2027-03-31 | いて、協議会の開催時に報告を行うオ 記録等・欠席者への資料の送付・記録写真の撮影・会議記録の作成受託者は、会議における意見・結果等をとりまとめ、やむを得ない場合を除き、協議会開催後7日以内に作成し、県の確認を得た上で、各出席者に送付する | [企画提案仕様書（PDF：379KB）](<https://www.pref.chiba.lg.jp/kankou/chiba-nature/documents/siyousyo.tyousa.pdf>) |
 | 神奈川県 | [久木中学校屋内運動場外壁改修工事](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_hisatyuunndouzyogaihekikaisyu.pdf>) | 神奈川県逗子市 | 2026-08-25 | 2026-09-09 | 材(アスベスト含有)吹付タイル【施工調査により変更数量となる場合は全て写真撮影を行う事】※ 施工調査範囲は外壁全面とする | [02\_図面一式 （PDF 1.4 MB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8zumen_hisatyuunndouzyogaihekikaisyu.pdf>) / [03\_設計書 （Excel 72.0 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8utiwake_hisatyuunndouzyogaihekikaisyu.xls>) / [01\_仕様書 （PDF 559.3 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8siyo_hisatyuunndouzyogaihekikaisyu.pdf>) |
 | 茨城県 | [【電子入札】【電子契約】光学定盤等の移設作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01221.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-08-25 | 2026-10-13 | ただし、コピーや写真撮影等の行為は禁止する | — |
 | 栃木県 | [健康センター解体工事](<https://www.town.nogi.lg.jp/data/doc/1787535671_doc_44_0.pdf>) | 栃木県野木町 | 2026-08-24 | 2026-09-17 | 1章 一般共通事項○1-1 適用基準等◎工事写真撮影ガイドブック(建築工事編及び解体工事編)国土交通省大臣官房官庁営繕部監修(令和5年版)◎建設副産物適正処理推進要綱 栃木県県土整備部(平成14年5月)◎建築物の解体工事における外壁の崩落等による公衆災害防止対策に関するガイドライン国土交通省住宅局策定(平成15年7月)… | [設計書](<https://www.town.nogi.lg.jp/data/doc/1787535675_doc_44_0.pdf>) / [設計図(1)](<https://www.town.nogi.lg.jp/data/doc/1787535683_doc_44_0.pdf>) / [設計図(2)](<https://www.town.nogi.lg.jp/data/doc/1787535702_doc_44_0.pdf>) / [設計図(3)](<https://www.town.nogi.lg.jp/data/doc/1787535722_doc_44_0.pdf>) / [設計図(4)](<https://www.town.nogi.lg.jp/data/doc/1787535743_doc_44_0.pdf>) |
@@ -112,9 +116,5 @@
 | 東京都 | [国立能楽堂広間等カーペット張替工事](<https://www.ntj.jac.go.jp/assets/files/03_chotatsu/noh/2026/kokoku_carpet.pdf>) | 独立行政法人日本芸術文化振興会 | 2026-07-27 | 2026-09-16 | なお、本項に規定していない事項は「工事写真撮影要領(文部科学省大臣官房文教施設企画・防災部参事官)」に準ずる | [入札説明書等 (372.23KB)](<https://www.ntj.jac.go.jp/assets/files/03_chotatsu/noh/2026/setsumeisho_carpet.pdf>) / [現場説明書 (2.03MB)](<https://www.ntj.jac.go.jp/assets/files/03_chotatsu/noh/2026/genbasetsumeisho_carpet.pdf>) |
 | 茨城県 | [【電子入札】【電子契約】可視レーザーを用いた防錆技術開発のための分光データ収集作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0804C00466.pdf>) | 国立研究開発法人日本原子力研究開発機構敦賀 | 2026-07-27 | 2026-10-09 | 5 ビデオカメラを用いてレーザー照射前後の照射部位の写真も撮影すること | — |
 | 茨城県 | [【電子入札】【電子契約】FMF放射性廃液設備の自主検査](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01059.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-07-27 | 2026-09-18 | 6 写真を撮影し、作業報告書に添付すること | — |
-| 茨城県 | [【電子入札】【電子契約】高速炉用パッド付ラッパ管の試作試験](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01048.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-07-27 | 2026-10-09 | 報告:合否、写真(400倍で撮影)(5) 結晶粒度試験同一素材ロットの異なる管より1試料をサンプリングし、JIS G0551(2022) に準じて試験を行う | — |
-| 東京都 | [令和８年度皇居外苑和田倉休憩所トイレ塗装等改修工事](<https://www.env.go.jp/garden/kokyogaien/4_sup/2022/sup_00142.html>) | 環境省皇居外苑 | 2026-07-24 | 2026-09-02 | サルデザイン 皇居ラン(マラソン)について 個人撮影について メディア取材、撮影について 駐車場について 校外学習について 団体利用について 案内板等設置等について 調達情報 フォトアルバム リンク集 国民公園一覧 皇居外苑 京都御苑 新宿御苑 千鳥ケ淵戦没者墓苑 環境省(法人番号1000012110001)皇居外苑管… | [入札説明書](<https://www.env.go.jp/garden/content/000418596.pdf>) / [別記様式](<https://www.env.go.jp/garden/content/000418593.doc>) / [特記仕様書等](<https://www.env.go.jp/garden/content/000418594.pdf>) |
-| 埼玉県 | [建築課：【第420号】市営住宅樹木維持管理業務委託](<https://www.city.kasukabe.lg.jp/jigyoshamuke/nyusatsu_keiyaku/nyusatsukokokuichiran/67/32449.html>) | 埼玉県春日部市 | 2026-07-24 | 2026-08-18 | 写真は撮影方向が分かるように配置図に示すこと | [仕様書(PDFファイル:2.3MB)](<https://www.city.kasukabe.lg.jp/material/files/group/45/01_shiyousyo_jyumoku.pdf>) |
-| 東京都 | [【再度公告】入札公告「ラボポータルサイト第三期システム」の運用・保守業務に係る一般競争入札](<https://www.ipa.go.jp/choutatsu/nyusatsu/2026/nyusatsu20260724-2.html>) | 独立行政法人情報処理推進機構 | 2026-07-24 | 2026-07-31 | 閲覧物の内容のメモは可とするが、写真撮影、コピー等の複写行為は不可とする | [入札説明書(PDF:922 KB)](<https://www.ipa.go.jp/choutatsu/nyusatsu/2026/rcu1hd0000017od4-att/nyusatsu20260724-2.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-003.md) ｜ [次の100件](page-005.md)

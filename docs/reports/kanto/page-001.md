@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-19T07:15+09:00（収集時点）
+最終更新：2026-10-20T07:22+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**464件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**468件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 5
 
@@ -43,6 +43,10 @@
 | 東京都 | [2027（令和９）年国民生活基礎調査マニュアル動画・広報用動画改修業務一式](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 厚生労働省 | 2026-08-05 | 2026-09-09 | 2027(令和9)年国民生活基礎調査マニュアル動画・広報用動画改修業務一式 | — |
 | 東京都 | [緊急地震速報20周年映像資料の制作](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-29 | 2026-08-19 | 緊急地震速報20周年映像資料の制作 | — |
 | 東京都 | [令和７年度新宿御苑日本館御殿工事（Ⅰ）展示映像撮影業務（総合評価落札方式）](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 環境省 | 2026-07-23 | 2026-08-05 | 令和7年度新宿御苑日本館御殿工事(I)展示映像撮影業務(総合評価落札方式) | — |
+| 埼玉県 | [学校給食センター空調設備設置工事](<https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27029/koukoku.pdf>) | 埼玉県宮代町 | 2026-10-19 | 2026-11-12 | (6)改修工事等を施工する場合、施工する前後に工事対象箇所の写真撮影を 行う | [意匠図（学校給食センター空調設備設置工事） (PDF形式、3.96MB)](<https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27029/isyou.pdf>) / [構造図（学校給食センター空調設備設置工事）(PDF形式、166.44KB)](<https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27029/kouzou.pdf>) / [電気設備図（学校給食センター空調設備設置工事） (PDF形式、903.69KB)](<https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27029/denki.pdf>) / [機械設備図（学校給食センター空調設備設置工事） (PDF形式、1.79MB)](<https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27029/kikai.pdf>) |
+| 茨城県 | [消防本部東消防署新築工事](<https://www.city.kasumigaura.lg.jp/data/doc/1792393610_doc_203_0.pdf>) | 茨城県かすみがうら市 | 2026-10-19 | 2026-11-18 | 工事写真の撮影方法は、国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領(令和5年版)による工事写真撮影ガイドブック 機械設備工事編 令和5年版」を参考とする | [いばらき電子入札](<https://ebid.cals-ibaraki.lg.jp/CALS/Accepter/index.jsp>) / [システム](<https://ebid.cals-ibaraki.lg.jp/CALS/Accepter/index.jsp>) / [意匠図](<https://www.city.kasumigaura.lg.jp/data/doc/1792054676_doc_203_0.pdf>) / [構造図](<https://www.city.kasumigaura.lg.jp/data/doc/1792054679_doc_203_0.pdf>) / [電気設備図](<https://www.city.kasumigaura.lg.jp/data/doc/1792054684_doc_203_0.pdf>) |
+| 茨城県 | [【電子入札】【電子契約】情報交流棟北ウイング地階電気室東側扉改修工事](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03938.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-10-19 | 2026-11-17 | c 工事写真 1部原則として国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」の最新版に従い撮影及び整理を行うものとする | — |
+| 茨城県 | [【電子入札】【電子契約】圧空設備分解整備作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03994.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-10-19 | 2026-12-11 | 2.10 作業報告書及び写真撮影(1) 作業報告書1 作業結果の各項目、測定結果に対して、異常の有無の判定を記載すること | — |
 | 茨城県 | [茨城県議会議員一般選挙ポスター掲示板設置・撤去業務委託](<https://www.city.kasumigaura.lg.jp/data/doc/1792029714_doc_203_0.pdf>) | 茨城県かすみがうら市 | 2026-10-16 | 2026-11-06 | 11. 写真撮影及び提出書類(1)各設置箇所について設置前、設置後、固定状況、撤去後の写真を撮影すること | [仕様書](<https://www.city.kasumigaura.lg.jp/data/doc/1792029719_doc_203_0.pdf>) |
 | 茨城県 | [消防本部東消防署新築工事](<https://www.city.kasumigaura.lg.jp/data/doc/1792054659_doc_203_0.pdf>) | 茨城県かすみがうら市 | 2026-10-16 | 2026-11-18 | 工事写真の撮影方法は、国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領(令和5年版)による工事写真撮影ガイドブック 機械設備工事編 令和5年版」を参考とする | [いばらき電子入札](<https://ebid.cals-ibaraki.lg.jp/CALS/Accepter/index.jsp>) / [システム](<https://ebid.cals-ibaraki.lg.jp/CALS/Accepter/index.jsp>) / [意匠図](<https://www.city.kasumigaura.lg.jp/data/doc/1792054676_doc_203_0.pdf>) / [構造図](<https://www.city.kasumigaura.lg.jp/data/doc/1792054679_doc_203_0.pdf>) / [電気設備図](<https://www.city.kasumigaura.lg.jp/data/doc/1792054684_doc_203_0.pdf>) |
 | 茨城県 | [消防本部西消防署新築工事](<https://www.city.kasumigaura.lg.jp/data/doc/1792031933_doc_203_0.pdf>) | 茨城県かすみがうら市 | 2026-10-16 | 2026-11-18 | 工事写真の撮影方法は、国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領(令和5年版)による工事写真撮影ガイドブック 機械設備工事編 令和5年版」を参考とする | [いばらき電子入札](<https://ebid.cals-ibaraki.lg.jp/CALS/Accepter/index.jsp>) / [システム](<https://ebid.cals-ibaraki.lg.jp/CALS/Accepter/index.jsp>) / [意匠図【消防本部】](<https://www.city.kasumigaura.lg.jp/data/doc/1792053562_doc_203_0.pdf>) / [意匠図【西消防署】](<https://www.city.kasumigaura.lg.jp/data/doc/1792053566_doc_203_0.pdf>) / [意匠図【訓練塔】](<https://www.city.kasumigaura.lg.jp/data/doc/1792053571_doc_203_0.pdf>) |
@@ -112,9 +116,5 @@
 | 東京都 | [2026.09.24 入札公告10 3Dモーションキャプチャシステム 一式](<https://www.tmd.ac.jp/archive-tmdu/zaimukeiyaku/%E2%96%B62026.09.24_%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A10_3D%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%20%E4%B8%80%E5%BC%8F.pdf>) | 国立大学法人東京科学大学 | 2026-09-24 | 原文を確認 | 教育研究評議会学長選考・監察会議広報誌・刊行物広報誌・刊行物トップ大学紹介動画大学紹介動画トップ大学紹介動画キャンパスライフ編留学制度編多職種連携教育編学長×医学部学生懇談学長×歯学部学生懇談東京医科歯科大学の歴史大学概要(冊子)統合報告書広報誌広報誌トップ広報誌「Bloom! 医科歯科大」英語版広報誌「TMDU AN… | — |
 | 東京都 | [「世田谷区立世田谷図書館業務一部及び世田谷区図書館カウンター三軒茶屋業務委託」公募型プロポーザルの実施について](<https://www.city.setagaya.lg.jp/documents/36040/koukokubun.pdf>) | 東京都世田谷区 | 2026-09-24 | 2026-11-06 | ただし、利用者の迷惑となる行為や写真撮影は不可とし、質問も受け付けない | [業務内容兼参考仕様書（PDF：378KB）](<https://www.city.setagaya.lg.jp/documents/36040/siyousyo.pdf>) / [業務内容兼参考仕様書 \_別紙（PDF：6,081KB）](<https://www.city.setagaya.lg.jp/documents/36040/siyousyobessi.pdf>) |
 | 茨城県 | [若手外国人農林水産研究者表彰・JIRCAS 国際シンポジウム・国際科学諮問委員会運営支援等業務](<https://www.jircas.go.jp/sites/default/files/procurement/2026/commodity2026-12.pdf>) | 国立研究開発法人国際農林水産業研究センター | 2026-09-24 | 原文を確認 | 9) 写真撮影(1) 若手外国人農林水産研究者表彰、レセプション、JIRCAS国際シンポジウム、国際科学諮問委員会の記録用として、カメラマン1名を手配し写真撮影を行うこと | [commodity2026-12-spec.pdf](<https://www.jircas.go.jp/sites/default/files/procurement/commodity2026-12-spec.pdf>) |
-| 茨城県 | [【電子入札】【電子契約】令和8年度 JMTR電源設備点検整備作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01444.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-09-24 | 2026-11-16 | (10)構内の写真等撮影は、許可を受けた場合以外は原則として禁止する | — |
-| 茨城県 | [【電子入札】【電子契約】第２器材保管庫前道路補修工事](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03720.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-09-24 | 2026-10-29 | - 12 -・工事写真撮影時は、屋外のフェンス、監視カメラ、建家開口部(窓・扉)等が写り込まないような構図で撮影すること | — |
-| 茨城県 | [【電子入札】【電子契約】動力制御盤点検整備作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03751.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-09-24 | 2026-11-13 | 2.10 作業報告書及び写真撮影(1) 作業報告書1 作業結果の各項目、測定結果に対して、異常の有無の判定を記載すること | — |
-| 東京都 | [入札公告「未踏事業関連イベントにおける企画・運営等業務」に係る一般競争入札](<https://www.ipa.go.jp/choutatsu/nyusatsu/2026/nyusatsu20260924-2.html>) | 独立行政法人情報処理推進機構 | 2026-09-24 | 2026-10-20 | (6) 配信映像の撮影用に複数のカメラを用意し、登壇者の引き・寄り、投影スライド、話者とスクリーンを同時に見せる等の映像を適宜切り替えるなど、視聴者が継続して見やすい配信となるように工夫すること | [入札説明書(PDF:1.4 MB)](<https://www.ipa.go.jp/choutatsu/nyusatsu/2026/rqr7mi00000038lu-att/nyusatsu20260924-2.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

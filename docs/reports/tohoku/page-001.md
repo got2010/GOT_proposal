@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-19T07:15+09:00（収集時点）
+最終更新：2026-10-20T07:22+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**243件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**245件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -21,6 +21,8 @@
 | 秋田県 | [【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-08-17 | 2026-09-16 | 【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務 | — |
 | 岩手県 | [【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-21 | 原文を確認 | 【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務 | — |
 | 岩手県 | [龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について](<https://www.town.iwaizumi.lg.jp/docs/2026071400011/file_contents/00.pdf>) | 岩手県岩泉町 | 2026-07-17 | 2026-09-04 | 龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について | — |
+| 岩手県 | [【入札公告】一般国道340号立丸第一トンネルほか非常用警報設備点検業務委託](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/102/434/340_tatumaru_keihou.zip>) | 岩手県 | 2026-10-19 | 2026-10-28 | 自 至 年月日緯度・経度北緯東経写真説明写真番号 4台帳測点メ モ写真説明撮影年月日メ モ 台帳測点3 撮影年月日メ モ所在地施設番号2 撮影年月日メ モ写真番号台帳測点 台帳測点施 設 状 況 写 真写真番号写真説明撮影年月日 1(様式3)現地状況写真(非常用施設)路線名 施設名自道路台帳測点至 調書更新年月日管理者… | — |
+| 岩手県 | [森林環境保全整備事業（新里地区）](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/tono/tonoshigen1019.html>) | 林野庁東北森林管理局岩手南部森林管理署遠野支署 | 2026-10-19 | 2026-11-02 | 業区域の確認(d) 事業日報(2) 実行記録写真管理 (a) 実行記録写真の撮影要領(b) 実行記録写真の撮影と整理4 管理の実施(1) 現場代理人又は担当技術者は、作業の実施の都度、その結果を記録するとともに、その結果に基づいて適切な実行管理を行わなければならない | [入札公告(PDF : 175KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/tono/./attach/pdf/tonoshigen1019-1.pdf>) / [入札説明書(PDF : 1,065KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/tono/./attach/pdf/tonoshigen1019-2.pdf>) / [競争参加資格確認申請書及び技術提案書作成要領(PDF : 2,109KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/tono/./attach/pdf/tonoshigen1019-3.pdf>) / [仕様書等資料(PDF : 2,632KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/tono/./attach/pdf/tonoshigen1019-4.pdf>) / [林分条件調査表(PDF : 56KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/tono/./attach/pdf/tonoshigen1019-6.pdf>) |
 | 岩手県 | [【入札公告】岩手県立盛岡農業高等学校温室等整備工事設計業務](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/102/456/01_koukoku1.pdf>) | 岩手県 | 2026-10-16 | 2026-10-23 | 型製作〔縮尺( )主要材料( )ケースの有無( )材質( )〕・模型の写真撮影〔カット枚数( )判の大きさ( )白黒・カラーの別( )電子データ( )〕○・計画通知又は確認申請(建築基準関係規定(みなし規定を含む | [02-1 入札説明書 （PDF 172.1KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/102/456/02-1_setumeisho1.pdf>) / [04-1 債務負担行為に係る契約の特則 （PDF 74.8KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/102/456/04-1_saimufutan1.pdf>) / [06-1 建築設計業務委託共通仕様書 （PDF 255.2KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/102/456/04-3_kyoutusiyou1.pdf>) / [06-2 建築設計業務特記仕様書 （PDF 476.2KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/102/456/04-4_tokkisiyou1.pdf>) / [06-5 業務内容の項目 （PDF 140.6KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/102/456/05_gyoumunaiyou1.pdf>) |
 | 青森県 | [8625.zip](<https://www.town.aomori-nanbu.lg.jp/uploaded/attachment/8625.zip>) | 青森県南部町 | 2026-10-16 | 2026-11-05 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | — |
 | 青森県 | [8627.zip](<https://www.town.aomori-nanbu.lg.jp/uploaded/attachment/8627.zip>) | 青森県南部町 | 2026-10-16 | 2026-11-05 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | — |
@@ -114,7 +116,5 @@
 | 宮城県 | [令８−社総・交 大日向住宅１号棟給湯器改良工事](<https://www.city.shiogama.miyagi.jp/uploaded/life/58442_149276_misc.pdf>) | 宮城県塩竃市 | 2026-09-03 | 2026-09-17 | 備・ 建設工事執行規則(昭和39年3月宮城県規則第9号)・ 営繕工事写真撮影要領(国土交通省大臣官房庁営繕部監修 令和5年版)・ 宮城県建設工事元請・下請適正化要綱(最新版) 及び工事写真撮影ガイドブック&lt;機械設備工事編&gt; (国土交通省大臣官房庁営繕部監修 令和5年版)(令和7年4月1日版)2部1部2枚CD A3版二つ… | [設計書一式 \[その他のファイル／1.16MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/58442_149278_misc.zip>) |
 | 岩手県 | [02\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.pdf](<https://www.town.otsuchi.iwate.jp/fs/2/7/4/6/2/4/_/02_____________________________.pdf>) | 岩手県大槌町 | 2026-09-03 | 2026-09-16 | さらに、写真管理基準に定める品質管理写真について、撮影頻度及び提出頻度を通常の2倍とするものとする | [06\_仕様書等一式 (ZIP 1.21MB)](<https://www.town.otsuchi.iwate.jp/fs/2/7/4/6/2/8/_/06_______.zip>) |
 | 福島県 | [デジタルデバイド解消事業業務委託](<http://www.pref.fukushima.lg.jp/uploaded/attachment/762301.pdf>) | 福島県 | 2026-09-03 | 2026-09-16 | ールLINE、メール、SMS等のコミュニケーション機能カメラ(静止画・動画)と撮影画像の閲覧・共有二次元コードの読み取りセキュリティ設定(パスコード、生体認証、詐欺・迷惑メール対策等)情報モラル(個人情報保護、SNS利用時の留意点等)(希望者がいる場合)スマホ教室等でのOJT(補助指導員としての実地研修)(5)実施場所… | [入札説明書 \[PDFファイル／237KB\]](<http://www.pref.fukushima.lg.jp/uploaded/attachment/762302.pdf>) / [仕様書 \[PDFファイル／244KB\]](<http://www.pref.fukushima.lg.jp/uploaded/attachment/762305.pdf>) |
-| 岩手県 | [建設機械等チャーター単価契約(2回目)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/tono/R8_charter_2.html>) | 林野庁東北森林管理局岩手南部森林管理署遠野支署 | 2026-09-03 | 2026-09-18 | 了時に表示板等に日時、作業内容等を記載の上、使用機械と作業場所が入った写真を撮影すること | [入札公告(PDF : 189KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/tono/./attach/pdf/R8_charter_2-1.pdf>) / [2.入札説明書(PDF : 268KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/tono/./attach/pdf/R8_charter_2-3.pdf>) / [5.作業実施要領等(PDF : 153KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/tono/./attach/pdf/R8_charter_2-6.pdf>) / [6.運転時間実施計画書(PDF : 128KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/tono/./attach/pdf/R8_charter_2-7.pdf>) / [8.図面(PDF : 7,564KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/tono/./attach/pdf/R8_charter_2-9.pdf>) |
-| 青森県 | [建設機械等チャーター単価契約（青森森林管理署管内林道：2回目）](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/aomori/080903tya-ta-2.html>) | 林野庁東北森林管理局青森森林管理署 | 2026-09-03 | 2026-09-18 | 了時に表示板等に日時、作業内容等を記載の上、使用機械と作業場所が入った写真を撮影すること | [入札公告(PDF : 171KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/aomori/./attach/pdf/080903tya-ta-2-6.pdf>) / [1.入札説明書(PDF : 134KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/aomori/./attach/pdf/080903tya-ta-2-1.pdf>) / [5.作業実施要領他(PDF : 154KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/aomori/./attach/pdf/080903tya-ta-2-5.pdf>) / [6.紙入札参加承諾願(PDF : 23KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/aomori/./attach/pdf/080903tya-ta-2-7.pdf>) / [7.図面(PDF : 4,441KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/aomori/./attach/pdf/080903tya-ta-2-8.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)
