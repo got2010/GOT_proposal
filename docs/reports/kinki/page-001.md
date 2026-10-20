@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-20T07:22+09:00（収集時点）
+最終更新：2026-10-21T07:22+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**198件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**200件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 2
 
@@ -26,6 +26,8 @@
 | 兵庫県 | [宝塚市広報番組制作業務委託に係る公募型プロポーザル](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/boshuyoko.pdf>) | 兵庫県宝塚市 | 2026-08-05 | 原文を確認 | 宝塚市広報番組制作業務委託に係る公募型プロポーザル | [業務仕様書 （PDF 345.9 KB）](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/2_gyomusiyosho.pdf>) / [資料2\_秘密保持等に関する特記仕様書 （PDF 196.0 KB）](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/2_himituhojitounikansurutoltukisiyousho.pdf>) |
 | 京都府 | [令和8年度きょうとプレコン推進事業（幼児期から中学生等を対象とした教育プログラムに係るデザイン・動画作成事業）](<https://www.pref.kyoto.jp/kosodate/news/2026/purecon-sougouhyoka.html>) | 京都府 | 2026-08-03 | 2027-03-31 | 令和8年度きょうとプレコン推進事業(幼児期から中学生等を対象とした教育プログラムに係るデザイン・動画作成事業) | [総合評価競争入札公告（PDF：264KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/01_koukoku.pdf>) / [入札説明書（PDF：228KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/02_nyuusatusetumeisyo_1.pdf>) / [(別紙1)業務委託仕様書（PDF：267KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/03_siyousyo.pdf>) / [(別紙2)企画提案書作成要領（PDF：137KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/03_sakuseiyouryou.pdf>) / [落札者決定基準（PDF：52KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/15_ketteikizyunn.pdf>) |
 | 京都府 | [令和８年度京都市美術館所蔵品撮影業務](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/432372.htm>) | 京都府京都市 | 2026-07-27 | 原文を確認 | 令和8年度京都市美術館所蔵品撮影業務 | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./432372_12_07241115.pdf>) |
+| 兵庫県 | [【制限付一般競争入札】明石市立江井島中学校武道場床改修修繕（10月20日発注）](<https://www.city.akashi.lg.jp/documents/40522/2026-nonoyuka-3-011_koukoku.pdf>) | 兵庫県明石市 | 2026-10-20 | 原文を確認 | 場着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、完成時に現状復旧が行われているか確認すること | [仕様書一式（PDF：567KB）](<https://www.city.akashi.lg.jp/documents/40522/2026-nonoyuka-21~22_siyousho.pdf>) |
+| 京都府 | [マイナンバーカードオンライン申請補助端末等機器賃貸借（令和９年１月〜令和１１年１２月）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/451940.htm>) | 京都府京都市 | 2026-10-20 | 2026-11-02 | ード交付申請書を所持せず申請書IDが判明しない市民に対しても申請用の顔写真撮影ができるように、カメラアプリケーションのインストールを予定しており、後掲イ「マイナ・アシスト2専用アプリケーション」以外のアプリケーションもインストールできること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./451940_12_10151415.pdf>) |
 | 兵庫県 | [Inseyets Offline Standaloneの納入](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/D26110501.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-10-19 | 2026-11-05 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |
 | 兵庫県 | [ビジネス事務科訓練用パーソナルコンピュータシステム一式](<https://web.pref.hyogo.lg.jp/sr06/kensyo_pc/businesspc.html>) | 兵庫県 | 2026-10-19 | 2026-10-30 | 約内容の履行が行われていることを証明する上で、必要に応じて作業工程毎の写真を明確に撮影し、この履行完了後に提出すること | [一般競争入札公告（PDF：105KB）](<https://web.pref.hyogo.lg.jp/sr06/kensyo_pc/documents/1nyusatsukoukoku.pdf>) / [入札説明書（PDF：142KB）](<https://web.pref.hyogo.lg.jp/sr06/kensyo_pc/documents/2setsumeisyo.pdf>) / [仕様書（PDF：2,619KB）](<https://web.pref.hyogo.lg.jp/sr06/kensyo_pc/documents/3shiyousyo.pdf>) |
 | 京都府 | [令和8年10月19日公告分不用原動機付自転車等自動二輪車の売払に係る入札公告等](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/101901.pdf>) | 国家公安委員会（警察庁）京都府警察 | 2026-10-19 | 原文を確認 | なお、抹消の際は、写真撮影等の方法により、抹消の結果を確認できる資料を作成した上、書面にて甲に報告すること | [仕様書（PDF：117KB）](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/101902.pdf>) / [入札説明書（PDF：141KB）](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/101903sestumeisho.pdf>) |
@@ -114,7 +116,5 @@
 | 大阪府 | [08-金剛団地道路通路修繕その他工事監督業務 （令和8年9月15日）](<https://www.ur-net.go.jp/orders/west/pdf/order_43959_3.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-15 | 2026-11-11 | の明示できる図表、既往成果等を用いることは支障ないが、本件のために特に作成したCG、詳細図面等を用いることは認めない | [仕様書\[242KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_43959_4.pdf>) |
 | 大阪府 | [東大阪市総合防災訓練業務委託の制限付き一般競争入札について](<https://www.city.higashiosaka.lg.jp/cmsfiles/contents/0000045/45201/01.jissiyouryou.pdf>) | 大阪府東大阪市 | 2026-09-11 | 原文を確認 | 、見学者等 22 張テント 1.5k×2k 白(1k=1.8m)受付、映像配信用、ドローン用、更衣室 5 張横幕(白)・本部テント・・・2間×3間・6張(横幕なし | [02 仕様書(PDF形式、1.91MB) 別ウィンドウで開きます](<https://www.city.higashiosaka.lg.jp/cmsfiles/contents/0000045/45201/02.gyoumusiyousyo.pdf>) |
 | 兵庫県 | [【制限付一般競争入札】明石市立総合福祉センター本館 高圧受変電設備修繕](<https://www.city.akashi.lg.jp/documents/40444/20260910170858.pdf>) | 兵庫県明石市 | 2026-09-11 | 原文を確認 | 繕着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、修繕完成時に現状復旧が行われているか確認すること | [仕様書（PDF：148KB）](<https://www.city.akashi.lg.jp/documents/40444/20260910171210.pdf>) / [特記仕様書（PDF：64KB）](<https://www.city.akashi.lg.jp/documents/40444/20260910171228.pdf>) |
-| 京都府 | [不用物品売却（普通特種自動車（道路維持作業車）計３台）について](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/440749.htm>) | 京都府京都市 | 2026-09-11 | 原文を確認 | ついて文字等の抹消が完了した車両の車台番号とその車両全体一周を中断なく動画撮影し、1台分を1ファイルとして保存すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./440749_12_09011417.pdf>) |
-| 京都府 | [精華町要介護認定調査支援システム導入業務に係る公募型プロポーザルの実施について](<https://www.town.seika.kyoto.jp/material/files/group/39/kinouyoukenn.pdf>) | 京都府精華町 | 2026-09-08 | 原文を確認 | 員が本番前にシステム操作等を自習できるテスト環境を用意する、自習できる研修動画等、研修後にユーザが自習できる方法を提案することが望ましい | [仕様書 (PDFファイル: 155.8KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesshiyousyo2026.pdf>) / [参加申請書 (PDFファイル: 57.7KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesssannkamousikomi2026.pdf>) / [参加申請書受付票 (PDFファイル: 20.8KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesssankamousikomisyo2026.pdf>) / [辞退届 (PDFファイル: 49.9KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesszitaihyou2026.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

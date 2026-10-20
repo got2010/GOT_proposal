@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-20T07:22+09:00（収集時点）
+最終更新：2026-10-21T07:22+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**468件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**472件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 4 / 5
 
@@ -16,6 +16,10 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 茨城県 | [(RE-08931）JT-60実験棟地階シャッター更新工事【掲載期間：2026-08-27～2026-09-15】](<https://www.qst.go.jp/uploaded/attachment/52884.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-08-27 | 2026-10-09 | c.工事写真 1部(a)撮影箇所a)工事竣工後では確認困難な箇所 | [仕様書 \[PDFファイル／1.09MB\]](<https://www.qst.go.jp/uploaded/attachment/52885.pdf>) |
+| 茨城県 | [【電子入札】【電子契約】廃棄物処理建家空調換気設備計装品類の点検](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01309.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-08-27 | 2026-10-16 | (16) 以下に従い写真を撮影し、作業報告書に添付すること | — |
+| 東京都 | [総合自転車対策業務一括委託に関するプロポーザルの参加事業者を募集します【募集要項配布期間：9月18日まで】](<https://www.city.shinjuku.lg.jp/content/000463682.pdf>) | 東京都新宿区 | 2026-08-26 | 2026-10-22 | なお、撤去前に破損等があった場合は、その状態がわかるように撮影を行うこと | [仕様書（案） \[PDF形式：364KB\] （新規ウィンドウ表示）](<https://www.city.shinjuku.lg.jp/content/000463691.pdf>) |
+| 埼玉県 | [【8月26日公告】公共下水道管改築工事（第10工区）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608261.files/8-603_604_koukoku.pdf>) | 埼玉県狭山市 | 2026-08-26 | 原文を確認 | 1 工事概要2 職務分担および緊急時の連絡体制3 工事記録写真撮影計画4 実施工程表5 工法6 主要機械7 主要資材8 材料設計および水理性能評価9 材料品質証明の内容10 前処理計画11 施工管理12 品質管理13 環境対策14 安全・衛生管理15 材料の製造から使用までの保管期間と保管方法16 材料の運搬方法17 … | [入札説明書（PDF・70KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608261.files/8-603-1_nyuusatusetumeisyo.pdf>) / [位置図（PDF・170KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608261.files/8-603-2_itizu.pdf>) / [仕様書（PDF・295KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608261.files/8-603-3_siyousyo.pdf>) / [特記仕様書（PDF・344KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608261.files/8-603-4_tokkisiyousyo.pdf>) / [図面（PDF・1,360KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608261.files/8-603-6_zumen.pdf>) |
 | 埼玉県 | [【8月26日公告】公共下水道管改築工事（第11工区）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608262.files/8-603_604_koukoku.pdf>) | 埼玉県狭山市 | 2026-08-26 | 原文を確認 | 1 工事概要2 職務分担および緊急時の連絡体制3 工事記録写真撮影計画4 実施工程表5 工法6 主要機械7 主要資材8 材料設計および水理性能評価9 材料品質証明の内容10 前処理計画11 施工管理12 品質管理13 環境対策14 安全・衛生管理15 材料の製造から使用までの保管期間と保管方法16 材料の運搬方法17 … | [入札説明書（PDF・70KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608262.files/8-604-1_nyuusatusetumeisyo.pdf>) / [位置図（PDF・295KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608262.files/8-604-2_itizu.pdf>) / [仕様書（PDF・295KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608262.files/8-604-3_siyousyo.pdf>) / [特記仕様書（PDF・1,488KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608262.files/8-604-4_tokkisiyousyo.pdf>) / [図面（PDF・1,321KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608262.files/8-604-6_zumen.pdf>) |
 | 埼玉県 | [さいたま市技能者表彰式典運営等業務の入札情報](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133083_d/fil/kokuji.pdf>) | 埼玉県さいたま市 | 2026-08-26 | 2026-09-15 | カメラマンを手配し、市長と受賞者の集合写真及び各受賞者の壇上の様子の写真撮影を行うこと | [02\_入札説明書（さいたま市技能者表彰式典運営等業務）（PDF形式 172キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133083_d/fil/setsumei.pdf>) / [03\_仕様書（PDF形式 298キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133083_d/fil/shiyou.pdf>) |
 | 千葉県 | [ちばの「海と夕陽」を活用した観光プロモーション事業に係る企画提案の募集について](<https://www.pref.chiba.lg.jp/kankou/chiba-nature/r8chiba-sea-sunset.html>) | 千葉県 | 2026-08-26 | 2026-09-18 | 成等本業務の趣旨を踏まえ、キャンペーンの周知に必要なチラシ、ポスター、動画等の作成・納品、上映を行うこと | [仕様書（PDF：310.4KB）](<https://www.pref.chiba.lg.jp/kankou/chiba-nature/documents/shiyousyo.pdf>) |
@@ -112,9 +116,5 @@
 | 茨城県 | [宅地地盤と建物基礎の地震対策技術に関する模型地盤作成補助業務](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260806/ippan/15%2026-0001/26-0001.pdf>) | 国立研究開発法人建築研究所 | 2026-07-27 | 原文を確認 | 9 実験後、地盤状況の写真撮影を行う | [入札説明書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260806/ippan/15%2026-0001/26-0002.pdf>) / [仕 様 書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260806/ippan/15%2026-0001/26-0003.pdf>) |
 | 茨城県 | [宅地地盤と建物基礎の地震対策技術に関する模型地盤作成補助業務](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260731/ippan/15%2026-0001/26-0001.pdf>) | 国立研究開発法人建築研究所 | 2026-07-27 | 原文を確認 | 9 実験後、地盤状況の写真撮影を行う | [入札説明書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260731/ippan/15%2026-0001/26-0002.pdf>) / [仕 様 書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260731/ippan/15%2026-0001/26-0003.pdf>) |
 | 茨城県 | [宅地地盤と建物基礎の地震対策技術に関する模型地盤作成補助業務](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260729/ippan/15%2026-0001/26-0001.pdf>) | 国立研究開発法人建築研究所 | 2026-07-27 | 原文を確認 | 9 実験後、地盤状況の写真撮影を行う | [入札説明書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260729/ippan/15%2026-0001/26-0002.pdf>) / [仕 様 書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260729/ippan/15%2026-0001/26-0003.pdf>) |
-| 茨城県 | [宅地地盤と建物基礎の地震対策技術に関する模型地盤作成補助業務](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260727/ippan/15%2026-0001/26-0001.pdf>) | 国立研究開発法人建築研究所 | 2026-07-27 | 原文を確認 | 9 実験後、地盤状況の写真撮影を行う | [入札説明書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260727/ippan/15%2026-0001/26-0002.pdf>) / [仕 様 書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260727/ippan/15%2026-0001/26-0003.pdf>) |
-| 東京都 | [国立能楽堂広間等カーペット張替工事](<https://www.ntj.jac.go.jp/assets/files/03_chotatsu/noh/2026/kokoku_carpet.pdf>) | 独立行政法人日本芸術文化振興会 | 2026-07-27 | 2026-09-16 | なお、本項に規定していない事項は「工事写真撮影要領(文部科学省大臣官房文教施設企画・防災部参事官)」に準ずる | [入札説明書等 (372.23KB)](<https://www.ntj.jac.go.jp/assets/files/03_chotatsu/noh/2026/setsumeisho_carpet.pdf>) / [現場説明書 (2.03MB)](<https://www.ntj.jac.go.jp/assets/files/03_chotatsu/noh/2026/genbasetsumeisho_carpet.pdf>) |
-| 茨城県 | [【電子入札】【電子契約】可視レーザーを用いた防錆技術開発のための分光データ収集作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0804C00466.pdf>) | 国立研究開発法人日本原子力研究開発機構敦賀 | 2026-07-27 | 2026-10-09 | 5 ビデオカメラを用いてレーザー照射前後の照射部位の写真も撮影すること | — |
-| 茨城県 | [【電子入札】【電子契約】FMF放射性廃液設備の自主検査](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01059.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-07-27 | 2026-09-18 | 6 写真を撮影し、作業報告書に添付すること | — |
 
 [この地域の目次](README.md) ｜ [前の100件](page-003.md) ｜ [次の100件](page-005.md)

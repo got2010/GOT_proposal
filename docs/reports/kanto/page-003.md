@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-20T07:22+09:00（収集時点）
+最終更新：2026-10-21T07:22+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**468件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**472件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 5
 
@@ -16,6 +16,10 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（みつわ台団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44040_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（千葉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1444KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44040_3.pdf>) / [仕様書\[12847KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44040_4.pdf>) |
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（金杉台団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44041_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（千葉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1443KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44041_3.pdf>) / [仕様書\[18642KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44041_4.pdf>) |
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（習志野台団地他１団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44042_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（千葉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1450KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44042_3.pdf>) / [仕様書\[20621KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44042_4.pdf>) |
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（行田団地他１団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44044_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（千葉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1450KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44044_3.pdf>) / [仕様書\[20469KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44044_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（若松二丁目団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44045_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（千葉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1493KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44045_3.pdf>) / [仕様書\[18740KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44045_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（習志野海浜秋津団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44046_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（千葉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1460KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44046_3.pdf>) / [仕様書\[18602KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44046_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（谷津パークタウン壱番街団地他２団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44047_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（千葉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1462KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44047_3.pdf>) / [仕様書\[23212KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44047_4.pdf>) |
@@ -112,9 +116,5 @@
 | 埼玉県 | [氷川町公園ほか35箇所便所清掃業務委託ほか2件](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/271k.pdf>) | 埼玉県川越市 | 2026-08-27 | 原文を確認 | 14 写真撮影受注者は、1箇所につき月1回以上、業務内容を記した小黒板を写し込んだ写真(作業の前・中・後、清掃範囲(便器、手洗所、壁、天井、床部等))を撮影し、日報と共に提出するものとする | [仕様書(川越市公告契約第271号(1)) （PDF 747.0KB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/271s1.pdf>) / [仕様書(川越市公告契約第271号(2)) （PDF 747.4KB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/271s2.pdf>) / [仕様書(川越市公告契約第271号(3)) （PDF 1.1MB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/271s3.pdf>) |
 | 埼玉県 | [ゴミ運搬業務委託](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/270k.pdf>) | 埼玉県川越市 | 2026-08-27 | 原文を確認 | 12 写真撮影受注者は、月1回以上、業務内容を記した小黒板を写し込んだ写真を工種毎(積込、運搬、取卸状況)に撮影し、日報と共に提出するものとする | [仕様書(川越市公告契約第270号) （PDF 2.8MB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/270s.pdf>) |
 | 埼玉県 | [小畔水鳥の郷公園ほか20公園し尿汲取り業務委託](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/268k.pdf>) | 埼玉県川越市 | 2026-08-27 | 原文を確認 | 14 写真撮影受注者は、業務内容を記した小黒板を写し込んだ写真(作業の前・中・後)を作業箇所のうちの数箇所撮影し、月報と共に提出するものとする | [仕様書(川越市公告契約第268号) （PDF 1.1MB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/268s.pdf>) |
-| 茨城県 | [(RE-08931）JT-60実験棟地階シャッター更新工事【掲載期間：2026-08-27～2026-09-15】](<https://www.qst.go.jp/uploaded/attachment/52884.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-08-27 | 2026-10-09 | c.工事写真 1部(a)撮影箇所a)工事竣工後では確認困難な箇所 | [仕様書 \[PDFファイル／1.09MB\]](<https://www.qst.go.jp/uploaded/attachment/52885.pdf>) |
-| 茨城県 | [【電子入札】【電子契約】廃棄物処理建家空調換気設備計装品類の点検](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01309.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-08-27 | 2026-10-16 | (16) 以下に従い写真を撮影し、作業報告書に添付すること | — |
-| 東京都 | [総合自転車対策業務一括委託に関するプロポーザルの参加事業者を募集します【募集要項配布期間：9月18日まで】](<https://www.city.shinjuku.lg.jp/content/000463682.pdf>) | 東京都新宿区 | 2026-08-26 | 2026-10-22 | なお、撤去前に破損等があった場合は、その状態がわかるように撮影を行うこと | [仕様書（案） \[PDF形式：364KB\] （新規ウィンドウ表示）](<https://www.city.shinjuku.lg.jp/content/000463691.pdf>) |
-| 埼玉県 | [【8月26日公告】公共下水道管改築工事（第10工区）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608261.files/8-603_604_koukoku.pdf>) | 埼玉県狭山市 | 2026-08-26 | 原文を確認 | 1 工事概要2 職務分担および緊急時の連絡体制3 工事記録写真撮影計画4 実施工程表5 工法6 主要機械7 主要資材8 材料設計および水理性能評価9 材料品質証明の内容10 前処理計画11 施工管理12 品質管理13 環境対策14 安全・衛生管理15 材料の製造から使用までの保管期間と保管方法16 材料の運搬方法17 … | [入札説明書（PDF・70KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608261.files/8-603-1_nyuusatusetumeisyo.pdf>) / [位置図（PDF・170KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608261.files/8-603-2_itizu.pdf>) / [仕様書（PDF・295KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608261.files/8-603-3_siyousyo.pdf>) / [特記仕様書（PDF・344KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608261.files/8-603-4_tokkisiyousyo.pdf>) / [図面（PDF・1,360KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202608261.files/8-603-6_zumen.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-002.md) ｜ [次の100件](page-004.md)

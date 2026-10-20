@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-20T07:22+09:00（収集時点）
+最終更新：2026-10-21T07:22+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**198件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**200件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 京都府 | [不用物品売却（普通特種自動車（道路維持作業車）計３台）について](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/440749.htm>) | 京都府京都市 | 2026-09-11 | 原文を確認 | ついて文字等の抹消が完了した車両の車台番号とその車両全体一周を中断なく動画撮影し、1台分を1ファイルとして保存すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./440749_12_09011417.pdf>) |
+| 京都府 | [精華町要介護認定調査支援システム導入業務に係る公募型プロポーザルの実施について](<https://www.town.seika.kyoto.jp/material/files/group/39/kinouyoukenn.pdf>) | 京都府精華町 | 2026-09-08 | 原文を確認 | 員が本番前にシステム操作等を自習できるテスト環境を用意する、自習できる研修動画等、研修後にユーザが自習できる方法を提案することが望ましい | [仕様書 (PDFファイル: 155.8KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesshiyousyo2026.pdf>) / [参加申請書 (PDFファイル: 57.7KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesssannkamousikomi2026.pdf>) / [参加申請書受付票 (PDFファイル: 20.8KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesssankamousikomisyo2026.pdf>) / [辞退届 (PDFファイル: 49.9KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesszitaihyou2026.pdf>) |
 | 京都府 | [西羽束師排水機場ほか１４機場 クレーン設備点検・検査業務委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/441175.htm>) | 京都府京都市 | 2026-09-08 | 原文を確認 | 託業務の履行の際には、その履行状況(履行前・中・後)が確認できるような写真を撮影し、写真帳として取りまとめて1部提出すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./441175_12_09081617.pdf>) |
 | 兵庫県 | [オートコールシステム利用サービスの提供](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/B26090701.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-09-07 | 2026-09-07 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |
 | 兵庫県 | [建築コース用パーソナルコンピュータシステム導入整備一式](<https://web.pref.hyogo.lg.jp/sr06/monodai/pc.html>) | 兵庫県 | 2026-09-07 | 2026-09-11 | 容の履行が行われていることを証明する上で、必要な場合には作業工程ごとの写真を明確に撮影し、この履行完了後に提出すること | [入札公告（PDF：231KB）](<https://web.pref.hyogo.lg.jp/sr06/monodai/documents/1nyusatsukoukoku.pdf>) / [仕様書（PDF：320KB）](<https://web.pref.hyogo.lg.jp/sr06/monodai/documents/2shiyousyo.pdf>) / [入札説明書（PDF：292KB）](<https://web.pref.hyogo.lg.jp/sr06/monodai/documents/3setsumeisyo.pdf>) |

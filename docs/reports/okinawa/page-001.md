@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-20T07:22+09:00（収集時点）
+最終更新：2026-10-21T07:22+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：沖縄県
 
-**66件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**67件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 1
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 沖縄県 | [小学校空調設備改修工事（久志小学校）](<https://www.city.nago.okinawa.jp/kurashi/2021081000053/file_contents/1bb.pdf>) | 沖縄県名護市 | 2026-10-20 | 原文を確認 | )(2) 主任技術者及び監理技術者の雇用関係についてア(3)※営繕工事写真撮影要領(令和5年版)イ※○ (1) (4)○ (1) 関連工事との取り合いは、別表-1による | [6.特記仕様書\[PDF：126KB\]](<https://www.city.nago.okinawa.jp/kurashi/2021081000053/file_contents/6bb.pdf>) / [7.図面\[PDF：3.41MB\]](<https://www.city.nago.okinawa.jp/kurashi/2021081000053/file_contents/7bb.pdf>) |
 | 沖縄県 | [中城御殿表御殿西側エリア展示委託業務(R8)](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/679/01ippannkyousounyuusatukoukoku.pdf>) | 沖縄県 | 2026-10-19 | 2026-10-28 | 1)動画・静止画に係る編集...必要に応じてテロップ等を追加するなど、わかりやすい内容となるよう工夫すること | [02入札説明書 （PDF 78.7KB）](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/679/02nyuusatusetumeisho.pdf>) / [08-1仕様書 （PDF 183.3KB）](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/679/08-1siyousho.pdf>) / [08-2\_資料1：図面(中城御殿表御殿西側エリア展示設計業務(R8)) （PDF 4.8MB）](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/679/08-2siryo1zumen.pdf>) / [08-2\_資料2：図面(中城御殿表御殿西側エリア展示設計業務(R8)) （PDF 4.3MB）](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/679/08-2siryo2zumen.pdf>) / [08-2\_資料3：図面(中城御殿表御殿西側エリア展示設計業務(R8)) （PDF 3.6MB）](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/679/08-2siryo3zumen.pdf>) |
 | 沖縄県 | [小学校空調設備改修工事（久志小学校）](<https://www.city.nago.okinawa.jp/kurashi/2021081000053/file_contents/1aa.pdf>) | 沖縄県名護市 | 2026-10-08 | 原文を確認 | )(2) 主任技術者及び監理技術者の雇用関係についてア(3)※営繕工事写真撮影要領(令和5年版)イ※○ (1) (4)○ (1) 関連工事との取り合いは、別表-1による | [6.特記仕様書\[PDF：125KB\]](<https://www.city.nago.okinawa.jp/kurashi/2021081000053/file_contents/6aa.pdf>) / [7.図面\[PDF：3.41MB\]](<https://www.city.nago.okinawa.jp/kurashi/2021081000053/file_contents/7aa.pdf>) |
 | 沖縄県 | [防災行政用無線北部合同庁舎中継局鉄塔改修工事監理業務](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/404/01.pdf>) | 沖縄県 | 2026-10-06 | 2026-10-23 | ) m2 ・(4)ア 建築物 ・(6) 県産資材の優先使用・ 営繕工事写真撮影要領(令和5年版)・ 磁気探査実施要領(令和2年1月)沖縄県土木建築部・(7) 下請業者の県内企業優先活用イ 工作物及び立木 ・(8) 不発弾等発見時の処理について22 本工事の設計時期 133 工事の一時中止に係る計画の作成(1)3 建築工… | [03\_仕様書（特記仕様書、共通仕様書） （zip 360.0KB）](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/404/03.zip>) / [07\_対象工事図面一式 （PDF 1.6MB）](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/404/07.pdf>) |

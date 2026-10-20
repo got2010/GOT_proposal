@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-20T07:22+09:00（収集時点）
+最終更新：2026-10-21T07:22+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**220件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**221件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -18,6 +18,7 @@
 |---|---|---|---|---|---|---|
 | 岡山県 | [中国職業能力開発大学校広報用動画の制作業務について（中国能開大） (PDF 191 KB)](<https://www.jeed.go.jp/location/shibu/okayama/q2k4vk000002zr26-att/aj91gk0000005fjm.pdf>) | 独立行政法人高齢・障害・求職者雇用支援機構岡山支部 | 2026-09-11 | 2026-09-18 | 中国職業能力開発大学校広報用動画の制作業務について(中国能開大) (PDF 191 KB) | — |
 | 岡山県 | [令和８年度岡山市固定資産航空写真撮影業務委託](<https://keiyaku.city.okayama.jp/webftp/itaku/2026025875.pdf>) | 岡山県岡山市 | 2026-09-01 | 原文を確認 | 令和8年度岡山市固定資産航空写真撮影業務委託 | [1](<https://keiyaku.city.okayama.jp/webftp/itaku/2026025875_1.zip>) |
+| 広島県 | [市営和草住宅解体工事](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/167153.pdf>) | 広島県三原市 | 2026-10-20 | 2026-11-06 | ・完成写真(竣工写真)の撮影を外注する場合は、撮影データを三原市が利用することについての承諾書を提出す ること | [仕様書等](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/167157.pdf>) |
 | 広島県 | [江波水資源再生センター№２・３脱水機修理](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640114500104.pdf>) | 広島県広島市 | 2026-10-16 | 原文を確認 | 提出について(1)本修繕においては、別に定める「下水道用機械・電気設備写真撮影要領」に準じ撮影し、修繕完了時に提出すること | [05 図面](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640114500105.pdf>) |
 | 岡山県 | [人孔鉄蓋（型式７１型）重荷重用（その６）](<https://keiyaku.city.okayama.jp/webftp/pdf/2026037240.pdf>) | 岡山県岡山市 | 2026-10-16 | 原文を確認 | 立会検査が受けられない場合は、前述の検査の全項目(ロット状況を含む)をビデオテープ等に収録した後、検査成績表とともに提出し、これを検査することにより、型式承認時の検査に替えることができる | — |
 | 広島県 | [研修宿泊センターグリーンヒルおおあさ第２期改修工事](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/29393.pdf>) | 広島県北広島町 | 2026-10-16 | 2026-11-11 | 紙 A-00 研修宿泊センターグリーンヒルおおあさ第2期改修工事【完成写真の撮影業者】 ・ 監督員の承諾する建築写真の専門撮影業者・ 指定なし10【撮影時期】 ・ 改修前 ・ 改修後章項目1一般共通事項特 記 事 項1 適用基準等4 施工条件 下記以外は現場説明書による | [仕様書](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/29394.pdf>) / [特記仕様書](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/29395.pdf>) / [図面](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/29396.pdf>) / [概略工事工程表](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/29397.pdf>) / [写真1階](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/29398.pdf>) |
@@ -115,6 +116,5 @@
 | 広島県 | [維8-108-20公共ます設置業務（全08-2）(PDFファイル:82.5KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-20kokoku.pdf>) | 広島県東広島市 | 2026-08-27 | 2026-09-16 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [8-108-20(PDFファイル:530.4KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-20tosho.pdf>) |
 | 広島県 | [1号7-108-199上三永39号線道路改良工事(PDFファイル:105.2KB)(PDFファイル:105.2KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-199kokoku.pdf>) | 広島県東広島市 | 2026-08-27 | 2026-08-27 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-199(PDFファイル:3.7MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-199tosho.pdf>) |
 | 広島県 | [2号7-108-198福富多目的グラウンド防球ネット整備工事(PDFファイル:92.5KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-198kokoku.pdf>) | 広島県東広島市 | 2026-08-27 | 2026-09-17 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-198(PDFファイル:2.2MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-198tosho.pdf>) |
-| 広島県 | [2号7-108-195豊栄市民グラウンド防球ネット等整備工事(PDFファイル:92.1KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-195kokoku.pdf>) | 広島県東広島市 | 2026-08-27 | 2026-09-17 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-195(PDFファイル:2.4MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-195tosho.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

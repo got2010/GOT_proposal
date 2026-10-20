@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-20T07:22+09:00（収集時点）
+最終更新：2026-10-21T07:22+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**468件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**472件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 5 / 5
 
@@ -16,6 +16,10 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 茨城県 | [宅地地盤と建物基礎の地震対策技術に関する模型地盤作成補助業務](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260727/ippan/15%2026-0001/26-0001.pdf>) | 国立研究開発法人建築研究所 | 2026-07-27 | 原文を確認 | 9 実験後、地盤状況の写真撮影を行う | [入札説明書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260727/ippan/15%2026-0001/26-0002.pdf>) / [仕 様 書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260727/ippan/15%2026-0001/26-0003.pdf>) |
+| 東京都 | [国立能楽堂広間等カーペット張替工事](<https://www.ntj.jac.go.jp/assets/files/03_chotatsu/noh/2026/kokoku_carpet.pdf>) | 独立行政法人日本芸術文化振興会 | 2026-07-27 | 2026-09-16 | なお、本項に規定していない事項は「工事写真撮影要領(文部科学省大臣官房文教施設企画・防災部参事官)」に準ずる | [入札説明書等 (372.23KB)](<https://www.ntj.jac.go.jp/assets/files/03_chotatsu/noh/2026/setsumeisho_carpet.pdf>) / [現場説明書 (2.03MB)](<https://www.ntj.jac.go.jp/assets/files/03_chotatsu/noh/2026/genbasetsumeisho_carpet.pdf>) |
+| 茨城県 | [【電子入札】【電子契約】可視レーザーを用いた防錆技術開発のための分光データ収集作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0804C00466.pdf>) | 国立研究開発法人日本原子力研究開発機構敦賀 | 2026-07-27 | 2026-10-09 | 5 ビデオカメラを用いてレーザー照射前後の照射部位の写真も撮影すること | — |
+| 茨城県 | [【電子入札】【電子契約】FMF放射性廃液設備の自主検査](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01059.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-07-27 | 2026-09-18 | 6 写真を撮影し、作業報告書に添付すること | — |
 | 茨城県 | [【電子入札】【電子契約】高速炉用パッド付ラッパ管の試作試験](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01048.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-07-27 | 2026-10-09 | 報告:合否、写真(400倍で撮影)(5) 結晶粒度試験同一素材ロットの異なる管より1試料をサンプリングし、JIS G0551(2022) に準じて試験を行う | — |
 | 東京都 | [令和８年度皇居外苑和田倉休憩所トイレ塗装等改修工事](<https://www.env.go.jp/garden/kokyogaien/4_sup/2022/sup_00142.html>) | 環境省皇居外苑 | 2026-07-24 | 2026-09-02 | サルデザイン 皇居ラン(マラソン)について 個人撮影について メディア取材、撮影について 駐車場について 校外学習について 団体利用について 案内板等設置等について 調達情報 フォトアルバム リンク集 国民公園一覧 皇居外苑 京都御苑 新宿御苑 千鳥ケ淵戦没者墓苑 環境省(法人番号1000012110001)皇居外苑管… | [入札説明書](<https://www.env.go.jp/garden/content/000418596.pdf>) / [別記様式](<https://www.env.go.jp/garden/content/000418593.doc>) / [特記仕様書等](<https://www.env.go.jp/garden/content/000418594.pdf>) |
 | 埼玉県 | [建築課：【第420号】市営住宅樹木維持管理業務委託](<https://www.city.kasukabe.lg.jp/jigyoshamuke/nyusatsu_keiyaku/nyusatsukokokuichiran/67/32449.html>) | 埼玉県春日部市 | 2026-07-24 | 2026-08-18 | 写真は撮影方向が分かるように配置図に示すこと | [仕様書(PDFファイル:2.3MB)](<https://www.city.kasukabe.lg.jp/material/files/group/45/01_shiyousyo_jyumoku.pdf>) |
