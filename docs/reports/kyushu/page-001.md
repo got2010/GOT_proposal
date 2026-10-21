@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-21T07:22+09:00（収集時点）
+最終更新：2026-10-22T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県
 
-**182件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**184件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 2
 
@@ -16,9 +16,11 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 宮崎県 | [祖母・傾・大崩ユネスコエコパーク映像コンテンツ制作・メディア活用業務委託に係る公募型プロポーザルの実施について](<https://www.city.nobeoka.miyazaki.jp/uploaded/life/52647_135827_misc.pdf>) | 宮崎県延岡市 | 2026-10-21 | 2026-11-17 | 祖母・傾・大崩ユネスコエコパーク映像コンテンツ制作・メディア活用業務委託に係る公募型プロポーザルの実施について | [企画提案仕様書 \[PDFファイル／184KB\]](<https://www.city.nobeoka.miyazaki.jp/uploaded/life/52647_135825_misc.pdf>) |
 | 宮崎県 | [令和8年度広報用航空写真撮影業務委託に係る一般競争入札について](<https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/chotatsu/20260916094125.html>) | 宮崎県 | 2026-09-16 | 原文を確認 | 令和8年度広報用航空写真撮影業務委託に係る一般競争入札について | [入札説明書（PDF：105KB）](<https://www.pref.miyazaki.lg.jp/documents/112559/112559_20260916104237-1.pdf>) / [仕様書（PDF：39KB）](<https://www.pref.miyazaki.lg.jp/documents/112559/112559_20260916104305-1.pdf>) |
 | 鹿児島県 | [「令和8年度鹿児島県国民保護共同実動・図上訓練の撮影・録画・配信業務」に係る一般競争入札について](<https://www.pref.kagoshima.jp/aj01/documents/130491_20260915111211-1.pdf>) | 鹿児島県 | 2026-09-15 | 原文を確認 | 「令和8年度鹿児島県国民保護共同実動・図上訓練の撮影・録画・配信業務」に係る一般競争入札について | [仕様書（PDF：106KB）](<https://www.pref.kagoshima.jp/aj01/documents/130491_20260915111312-1.pdf>) |
 | 佐賀県 | [令和8年度 嬉野市行政番組制作業務に係る公募型プロポーザルの実施について](<https://www.city.ureshino.lg.jp/var/rev0/0049/4695/12612295343.pdf>) | 佐賀県嬉野市 | 2026-09-01 | 原文を確認 | 令和8年度 嬉野市行政番組制作業務に係る公募型プロポーザルの実施について | [令和8年度 嬉野市行政番組制作業務 仕様書](<https://www.city.ureshino.lg.jp/var/rev0/0049/4696/12612292658.pdf>) / [仕様書別表1](<https://www.city.ureshino.lg.jp/var/rev0/0049/4697/12612294028.pdf>) / [令和8年度 嬉野市行政番組制作業務プロポーザル実施要領](<https://www.city.ureshino.lg.jp/var/rev0/0049/4698/12612292121.pdf>) / [（様式2）仕様書等に関する質問表](<https://www.city.ureshino.lg.jp/var/rev0/0049/4701/12612292320.doc>) |
+| 大分県 | [令和8年度森林保全再生整備に係る有害鳥獣捕獲等事業（大分西部流域）](<https://www.rinya.maff.go.jp/kyusyu/apply/publicsale/oitaseibu/attach/pdf/20261026_yuugai_2-12.pdf>) | 林野庁九州森林管理局大分西部森林管理署 | 2026-10-21 | 2026-11-26 | (2) 捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [共通仕様書(PDF : 396KB)](<https://www.rinya.maff.go.jp/kyusyu/apply/publicsale/oitaseibu/attach/pdf/20261026_yuugai_2-4.pdf>) / [特記仕様書(PDF : 281KB)](<https://www.rinya.maff.go.jp/kyusyu/apply/publicsale/oitaseibu/attach/pdf/20261026_yuugai_2-8.pdf>) / [電子入札案件の紙入札方式での参加について(PDF : 53KB)](<https://www.rinya.maff.go.jp/kyusyu/apply/publicsale/oitaseibu/attach/pdf/20260928_yuugai_1-9.pdf>) / [別添1捕獲状況集計表\_1.3.4シートへ入力(EXCEL : 59KB)](<https://www.rinya.maff.go.jp/kyusyu/apply/publicsale/oitaseibu/attach/xls/20260928_yuugai_1-2.xlsx>) |
 | 宮崎県 | [令和８年度 多目的スポーツセンター空調機設置工事](<https://secure.haishin.jp/mimata/files/1039_tamokutekisportscenter-kuuchoukouji_koukoku_20261106.pdf>) | 宮崎県三股町 | 2026-10-20 | 2026-11-06 | 9 構内交換設備 写真撮影要領(令和5年版)」及び監督員の指示による | [１](<https://secure.haishin.jp/mimata/files/1039_tamokutekisportscenter-kuuchoukouji_sekkei_20261106.pdf>) / [１](<https://secure.haishin.jp/mimata/files/1039_tamokutekisportscenter-kuuchoukouji_zumen_20261106.pdf>) / [１](<https://secure.haishin.jp/mimata/files/1039_tamokutekisportscenter-kuuchoukouji_sonota1_20261106.pdf>) / [２](<https://secure.haishin.jp/mimata/files/1039_tamokutekisportscenter-kuuchoukouji_sonota2_20261106.pdf>) |
 | 福岡県 | [大牟田公共職業安定所（令8）電話設備改修工事](<https://jsite.mhlw.go.jp/fukuoka-roudoukyoku/content/contents/002859296.pdf>) | 厚生労働省福岡労働局 | 2026-10-20 | 2026-11-10 | 記録写真は、「営繕工事記録写真撮影要領」による | — |
 | 福岡県 | [Ｒ９—北九州住まいセンター消防用設備点検等業務 （令和8年10月20日）](<https://www.ur-net.go.jp/orders/kyushu/pdf/order_44288_3.pdf>) | 独立行政法人都市再生機構九州支社 | 2026-10-20 | 2027-01-27 | に規定する消防設備士でなくても行える軽微な整備ホ 記録方法については、写真撮影(着手前後)による記録も行う | [仕様書\[20793KB\]](<https://www.ur-net.go.jp/orders/kyushu/pdf/order_44288_4.pdf>) |
@@ -114,7 +116,5 @@
 | 佐賀県 | [令和4年度嬉野市移住促進パンフレット・チラシ作成業務に係るプロポーザルについて](<https://www.city.ureshino.lg.jp/var/rev0/0030/0812/12271513367.doc>) | 佐賀県嬉野市 | 2026-09-01 | 原文を確認 | ー・ユニバーサル・デザイン(CUD)2. その他2.1. 取材 記事の取材・撮影にあたってのアポイント等は、委託者・受託者が協力して行う | [令和4年度嬉野市移住促進パンフレット・チラシ作成業務仕様書](<https://www.city.ureshino.lg.jp/var/rev0/0030/0813/122715133644.docx>) / [令和4年度嬉野市移住促進パンフレット・チラシ作成業務プロポーザル実施要領](<https://www.city.ureshino.lg.jp/var/rev0/0030/0814/122715134219.docx>) / [（様式1）参加申込書（7/29まで）・（様式2）仕様書等に関する質問表（7/22まで）](<https://www.city.ureshino.lg.jp/var/rev0/0030/0818/122715171518.doc>) |
 | 佐賀県 | [令和5年度嬉野市スポーツフューチャーセンターによる女性が輝くまちづくり推進事業業務委託に係る公募型プロポーザルについて](<https://www.city.ureshino.lg.jp/var/rev0/0034/8085/1236992859.docx>) | 佐賀県嬉野市 | 2026-09-01 | 原文を確認 | (3回以上) ※上記にはアスリート等のブッキング業務も含む イ 記事・動画・ランディングページ等の作成支援 ウ ロゴ等のコミュニケーションツールの作成支援(4)報告・打合せ 受託者は、本業務委託のスケジュール等に十分配慮し、本市との打ち合わせ・報告等を主体的に行うこと | [令和5年度嬉野市スポーツフューチャーセンターによる女性が輝くまちづくり推進事業業務委託プロポーザル実施要領](<https://www.city.ureshino.lg.jp/var/rev0/0034/8086/123420114447.docx>) / [（様式1）参加申込書（5/19まで）・（様式2）仕様書等に関する質問表（5/12まで）](<https://www.city.ureshino.lg.jp/var/rev0/0034/8089/12342011471.doc>) |
 | 佐賀県 | [SAGA2024 嬉野市大会報告書作成及び開催競技エンドロール制作業務に係るプロポーザルについて](<https://www.city.ureshino.lg.jp/var/rev0/0039/7139/124426171721.pdf>) | 佐賀県嬉野市 | 2026-09-01 | 原文を確認 | (1)大会報告書の作成ア 記録写真の撮影(ア)開催準備から大会終了までの様子を撮影(イ)撮影については、各競技会全日程において行うものとする | [SAGA2024国スポ・全障スポ 嬉野市大会報告書作成及び開催競技エンドロール制作業務 仕様書](<https://www.city.ureshino.lg.jp/var/rev0/0039/7140/12442520498.pdf>) / [仕様書 別紙1「大会報告書ページ割（案）」](<https://www.city.ureshino.lg.jp/var/rev0/0039/7141/124425115542.pdf>) / [仕様書 別紙2「イベント予定一覧」](<https://www.city.ureshino.lg.jp/var/rev0/0039/7142/12442511560.pdf>) / [SAGA2024国スポ・全障スポ 嬉野市大会報告書作成及び開催業務エンドロール制作業務 実施要領](<https://www.city.ureshino.lg.jp/var/rev0/0039/7143/124425115647.pdf>) |
-| 佐賀県 | [令和8年度市報作成及び印刷業務に係るプロポーザルの募集について](<https://www.city.ureshino.lg.jp/var/rev0/0049/4228/12615102928.pdf>) | 佐賀県嬉野市 | 2026-09-01 | 原文を確認 | 嬉野市の委託先2 作成業務の内容(1)市報の原稿・記事作成(特集などの取材写真撮影)、編集、原稿テキストデータの作成・ホームページ掲載用データの作成 | [令和8年度市報作成及び印刷業務仕様書](<https://www.city.ureshino.lg.jp/var/rev0/0049/4229/12615102951.pdf>) / [令和8年度市報作成及び印刷業務プロポーザル実施要領](<https://www.city.ureshino.lg.jp/var/rev0/0049/4230/12615103912.pdf>) / [仕様書等に関する質問表](<https://www.city.ureshino.lg.jp/var/rev0/0049/4233/1261510249.doc>) |
-| 宮崎県 | [旅券（パスポート）等輸送業務委託に係る一般競争入札の実施について](<https://www.pref.miyazaki.lg.jp/kokusai-keizaikoryu/kense/chotatsu/20230823142233.html>) | 宮崎県 | 2026-09-01 | 2026-09-16 | する企画提案競技(プロポーザル方式)の実施について 「農業外国人材向け動画制作」業務委託企画提案競技(プロポーザル方式)の実施について 令和8年度「農産加工品等外食産業プロモーション連携業務」企画提案競技(プロポーザル方式)を実施します 宮崎県クラウドサービス型生成AIサービスの共同調達・共同利用に関する情報提供依頼 | [入札公告（PDF：161KB）](<https://www.pref.miyazaki.lg.jp/documents/80419/80419_20260828181133-1.pdf>) / [入札説明書（PDF：213KB）](<https://www.pref.miyazaki.lg.jp/documents/80419/80419_20260828181158-1.pdf>) / [業務仕様書（PDF：519KB）](<https://www.pref.miyazaki.lg.jp/documents/80419/80419_20260831111925-1.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-21T07:22+09:00（収集時点）
+最終更新：2026-10-22T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**221件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**223件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 広島県 | [大和中学校長寿命化改修設計業務委託](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/165105.pdf>) | 広島県三原市 | 2026-07-21 | 2026-08-06 | (4) 基本計画等で写真を使う場合その著作権の権利等について受注者は、写真の撮影を再委託する場合は、次の事項を条件とすること | [仕様書等](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/165106.pdf>) |
+| 広島県 | [三原西処理分区汚水幹線改築工事（8-1）](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/165068.pdf>) | 広島県三原市 | 2026-07-21 | 2026-08-06 | 2搬出先においては、許可看板と処分状況が確認できるよう写真撮影を行い提出すること | [仕様書等](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/165069.pdf>) |
 | 広島県 | [旭町水資源再生センター２系返送汚泥分配弁修理](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640085800104.pdf>) | 広島県広島市 | 2026-07-17 | 原文を確認 | 提出について(1)本修繕においては、別に定める「下水道用機械・電気設備写真撮影要領」に準じ撮影し、修繕完了時に提出すること | — |
 | 広島県 | [広島市旅費管理システムの構築及び運用・保守業務 一式](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640082100101.pdf>) | 広島県広島市 | 2026-07-17 | 2026-08-31 | 番環境とは異なるもしくはテストアカウントを提供するなどして研修環境及び研修用動画等の研修資料を作成すること | [03-1\_仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640082100103.pdf>) / [03-2\_仕様書別紙１](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640082100104.pdf>) |
 | 広島県 | [26033竹原市歴史民俗資料館保存修理](<https://www.city.takehara.lg.jp/material/files/group/4/26033-1koukoku.pdf>) | 広島県竹原市 | 2026-07-17 | 原文を確認 | b.写真の著作権の権利等について 受託者は写真の撮影を再委託する場合は、次の事項を条件とすること | [説明書](<https://www.city.takehara.lg.jp/material/files/group/4/26033-2setsumei.pdf>) / [1](<https://www.city.takehara.lg.jp/material/files/group/4/26033-3shiyou1.pdf>) / [2](<https://www.city.takehara.lg.jp/material/files/group/4/26033-3shiyou2.pdf>) |

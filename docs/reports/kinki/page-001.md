@@ -2,15 +2,15 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-21T07:22+09:00（収集時点）
+最終更新：2026-10-22T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**200件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**203件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
-## 一覧 1 / 2
+## 一覧 1 / 3
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)
 
@@ -26,6 +26,8 @@
 | 兵庫県 | [宝塚市広報番組制作業務委託に係る公募型プロポーザル](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/boshuyoko.pdf>) | 兵庫県宝塚市 | 2026-08-05 | 原文を確認 | 宝塚市広報番組制作業務委託に係る公募型プロポーザル | [業務仕様書 （PDF 345.9 KB）](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/2_gyomusiyosho.pdf>) / [資料2\_秘密保持等に関する特記仕様書 （PDF 196.0 KB）](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/2_himituhojitounikansurutoltukisiyousho.pdf>) |
 | 京都府 | [令和8年度きょうとプレコン推進事業（幼児期から中学生等を対象とした教育プログラムに係るデザイン・動画作成事業）](<https://www.pref.kyoto.jp/kosodate/news/2026/purecon-sougouhyoka.html>) | 京都府 | 2026-08-03 | 2027-03-31 | 令和8年度きょうとプレコン推進事業(幼児期から中学生等を対象とした教育プログラムに係るデザイン・動画作成事業) | [総合評価競争入札公告（PDF：264KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/01_koukoku.pdf>) / [入札説明書（PDF：228KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/02_nyuusatusetumeisyo_1.pdf>) / [(別紙1)業務委託仕様書（PDF：267KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/03_siyousyo.pdf>) / [(別紙2)企画提案書作成要領（PDF：137KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/03_sakuseiyouryou.pdf>) / [落札者決定基準（PDF：52KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/15_ketteikizyunn.pdf>) |
 | 京都府 | [令和８年度京都市美術館所蔵品撮影業務](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/432372.htm>) | 京都府京都市 | 2026-07-27 | 原文を確認 | 令和8年度京都市美術館所蔵品撮影業務 | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./432372_12_07241115.pdf>) |
+| 和歌山県 | [令和８年度 第６１号〜２ 交通流監視用カメラ更新等工事(県単)](<https://www.police.pref.wakayama.lg.jp/nyusatu/si-261021-61-2.pdf>) | 国家公安委員会（警察庁）和歌山県警察 | 2026-10-21 | 原文を確認 | 新設に関しては、撮影された映像をNTT回線を介して交通管制センターに送信できるようにLANケーブルの配線工事、必要機器の取付工事を行う | — |
+| 和歌山県 | [令和８年度 第６１号〜１ 交通流監視用カメラ更新等(機器製作)工事(県単)](<https://www.police.pref.wakayama.lg.jp/nyusatu/si-261021-61-1.pdf>) | 国家公安委員会（警察庁）和歌山県警察 | 2026-10-21 | 2026-10-29 | 新設、更新に係る機器製作を行うとともに、設置されたネットワークカメラで撮影した映像をNTT回線を介し、交通管制センターに送信できるよう必要な改修・設定を行う | — |
 | 兵庫県 | [【制限付一般競争入札】明石市立江井島中学校武道場床改修修繕（10月20日発注）](<https://www.city.akashi.lg.jp/documents/40522/2026-nonoyuka-3-011_koukoku.pdf>) | 兵庫県明石市 | 2026-10-20 | 原文を確認 | 場着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、完成時に現状復旧が行われているか確認すること | [仕様書一式（PDF：567KB）](<https://www.city.akashi.lg.jp/documents/40522/2026-nonoyuka-21~22_siyousho.pdf>) |
 | 京都府 | [マイナンバーカードオンライン申請補助端末等機器賃貸借（令和９年１月〜令和１１年１２月）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/451940.htm>) | 京都府京都市 | 2026-10-20 | 2026-11-02 | ード交付申請書を所持せず申請書IDが判明しない市民に対しても申請用の顔写真撮影ができるように、カメラアプリケーションのインストールを予定しており、後掲イ「マイナ・アシスト2専用アプリケーション」以外のアプリケーションもインストールできること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./451940_12_10151415.pdf>) |
 | 兵庫県 | [Inseyets Offline Standaloneの納入](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/D26110501.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-10-19 | 2026-11-05 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |
@@ -62,6 +64,7 @@
 | 京都府 | [令和8年9月25日公告分交番・駐在所用施設管理カメラシステムの賃貸借に係る入札説明書等](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/092501_1.pdf>) | 国家公安委員会（警察庁）京都府警察 | 2026-09-25 | 2026-10-07 | )を各1台設置し、撮影した映像を常時モニターに映し出し、これを録画及び再生等することができる機能を有するシステムである | [仕様書（PDF：863KB）](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/092503shiyou.pdf>) / [質疑書（PDF：49KB）](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/092507shitsugisho.pdf>) |
 | 京都府 | [令和８年度南丹市多言語観光パンフレット作成業務 公募型プロポーザルの実施について](<https://www.city.nantan.kyoto.jp/www/town/124/007/000/1020763/1020767_1_501_28.pdf>) | 京都府南丹市 | 2026-09-24 | 2026-10-08 | (1) 企画制作企画・構成、編集(2) 写真撮影(3) 地図等の作成(4) 翻訳(5) 校正・校閲・色校正の校正刷りは実際のできあがりが確認できる用紙にすることとし、その都度提出すること | [実施要領](<https://www.city.nantan.kyoto.jp/www/town/124/007/000/1020763/1020767_1_501_29.pdf>) / [仕様書](<https://www.city.nantan.kyoto.jp/www/town/124/007/000/1020763/1020767_1_501_30.pdf>) |
 | 奈良県 | [今西渓間工事](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/nara/20260924_imanishi.html>) | 林野庁近畿中国森林管理局奈良森林管理事務所 | 2026-09-24 | 2026-11-25 | 黒板情報の電子的記入 受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [入札公告(PDF : 325KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/nara/attach/pdf/20260924_imanishi-1.pdf>) / [入札説明書(PDF : 6,250KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/nara/attach/pdf/20260924_imanishi-2.pdf>) / [閲覧図書(PDF : 1,320KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/nara/attach/pdf/20260924_imanishi-3.pdf>) |
+| 和歌山県 | [令和８年度 第９号 和歌山県警察ヘリコプターテレビシステム地上設備更新整備工事](<https://www.police.pref.wakayama.lg.jp/nyusatu/si-260918-9.pdf>) | 国家公安委員会（警察庁）和歌山県警察 | 2026-09-18 | 2026-10-07 | 警察本部に伝送し、本部庁舎から受信基地局設備の遠隔操作及び本部庁舎内で映像等の配信・視聴・記録等を行うための設備で構成されるシステムの更新整備を行うものである | [【質疑に対する回答書（令和８年１０月９日掲載）】](<https://www.police.pref.wakayama.lg.jp/nyusatu/si-261009-kaitou.pdf>) |
 | 和歌山県 | [令和８年度 第９号 和歌山県警察ヘリコプターテレビシステム地上設備更新整備工事](<https://www.police.pref.wakayama.lg.jp/nyusatu/si-260918-8.pdf>) | 国家公安委員会（警察庁）和歌山県警察 | 2026-09-18 | 2026-10-07 | 警察本部に伝送し、本部庁舎から受信基地局設備の遠隔操作及び本部庁舎内で映像等の配信・視聴・記録等を行うための設備で構成されるシステムの更新整備を行うものである | — |
 | 兵庫県 | [公開型GIS導入による住民サービス向上事業に係る公募型プロポーザルの実施について](<https://www.town.kamigori.hyogo.jp/material/files/group/100/jissiyouryou.pdf>) | 兵庫県神郡町 | 2026-09-18 | 原文を確認 | ·························· 106.1 航空写真撮影····················································· 106.2 評定点測量······················································· … | [特記仕様書 (PDFファイル: 385.7KB)](<https://www.town.kamigori.hyogo.jp/material/files/group/100/tokkisiyousyo.pdf>) / [実施要項 (PDFファイル: 215.2KB)](<https://www.town.kamigori.hyogo.jp/material/files/group/100/jissiyoukou.pdf>) |
 | 京都府 | [令和８年度観光地等交通対策に係る迂回誘導看板等の設置・撤去作業等業務委託について](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/444871.htm>) | 京都府京都市 | 2026-09-18 | 原文を確認 | また、全ての設置箇所の写真を撮影し、速やかに提出すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./444871_12_09151437.pdf>) |
@@ -113,8 +116,5 @@
 | 大阪府 | [能登空港ＥＳＳＥ装置設置その他工事](<https://www.cab.mlit.go.jp/wcab/file/0916_1005_kyoku_notoESSEsouchisextuchisonotakouji.pdf>) | 国土交通省大阪航空局 | 2026-09-16 | 2026-10-05 | 等)7機器撤去・ITV映像表示装置 1式・映像操作端末本体 1式・簡易映像記録装置 1式・受配・配信装置 端末本体 1式・受配・配信装置 表示装置 1式・配信情報表示装置 本体端末 1式・配信情報表示装置 タッチパネル 1式×4 等・電源、通信ケーブル等撤去(RAG空港用ITV装置~分電盤間等)※その他詳細は仕様書によ… | — |
 | 奈良県 | [https://www.city.ikoma.lg.jp/0000042548.html](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42548/01.pdf>) | 奈良県生駒市 | 2026-09-15 | 原文を確認 | よりトータルステーション等を用いて下記を確認する作業をいう(境界標等の写真撮影を含む) | [契約主要事項説明書 (PDF形式、128.37KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42548/02.pdf>) / [仕様書(PDF形式、2.19MB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42548/03.pdf>) / [事後審査型条件付一般競争入札参加資格確認申請書(ワード形式、38.50KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42548/11.doc>) |
 | 京都府 | [令和８年度 市施設搬入ごみ質調査（持込ごみ）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/443709.htm>) | 京都府京都市 | 2026-09-15 | 原文を確認 | カ 写真撮影持込車両の積載物全体の容積を検尺棒等で測定する作業等、調査の様子が分かるよう、適宜写真を撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./443709_12_09101656.pdf>) |
-| 大阪府 | [08-金剛団地道路通路修繕その他工事監督業務 （令和8年9月15日）](<https://www.ur-net.go.jp/orders/west/pdf/order_43959_3.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-15 | 2026-11-11 | の明示できる図表、既往成果等を用いることは支障ないが、本件のために特に作成したCG、詳細図面等を用いることは認めない | [仕様書\[242KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_43959_4.pdf>) |
-| 大阪府 | [東大阪市総合防災訓練業務委託の制限付き一般競争入札について](<https://www.city.higashiosaka.lg.jp/cmsfiles/contents/0000045/45201/01.jissiyouryou.pdf>) | 大阪府東大阪市 | 2026-09-11 | 原文を確認 | 、見学者等 22 張テント 1.5k×2k 白(1k=1.8m)受付、映像配信用、ドローン用、更衣室 5 張横幕(白)・本部テント・・・2間×3間・6張(横幕なし | [02 仕様書(PDF形式、1.91MB) 別ウィンドウで開きます](<https://www.city.higashiosaka.lg.jp/cmsfiles/contents/0000045/45201/02.gyoumusiyousyo.pdf>) |
-| 兵庫県 | [【制限付一般競争入札】明石市立総合福祉センター本館 高圧受変電設備修繕](<https://www.city.akashi.lg.jp/documents/40444/20260910170858.pdf>) | 兵庫県明石市 | 2026-09-11 | 原文を確認 | 繕着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、修繕完成時に現状復旧が行われているか確認すること | [仕様書（PDF：148KB）](<https://www.city.akashi.lg.jp/documents/40444/20260910171210.pdf>) / [特記仕様書（PDF：64KB）](<https://www.city.akashi.lg.jp/documents/40444/20260910171228.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

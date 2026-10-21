@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-21T07:22+09:00（収集時点）
+最終更新：2026-10-22T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**472件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**475件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 5 / 5
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 茨城県 | [宅地地盤と建物基礎の地震対策技術に関する模型地盤作成補助業務](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260806/ippan/15%2026-0001/26-0001.pdf>) | 国立研究開発法人建築研究所 | 2026-07-27 | 原文を確認 | 9 実験後、地盤状況の写真撮影を行う | [入札説明書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260806/ippan/15%2026-0001/26-0002.pdf>) / [仕 様 書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260806/ippan/15%2026-0001/26-0003.pdf>) |
+| 茨城県 | [宅地地盤と建物基礎の地震対策技術に関する模型地盤作成補助業務](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260731/ippan/15%2026-0001/26-0001.pdf>) | 国立研究開発法人建築研究所 | 2026-07-27 | 原文を確認 | 9 実験後、地盤状況の写真撮影を行う | [入札説明書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260731/ippan/15%2026-0001/26-0002.pdf>) / [仕 様 書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260731/ippan/15%2026-0001/26-0003.pdf>) |
+| 茨城県 | [宅地地盤と建物基礎の地震対策技術に関する模型地盤作成補助業務](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260729/ippan/15%2026-0001/26-0001.pdf>) | 国立研究開発法人建築研究所 | 2026-07-27 | 原文を確認 | 9 実験後、地盤状況の写真撮影を行う | [入札説明書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260729/ippan/15%2026-0001/26-0002.pdf>) / [仕 様 書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260729/ippan/15%2026-0001/26-0003.pdf>) |
 | 茨城県 | [宅地地盤と建物基礎の地震対策技術に関する模型地盤作成補助業務](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260727/ippan/15%2026-0001/26-0001.pdf>) | 国立研究開発法人建築研究所 | 2026-07-27 | 原文を確認 | 9 実験後、地盤状況の写真撮影を行う | [入札説明書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260727/ippan/15%2026-0001/26-0002.pdf>) / [仕 様 書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260727/ippan/15%2026-0001/26-0003.pdf>) |
 | 東京都 | [国立能楽堂広間等カーペット張替工事](<https://www.ntj.jac.go.jp/assets/files/03_chotatsu/noh/2026/kokoku_carpet.pdf>) | 独立行政法人日本芸術文化振興会 | 2026-07-27 | 2026-09-16 | なお、本項に規定していない事項は「工事写真撮影要領(文部科学省大臣官房文教施設企画・防災部参事官)」に準ずる | [入札説明書等 (372.23KB)](<https://www.ntj.jac.go.jp/assets/files/03_chotatsu/noh/2026/setsumeisho_carpet.pdf>) / [現場説明書 (2.03MB)](<https://www.ntj.jac.go.jp/assets/files/03_chotatsu/noh/2026/genbasetsumeisho_carpet.pdf>) |
 | 茨城県 | [【電子入札】【電子契約】可視レーザーを用いた防錆技術開発のための分光データ収集作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0804C00466.pdf>) | 国立研究開発法人日本原子力研究開発機構敦賀 | 2026-07-27 | 2026-10-09 | 5 ビデオカメラを用いてレーザー照射前後の照射部位の写真も撮影すること | — |

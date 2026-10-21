@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-21T07:22+09:00（収集時点）
+最終更新：2026-10-22T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**221件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**223件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 広島県 | [1号7-108-199上三永39号線道路改良工事(PDFファイル:105.2KB)(PDFファイル:105.2KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-199kokoku.pdf>) | 広島県東広島市 | 2026-08-27 | 2026-08-27 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-199(PDFファイル:3.7MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-199tosho.pdf>) |
+| 広島県 | [2号7-108-198福富多目的グラウンド防球ネット整備工事(PDFファイル:92.5KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-198kokoku.pdf>) | 広島県東広島市 | 2026-08-27 | 2026-09-17 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-198(PDFファイル:2.2MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-198tosho.pdf>) |
 | 広島県 | [2号7-108-195豊栄市民グラウンド防球ネット等整備工事(PDFファイル:92.1KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-195kokoku.pdf>) | 広島県東広島市 | 2026-08-27 | 2026-09-17 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-195(PDFファイル:2.4MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-195tosho.pdf>) |
 | 広島県 | [2号7-108-194奥屋東3号線道路修繕工事(PDFファイル:90.8KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-194kokoku.pdf>) | 広島県東広島市 | 2026-08-27 | 2026-09-16 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-194(PDFファイル:1.5MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-194tosho.pdf>) |
 | 広島県 | [2号7-108-193交通安全施設整備工事（防護柵等）(PDFファイル:92.3KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-193kokoku.pdf>) | 広島県東広島市 | 2026-08-27 | 2026-09-17 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-193(PDFファイル:4.4MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-193tosho.pdf>) |
@@ -114,7 +116,5 @@
 | 鳥取県 | [令和８年度（2026年度）環境教育企画・実施業務委託プロポーザルを実施します（令和8年7月28日更新）](<https://www.city.sakaiminato.lg.jp/upload/user/00115300-YDJXQA.pdf>) | 鳥取県境港市 | 2026-07-21 | 2026-08-14 | よびアンケート調査・授業風景について、事前に撮影可能か確認して記録用の撮影を行うこと | [令和８年度環境教育企画・実施業務委託\_公募型プロポーザル募集要項](<https://www.city.sakaiminato.lg.jp/upload/user/00115300-aqALT0.pdf>) / [令和８年度環境教育企画・実施業務委託\_仕様書](<https://www.city.sakaiminato.lg.jp/upload/user/00115300-rmB4ri.pdf>) |
 | 広島県 | [広島市議会インターネット議会中継配信システムの構築及び運用・保守業務](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640085500101.pdf>) | 広島県広島市 | 2026-07-21 | 2026-08-07 | ) 調査基準価格落札決定後に公表(6) 履行場所広島市役所議会棟(4階ビデオ編集室)、その他本市が指定する場所詳細は、入札説明書による(7) 入札方式本件業務は、開札後に入札参加資格の有無を確認する入札後資格確認型一般競争入札で入札執行する | [03 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640085500103.pdf>) |
 | 広島県 | [令和８年度史跡小早川氏城跡（三原城跡）船入櫓石垣カルテ作成業務委託](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/165107.pdf>) | 広島県三原市 | 2026-07-21 | 2026-08-06 | 287.20m2(2) 3次元レーザ計測 378.70m2(3) 空中写真撮影 3回(4) 平面・立面図作成 378.70m2(5) 断面図作成 20本(6) オルソ画像作成及び出力 287.20m2(7) 石垣カルテ作成 287.20m2(8) 打合せ協議 一式 第3条(関係法令の遵守) 1 本業務の受託者は、業務委… | [仕様書等](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/165108.pdf>) |
-| 広島県 | [大和中学校長寿命化改修設計業務委託](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/165105.pdf>) | 広島県三原市 | 2026-07-21 | 2026-08-06 | (4) 基本計画等で写真を使う場合その著作権の権利等について受注者は、写真の撮影を再委託する場合は、次の事項を条件とすること | [仕様書等](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/165106.pdf>) |
-| 広島県 | [三原西処理分区汚水幹線改築工事（8-1）](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/165068.pdf>) | 広島県三原市 | 2026-07-21 | 2026-08-06 | 2搬出先においては、許可看板と処分状況が確認できるよう写真撮影を行い提出すること | [仕様書等](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/165069.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

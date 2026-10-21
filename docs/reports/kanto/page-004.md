@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-21T07:22+09:00（収集時点）
+最終更新：2026-10-22T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**472件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**475件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 4 / 5
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 埼玉県 | [氷川町公園ほか35箇所便所清掃業務委託ほか2件](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/271k.pdf>) | 埼玉県川越市 | 2026-08-27 | 原文を確認 | 14 写真撮影受注者は、1箇所につき月1回以上、業務内容を記した小黒板を写し込んだ写真(作業の前・中・後、清掃範囲(便器、手洗所、壁、天井、床部等))を撮影し、日報と共に提出するものとする | [仕様書(川越市公告契約第271号(1)) （PDF 747.0KB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/271s1.pdf>) / [仕様書(川越市公告契約第271号(2)) （PDF 747.4KB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/271s2.pdf>) / [仕様書(川越市公告契約第271号(3)) （PDF 1.1MB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/271s3.pdf>) |
+| 埼玉県 | [ゴミ運搬業務委託](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/270k.pdf>) | 埼玉県川越市 | 2026-08-27 | 原文を確認 | 12 写真撮影受注者は、月1回以上、業務内容を記した小黒板を写し込んだ写真を工種毎(積込、運搬、取卸状況)に撮影し、日報と共に提出するものとする | [仕様書(川越市公告契約第270号) （PDF 2.8MB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/270s.pdf>) |
+| 埼玉県 | [小畔水鳥の郷公園ほか20公園し尿汲取り業務委託](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/268k.pdf>) | 埼玉県川越市 | 2026-08-27 | 原文を確認 | 14 写真撮影受注者は、業務内容を記した小黒板を写し込んだ写真(作業の前・中・後)を作業箇所のうちの数箇所撮影し、月報と共に提出するものとする | [仕様書(川越市公告契約第268号) （PDF 1.1MB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/268s.pdf>) |
 | 茨城県 | [(RE-08931）JT-60実験棟地階シャッター更新工事【掲載期間：2026-08-27～2026-09-15】](<https://www.qst.go.jp/uploaded/attachment/52884.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-08-27 | 2026-10-09 | c.工事写真 1部(a)撮影箇所a)工事竣工後では確認困難な箇所 | [仕様書 \[PDFファイル／1.09MB\]](<https://www.qst.go.jp/uploaded/attachment/52885.pdf>) |
 | 茨城県 | [【電子入札】【電子契約】廃棄物処理建家空調換気設備計装品類の点検](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01309.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-08-27 | 2026-10-16 | (16) 以下に従い写真を撮影し、作業報告書に添付すること | — |
 | 東京都 | [総合自転車対策業務一括委託に関するプロポーザルの参加事業者を募集します【募集要項配布期間：9月18日まで】](<https://www.city.shinjuku.lg.jp/content/000463682.pdf>) | 東京都新宿区 | 2026-08-26 | 2026-10-22 | なお、撤去前に破損等があった場合は、その状態がわかるように撮影を行うこと | [仕様書（案） \[PDF形式：364KB\] （新規ウィンドウ表示）](<https://www.city.shinjuku.lg.jp/content/000463691.pdf>) |
@@ -113,8 +116,5 @@
 | 茨城県 | [【電子入札】【電子契約】屋外消火栓の更新](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C02803.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-07-28 | 2026-10-06 | (2) 現地作業にて、火気を使用する場合または写真撮影を行う場合は、それぞれ以下に記す書類(原子力機構指定様式)を提出し、許可を受けること | — |
 | 東京都 | [令和8年度林野庁式典会場設営及び整備清掃作業(PDF : 167KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/sonota-809.pdf>) | 林野庁 | 2026-07-27 | 2026-09-10 | (3)各作業の施工前及び施工後の写真撮影を行い、アルバムを提出すること | [入札説明書(PDF : 360KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/sonota-810.pdf>) / [仕様書(PDF : 3,516KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/sonota-811.pdf>) |
 | 埼玉県 | [「さいたま環境フェア2026」会場設営等業務の入札情報](<https://www.city.saitama.lg.jp/005/001/017/006/003/p132425_d/fil/kokuji.pdf>) | 埼玉県さいたま市 | 2026-07-27 | 2026-08-26 | (2)動画作成今年度の開催状況をもとに、主に若年層に向けて、イベントの魅力を効果的に伝えることを目的とした広報用動画2本を以下のとおり作成し、完成品をデータ(MP4ファイル)で市へ提出する | [02 入札説明書（PDF形式 128キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p132425_d/fil/nyusatusetumeisyo.pdf>) / [03 仕様書（PDF形式 3,010キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p132425_d/fil/shiyosyo.pdf>) |
-| 茨城県 | [宅地地盤と建物基礎の地震対策技術に関する模型地盤作成補助業務](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260806/ippan/15%2026-0001/26-0001.pdf>) | 国立研究開発法人建築研究所 | 2026-07-27 | 原文を確認 | 9 実験後、地盤状況の写真撮影を行う | [入札説明書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260806/ippan/15%2026-0001/26-0002.pdf>) / [仕 様 書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260806/ippan/15%2026-0001/26-0003.pdf>) |
-| 茨城県 | [宅地地盤と建物基礎の地震対策技術に関する模型地盤作成補助業務](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260731/ippan/15%2026-0001/26-0001.pdf>) | 国立研究開発法人建築研究所 | 2026-07-27 | 原文を確認 | 9 実験後、地盤状況の写真撮影を行う | [入札説明書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260731/ippan/15%2026-0001/26-0002.pdf>) / [仕 様 書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260731/ippan/15%2026-0001/26-0003.pdf>) |
-| 茨城県 | [宅地地盤と建物基礎の地震対策技術に関する模型地盤作成補助業務](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260729/ippan/15%2026-0001/26-0001.pdf>) | 国立研究開発法人建築研究所 | 2026-07-27 | 原文を確認 | 9 実験後、地盤状況の写真撮影を行う | [入札説明書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260729/ippan/15%2026-0001/26-0002.pdf>) / [仕 様 書](<https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260729/ippan/15%2026-0001/26-0003.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-003.md) ｜ [次の100件](page-005.md)

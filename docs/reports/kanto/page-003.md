@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-21T07:22+09:00（収集時点）
+最終更新：2026-10-22T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**472件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**475件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 5
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（真砂第二団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44037_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（千葉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1447KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44037_3.pdf>) / [仕様書\[13021KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44037_4.pdf>) |
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（千葉弁天町団地他２団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44038_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（千葉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1453KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44038_3.pdf>) / [仕様書\[14379KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44038_4.pdf>) |
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（あやめ台団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44039_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（千葉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1447KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44039_3.pdf>) / [仕様書\[13587KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44039_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（みつわ台団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44040_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（千葉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1444KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44040_3.pdf>) / [仕様書\[12847KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44040_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（金杉台団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44041_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（千葉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1443KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44041_3.pdf>) / [仕様書\[18642KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44041_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（習志野台団地他１団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44042_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（千葉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1450KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44042_3.pdf>) / [仕様書\[20621KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44042_4.pdf>) |
@@ -113,8 +116,5 @@
 | 千葉県 | [松契一般第206号 新松戸中継ポンプ場耐水化工事（PDF：372KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0828kouji2w.files/206.pdf>) | 千葉県松戸市 | 2026-08-28 | 2026-08-28 | 25. 写真撮影要領(1) 現地及び工場における写真を工程ごとに撮影すること(ア)施工前 (イ)施工中 (ウ)施工後(2) 写真は工程・細別・撮影項目ごとに分類し、工事の進捗状況に合わせて写真帳に整理すること(3) 工事施工前と施工後の写真は、同一方向、同一箇所で撮影し、写真帳の第1頁に両者を対比して掲載すること(4)… | [松契一般第206号 設計図書（PDF：5,573KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0828kouji2w.files/206s.pdf>) |
 | 東京都 | [放課GO→クラブしばうら運営事業候補者をプロポーザル方式により募集します](<https://www.city.minato.tokyo.jp/documents/179934/20260825142646.pdf>) | 東京都港区 | 2026-08-27 | 2026-10-27 | から9月3日(木)午後5時までウ 見学時における注意事項・会場の様子を写真・動画等で撮影する場合、個人情報保護の観点から、児童等の顔や氏名が特定できるような撮影は禁止します | [【別紙1】仕様書（PDF：395KB）](<https://www.city.minato.tokyo.jp/documents/179934/siyousyogakudou2.pdf>) |
 | 東京都 | [放課GO→クラブしばはま運営事業候補者をプロポーザル方式により募集します](<https://www.city.minato.tokyo.jp/documents/179935/00_bosyuyoukou_sibahama.pdf>) | 東京都港区 | 2026-08-27 | 2026-10-27 | ら9月3日(木)午後5時までウ 見学時における注意事項6・会場の様子を写真・動画等で撮影する場合、個人情報保護の観点から、児童等の顔や氏名が特定できるような撮影は禁止します | [【別紙1】仕様書（PDF：398KB）](<https://www.city.minato.tokyo.jp/documents/179935/01_siyousyo_sibahama.pdf>) |
-| 埼玉県 | [氷川町公園ほか35箇所便所清掃業務委託ほか2件](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/271k.pdf>) | 埼玉県川越市 | 2026-08-27 | 原文を確認 | 14 写真撮影受注者は、1箇所につき月1回以上、業務内容を記した小黒板を写し込んだ写真(作業の前・中・後、清掃範囲(便器、手洗所、壁、天井、床部等))を撮影し、日報と共に提出するものとする | [仕様書(川越市公告契約第271号(1)) （PDF 747.0KB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/271s1.pdf>) / [仕様書(川越市公告契約第271号(2)) （PDF 747.4KB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/271s2.pdf>) / [仕様書(川越市公告契約第271号(3)) （PDF 1.1MB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/271s3.pdf>) |
-| 埼玉県 | [ゴミ運搬業務委託](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/270k.pdf>) | 埼玉県川越市 | 2026-08-27 | 原文を確認 | 12 写真撮影受注者は、月1回以上、業務内容を記した小黒板を写し込んだ写真を工種毎(積込、運搬、取卸状況)に撮影し、日報と共に提出するものとする | [仕様書(川越市公告契約第270号) （PDF 2.8MB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/270s.pdf>) |
-| 埼玉県 | [小畔水鳥の郷公園ほか20公園し尿汲取り業務委託](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/268k.pdf>) | 埼玉県川越市 | 2026-08-27 | 原文を確認 | 14 写真撮影受注者は、業務内容を記した小黒板を写し込んだ写真(作業の前・中・後)を作業箇所のうちの数箇所撮影し、月報と共に提出するものとする | [仕様書(川越市公告契約第268号) （PDF 1.1MB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/268s.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-002.md) ｜ [次の100件](page-004.md)

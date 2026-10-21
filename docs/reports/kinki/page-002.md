@@ -2,20 +2,23 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-21T07:22+09:00（収集時点）
+最終更新：2026-10-22T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**200件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**203件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
-## 一覧 2 / 2
+## 一覧 2 / 3
 
-[この地域の目次](README.md) ｜ [前の100件](page-001.md)
+[この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 大阪府 | [08-金剛団地道路通路修繕その他工事監督業務 （令和8年9月15日）](<https://www.ur-net.go.jp/orders/west/pdf/order_43959_3.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-15 | 2026-11-11 | の明示できる図表、既往成果等を用いることは支障ないが、本件のために特に作成したCG、詳細図面等を用いることは認めない | [仕様書\[242KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_43959_4.pdf>) |
+| 大阪府 | [東大阪市総合防災訓練業務委託の制限付き一般競争入札について](<https://www.city.higashiosaka.lg.jp/cmsfiles/contents/0000045/45201/01.jissiyouryou.pdf>) | 大阪府東大阪市 | 2026-09-11 | 原文を確認 | 、見学者等 22 張テント 1.5k×2k 白(1k=1.8m)受付、映像配信用、ドローン用、更衣室 5 張横幕(白)・本部テント・・・2間×3間・6張(横幕なし | [02 仕様書(PDF形式、1.91MB) 別ウィンドウで開きます](<https://www.city.higashiosaka.lg.jp/cmsfiles/contents/0000045/45201/02.gyoumusiyousyo.pdf>) |
+| 兵庫県 | [【制限付一般競争入札】明石市立総合福祉センター本館 高圧受変電設備修繕](<https://www.city.akashi.lg.jp/documents/40444/20260910170858.pdf>) | 兵庫県明石市 | 2026-09-11 | 原文を確認 | 繕着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、修繕完成時に現状復旧が行われているか確認すること | [仕様書（PDF：148KB）](<https://www.city.akashi.lg.jp/documents/40444/20260910171210.pdf>) / [特記仕様書（PDF：64KB）](<https://www.city.akashi.lg.jp/documents/40444/20260910171228.pdf>) |
 | 京都府 | [不用物品売却（普通特種自動車（道路維持作業車）計３台）について](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/440749.htm>) | 京都府京都市 | 2026-09-11 | 原文を確認 | ついて文字等の抹消が完了した車両の車台番号とその車両全体一周を中断なく動画撮影し、1台分を1ファイルとして保存すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./440749_12_09011417.pdf>) |
 | 京都府 | [精華町要介護認定調査支援システム導入業務に係る公募型プロポーザルの実施について](<https://www.town.seika.kyoto.jp/material/files/group/39/kinouyoukenn.pdf>) | 京都府精華町 | 2026-09-08 | 原文を確認 | 員が本番前にシステム操作等を自習できるテスト環境を用意する、自習できる研修動画等、研修後にユーザが自習できる方法を提案することが望ましい | [仕様書 (PDFファイル: 155.8KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesshiyousyo2026.pdf>) / [参加申請書 (PDFファイル: 57.7KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesssannkamousikomi2026.pdf>) / [参加申請書受付票 (PDFファイル: 20.8KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesssankamousikomisyo2026.pdf>) / [辞退届 (PDFファイル: 49.9KB)](<https://www.town.seika.kyoto.jp/material/files/group/39/paperlesszitaihyou2026.pdf>) |
 | 京都府 | [西羽束師排水機場ほか１４機場 クレーン設備点検・検査業務委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/441175.htm>) | 京都府京都市 | 2026-09-08 | 原文を確認 | 託業務の履行の際には、その履行状況(履行前・中・後)が確認できるような写真を撮影し、写真帳として取りまとめて1部提出すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./441175_12_09081617.pdf>) |
@@ -113,8 +116,5 @@
 | 兵庫県 | [【制限付一般競争入札】ふれあいプラザあかし西 高圧受変電設備修繕](<https://www.city.akashi.lg.jp/documents/40195/20260714172608.pdf>) | 兵庫県明石市 | 2026-07-15 | 原文を確認 | 繕着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、修繕完成時に現状復旧が行われているか確認すること | [仕様書（PDF：435KB）](<https://www.city.akashi.lg.jp/documents/40195/20260714173036.pdf>) / [特記仕様書（PDF：127KB）](<https://www.city.akashi.lg.jp/documents/40195/20260714173056.pdf>) |
 | 大阪府 | [令和8年度西日本支社ストック再生団地における団地再生事業等検討業務 （令和8年7月15日）](<https://www.ur-net.go.jp/orders/west/pdf/order_43716_3.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-07-15 | 2026-09-17 | の明示できる図表、既往成果等を用いることは支障ないが、本件のために特に作成したCG、詳細図面等を用いることは認めない | [仕様書\[366KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_43716_4.pdf>) |
 | 京都府 | [令和８年度久多市有林森林整備業務](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/428131.htm>) | 京都府京都市 | 2026-07-14 | 原文を確認 | 業日報(様式5)ウ 「4 業務内容」(4)ウで作成した横断面図エ 業務写真撮影日、林相、業務内容(測量中、選木前、選木後(マーキングが鮮明に写るようにすること)、間伐中、間伐後、搬出状況(車両系機械の稼働状況)、集積場所のはい積状況、森林作業道作設前、作設中、作設後)が分かるよう撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./428131_12_07071507.pdf>) |
-| 京都府 | [令和８年度京都市森林経営管理事業間伐業務（京都集計R7-23、24）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/429025.htm>) | 京都府京都市 | 2026-07-14 | 原文を確認 | 作業日報(様式4)ウ 業務写真エ その他市長が必要とする書類なお、業務写真については、撮影日、林相、業務内容(測量中、選木前、選木後(マーキングが鮮明に写るようにすること)、保育間伐中、保育間伐後、伐採整理前、伐採整理後)がわかるよう撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./429025_12_07091309.pdf>) |
-| 滋賀県 | [一般競争入札の公告（令和8年度第1号県営林委託事業（角チ県営林））](<https://www.pref.shiga.lg.jp/zigyousya/nyusatsubaikyaku/shinrin/351423.html>) | 滋賀県 | 2026-07-13 | 原文を確認 | 箇所)出 来 形 管 理 写 真測量図、成果表を作成 (2)出来形管理写真撮影箇所一覧表別表 出来形管理基準(森林作業道)出来高計算書出来形成果表を作成出来形成果表出来形図 項目出 来 形 管 理 基 準 出 来 形 管 理 方 法施工延長200mにつき1箇所遠景および近景※延長の出来形管理にあたっては、作設箇所の地山… | [01 入札説明書](<https://www.pref.shiga.lg.jp/file/attachment/5622162.pdf>) / [03 平面図](<https://www.pref.shiga.lg.jp/file/attachment/5622169.pdf>) / [04 作業道・洗い越し工標準図](<https://www.pref.shiga.lg.jp/file/attachment/5622164.pdf>) / [05 事業仕様書](<https://www.pref.shiga.lg.jp/file/attachment/5622167.pdf>) / [06 特記仕様書](<https://www.pref.shiga.lg.jp/file/attachment/5622157.pdf>) |
-| 大阪府 | [和歌山市官民連携ウォーカブル推進に係る広報ツール企画制作等業務 （令和8年7月13日）](<https://www.ur-net.go.jp/orders/west/pdf/order_43705_3.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-07-13 | 2026-08-21 | の明示できる図表、既往成果等を用いることは支障ないが、本件のために特に作成したCG、詳細図面等を用いることは認めない | [仕様書\[275KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_43705_4.pdf>) |
 
-[この地域の目次](README.md) ｜ [前の100件](page-001.md)
+[この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-21T07:22+09:00（収集時点）
+最終更新：2026-10-22T07:20+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：北海道
 
-**53件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**56件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 1
 
@@ -20,6 +20,9 @@
 | 北海道 | [64702 落石漁港外3港航空写真撮影 (PDF:348KB)](<https://www.hkd.mlit.go.jp/ks/keiyaku/qgmend0000002uuv-att/qk1q5400000004on.pdf>) | 国土交通省北海道開発局釧路開発建設部 | 2026-10-15 | 2026-11-05 | 64702 落石漁港外3港航空写真撮影 (PDF:348KB) | — |
 | 北海道 | [サロマ湖漁港外航空写真撮影 (PDF:545KB)](<https://www.hkd.mlit.go.jp/ab/keiyaku/k232su0000000a80-att/s27mdu0000001gqh.pdf>) | 国土交通省北海道開発局網走開発建設部 | 2026-08-10 | 2026-09-02 | サロマ湖漁港外航空写真撮影 (PDF:545KB) | — |
 | 北海道 | [一般競争入札の実施（令和８年度(2026年度)農業DX人材育成プログラム動画制作・配信委託業務）](<https://www.pref.hokkaido.lg.jp/sm/kmc/265624.html>) | 北海道 | 2026-07-24 | 原文を確認 | 一般競争入札の実施(令和8年度(2026年度)農業DX人材育成プログラム動画制作・配信委託業務) | [北海道告示第11230号（入札の公告） (PDF 129KB)](<https://www.pref.hokkaido.lg.jp/fs/1/3/1/8/6/2/9/0/_/%E5%8C%97%E6%B5%B7%E9%81%93%E5%91%8A%E7%A4%BA%E7%AC%AC11230%E5%8F%B7.pdf>) / [関係書類 (ZIP 1.32MB)](<https://www.pref.hokkaido.lg.jp/fs/1/3/1/8/6/2/9/1/_/%E9%96%A2%E4%BF%82%E8%B3%87%E6%96%99%E4%B8%80%E5%BC%8F.zip>) |
+| 北海道 | [令和8年度留萌南部森林管理署構内除排雪機械賃貸借単価契約（第1号～第3号）（オープンカウンター方式による見積合わせ）](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/rumoinanbu/attach/pdf/261021-1.pdf>) | 林野庁北海道森林管理局 | 2026-10-21 | 原文を確認 | 認票・集計表」に記載するとともに、建設機械のアワーメーター及び現地状況写真を撮影し、監督員に提出すること | [仕様書等(PDF : 812KB)](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/rumoinanbu/attach/pdf/261021-2.pdf>) |
+| 北海道 | [令和8年度 69い林小班危険木処理処理業務（オープンカウンター方式による見積合わせ）](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/isikari/attach/pdf/261021_01-1.pdf>) | 林野庁北海道森林管理局 | 2026-10-21 | 原文を確認 | 作業に当たるとともに、作業終了時には、それぞれ施工前・施行中・施工後の写真を撮影し提出すること | [仕様書等(PDF : 5,272KB)](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/isikari/attach/pdf/261021_01-2.pdf>) |
+| 北海道 | [令和8年度網走西部森林管理署西紋別支署宿舎浴室修繕業務（オープンカウンター方式による見積合わせ）](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/nisimonbetu/attach/pdf/261021_1-1.pdf>) | 林野庁北海道森林管理局 | 2026-10-21 | 原文を確認 | ・受注者は施工にあたって、内訳書区分ごとに施工前と施工後の写真撮影により管理し提出すること | [仕様書等(PDF : 1,966KB)](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/nisimonbetu/attach/pdf/261021_1-2.pdf>) |
 | 北海道 | [川西・稲田西2線線物件等の現況調査委託 別表 （PDF 90.9 KB）](<https://www.city.obihiro.hokkaido.jp/_res/projects/default_project/_page_/001/005/713/r8/1019betsu1.pdf>) | 北海道帯広市 | 2026-10-19 | 原文を確認 | ○ 屋根伏図 1 1○ 基礎伏図 1 1○ 建築設備位置図 1 1○ 写真撮影方向図 1 1○ 動産調査表 1 1○ 居住者調査表 1 1○ 通常損失補償算定書 1 1○ 消費税等調査表 1 1営業補償算定書 - -○ 立木調査表 1 1○ 立木補償算定書 1 1○ 工作物調査表 1 1○ 工作物補償算定書 1 1移転… | [川西・稲田西2線線物件等の現況調査委託 設計図書 （PDF 780.7 KB）](<https://www.city.obihiro.hokkaido.jp/_res/projects/default_project/_page_/001/005/713/r8/1019_1.pdf>) |
 | 北海道 | [令和8年10月16日告示\_上台町地区配水管更新工事（第2工区）](<https://www.town.hokkaido-mori.lg.jp/material/files/group/4/20261016_1009_0201.pdf>) | 北海道森町 | 2026-10-16 | 原文を確認 | ・写真撮影により確認出来るようにする | [02\_告示別表 (PDFファイル: 272.8KB)](<https://www.town.hokkaido-mori.lg.jp/material/files/group/4/20261016_1019_0202.pdf>) / [03\_設計書 (PDFファイル: 747.0KB)](<https://www.town.hokkaido-mori.lg.jp/material/files/group/4/20261016_1019_0103.pdf>) / [04\_特記仕様書 (PDFファイル: 1.3MB)](<https://www.town.hokkaido-mori.lg.jp/material/files/group/4/20261016_1019_0104.pdf>) / [05\_設計図 (PDFファイル: 1.4MB)](<https://www.town.hokkaido-mori.lg.jp/material/files/group/4/20261016_1019_0105.pdf>) / [6\_位置図 (PDFファイル: 140.6KB)](<https://www.town.hokkaido-mori.lg.jp/material/files/group/4/20261016_1019_0106.pdf>) |
 | 北海道 | [当別町新庁舎建設事業業務委託公募型プロポーザルの実施について](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31716.pdf>) | 北海道当別町 | 2026-10-15 | 2027-02-19 | 築、運営、災害対応及び後継事業のため無償で利用、複製、改変できる写真・映像・報告書作成者に帰属 | [想定規模からの法定点検一覧 \[PDFファイル／46KB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31699.pdf>) / [公募型プロポーザル基本方針(20261009追加) \[PDFファイル／1月01日MB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31697.pdf>) / [公募型プロポーザル提案説明書(20260924修正済) \[PDFファイル／408KB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31588.pdf>) / [基本協定書（案）(20261009修正済) \[PDFファイル／207KB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31698.pdf>) / [譲渡特約付き賃貸借契約書（案） \[PDFファイル／296KB\]](<https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31590.pdf>) |
