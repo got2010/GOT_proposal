@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-22T07:20+09:00（収集時点）
+最終更新：2026-10-23T07:23+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**203件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**205件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 奈良県 | [https://www.city.ikoma.lg.jp/0000042548.html](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42548/01.pdf>) | 奈良県生駒市 | 2026-09-15 | 原文を確認 | よりトータルステーション等を用いて下記を確認する作業をいう(境界標等の写真撮影を含む) | [契約主要事項説明書 (PDF形式、128.37KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42548/02.pdf>) / [仕様書(PDF形式、2.19MB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42548/03.pdf>) / [事後審査型条件付一般競争入札参加資格確認申請書(ワード形式、38.50KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42548/11.doc>) |
+| 京都府 | [令和８年度 市施設搬入ごみ質調査（持込ごみ）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/443709.htm>) | 京都府京都市 | 2026-09-15 | 原文を確認 | カ 写真撮影持込車両の積載物全体の容積を検尺棒等で測定する作業等、調査の様子が分かるよう、適宜写真を撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./443709_12_09101656.pdf>) |
 | 大阪府 | [08-金剛団地道路通路修繕その他工事監督業務 （令和8年9月15日）](<https://www.ur-net.go.jp/orders/west/pdf/order_43959_3.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-15 | 2026-11-11 | の明示できる図表、既往成果等を用いることは支障ないが、本件のために特に作成したCG、詳細図面等を用いることは認めない | [仕様書\[242KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_43959_4.pdf>) |
 | 大阪府 | [東大阪市総合防災訓練業務委託の制限付き一般競争入札について](<https://www.city.higashiosaka.lg.jp/cmsfiles/contents/0000045/45201/01.jissiyouryou.pdf>) | 大阪府東大阪市 | 2026-09-11 | 原文を確認 | 、見学者等 22 張テント 1.5k×2k 白(1k=1.8m)受付、映像配信用、ドローン用、更衣室 5 張横幕(白)・本部テント・・・2間×3間・6張(横幕なし | [02 仕様書(PDF形式、1.91MB) 別ウィンドウで開きます](<https://www.city.higashiosaka.lg.jp/cmsfiles/contents/0000045/45201/02.gyoumusiyousyo.pdf>) |
 | 兵庫県 | [【制限付一般競争入札】明石市立総合福祉センター本館 高圧受変電設備修繕](<https://www.city.akashi.lg.jp/documents/40444/20260910170858.pdf>) | 兵庫県明石市 | 2026-09-11 | 原文を確認 | 繕着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、修繕完成時に現状復旧が行われているか確認すること | [仕様書（PDF：148KB）](<https://www.city.akashi.lg.jp/documents/40444/20260910171210.pdf>) / [特記仕様書（PDF：64KB）](<https://www.city.akashi.lg.jp/documents/40444/20260910171228.pdf>) |
@@ -114,7 +116,5 @@
 | 兵庫県 | [B03 多世代交流施設会議用机購入](<https://www.city.shiso.lg.jp/material/files/group/29/260630_B03_1_tasedaikouryuushisetsukaigiyoutsukue_koukokusho.pdf>) | 兵庫県宍粟市 | 2026-07-15 | 原文を確認 | (5)物品の納品時に写真を撮影し提出すること | [仕様書等](<https://www.city.shiso.lg.jp/material/files/group/29/260630_B03_4_tasedaikouryuushisetsukaigiyoutsukue_shiyousho1.pdf>) |
 | 兵庫県 | [B02 木育広場備品購入](<https://www.city.shiso.lg.jp/material/files/group/29/260630_B02_1_mokuikuhirobabihin_koukokusho.pdf>) | 兵庫県宍粟市 | 2026-07-15 | 原文を確認 | (5)物品の納品時に写真を撮影し提出すること | [仕様書等](<https://www.city.shiso.lg.jp/material/files/group/29/260630_B02_4_mokuikuhirobabihin_shiyousho.pdf>) |
 | 兵庫県 | [【制限付一般競争入札】ふれあいプラザあかし西 高圧受変電設備修繕](<https://www.city.akashi.lg.jp/documents/40195/20260714172608.pdf>) | 兵庫県明石市 | 2026-07-15 | 原文を確認 | 繕着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、修繕完成時に現状復旧が行われているか確認すること | [仕様書（PDF：435KB）](<https://www.city.akashi.lg.jp/documents/40195/20260714173036.pdf>) / [特記仕様書（PDF：127KB）](<https://www.city.akashi.lg.jp/documents/40195/20260714173056.pdf>) |
-| 大阪府 | [令和8年度西日本支社ストック再生団地における団地再生事業等検討業務 （令和8年7月15日）](<https://www.ur-net.go.jp/orders/west/pdf/order_43716_3.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-07-15 | 2026-09-17 | の明示できる図表、既往成果等を用いることは支障ないが、本件のために特に作成したCG、詳細図面等を用いることは認めない | [仕様書\[366KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_43716_4.pdf>) |
-| 京都府 | [令和８年度久多市有林森林整備業務](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/428131.htm>) | 京都府京都市 | 2026-07-14 | 原文を確認 | 業日報(様式5)ウ 「4 業務内容」(4)ウで作成した横断面図エ 業務写真撮影日、林相、業務内容(測量中、選木前、選木後(マーキングが鮮明に写るようにすること)、間伐中、間伐後、搬出状況(車両系機械の稼働状況)、集積場所のはい積状況、森林作業道作設前、作設中、作設後)が分かるよう撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./428131_12_07071507.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

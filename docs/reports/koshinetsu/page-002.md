@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-22T07:20+09:00（収集時点）
+最終更新：2026-10-23T07:23+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**170件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**172件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 長野県 | [常田減圧弁更新工事(掲載日:令和8年8月21日)](<https://www.city.tomi.nagano.jp/file/185621.pdf>) | 長野県東御市 | 2026-08-21 | 原文を確認 | 事記録写真(1) 請負者は、工事着手に先立ち、「施行計画書 工事記録,写真撮影計画書」を作成し、係員に提出すること | [02【特記仕様書】常田減圧弁更新工事(pdf 188 kb)](<https://www.city.tomi.nagano.jp/file/185617.pdf>) / [04【据付図】常田減圧弁更新工事(pdf 51 kb)](<https://www.city.tomi.nagano.jp/file/185619.pdf>) / [05【金抜設計書】常田減圧弁更新工事(pdf 90 kb)](<https://www.city.tomi.nagano.jp/file/185620.pdf>) |
+| 長野県 | [（8.8.19公告）令和8年度 市営住宅寂蒔団地解体工事(PDFファイル:294KB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080908-01.pdf>) | 長野県千曲市 | 2026-08-19 | 原文を確認 | 26 完成写真の著作権の ・受注者は、完成写真の撮影者との契約にあたって、以下の事項を条件とすること | [図面等(PDFファイル:2.2MB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080908-03.pdf>) |
 | 長野県 | [8 本庁舎高圧幹線地中化工事](<https://www.city.ueda.nagano.jp/uploaded/attachment/84702.pdf>) | 長野県上田市 | 2026-08-18 | 2026-09-03 | 上主要な間仕切りを貫通する場合、その施工状況について貫通個所の両面から写真撮影し、工事写真として提出する | [設計書 \[PDFファイル／214KB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/84705.pdf>) / [設計図 \[PDFファイル／1.51MB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/84707.pdf>) |
 | 長野県 | [6 小学校トイレ改修事業 菅平小学校トイレ改修工事](<https://www.city.ueda.nagano.jp/uploaded/attachment/84688.pdf>) | 長野県上田市 | 2026-08-18 | 2026-09-03 | を行い、工事日誌へ記載するほか、点検内容等を別書面に記録し、実施状況の写真を撮影すること | [設計書 \[PDFファイル／269KB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/84691.pdf>) / [設計図 \[PDFファイル／2.07MB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/84693.pdf>) |
 | 長野県 | [3 小学校トイレ改修事業 塩川小学校トイレ改修工事](<https://www.city.ueda.nagano.jp/uploaded/attachment/84666.pdf>) | 長野県上田市 | 2026-08-18 | 2026-09-03 | を行い、工事日誌へ記載するほか、点検内容等を別書面に記録し、実施状況の写真を撮影すること | [設計書 \[PDFファイル／809KB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/84669.pdf>) / [設計図 \[PDFファイル／7.61MB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/84671.pdf>) |

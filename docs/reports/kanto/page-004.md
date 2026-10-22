@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-22T07:20+09:00（収集時点）
+最終更新：2026-10-23T07:23+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**475件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**481件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 4 / 5
 
@@ -16,6 +16,12 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 茨城県 | [【電子入札】【電子契約】令和8年度 減容処理棟空気圧縮機の点検](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03205.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-08-28 | 2026-10-14 | (2) 本報告書作成時については、点検整備実施状況を写真撮影した写真を添付すること | — |
+| 千葉県 | [松契一般第205号 松戸駅西口高架下自転車駐車場管理棟解体工事（PDF：146KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0828kouji1w.files/205.pdf>) | 千葉県松戸市 | 2026-08-28 | 2026-08-28 | 理人以外の検査とする)【工事完了後速やかに】報告1■工事写真(建築工事写真撮影基準に準拠)■1工事記録写真■2完成写真【工事完了後速やかに】写真帳写真帳11建1.2.4電1.2.4機1.2.4代表者■完成図PDF,CADデータCDもしくはDVD2建1.7.2電1.7.2機1.7.2□電子納品電子媒体電子媒体納品書CDも… | [松契一般第205号 設計図書（PDF：2,729KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0828kouji1w.files/205s.pdf>) |
+| 千葉県 | [松契一般第199号 松戸駅ギャラリー設置工事（PDF：365KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0828kouji1w.files/199.pdf>) | 千葉県松戸市 | 2026-08-28 | 2026-08-28 | 理人以外の検査とする)【工事完了後速やかに】報告1■工事写真(建築工事写真撮影基準に準拠)■1工事記録写真■2完成写真【工事完了後速やかに】写真帳写真帳11建1.2.4電1.2.4機1.2.4代表者■完成図PDF,CADデータCDもしくはDVD2建1.7.2電1.7.2機1.7.2■電子納品電子媒体電子媒体納品書CDも… | [松契一般第199号 設計図書（PDF：7,140KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0828kouji1w.files/199s.pdf>) |
+| 千葉県 | [松契一般第206号 新松戸中継ポンプ場耐水化工事（PDF：372KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0828kouji2w.files/206.pdf>) | 千葉県松戸市 | 2026-08-28 | 2026-08-28 | 25. 写真撮影要領(1) 現地及び工場における写真を工程ごとに撮影すること(ア)施工前 (イ)施工中 (ウ)施工後(2) 写真は工程・細別・撮影項目ごとに分類し、工事の進捗状況に合わせて写真帳に整理すること(3) 工事施工前と施工後の写真は、同一方向、同一箇所で撮影し、写真帳の第1頁に両者を対比して掲載すること(4)… | [松契一般第206号 設計図書（PDF：5,573KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0828kouji2w.files/206s.pdf>) |
+| 東京都 | [放課GO→クラブしばうら運営事業候補者をプロポーザル方式により募集します](<https://www.city.minato.tokyo.jp/documents/179934/20260825142646.pdf>) | 東京都港区 | 2026-08-27 | 2026-10-27 | から9月3日(木)午後5時までウ 見学時における注意事項・会場の様子を写真・動画等で撮影する場合、個人情報保護の観点から、児童等の顔や氏名が特定できるような撮影は禁止します | [【別紙1】仕様書（PDF：395KB）](<https://www.city.minato.tokyo.jp/documents/179934/siyousyogakudou2.pdf>) |
+| 東京都 | [放課GO→クラブしばはま運営事業候補者をプロポーザル方式により募集します](<https://www.city.minato.tokyo.jp/documents/179935/00_bosyuyoukou_sibahama.pdf>) | 東京都港区 | 2026-08-27 | 2026-10-27 | ら9月3日(木)午後5時までウ 見学時における注意事項6・会場の様子を写真・動画等で撮影する場合、個人情報保護の観点から、児童等の顔や氏名が特定できるような撮影は禁止します | [【別紙1】仕様書（PDF：398KB）](<https://www.city.minato.tokyo.jp/documents/179935/01_siyousyo_sibahama.pdf>) |
 | 埼玉県 | [氷川町公園ほか35箇所便所清掃業務委託ほか2件](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/271k.pdf>) | 埼玉県川越市 | 2026-08-27 | 原文を確認 | 14 写真撮影受注者は、1箇所につき月1回以上、業務内容を記した小黒板を写し込んだ写真(作業の前・中・後、清掃範囲(便器、手洗所、壁、天井、床部等))を撮影し、日報と共に提出するものとする | [仕様書(川越市公告契約第271号(1)) （PDF 747.0KB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/271s1.pdf>) / [仕様書(川越市公告契約第271号(2)) （PDF 747.4KB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/271s2.pdf>) / [仕様書(川越市公告契約第271号(3)) （PDF 1.1MB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/271s3.pdf>) |
 | 埼玉県 | [ゴミ運搬業務委託](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/270k.pdf>) | 埼玉県川越市 | 2026-08-27 | 原文を確認 | 12 写真撮影受注者は、月1回以上、業務内容を記した小黒板を写し込んだ写真を工種毎(積込、運搬、取卸状況)に撮影し、日報と共に提出するものとする | [仕様書(川越市公告契約第270号) （PDF 2.8MB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/270s.pdf>) |
 | 埼玉県 | [小畔水鳥の郷公園ほか20公園し尿汲取り業務委託](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/268k.pdf>) | 埼玉県川越市 | 2026-08-27 | 原文を確認 | 14 写真撮影受注者は、業務内容を記した小黒板を写し込んだ写真(作業の前・中・後)を作業箇所のうちの数箇所撮影し、月報と共に提出するものとする | [仕様書(川越市公告契約第268号) （PDF 1.1MB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/614/268s.pdf>) |
@@ -110,11 +116,5 @@
 | 東京都 | [【8月17日まで募集】「町田市市有施設照明設備LED化業務委託」公募型プロポーザルについて](<https://www.city.machida.tokyo.jp/jigyousha/nyusatsu/puropo/kobogata/machidashiyuushisetsuled.files/puropo-zarusetumeisyo.pdf>) | 東京都町田市 | 2026-07-29 | 2026-09-17 | 場写真は各施設の各居室につき1カ所、交換灯具の施工前、施工中、施工後の写真を撮影し、工事写真としてまとめること | [(3)一般仕様書（案）（PDF・292KB）](<https://www.city.machida.tokyo.jp/jigyousha/nyusatsu/puropo/kobogata/machidashiyuushisetsuled.files/ippansiyousyo.pdf>) / [(4)情報セキュリティ確保・個人情報保護のための特記仕様書（第5.0版)（PDF・157KB）](<https://www.city.machida.tokyo.jp/jigyousha/nyusatsu/puropo/kobogata/machidashiyuushisetsuled.files/jouhousekyurithi.pdf>) / [(5)灯具仕様書（案）（PDF・216KB）](<https://www.city.machida.tokyo.jp/jigyousha/nyusatsu/puropo/kobogata/machidashiyuushisetsuled.files/tougusiyousyo.pdf>) |
 | 東京都 | [新国立劇場中長期保全計画策定業務（令和８年度）](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTtyuutyoukikeikakuKaishu/01_R8NNTTtyuutyoukikeikakuKaishu_Koukoku.pdf>) | 独立行政法人日本芸術文化振興会 | 2026-07-29 | 2026-09-11 | 査)3中長期保全計画ロードマップ検討(計画の全体像立案)4報告書作成・写真台帳の作成(撮影場所の劣化状況の解説)・解析評価表の作成(劣化状況の説明と評価)・報告書の作成(上記を踏まえた所見等及びロードマップを記載した報告書)5定例会議の出席(調査前、中間、調査後)※舞台機構、舞台照明、舞台音響、昇降機の調査は本業務に含… | [入札説明書等 (788.62KB)](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTtyuutyoukikeikakuKaishu/02_R8NNTTtyuutyoukikeikaku_Explanation.pdf>) / [業務委託仕様書・図面 (4.12MB)](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTtyuutyoukikeikakuKaishu/04_R8NNTTtyuutyoukikeikaku_ShiyousyoandZumen.pdf>) / [現場説明書 (162.16KB)](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTtyuutyoukikeikakuKaishu/05_R8NNTTtyuutyoukikeikaku_Genbasetsumeisyo.pdf>) |
 | 茨城県 | [（RE-07943）排水処理施設苛性ソーダ希釈ポンプ他更新工事【掲載期間：2026-07-29～2026-08-24】](<https://www.qst.go.jp/uploaded/attachment/52552.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-07-29 | 2026-09-30 | (c) 装丁写真は、撮影箇所及び作業内容を表示するとともに、表紙に工事名称等を明記したアルバムに貼付して提出する | [仕様書 \[PDFファイル／587KB\]](<https://www.qst.go.jp/uploaded/attachment/52553.pdf>) |
-| 茨城県 | [【電子入札】【電子契約】電子顕微鏡用のCMOSカメラの購入](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C00796.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-07-29 | 原文を確認 | ただし、コピーや写真撮影等の行為は禁止する | — |
-| 茨城県 | [【電子入札】【電子契約】PWTF空調系冷却水ポンプの更新](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C02674.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-07-29 | 2026-09-18 | OX燃料技術開発部内要領別添9-6大型特殊物品等の保管方法(別添)7 写真撮影に係る手続き等MOX燃料技術開発部敷地内外において静止画及び動画(以下、写真等)を撮影したい時は、JAEAが用意するカメラでJAEA立会者が撮影し、データをJAEAが確認後メール等で送信することを基本とするが、受注者において用意するカメラで撮… | — |
-| 東京都 | [病院棟9階東病棟改修工事](<https://www.ncchd.go.jp/purchase/20260728_01.pdf>) | 国立研究開発法人国立成育医療研究センター | 2026-07-28 | 原文を確認 | 7300〈月~金曜日(祝祭日を除く)9時〜17時〉交通案内お問い合わせ取材・撮影についてサイト内検索調達情報患者・ご家族の方へ病院の紹介医師・スタッフ紹介外来受診のご案内入院のご案内救急受診のご案内セカンドオピニオン外来のご案内妊娠・出産をお考えの方子どもと家族への支援病気に関する情報医療関係者の方へ患者紹介・医療連携… | — |
-| 茨城県 | [【電子入札】【電子契約】屋外消火栓の更新](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C02803.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-07-28 | 2026-10-06 | (2) 現地作業にて、火気を使用する場合または写真撮影を行う場合は、それぞれ以下に記す書類(原子力機構指定様式)を提出し、許可を受けること | — |
-| 東京都 | [令和8年度林野庁式典会場設営及び整備清掃作業(PDF : 167KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/sonota-809.pdf>) | 林野庁 | 2026-07-27 | 2026-09-10 | (3)各作業の施工前及び施工後の写真撮影を行い、アルバムを提出すること | [入札説明書(PDF : 360KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/sonota-810.pdf>) / [仕様書(PDF : 3,516KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/sonota-811.pdf>) |
-| 埼玉県 | [「さいたま環境フェア2026」会場設営等業務の入札情報](<https://www.city.saitama.lg.jp/005/001/017/006/003/p132425_d/fil/kokuji.pdf>) | 埼玉県さいたま市 | 2026-07-27 | 2026-08-26 | (2)動画作成今年度の開催状況をもとに、主に若年層に向けて、イベントの魅力を効果的に伝えることを目的とした広報用動画2本を以下のとおり作成し、完成品をデータ(MP4ファイル)で市へ提出する | [02 入札説明書（PDF形式 128キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p132425_d/fil/nyusatusetumeisyo.pdf>) / [03 仕様書（PDF形式 3,010キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p132425_d/fil/shiyosyo.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-003.md) ｜ [次の100件](page-005.md)

@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-22T07:20+09:00（収集時点）
+最終更新：2026-10-23T07:23+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**475件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**481件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 5
 
@@ -45,6 +45,12 @@
 | 東京都 | [2027（令和９）年国民生活基礎調査マニュアル動画・広報用動画改修業務一式](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 厚生労働省 | 2026-08-05 | 2026-09-09 | 2027(令和9)年国民生活基礎調査マニュアル動画・広報用動画改修業務一式 | — |
 | 東京都 | [緊急地震速報20周年映像資料の制作](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-29 | 2026-08-19 | 緊急地震速報20周年映像資料の制作 | — |
 | 東京都 | [令和７年度新宿御苑日本館御殿工事（Ⅰ）展示映像撮影業務（総合評価落札方式）](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 環境省 | 2026-07-23 | 2026-08-05 | 令和7年度新宿御苑日本館御殿工事(I)展示映像撮影業務(総合評価落札方式) | — |
+| 東京都 | [Ｒ９ー西埼玉住まいセンター消防用設備点検等業務 （令和8年10月22日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44300_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-10-22 | 2027-01-27 | に規定する消防設備士でなくても行える軽微な整備ホ 記録方法については、写真撮影(着手前後)による記録も行う | [仕様書\[14999KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44300_4.pdf>) |
+| 東京都 | [Ｒ９ー神奈川西住まいセンター消防用設備点検等業務 （令和8年10月22日）](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44298_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（神奈川地域） | 2026-10-22 | 2027-01-27 | に規定する消防設備士でなくても行える軽微な整備ホ 記録方法については、写真撮影(着手前後)による記録も行う | [仕様書\[16630KB\]](<https://www.ur-net.go.jp/orders/kanagawa/pdf/order_44298_4.pdf>) |
+| 東京都 | [Ｒ９ー東京北住まいセンター消防用設備点検等業務 （令和8年10月22日）](<https://www.ur-net.go.jp/orders/east/pdf/order_44299_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部 | 2026-10-22 | 2027-01-27 | に規定する消防設備士でなくても行える軽微な整備ホ 記録方法については、写真撮影(着手前後)による記録も行う | [仕様書\[14657KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_44299_4.pdf>) |
+| 東京都 | [Ｒ９ー東京東住まいセンター消防用設備点検等業務 （令和8年10月22日）](<https://www.ur-net.go.jp/orders/east/pdf/order_44301_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部 | 2026-10-22 | 2027-01-27 | に規定する消防設備士でなくても行える軽微な整備ホ 記録方法については、写真撮影(着手前後)による記録も行う | [仕様書\[13777KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_44301_4.pdf>) |
+| 東京都 | [Ｒ９ー城北住まいセンター消防用設備点検等業務 （令和8年10月22日）](<https://www.ur-net.go.jp/orders/east/pdf/order_44305_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部 | 2026-10-22 | 2027-01-27 | に規定する消防設備士でなくても行える軽微な整備ホ 記録方法については、写真撮影(着手前後)による記録も行う | [仕様書\[14055KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_44305_4.pdf>) |
+| 東京都 | [Ｒ９ー千葉西住まいセンター消防用設備点検等業務 （令和8年10月22日）](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44304_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（千葉地域） | 2026-10-22 | 2027-01-27 | に規定する消防設備士でなくても行える軽微な整備ホ 記録方法については、写真撮影(着手前後)による記録も行う | [仕様書\[15197KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44304_4.pdf>) |
 | 埼玉県 | [【10月21日公告】今宿雨水管人孔部改築工事（第3工区）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202610211.files/8-607_koukoku.pdf>) | 埼玉県狭山市 | 2026-10-21 | 原文を確認 | 1 工事概要2 職務分担および緊急時の連絡体制3 工事記録写真撮影計画4 実施工程表5 工法6 主要機械7 主要資材8 材料設計および水理性能評価9 材料品質証明の内容10 施工管理11 品質管理12 環境対策13 安全・衛生管理14 材料の製造から使用までの保管期間と保管方法15 材料の運搬方法16 工事記録等の管理… | [入札説明書（PDF・65KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202610211.files/8-607-1_nyuusatusetumeisyo.pdf>) / [位置図（PDF・446KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202610211.files/8-607-2_itizu.pdf>) / [仕様書（PDF・189KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202610211.files/8-607-3_siyousyo.pdf>) / [特記仕様書（更生工事）（PDF・130KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202610211.files/8-607-4_tokkisiyousyo_kousei.pdf>) / [特記仕様書（PDF・109KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202610211.files/8-607-5_tokkisiyousyo.pdf>) |
 | 茨城県 | [（RE-12787）JT-60実験棟空調機AC-101冷水コイル他補修工事【掲載期間：2026-10-21～2026-11-10】](<https://www.qst.go.jp/uploaded/attachment/53576.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-10-21 | 2026-12-03 | デジタルカメラで撮影する場合は、国土交通省が定めた「営繕工事写真撮影要領」有効画素数100~300万画素数程度の仕様とする | [仕様書 \[PDFファイル／4.75MB\]](<https://www.qst.go.jp/uploaded/attachment/53577.pdf>) |
 | 東京都 | [令和9年度「広報としま特集版」発行業務委託のプロポーザルを実施します](<https://www.city.toshima.lg.jp/documents/58148/kohotoshima_bosyuyoko.pdf>) | 東京都豊島区 | 2026-10-20 | 2026-12-02 | 3取材・原稿作成乙は紙面作成に必要な取材および写真撮影を行い、紙面の内容構成、原稿案を作成する | [(別紙)令和9年度「広報としま特集版」発行業務委託仕様書（PDF：302KB）](<https://www.city.toshima.lg.jp/documents/58148/kohotoshima_siyousyo.pdf>) |
@@ -110,11 +116,5 @@
 | 茨城県 | [【電子入札】【電子契約】計測機器校正施設の火災受信機の更新](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03872.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-10-01 | 2026-11-18 | 時構内に出入する外来者の取扱いについて2 核燃料サイクル工学研究所構内写真等撮影許可基準3 異常時における業者の通報連絡について4 核燃料サイクル工学研究所構内交通規則(2) 保安1 核燃料サイクル工学研究所 事故対策規則2 地震発生時の対応について3 核燃料サイクル工学研究所 核物質防護規則4 大津波警報発表時の避難… | — |
 | 東京都 | [2026.09.30\_Olink Explore HT 解析業務（64検体） 一式](<https://www.tmd.ac.jp/archive-tmdu/zaimukeiyaku/%E2%96%B62026.09.30_Olink%20Explore%20HT%20%E8%A7%A3%E6%9E%90%E6%A5%AD%E5%8B%99%EF%BC%8864%E6%A4%9C%E4%BD%93%EF%BC%89%20%E4%B8%80%E5%BC%8F.pdf>) | 国立大学法人東京科学大学 | 2026-09-30 | 原文を確認 | 教育研究評議会学長選考・監察会議広報誌・刊行物広報誌・刊行物トップ大学紹介動画大学紹介動画トップ大学紹介動画キャンパスライフ編留学制度編多職種連携教育編学長×医学部学生懇談学長×歯学部学生懇談東京医科歯科大学の歴史大学概要(冊子)統合報告書広報誌広報誌トップ広報誌「Bloom! 医科歯科大」英語版広報誌「TMDU AN… | — |
 | 茨城県 | [【電子入札】【電子契約】JMTR機械室中央監視盤等の点検整備](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01442.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-09-30 | 2026-11-20 | (10)構内の写真等撮影は、許可を受けた場合以外は原則として禁止する | — |
-| 茨城県 | [【電子入札】【電子契約】国道51号沿い二重フェンス内防草シート設置作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01478.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-09-30 | 2026-09-30 | \*3: 記録写真の撮影に当たっては事前に機構の承認を得るものとすること | — |
-| 栃木県 | [公共下水道管路施設調査業務委託その2](<https://www.city.sano.lg.jp/material/files/group/18/080929e01.pdf>) | 栃木県佐野市 | 2026-09-29 | 2026-10-07 | 11. 記録写真受注者は、次の各項に従って、記録写真を撮影し、作業完了時には、工種ごとに工程順に編集したものを、作業記録写真帳に整理し、完了届に添付して監督員に提出すること | [入札説明書 (PDFファイル: 169.4KB)](<https://www.city.sano.lg.jp/material/files/group/18/080929e02.pdf>) / [仕様書 (PDFファイル: 4.6MB)](<https://www.city.sano.lg.jp/material/files/group/18/080929e03.pdf>) |
-| 栃木県 | [公共下水道マンホール調査業務委託](<https://www.city.sano.lg.jp/material/files/group/18/080929d01.pdf>) | 栃木県佐野市 | 2026-09-29 | 2026-10-07 | 3.作業記録写真請負者は、作業状況(安全管理等)について写真撮影すること | [入札説明書 (PDFファイル: 169.4KB)](<https://www.city.sano.lg.jp/material/files/group/18/080929d02.pdf>) / [仕様書 (PDFファイル: 7.0MB)](<https://www.city.sano.lg.jp/material/files/group/18/080929d03.pdf>) |
-| 東京都 | [入札公告「2026年度未踏事業全体会議の運営業務」に係る一般競争入札](<https://www.ipa.go.jp/choutatsu/nyusatsu/2026/nyusatsu20260928.html>) | 独立行政法人情報処理推進機構 | 2026-09-28 | 2026-10-09 | イクラン兼務)3 進行管理と発表サポート4 マイクラン(受付兼務)5 映像撮影とZoom配信6 記録写真撮影(5) 公開配信1 映像撮影2 ライブ配信193 配信映像の記録4 配信テスト5 映像編集(6) 託児サービス手配5. 業務詳細(7) 全体管理5 業務実施計画書の作成‧ 契約後1週間以内を目途に、本事業の実施体… | [入札説明書(PDF:1005 KB)](<https://www.ipa.go.jp/choutatsu/nyusatsu/2026/rqr7mi00000037ts-att/nyusatsu20260928.pdf>) |
-| 千葉県 | [%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A%2B%E4%BB%95%E6%A7%98%E6%9B%B8\_R9-11%E6%94%BE%E9%80%81%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%9C%92%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%95%AA%E7%B5%84%E5%88%B6%E4%BD%9C%E6%8A%80%E8%A1%93%E7%AD%89%E3%81%AE%E6%A5…](<https://www.ouj.ac.jp/about/procurement/general/assets/pdf/nyusatu_r8/%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A%2B%E4%BB%95%E6%A7%98%E6%9B%B8_R9-11%E6%94%BE%E9%80%81%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%9C%92%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%95%AA%E7%B5%84%E5%88%B6%E4%BD%9C%E6%8A%80%E8%A1%93%E7%AD%89%E3%81%AE%E6%A5%AD%E5%8B%99%E5%A7%94%E8%A8%97_1.pdf>) | 放送大学学園 | 2026-09-28 | 原文を確認 | 入札に付する事項 (1) 件 名 令和9~11年度放送大学学園における番組制作技術等の業務委託 (2) 仕様等 詳細については,仕様書のとおり | — |
-| 栃木県 | [令和８(2026)年度渡良瀬遊水地センサーカメラ及びドローンによるイノシシ生息状況調査業務委託の入札公告](<https://www.pref.tochigi.lg.jp/d04/documents/20260915222957.pdf>) | 栃木県 | 2026-09-25 | 原文を確認 | シシの生息状況を把握するため、1月から3月の間に赤外線カメラによる動画空撮を夜間に行う | [仕様書（PDF：389KB）](<https://www.pref.tochigi.lg.jp/d04/documents/20260915223143.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)
