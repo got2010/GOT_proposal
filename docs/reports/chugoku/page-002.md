@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-23T07:23+09:00（収集時点）
+最終更新：2026-10-24T07:21+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**224件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**226件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 広島県 | [中山地区下水管路施設テレビカメラ調査その他業務８－１](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640099800102.pdf>) | 広島県広島市 | 2026-08-28 | 原文を確認 | また、異常がない場合は5m毎に1回、管内の状況が把握できるようカラー写真撮影を行わなければならない | [03\_設計書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640099800103.pdf>) |
+| 広島県 | [総【JV】7-108-202防災備蓄倉庫新築工事（建築）(PDFファイル:325.4KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-202.pdf>) | 広島県東広島市 | 2026-08-27 | 原文を確認 | 工事中写真及び完成写真の撮影は国土交通省大臣官房官庁営繕部 策定の「営繕工事写真撮影要領」によるものとする | [7-108-202-1](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-200-1tosho.pdf>) / [(PDFファイル:9.4MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-200-1tosho.pdf>) / [7-108-202-2(PDFファイル:8MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-200-2tosho.pdf>) |
 | 広島県 | [維8-108-20公共ます設置業務（全08-2）(PDFファイル:82.5KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-20kokoku.pdf>) | 広島県東広島市 | 2026-08-27 | 2026-09-16 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [8-108-20(PDFファイル:530.4KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-20tosho.pdf>) |
 | 広島県 | [1号7-108-199上三永39号線道路改良工事(PDFファイル:105.2KB)(PDFファイル:105.2KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-199kokoku.pdf>) | 広島県東広島市 | 2026-08-27 | 2026-08-27 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-199(PDFファイル:3.7MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-199tosho.pdf>) |
 | 広島県 | [2号7-108-198福富多目的グラウンド防球ネット整備工事(PDFファイル:92.5KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-198kokoku.pdf>) | 広島県東広島市 | 2026-08-27 | 2026-09-17 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-198(PDFファイル:2.2MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-198tosho.pdf>) |
@@ -114,7 +116,5 @@
 | 広島県 | [通信施設等点検業務委託（令和8年7月22日～令和8年8月4日）](<https://www.chugokushikoku.npa.go.jp/kaikei/ippan/file/hiroshima/nyusatu-koukoku-080722-1.pdf>) | 国家公安委員会（警察庁）中国四国管区警察局 | 2026-07-22 | 2026-08-05 | (特定資料並びに特定物件の複製及び写真撮影)第6条 乙は、主たる契約に定められている場合を除き、特定資料を複製し又は 特定物件の見取図、試験成績表等の製作若しくは写真撮影をしようとするとき は、あらかじめ甲の許可を受けるものとする | — |
 | 広島県 | [通信施設等点検業務委託（令和8年7月22日～令和8年8月4日）](<https://www.chugokushikoku.npa.go.jp/kaikei/ippan/file/hiroshima/nyusatu-koukoku-080722-1.pdf>) | 国家公安委員会（警察庁）中国管区警察局 | 2026-07-22 | 2026-08-05 | (特定資料並びに特定物件の複製及び写真撮影)第6条 乙は、主たる契約に定められている場合を除き、特定資料を複製し又は 特定物件の見取図、試験成績表等の製作若しくは写真撮影をしようとするとき は、あらかじめ甲の許可を受けるものとする | — |
 | 広島県 | [通信機器清掃点検業務委託（令和8年7月22日～令和8年8月4日）](<https://www.chugokushikoku.npa.go.jp/kaikei/ippan/file/hiroshima/nyusatu-koukoku-080722-2.pdf>) | 国家公安委員会（警察庁）中国管区警察局 | 2026-07-22 | 2026-08-05 | (特定資料並びに特定物件の複製及び写真撮影)第6条 乙は、主たる契約に定められている場合を除き、特定資料を複製し又は 特定物件の見取図、試験成績表等の製作若しくは写真撮影をしようとするとき は、あらかじめ甲の許可を受けるものとする | — |
-| 鳥取県 | [令和８年度（2026年度）環境教育企画・実施業務委託プロポーザルを実施します（令和8年7月28日更新）](<https://www.city.sakaiminato.lg.jp/upload/user/00115300-YDJXQA.pdf>) | 鳥取県境港市 | 2026-07-21 | 2026-08-14 | よびアンケート調査・授業風景について、事前に撮影可能か確認して記録用の撮影を行うこと | [令和８年度環境教育企画・実施業務委託\_公募型プロポーザル募集要項](<https://www.city.sakaiminato.lg.jp/upload/user/00115300-aqALT0.pdf>) / [令和８年度環境教育企画・実施業務委託\_仕様書](<https://www.city.sakaiminato.lg.jp/upload/user/00115300-rmB4ri.pdf>) |
-| 広島県 | [広島市議会インターネット議会中継配信システムの構築及び運用・保守業務](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640085500101.pdf>) | 広島県広島市 | 2026-07-21 | 2026-08-07 | ) 調査基準価格落札決定後に公表(6) 履行場所広島市役所議会棟(4階ビデオ編集室)、その他本市が指定する場所詳細は、入札説明書による(7) 入札方式本件業務は、開札後に入札参加資格の有無を確認する入札後資格確認型一般競争入札で入札執行する | [03 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640085500103.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

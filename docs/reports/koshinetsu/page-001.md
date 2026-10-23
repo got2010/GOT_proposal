@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-23T07:23+09:00（収集時点）
+最終更新：2026-10-24T07:21+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**172件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**173件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 2
 
@@ -27,6 +27,7 @@
 | 山梨県 | [09 若草807号線外舗装工事 (PDF 223KB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/6/9/8/0/_/09___807_______.pdf>) | 山梨県南アルプス市 | 2026-10-16 | 2026-11-10 | 異変形が生じないように注意して施工するものとし、各種施設の調査を測量、写真撮影により、施工前、施工中、施工後及び必要に応じて随時行うこと | [5081000100 (ZIP 3.98MB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/6/9/6/9/_/5081000100.zip>) |
 | 山梨県 | [04 桃園25号線水路設置工事 (PDF 226KB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/6/9/7/5/_/04___25________.pdf>) | 山梨県南アルプス市 | 2026-10-16 | 2026-11-10 | 異変形が生じないように注意して施工するものとし、各種施設の調査を測量、写真撮影により、施工前、施工中、施工後及び必要に応じて随時行うこと | [5081000095 (ZIP 8.25MB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/6/9/6/6/_/5081000095.zip>) |
 | 山梨県 | [02 東部工業団地南エリア下水道管渠布設工事(2工区) (PDF 228KB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/6/9/7/3/_/02_____________________2___.pdf>) | 山梨県南アルプス市 | 2026-10-16 | 2026-11-10 | 査項目及び仕様)1項 沿道調査施工区域の地番及び建物の変異変形を測量、写真撮影により施工前、施工中、施工後及び必要に応じて随時行わなければならない | [5081000093 (ZIP 5.41MB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/6/9/6/5/_/5081000093.zip>) |
+| 長野県 | [令和8から10年度 国道153号拡幅工事に伴う水管橋移設工事（令和8年10月16日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokokusyusei1004.pdf>) | 長野県辰野町 | 2026-10-16 | 2026-10-30 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [2 設計書 (PDFファイル: 531.1KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo1004.pdf>) / [3 特記仕様書 (PDFファイル: 285.6KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo1004.pdf>) / [5 代価表 (PDFファイル: 425.8KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/05_daikahyo1004.pdf>) / [6 図面 (PDFファイル: 3.5MB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/06_zumen1004.pdf>) / [7 工事内訳書 (Excelファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/07_utiwake1004.xls>) |
 | 長野県 | [令和8年度 公共土木施設災害復旧事業町道74号線工事（令和8年10月16日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku1009.pdf>) | 長野県辰野町 | 2026-10-16 | 2026-10-30 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [2 設計書 (PDFファイル: 79.8KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo1009.pdf>) / [3 特記仕様書 (PDFファイル: 178.3KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo1009.pdf>) / [5 公表単価 (PDFファイル: 26.4KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/05_kohyotanka1009.pdf>) / [6 位置図 (PDFファイル: 348.3KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/06_itizu1009.pdf>) / [7 図面 (PDFファイル: 642.7KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/07_zumen1009.pdf>) |
 | 長野県 | [令和8から10年度 国道153号拡幅工事に伴う水管橋移設工事（令和8年10月16日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku1004.pdf>) | 長野県辰野町 | 2026-10-16 | 2026-10-30 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [2 設計書 (PDFファイル: 531.1KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo1004.pdf>) / [3 特記仕様書 (PDFファイル: 285.6KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo1004.pdf>) / [5 代価表 (PDFファイル: 425.8KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/05_daikahyo1004.pdf>) / [6 図面 (PDFファイル: 3.5MB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/06_zumen1004.pdf>) / [7 工事内訳書 (Excelファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/07_utiwake1004.xls>) |
 | 長野県 | [（8.10.16公告）令和8年度 森将軍塚古墳館空調設備改修工事(PDFファイル:295.6KB)](<https://www.city.chikuma.lg.jp/material/files/group/11/081105-01.pdf>) | 長野県千曲市 | 2026-10-16 | 原文を確認 | 、処分状況の写真(中間処理にあっては、中間処理状況の写真)及び日報工事写真撮影要領 ・着手前及び完成後の撮影部位は、同方向同位置とする | [図面等(PDFファイル:2.1MB)](<https://www.city.chikuma.lg.jp/material/files/group/11/081105-03.pdf>) |
@@ -115,6 +116,5 @@
 | 山梨県 | [10 老朽管解消工事箇所舗装本復旧工事(上市之瀬・加賀美工区) (PDF 223KB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/5/8/3/0/_/10_____________________________.pdf>) | 山梨県南アルプス市 | 2026-08-21 | 2026-09-15 | 異変形が生じないように注意して施工するものとし、各種施設の調査を測量、写真撮影により、施工前、施工中、施工後及び必要に応じて随時行うこと | [5081000079 (ZIP 6.36MB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/5/7/7/9/_/5081000079.zip>) |
 | 山梨県 | [09 櫛形22号線舗装修繕工事 (PDF 228KB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/5/8/2/9/_/09___22________.pdf>) | 山梨県南アルプス市 | 2026-08-21 | 2026-09-15 | 異変形が生じないように注意して施工するものとし、各種施設の調査を測量、写真撮影により、施工前、施工中、施工後及び必要に応じて随時行うこと | [5081000078 (ZIP 3.07MB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/5/7/7/3/_/5081000078.zip>) |
 | 山梨県 | [06 公共下水道舗装本復旧工事(曲輪田新田1工区) (PDF 223KB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/5/8/2/6/_/06___________________1___.pdf>) | 山梨県南アルプス市 | 2026-08-21 | 2026-09-15 | 異変形が生じないように注意して施工するものとし、各種施設の調査を測量、写真撮影により、施工前、施工中、施工後及び必要に応じて随時行うこと | [5081000075 (ZIP 4.47MB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/5/8/8/6/_/5081000075.zip>) |
-| 山梨県 | [04 民地内撤去工事箇所舗装本復旧工事(十日市場工区) (PDF 223KB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/5/8/7/5/_/04_________________________.pdf>) | 山梨県南アルプス市 | 2026-08-21 | 2026-09-15 | 異変形が生じないように注意して施工するものとし、各種施設の調査を測量、写真撮影により、施工前、施工中、施工後及び必要に応じて随時行うこと | [5081000073 (ZIP 5.89MB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/5/7/7/6/_/5081000073.zip>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

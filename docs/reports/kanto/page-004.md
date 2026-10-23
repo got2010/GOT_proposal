@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-23T07:23+09:00（収集時点）
+最終更新：2026-10-24T07:21+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**481件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**487件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 4 / 5
 
@@ -16,6 +16,12 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 茨城県 | [【電子入札】【電子契約】大型再冠水実験棟屋上防水改修工事](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03382.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-08-29 | 2026-10-01 | c 工事写真 1部原則として国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」の最新版に従い撮影及び整理を行うものとする | — |
+| 東京都 | [みなと保育サポート白金運営業務委託事業候補者をプロポーザル方式により募集します](<https://www.city.minato.tokyo.jp/documents/179983/20260827133727.pdf>) | 東京都港区 | 2026-08-28 | 2026-10-06 | ら9月7日(月)午後5時までウ 見学時における注意事項1 会場の様子を写真・動画等で撮影する場合、個人情報保護の観点から、児童等の顔や氏名が特定できるような撮影は禁止します | [【別紙１】仕様書（PDF：3,157KB）](<https://www.city.minato.tokyo.jp/documents/179983/20260827133759.pdf>) |
+| 埼玉県 | [さいたま市保育施設支援研修業務の入札情報](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133356_d/fil/2608281402.pdf>) | 埼玉県さいたま市 | 2026-08-28 | 2026-09-24 | キ.オンライン配信の準備、実施セミナー会場(知識講座)にて映像機器、オンライン上での同時配信のための機器等の準備 | [2₋入札説明書（PDF形式 163キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133356_d/fil/2setumeisyo.pdf>) / [03\_仕様書（PDF形式 123キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133356_d/fil/3shiyousyo.pdf>) / [04\_【別紙】業務計画書（PDF形式 199キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133356_d/fil/4gyoumukeikakusyo.pdf>) |
+| 千葉県 | [（RE-02898）XAFSビームライン用光学系・輸送チャンネル機器の整備【掲載期間：2026年8月28日～2026年10月22日】](<https://www.qst.go.jp/uploaded/attachment/52938.pdf>) | 国立研究開発法人量子科学技術研究開発機構本部・放射線医学総合研究所 | 2026-08-28 | 原文を確認 | 期不良等が発見された場合、速やかに QST 担当者に報告するとともに、写真撮影などにより明示的に状況を説明すること | [仕様書 \[PDFファイル／2.18MB\]](<https://www.qst.go.jp/uploaded/attachment/52939.pdf>) |
+| 茨城県 | [【電子入札】【電子契約】フェライト鋼とSUS316鋼のTIG溶接試験](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01307.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-08-28 | 2026-10-20 | 全体のマクロ写真と拡大写真を撮影し、図2に示すようなフェライト鋼-溶接金属溶融線近傍におけるδ-フェライト相形成の有無を確認する | — |
+| 茨城県 | [【電子入札】【電子契約】水中テレビカメラ装置用水中電動旋回台等の購入](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03034.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-08-28 | 2026-10-19 | 2 検査の過程及び各検査・試験結果の状況は、記録写真として撮影し、「検査・試験成績書」に添付すること | — |
 | 茨城県 | [【電子入札】【電子契約】令和8年度 減容処理棟空気圧縮機の点検](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03205.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-08-28 | 2026-10-14 | (2) 本報告書作成時については、点検整備実施状況を写真撮影した写真を添付すること | — |
 | 千葉県 | [松契一般第205号 松戸駅西口高架下自転車駐車場管理棟解体工事（PDF：146KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0828kouji1w.files/205.pdf>) | 千葉県松戸市 | 2026-08-28 | 2026-08-28 | 理人以外の検査とする)【工事完了後速やかに】報告1■工事写真(建築工事写真撮影基準に準拠)■1工事記録写真■2完成写真【工事完了後速やかに】写真帳写真帳11建1.2.4電1.2.4機1.2.4代表者■完成図PDF,CADデータCDもしくはDVD2建1.7.2電1.7.2機1.7.2□電子納品電子媒体電子媒体納品書CDも… | [松契一般第205号 設計図書（PDF：2,729KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0828kouji1w.files/205s.pdf>) |
 | 千葉県 | [松契一般第199号 松戸駅ギャラリー設置工事（PDF：365KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0828kouji1w.files/199.pdf>) | 千葉県松戸市 | 2026-08-28 | 2026-08-28 | 理人以外の検査とする)【工事完了後速やかに】報告1■工事写真(建築工事写真撮影基準に準拠)■1工事記録写真■2完成写真【工事完了後速やかに】写真帳写真帳11建1.2.4電1.2.4機1.2.4代表者■完成図PDF,CADデータCDもしくはDVD2建1.7.2電1.7.2機1.7.2■電子納品電子媒体電子媒体納品書CDも… | [松契一般第199号 設計図書（PDF：7,140KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0828kouji1w.files/199s.pdf>) |
@@ -110,11 +116,5 @@
 | 神奈川県 | [電気設備における民間技術の導入検討業務 （令和8年7月30日）](<https://www.ur-net.go.jp/orders/honsha/pdf/order_43767_3.pdf>) | 独立行政法人都市再生機構本社 | 2026-07-30 | 2026-09-15 | 料収集、要約といった簡易な業務・ トレース業務、模型製作、パース作成、写真撮影・ 計算(日影、省エネルギー関係、防災関係)・ データ入力(CAD、電算)※ 記載のない内容を再委託する場合は、その作業の質と表の範囲を勘案して判断するものとする | [仕様書\[325KB\]](<https://www.ur-net.go.jp/orders/honsha/pdf/order_43767_4.pdf>) |
 | 神奈川県 | [機械設備における民間技術の導入検討業務 （令和8年7月30日）](<https://www.ur-net.go.jp/orders/honsha/pdf/order_43768_3.pdf>) | 独立行政法人都市再生機構本社 | 2026-07-30 | 2026-09-15 | 製本、資料収集、要約等簡易な業務・トレース業務、模型製作、パース作成、写真撮影・計算(日影、省エネルギー関係、防災関係)・データ入力(CAD、電算)等7※記載のない内容を再委託する場合は、その作業の質と表の範囲を勘案して判断するものとする | [仕様書\[434KB\]](<https://www.ur-net.go.jp/orders/honsha/pdf/order_43768_4.pdf>) |
 | 神奈川県 | [照明環境に係る事例リスト等作成業務 （令和8年7月30日）](<https://www.ur-net.go.jp/orders/honsha/pdf/order_43769_3.pdf>) | 独立行政法人都市再生機構本社 | 2026-07-30 | 2026-09-15 | 料収集、要約といった簡易な業務・ トレース業務、模型製作、パース作成、写真撮影・ 計算(日影、省エネルギー関係、防災関係)・ データ入力(CAD、電算)※ 記載のない内容を再委託する場合は、その作業の質と表の範囲を勘案して判断するものとする | [仕様書\[181KB\]](<https://www.ur-net.go.jp/orders/honsha/pdf/order_43769_4.pdf>) |
-| 東京都 | [（再公募）令和8年度東日本賃貸住宅本部管轄団地（北海道地区）における法定点検等業務 （令和8年7月30日）](<https://www.ur-net.go.jp/orders/east/pdf/order_43789_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部 | 2026-07-30 | 2026-08-26 | の有無・ファイバースコープ等の内視鏡を用いた内部劣化 ・煙道内部の状況写真を撮影 ・壁面欠損等現象別及び損耗程度を確認し、その安全性及び劣 ・煙道内部のビデオ撮影 ・異物による閉塞劣化度を判定する(上記の状況をモニター等により (いずれも全数) ・接続部剥離等目視確認・計測等により確認する | [仕様書\[12790KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_43789_4.pdf>) |
-| 神奈川県 | [「SEMICON Japan 2026」への出展に係る会場設営・運営業務](<https://www.nedo.go.jp/content/800059262.pdf>) | 国立研究開発法人新エネルギー・産業技術総合開発機構 | 2026-07-30 | 2026-09-07 | の了承を得たうえで2026年11月2日(月)までに告知に効果的な画像や動画、文案等を作成すること | [仕様書（1.1MB）](<https://www.nedo.go.jp/content/800059263.pdf>) |
-| 千葉県 | [令和８年度千葉県有害鳥獣捕獲協力隊事業（基礎コース・発展コース）業務委託に係る企画提案の募集について](<https://www.pref.chiba.lg.jp/shizen/nyuu-kei/r8hokakukyouryokutai_proposal.html>) | 千葉県 | 2026-07-30 | 2026-08-18 | 性のスプレー等で捕獲個体番号をマーキングした上で、尾の切断前と切断後の写真をそれぞれ撮影する | [令和8年度千葉県有害鳥獣捕獲協力隊事業業務委託仕様書（PDF：192.9KB）](<https://www.pref.chiba.lg.jp/shizen/nyuu-kei/documents/r8hokakukyouryokutai-shiyousyo.pdf>) |
-| 東京都 | [【8月17日まで募集】「町田市市有施設照明設備LED化業務委託」公募型プロポーザルについて](<https://www.city.machida.tokyo.jp/jigyousha/nyusatsu/puropo/kobogata/machidashiyuushisetsuled.files/puropo-zarusetumeisyo.pdf>) | 東京都町田市 | 2026-07-29 | 2026-09-17 | 場写真は各施設の各居室につき1カ所、交換灯具の施工前、施工中、施工後の写真を撮影し、工事写真としてまとめること | [(3)一般仕様書（案）（PDF・292KB）](<https://www.city.machida.tokyo.jp/jigyousha/nyusatsu/puropo/kobogata/machidashiyuushisetsuled.files/ippansiyousyo.pdf>) / [(4)情報セキュリティ確保・個人情報保護のための特記仕様書（第5.0版)（PDF・157KB）](<https://www.city.machida.tokyo.jp/jigyousha/nyusatsu/puropo/kobogata/machidashiyuushisetsuled.files/jouhousekyurithi.pdf>) / [(5)灯具仕様書（案）（PDF・216KB）](<https://www.city.machida.tokyo.jp/jigyousha/nyusatsu/puropo/kobogata/machidashiyuushisetsuled.files/tougusiyousyo.pdf>) |
-| 東京都 | [新国立劇場中長期保全計画策定業務（令和８年度）](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTtyuutyoukikeikakuKaishu/01_R8NNTTtyuutyoukikeikakuKaishu_Koukoku.pdf>) | 独立行政法人日本芸術文化振興会 | 2026-07-29 | 2026-09-11 | 査)3中長期保全計画ロードマップ検討(計画の全体像立案)4報告書作成・写真台帳の作成(撮影場所の劣化状況の解説)・解析評価表の作成(劣化状況の説明と評価)・報告書の作成(上記を踏まえた所見等及びロードマップを記載した報告書)5定例会議の出席(調査前、中間、調査後)※舞台機構、舞台照明、舞台音響、昇降機の調査は本業務に含… | [入札説明書等 (788.62KB)](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTtyuutyoukikeikakuKaishu/02_R8NNTTtyuutyoukikeikaku_Explanation.pdf>) / [業務委託仕様書・図面 (4.12MB)](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTtyuutyoukikeikakuKaishu/04_R8NNTTtyuutyoukikeikaku_ShiyousyoandZumen.pdf>) / [現場説明書 (162.16KB)](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTtyuutyoukikeikakuKaishu/05_R8NNTTtyuutyoukikeikaku_Genbasetsumeisyo.pdf>) |
-| 茨城県 | [（RE-07943）排水処理施設苛性ソーダ希釈ポンプ他更新工事【掲載期間：2026-07-29～2026-08-24】](<https://www.qst.go.jp/uploaded/attachment/52552.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-07-29 | 2026-09-30 | (c) 装丁写真は、撮影箇所及び作業内容を表示するとともに、表紙に工事名称等を明記したアルバムに貼付して提出する | [仕様書 \[PDFファイル／587KB\]](<https://www.qst.go.jp/uploaded/attachment/52553.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-003.md) ｜ [次の100件](page-005.md)

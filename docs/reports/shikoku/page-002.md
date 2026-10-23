@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-23T07:23+09:00（収集時点）
+最終更新：2026-10-24T07:21+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：徳島県 香川県 愛媛県 高知県
 
-**133件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**134件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 高知県 | [(生第08094号)香我美市民館非構造部材耐震化工事（建築主体）※更改入札【7月29日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_shougai08094.pdf>) | 高知県香南市 | 2026-07-29 | 2026-09-11 | ・III ・IV)積雪区分 建設省告示第1455号 別表( )※ 工事写真撮影ガイドブック 建築工事編及び解体工事編 国土交通大臣官房官庁営繕部監修区分標準仕様書(建築工事編)(令和4年版)」(以下、「改修標準仕様書」という)により、改修標準仕様書(令和4年版)」(以下、「標準仕様書」という)による | [金抜き設計書 (PDFファイル: 165.3KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_shougai08094.pdf>) / [設計図A-00～26 (PDFファイル: 18.5MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/sekkei-shougai08094-1.pdf>) / [設計図A-27～44 (PDFファイル: 17.7MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/sekkei-shougai08094-2.pdf>) / [位置図 (PDFファイル: 1.5MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_shougai08094.pdf>) |
 | 高知県 | [(農第08063号)平田堰ゴム袋体製作工事【7月29日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_nou08063-2.pdf>) | 高知県香南市 | 2026-07-29 | 2026-09-07 | 数を用いて体積を算出して設計数量を バーが写るよう運搬車後面のデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 331.3KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_nou08063-2.pdf>) / [公表単価一覧表 (PDFファイル: 54.6KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_nou08063.pdf>) / [位置図 (PDFファイル: 1.5MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_nou08063.pdf>) / [図面 (PDFファイル: 316.2KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_nou08063.pdf>) |
 | 愛媛県 | [台湾市場におけるインフルエンサーを活用した誘客プロモーション業務委託（公募型プロポーザル方式）（松山国際観光客誘致推進協議会（観光・国際交流課内））](<https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/taiwan_pro.files/taiwan_youryou.pdf>) | 愛媛県松山市 | 2026-07-29 | 原文を確認 | 1 記事や動画は、インフルエンサーが作成すること | [仕様書（別紙1）（PDF：531KB）](<https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/taiwan_pro.files/taiwan_siyousyo.pdf>) |
 | 徳島県 | [長生小学校屋内運動場空調設置工事のうち電気工事](<https://www.city.anan.tokushima.jp/docs/2026072200030/file_contents/260728-1.pdf>) | 徳島県阿南市 | 2026-07-28 | 原文を確認 | トイレ ・阿南市建築工事様式集で監督員が指示した図書(必要部数)◎工事写真の撮影は, 国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」によること.◎工事写真の電子データは完成写真, 着手前, 資機材, 施工状況の順に整理する. CD-R等に保存する. しゅん工図データは,関係図面(データ貸与)を修正して作成し,… | [長生小学校屋内運動場空調設置工事のうち電気工事 3.閲覧補足説明書\[PDF：112KB\]](<https://www.city.anan.tokushima.jp/docs/2026072200030/file_contents/260728-1-3.pdf>) / [長生小学校屋内運動場空調設置工事のうち電気工事 4.図面\[PDF：1.99MB\]](<https://www.city.anan.tokushima.jp/docs/2026072200030/file_contents/260728-1-4.pdf>) |
