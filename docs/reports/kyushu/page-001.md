@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-24T07:21+09:00（収集時点）
+最終更新：2026-10-25T07:16+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県
 
-**187件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**189件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 2
 
@@ -20,6 +20,8 @@
 | 宮崎県 | [令和8年度広報用航空写真撮影業務委託に係る一般競争入札について](<https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/chotatsu/20260916094125.html>) | 宮崎県 | 2026-09-16 | 原文を確認 | 令和8年度広報用航空写真撮影業務委託に係る一般競争入札について | [入札説明書（PDF：105KB）](<https://www.pref.miyazaki.lg.jp/documents/112559/112559_20260916104237-1.pdf>) / [仕様書（PDF：39KB）](<https://www.pref.miyazaki.lg.jp/documents/112559/112559_20260916104305-1.pdf>) |
 | 鹿児島県 | [「令和8年度鹿児島県国民保護共同実動・図上訓練の撮影・録画・配信業務」に係る一般競争入札について](<https://www.pref.kagoshima.jp/aj01/documents/130491_20260915111211-1.pdf>) | 鹿児島県 | 2026-09-15 | 原文を確認 | 「令和8年度鹿児島県国民保護共同実動・図上訓練の撮影・録画・配信業務」に係る一般競争入札について | [仕様書（PDF：106KB）](<https://www.pref.kagoshima.jp/aj01/documents/130491_20260915111312-1.pdf>) |
 | 佐賀県 | [令和8年度 嬉野市行政番組制作業務に係る公募型プロポーザルの実施について](<https://www.city.ureshino.lg.jp/var/rev0/0049/4695/12612295343.pdf>) | 佐賀県嬉野市 | 2026-09-01 | 原文を確認 | 令和8年度 嬉野市行政番組制作業務に係る公募型プロポーザルの実施について | [令和8年度 嬉野市行政番組制作業務 仕様書](<https://www.city.ureshino.lg.jp/var/rev0/0049/4696/12612292658.pdf>) / [仕様書別表1](<https://www.city.ureshino.lg.jp/var/rev0/0049/4697/12612294028.pdf>) / [令和8年度 嬉野市行政番組制作業務プロポーザル実施要領](<https://www.city.ureshino.lg.jp/var/rev0/0049/4698/12612292121.pdf>) / [（様式2）仕様書等に関する質問表](<https://www.city.ureshino.lg.jp/var/rev0/0049/4701/12612292320.doc>) |
+| 熊本県 | [【入札関係】東部環境工場4成分計及び2成分計点検整備業務委託について](<https://www.city.kumamoto.jp/kiji00373485/3_73485_up_va26laha.pdf>) | 熊本県熊本市 | 2026-10-24 | 原文を確認 | 12 写真帳作業中に以下の写真撮影を行うこと | [仕様書（PDF：1.41メガバイト）](<https://www.city.kumamoto.jp/kiji00373485/3_73485_up_nt8egm6y.pdf>) / [参考図面（PDF：3.62メガバイト）](<https://www.city.kumamoto.jp/kiji00373485/3_73485_up_7xmoea6e.pdf>) |
+| 熊本県 | [（質問回答）【公募型プロポーザル】熊本市おでかけICカード一斉更新関係業務委託について](<https://www.city.kumamoto.jp/kiji00372948/3_72948_522049_up_ezusxddy.pdf>) | 熊本県熊本市 | 2026-10-23 | 2026-11-04 | 市ホームページ、公式動画配信媒体、説明会、特設窓口及びデジタルサイネージ等で利用できる形式とすること | [01 公告文（PDF：290.8キロバイト）](<https://www.city.kumamoto.jp/kiji00372948/3_72948_518755_up_lxtwbuwx.pdf>) / [02-1 基本仕様書（PDF：1.43メガバイト）](<https://www.city.kumamoto.jp/kiji00372948/3_72948_518754_up_k7n4ytzs.pdf>) / [02-2 基本仕様書別紙（PDF：322.4キロバイト）](<https://www.city.kumamoto.jp/kiji00372948/3_72948_518753_up_q3s2xeim.pdf>) |
 | 長崎県 | [旧島原森林事務所解体・撤去工事](<https://www.rinya.maff.go.jp/kyusyu/apply/publicsale/nagasaki/attach/pdf/20261020_kaitai_1-1.pdf>) | 林野庁九州森林管理局長崎森林管理署 | 2026-10-23 | 2026-11-20 | 設機械を使用する場合は、現場代理人は施工現場において使用する建設機械の写真撮影を行い、監督職員に提出するものとする | [入札説明書(PDF : 5,349KB)](<https://www.rinya.maff.go.jp/kyusyu/apply/publicsale/nagasaki/attach/pdf/20261020_kaitai_1-2.pdf>) / [仲裁合意書(PDF : 159KB)](<https://www.rinya.maff.go.jp/kyusyu/apply/publicsale/nagasaki/attach/pdf/20261020_kaitai_1-4.pdf>) |
 | 熊本県 | [【入札関係】東部環境工場水分塩化水素濃度計及びばいじん濃度計点検整備業務委託について](<https://www.city.kumamoto.jp/kiji00373412/3_73412_up_bsu8poqo.pdf>) | 熊本県熊本市 | 2026-10-22 | 原文を確認 | 12 写真帳作業中に以下の写真撮影を行うこと | [仕様書（PDF：1.11メガバイト）](<https://www.city.kumamoto.jp/kiji00373412/3_73412_up_r2xlymwk.pdf>) / [参考図面（PDF：2.94メガバイト）](<https://www.city.kumamoto.jp/kiji00373412/3_73412_up_c7sv22at.pdf>) |
 | 大分県 | [令和8年度森林保全再生整備に係る有害鳥獣捕獲等事業（大分西部流域）](<https://www.rinya.maff.go.jp/kyusyu/apply/publicsale/oitaseibu/attach/pdf/20261026_yuugai_2-12.pdf>) | 林野庁九州森林管理局大分西部森林管理署 | 2026-10-21 | 2026-11-26 | (2) 捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [共通仕様書(PDF : 396KB)](<https://www.rinya.maff.go.jp/kyusyu/apply/publicsale/oitaseibu/attach/pdf/20261026_yuugai_2-4.pdf>) / [特記仕様書(PDF : 281KB)](<https://www.rinya.maff.go.jp/kyusyu/apply/publicsale/oitaseibu/attach/pdf/20261026_yuugai_2-8.pdf>) / [電子入札案件の紙入札方式での参加について(PDF : 53KB)](<https://www.rinya.maff.go.jp/kyusyu/apply/publicsale/oitaseibu/attach/pdf/20260928_yuugai_1-9.pdf>) / [別添1捕獲状況集計表\_1.3.4シートへ入力(EXCEL : 59KB)](<https://www.rinya.maff.go.jp/kyusyu/apply/publicsale/oitaseibu/attach/xls/20260928_yuugai_1-2.xlsx>) |
@@ -114,7 +116,5 @@
 | 福岡県 | [【令和8年9月18日申込締切】空き家活用プロジェクトポータルサイト制作等業務（公募型プロポーザル）](<https://www.city.kitakyushu.lg.jp/files/001228164.pdf>) | 福岡県北九州市 | 2026-09-04 | 2026-10-20 | ランディングを図るとともに、学生等が主体となった情報発信(SNS運用、写真撮影、記事制作等)を通じて、空き家所有者や利活用希望者等の関心を喚起し、空き家の利活用の促進、地域の活性化及び持続可能なまちづくりの推進に資することを目的とする | [【別紙2】実施説明書（PDF形式：606KB）](<https://www.city.kitakyushu.lg.jp/files/001227760.pdf>) |
 | 福岡県 | [【入札公告】（令和7年災）招池災害復旧工事](<https://www.city.fukutsu.lg.jp/material/files/group/12/20261020_kouboJV_koukoku_doboku.pdf>) | 福岡県福津市 | 2026-09-04 | 2026-10-08 | )により写真撮影する | [【入札説明書】（令和7年災）招池災害復旧工事 (PDFファイル: 442.0KB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20261020_kouboJV_setsumei_doboku.pdf>) / [設計書［（令和7年災）招池災害復旧工事］ (PDFファイル: 752.7KB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20261020_kouboJV_sekkeisho.pdf>) / [設計書［（令和7年災）招池災害復旧工事］ (Excelファイル: 384.0KB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20261020_kouboJV_sekkeisho.xls>) / [仕様書、特記仕様書 (PDFファイル: 300.4KB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20261020_kouboJV_shiyou.pdf>) / [図面 (PDFファイル: 3.5MB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20261020_kouboJV_zumen.pdf>) |
 | 福岡県 | [高度警察情報通信基盤システム整備工事](<https://www.kyushu.npa.go.jp/from_2023/bidding/bidding_pdf/nyuusatu/kouji20260904-0914.pdf>) | 国家公安委員会（警察庁）九州管区警察局 | 2026-09-04 | 2026-09-15 | (特定資料並びに特定物件の複製及び写真撮影)第6条 乙は、主たる契約に定められている場合を除き、特定資料を複製し又は特定物件の見取図、試験成績表等の製作若しくは写真撮影をしようとするときは、あらかじめ甲の許可を受けるものとする | — |
-| 福岡県 | [発動発電機修理](<https://www.kyushu.npa.go.jp/from_2023/bidding/bidding_pdf/nyuusatu/kouji20260902-0916.pdf>) | 国家公安委員会（警察庁）九州管区警察局 | 2026-09-02 | 原文を確認 | (特定資料並びに特定物件の複製及び写真撮影)第6条 乙は、主たる契約に定められている場合を除き、特定資料を複製し、又 は特定物件の見取図、試験成績表等の製作若しくは写真撮影をしようとすると きは、あらかじめ甲の許可を受けるものとする | — |
-| 佐賀県 | [嬉野市新庁舎建設設計業務プロポーザルの実施について](<https://www.city.ureshino.lg.jp/var/rev0/0034/9797/1234311257.pdf>) | 佐賀県嬉野市 | 2026-09-01 | 原文を確認 | 1)台ア 敷地周囲を含むイ 敷地内ウ 建物部分エ 内観がわかるもの2 写真 撮影箇所 (8)面ア カラー写真イ 白黒写真ウ データ jpeg PIXELについては協議※注意事項模型材料は変形及び脱色しにくいものとすること | [2. 実施要領](<https://www.city.ureshino.lg.jp/var/rev0/0034/9798/12343103129.pdf>) / [6. 仕様書](<https://www.city.ureshino.lg.jp/var/rev0/0034/9802/12343104840.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)
