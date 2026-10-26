@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-26T07:15+09:00（収集時点）
+最終更新：2026-10-27T07:24+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**250件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**252件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -21,6 +21,8 @@
 | 秋田県 | [【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-08-17 | 2026-09-16 | 【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務 | — |
 | 岩手県 | [【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-21 | 原文を確認 | 【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務 | — |
 | 岩手県 | [龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について](<https://www.town.iwaizumi.lg.jp/docs/2026071400011/file_contents/00.pdf>) | 岩手県岩泉町 | 2026-07-17 | 2026-09-04 | 龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について | — |
+| 青森県 | [(RE-12614)高強度極低温溶接ワイヤーの試作【掲載期間：2026-10-26～2026-11-16】](<https://www.qst.go.jp/uploaded/attachment/53668.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門六ヶ所核融合研究所 | 2026-10-26 | 原文を確認 | (4)QSTが立会時に現場の写真撮影の必要性を認めた場合は、受注者の許可の下に、QSTが写真撮影できることとする | [仕様書 \[PDFファイル／843KB\]](<https://www.qst.go.jp/uploaded/attachment/53669.pdf>) |
+| 福島県 | [奥久慈地区車両系建設機械チャーター等単価契約(第2回)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tanagura/20261026_butueki_1.html>) | 林野庁関東森林管理局棚倉森林管理署 | 2026-10-26 | 2026-11-19 | 93031計合計 時間※時間の管理方法は、作業日ごとにアワーメーターの写真を撮影管理すること | [入札公告(PDF : 123KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tanagura/attach/pdf/20261026_butueki_1-1.pdf>) / [入札説明書資料(PDF : 594KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tanagura/attach/pdf/20261026_butueki_1-2.pdf>) |
 | 山形県 | [【東北農林専門職大学附属農林大学校】ICT教育用ノートパソコン賃貸借及び保守契約（令和8年11月12日入札）](<https://www.pref.yamagata.jp/documents/54839/koukoku.pdf>) | 山形県 | 2026-10-21 | 2026-11-09 | ける ICT 教育やスマート農林業教育を充実させるため、機動性が高く、動画作成等に必要となるスペックを有する、ICT教育用ノートパソコンを導入するもの | [入札説明書（応札機器仕様書等を含む）（PDF：212KB）](<https://www.pref.yamagata.jp/documents/54839/nyuusatusetumeisyohoka.pdf>) / [仕様書（PDF：131KB）](<https://www.pref.yamagata.jp/documents/54839/siyousyo.pdf>) |
 | 宮城県 | [令７−依・学環・交 第二中学校長寿命化改良工事（3期・機械設備）](<https://www.city.shiogama.miyagi.jp/uploaded/life/59230_152208_misc.pdf>) | 宮城県塩竃市 | 2026-10-21 | 2026-10-25 | 屋外露出,多湿箇所 ・ ステンレス鋼板( )1部CD2枚1部・営繕工事写真撮影要領(国土交通省大臣官房庁営繕部監修 平成31年版)・建設工事執行規則(昭和39年3月宮城県規則第9号)・宮城県建設工事元請・下請関係適正化要綱(最新版)・宮城県建築工事写真撮影要領(宮城県土木部制定 平成12年版)及び工事写真撮影ガイドブッ… | [設計書一式 \[その他のファイル／2.21MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/59230_152210_misc.zip>) |
 | 宮城県 | [令７−依・学環・交 第二中学校長寿命化改良工事（3期・電気設備）](<https://www.city.shiogama.miyagi.jp/uploaded/life/59232_152218_misc.pdf>) | 宮城県塩竃市 | 2026-10-21 | 2026-10-25 | ※ 営繕工事写真撮影要領(国土交通省大臣官房官庁営繕部監修 令和5年版) 工事編&gt; (国土交通省大臣官房庁営繕部監修 令和5年版)・ 宮城県建築工事写真撮影要領(宮城県土木部制定 令和5年版)及び工事写真撮影ガイドブック&lt;電気設備解体工事1.特記事項※ 建物一式のとりこわし工事に適用とし、機器等の改修工事は適用外建設副… | [設計書一式 \[その他のファイル／2.6MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/59232_152220_misc.zip>) |
@@ -114,7 +116,5 @@
 | 山形県 | [【会計局会計課】空港用化学消防車（令和8年9月29日入札）](<https://www.pref.yamagata.jp/documents/53802/koukoku1.pdf>) | 山形県 | 2026-09-04 | 2026-09-24 | なお、検査は検査職員又は発注者の立会に代えて動画撮影用のカメラ等とWeb会議システム等を利用した遠隔臨場により実施する場合があり、その実施及び手法については発注者と協議の上で決定するものとし、製造工場等側で必要な機器の手配は受注者が行い、その他は協議の上で決定するものとする | [入札説明書（PDF：297KB）](<https://www.pref.yamagata.jp/documents/53802/setumeisho0.pdf>) / [仕様書（PDF：822KB）](<https://www.pref.yamagata.jp/documents/53802/shiyousho0.pdf>) |
 | 岩手県 | [令和８年９月４日公告 上堂分区外下水道管路施設調査その１、その２業務委託の一般競争入札（下水道施設管理課）](<https://files.microcms-assets.io/assets/39013182cea147068c187e6b9ebe5419/740922a324f54c8caee0de46c2113b04/01_%E4%B8%80%E8%88%AC%E7%AB%B6%E4%BA%89%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A.pdf>) | 岩手県盛岡市 | 2026-09-04 | 2026-09-14 | (2) 写真には、件名、撮影場所、撮影対象及び受注者名を明記した黒板を入れて撮影するものとする | [03\_特記仕様書、設計書.pdf](<https://files.microcms-assets.io/assets/39013182cea147068c187e6b9ebe5419/c9329931f36948e5a7c9749d938b4c37/03_%E7%89%B9%E8%A8%98%E4%BB%95%E6%A7%98%E6%9B%B8%E3%80%81%E8%A8%AD%E8%A8%88%E6%9B%B8.pdf>) |
 | 岩手県 | [【県南広域振興局（花巻）】融雪用白灯油単価契約《一般競争入札》](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/101/636/080904_koukoku.pdf>) | 岩手県 | 2026-09-04 | 原文を確認 | 内容(1) 購入等件名及び数量 融雪用白灯油 JIS1号 配達料込み(写真撮影含む) 約128,000リットル(2) 調達件名の特質等 入札説明書による | [入札説明書 （PDF 267.0KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/101/636/080904_setumeisyo.pdf>) / [仕様書 （PDF 95.4KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/101/636/080904_siyousyo.pdf>) |
-| 福島県 | [震災記録誌（続編）等作成業務公募型プロポーザル](<https://www.town.okuma.fukushima.jp/uploaded/attachment/11969.pdf>) | 福島県大熊町 | 2026-09-04 | 2026-10-06 | (2) 調査・情報収集上記の作成コンセプトに基づき、撮影、調査、取材、資料収集を行う | [仕様書 \[PDFファイル／183KB\]](<https://www.town.okuma.fukushima.jp/uploaded/attachment/11970.pdf>) |
-| 山形県 | [建設機械等チャーター単価契約 向町地区 2回目](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/mkimc26860904.html>) | 林野庁東北森林管理局山形森林管理署 | 2026-09-04 | 2026-09-24 | 了時に表示板等に日時、作業内容等を記載の上、使用機械と作業場所が入った写真を撮影すること | [入札公告(PDF : 117KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/mkimc26860904-1.pdf>) / [入札説明書(PDF : 133KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/mkimc26860904-2.pdf>) / [入札心得(PDF : 1,037KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/mkimc26860904-3.pdf>) / [作業実施要領(PDF : 90KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/mkimc26860904-7.pdf>) / [運転時間実施計画書・確認書(PDF : 107KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/mkimc26860904-8.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

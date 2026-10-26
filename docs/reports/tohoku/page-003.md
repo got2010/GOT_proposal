@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-26T07:15+09:00（収集時点）
+最終更新：2026-10-27T07:24+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**250件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**252件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 青森県 | [東部第４雨水幹線防護柵設置工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k027.pdf>) | 青森県五所川原市 | 2026-07-29 | 2026-08-05 | 1台でよい)は現場出発時と処理場到着時に車番(ナンバープレート)を入れ写真撮影すること | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j027.zip>) |
+| 青森県 | [アワビ中間育成施設解体工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k028.pdf>) | 青森県五所川原市 | 2026-07-29 | 2026-08-05 | )について、営繕工事写真撮影要領2.(3)撮影方法に示す項目の電子的記入ができること、かつ信憑性確認(改ざん検知機能)を有するものを使用することとする | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j028.zip>) |
 | 山形県 | [7月28日公告（土木一式A）格付指定型一般競争入札の公告について 工事名：令和8年度由良白山島落石防止工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260728koukoku1.files/20260728koukoku1-1.pdf>) | 山形県鶴岡市 | 2026-07-28 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：2,120KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260728koukoku1.files/20260728koukoku1-2.pdf>) |
 | 山形県 | [7月28日公告（土木一式A）格付指定型一般競争入札の公告について 工事名：市道少連寺長滝東目線中央橋補修工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260728koukoku2.files/20260728koukoku2-1.pdf>) | 山形県鶴岡市 | 2026-07-28 | 原文を確認 | III 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：2,061KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260728koukoku2.files/20260728koukoku2-2.pdf>) |
 | 山形県 | [7月28日公告（土木一式BC）格付指定型一般競争入札の公告について 工事名：竹の浦神子沢油戸線のり面対策工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260728koukoku3.files/20260728koukoku3-1.pdf>) | 山形県鶴岡市 | 2026-07-28 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：2,280KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260728koukoku3.files/20260728koukoku3-2.pdf>) |

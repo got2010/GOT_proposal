@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-26T07:15+09:00（収集時点）
+最終更新：2026-10-27T07:24+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**206件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**208件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 大阪府 | [UR賃貸住宅団地内一般清掃等業務（水無瀬駅前団地）（千里住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44156_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1681KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44156_3.pdf>) / [仕様書\[1497KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44156_4.pdf>) |
+| 大阪府 | [UR賃貸住宅団地内一般清掃等業務（若山台第四団地他1団地）（千里住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44157_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1685KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44157_3.pdf>) / [仕様書\[1869KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44157_4.pdf>) |
 | 大阪府 | [能登空港ＥＳＳＥ装置設置その他工事](<https://www.cab.mlit.go.jp/wcab/file/0916_1005_kyoku_notoESSEsouchisextuchisonotakouji.pdf>) | 国土交通省大阪航空局 | 2026-09-16 | 2026-10-05 | 等)7機器撤去・ITV映像表示装置 1式・映像操作端末本体 1式・簡易映像記録装置 1式・受配・配信装置 端末本体 1式・受配・配信装置 表示装置 1式・配信情報表示装置 本体端末 1式・配信情報表示装置 タッチパネル 1式×4 等・電源、通信ケーブル等撤去(RAG空港用ITV装置~分電盤間等)※その他詳細は仕様書によ… | — |
 | 奈良県 | [https://www.city.ikoma.lg.jp/0000042548.html](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42548/01.pdf>) | 奈良県生駒市 | 2026-09-15 | 原文を確認 | よりトータルステーション等を用いて下記を確認する作業をいう(境界標等の写真撮影を含む) | [契約主要事項説明書 (PDF形式、128.37KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42548/02.pdf>) / [仕様書(PDF形式、2.19MB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42548/03.pdf>) / [事後審査型条件付一般競争入札参加資格確認申請書(ワード形式、38.50KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42548/11.doc>) |
 | 京都府 | [令和８年度 市施設搬入ごみ質調査（持込ごみ）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/443709.htm>) | 京都府京都市 | 2026-09-15 | 原文を確認 | カ 写真撮影持込車両の積載物全体の容積を検尺棒等で測定する作業等、調査の様子が分かるよう、適宜写真を撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./443709_12_09101656.pdf>) |
@@ -114,7 +116,5 @@
 | 奈良県 | [https://www.city.ikoma.lg.jp/0000041924.html](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000041/41924/001.koukoku.pdf>) | 奈良県生駒市 | 2026-07-15 | 原文を確認 | る事項(1)契約件名 生駒市統合型地理情報システムデータ更新に伴う航空写真撮影及び地形図更新業務(2)場 所 生駒市全域及び周辺地域(3)契約期間 契約の日から令和9年3月31日まで(4)履行期間 契約の日から令和9年3月31日まで(5)業 種 A(印刷・図書・現像類)オ(航空写真)(6)業務概要 別紙仕様書による(7… | [契約主要事項説明書 (PDF形式、56.83KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000041/41924/002syuyouzikou.pdf>) / [仕様書 (PDF形式、249.59KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000041/41924/003.siyousyo.pdf>) / [事後審査型条件付一般競争入札参加資格確認申請書 (ワード形式、46.50KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000041/41924/007.sankasikaku.doc>) |
 | 兵庫県 | [K01 ちくさ高原スキー場キュービクル式高圧受電設備更新工事](<https://www.city.shiso.lg.jp/material/files/group/29/260630_K01_1_chikusasukiijoukouatsujudensetsubikoushin_koukokusho.pdf>) | 兵庫県宍粟市 | 2026-07-15 | 2026-08-03 | 完成時及び材料検収のほか、監督員が必要と認め指示した箇所についてカラー写真を撮影して提出すること | [仕様書等](<https://www.city.shiso.lg.jp/material/files/group/29/260630_K01_4_chikusasukiijoukouatsujudensetsubikoushin_shiyousho.pdf>) |
 | 兵庫県 | [S01 カード券面事項印字システム機器更新業務](<https://www.city.shiso.lg.jp/material/files/group/29/260630_S01_1_cardkenmenjikouinjisystemkikikoushin_koukokusho.pdf>) | 兵庫県宍粟市 | 2026-07-15 | 原文を確認 | 物品の納品時に写真を撮影し提出すること | [仕様書等](<https://www.city.shiso.lg.jp/material/files/group/29/260630_S01_4_cardkenmenjikouinjisystemkikikoushin_shiyousho.pdf>) |
-| 兵庫県 | [B03 多世代交流施設会議用机購入](<https://www.city.shiso.lg.jp/material/files/group/29/260630_B03_1_tasedaikouryuushisetsukaigiyoutsukue_koukokusho.pdf>) | 兵庫県宍粟市 | 2026-07-15 | 原文を確認 | (5)物品の納品時に写真を撮影し提出すること | [仕様書等](<https://www.city.shiso.lg.jp/material/files/group/29/260630_B03_4_tasedaikouryuushisetsukaigiyoutsukue_shiyousho1.pdf>) |
-| 兵庫県 | [B02 木育広場備品購入](<https://www.city.shiso.lg.jp/material/files/group/29/260630_B02_1_mokuikuhirobabihin_koukokusho.pdf>) | 兵庫県宍粟市 | 2026-07-15 | 原文を確認 | (5)物品の納品時に写真を撮影し提出すること | [仕様書等](<https://www.city.shiso.lg.jp/material/files/group/29/260630_B02_4_mokuikuhirobabihin_shiyousho.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)
