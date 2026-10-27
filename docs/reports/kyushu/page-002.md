@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-27T07:24+09:00（収集時点）
+最終更新：2026-10-28T07:27+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県
 
-**192件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**195件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 熊本県 | [【入札関係】船場町遺跡第3次調査区埋蔵文化財発掘調査業務委託に係る一般競争入札について](<https://www.city.kumamoto.jp/kiji00372760/3_72760_516202_up_154t7hcu.pdf>) | 熊本県熊本市 | 2026-09-07 | 原文を確認 | 5 乙は、作業区分ごとに作業前、作業中、作業後の状況写真を撮影すること | [共通仕様書（PDF：27.1キロバイト）](<https://www.city.kumamoto.jp/kiji00372760/3_72760_up_5t3nmnn4.pdf>) / [特記仕様書（PDF：182.6キロバイト）](<https://www.city.kumamoto.jp/kiji00372760/3_72760_up_1ocybuqh.pdf>) / [別紙3 実測図作成面積（PDF：4キロバイト）](<https://www.city.kumamoto.jp/kiji00372760/3_72760_up_l7323kpu.pdf>) |
+| 宮崎県 | [総合防災情報ネットワーク関連の点検保守委託に係る一般競争入札について（令和8年9月4日公告）](<https://www.pref.miyazaki.lg.jp/kiki-shobohoan/kense/chotatsu/08/20260824154712.html>) | 宮崎県 | 2026-09-04 | 2028-03-31 | に係る一般競争入札について(令和8年9月4日公告) 「農業外国人材向け動画制作」業務委託企画提案競技(プロポーザル方式)の実施について 「令和8年度リース方式による県有施設太陽光発電設備導入事業」の公募について 「首都圏から宮崎へ」誘客プログラム企画制作・運営業務委託に係る企画提案競技の実施について 宮崎県第3期サーバ… | [入札公告（PDF：62KB）](<https://www.pref.miyazaki.lg.jp/documents/111925/111925_20260902140902-1.pdf>) / [現場説明書（PDF：55KB）](<https://www.pref.miyazaki.lg.jp/documents/111925/111925_20260902143056-1.pdf>) / [仕様書（PDF：301KB）](<https://www.pref.miyazaki.lg.jp/documents/111925/111925_20260902143126-1.pdf>) / [金額抜設計書（PDF：53KB）](<https://www.pref.miyazaki.lg.jp/documents/111925/111925_20260902143338-1.pdf>) / [入札公告（PDF：63KB）](<https://www.pref.miyazaki.lg.jp/documents/111925/111925_20260902145106-1.pdf>) |
+| 鹿児島県 | [鹿児島市統合型GIS共用空間データ（航空写真）更新業務委託契約に係る制限付き一般競争入札](<https://www.city.kagoshima.lg.jp/soumu/soumu/ict/documents/01_koukokubun.pdf>) | 鹿児島県鹿児島市 | 2026-09-04 | 2026-09-18 | (前回令和6年1月撮影)を更新するため本市全域を対象としたデジタル航空写真撮影及びデジタルオルソ作成を行う | [仕様書（PDF：1,227KB）](<https://www.city.kagoshima.lg.jp/soumu/soumu/ict/documents/02_kihonshiyousyo.pdf>) / [別紙1\_写真地図作成範囲図（PDF：386KB）](<https://www.city.kagoshima.lg.jp/soumu/soumu/ict/documents/02-1_syashinchizusakuseihanni.pdf>) / [別紙2\_秘密情報等取扱特記事項（PDF：153KB）](<https://www.city.kagoshima.lg.jp/soumu/soumu/ict/documents/02-2_himitsujouhoutoutoriatukaitokkijikou.pdf>) / [鹿児島市空中写真測量製品仕様書（PDF：177KB）](<https://www.city.kagoshima.lg.jp/soumu/soumu/ict/documents/kuucyusyashinsokuryoseihinshiyousho.pdf>) / [鹿児島市写真地図製品仕様書（PDF：176KB）](<https://www.city.kagoshima.lg.jp/soumu/soumu/ict/documents/syashintizuseihinshiyousho.pdf>) |
 | 福岡県 | [【令和8年9月18日申込締切】空き家活用プロジェクトポータルサイト制作等業務（公募型プロポーザル）](<https://www.city.kitakyushu.lg.jp/files/001228164.pdf>) | 福岡県北九州市 | 2026-09-04 | 2026-10-20 | ランディングを図るとともに、学生等が主体となった情報発信(SNS運用、写真撮影、記事制作等)を通じて、空き家所有者や利活用希望者等の関心を喚起し、空き家の利活用の促進、地域の活性化及び持続可能なまちづくりの推進に資することを目的とする | [【別紙2】実施説明書（PDF形式：606KB）](<https://www.city.kitakyushu.lg.jp/files/001227760.pdf>) |
 | 福岡県 | [【入札公告】（令和7年災）招池災害復旧工事](<https://www.city.fukutsu.lg.jp/material/files/group/12/20261020_kouboJV_koukoku_doboku.pdf>) | 福岡県福津市 | 2026-09-04 | 2026-10-08 | )により写真撮影する | [【入札説明書】（令和7年災）招池災害復旧工事 (PDFファイル: 442.0KB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20261020_kouboJV_setsumei_doboku.pdf>) / [設計書［（令和7年災）招池災害復旧工事］ (PDFファイル: 752.7KB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20261020_kouboJV_sekkeisho.pdf>) / [設計書［（令和7年災）招池災害復旧工事］ (Excelファイル: 384.0KB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20261020_kouboJV_sekkeisho.xls>) / [仕様書、特記仕様書 (PDFファイル: 300.4KB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20261020_kouboJV_shiyou.pdf>) / [図面 (PDFファイル: 3.5MB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20261020_kouboJV_zumen.pdf>) |
 | 福岡県 | [高度警察情報通信基盤システム整備工事](<https://www.kyushu.npa.go.jp/from_2023/bidding/bidding_pdf/nyuusatu/kouji20260904-0914.pdf>) | 国家公安委員会（警察庁）九州管区警察局 | 2026-09-04 | 2026-09-15 | (特定資料並びに特定物件の複製及び写真撮影)第6条 乙は、主たる契約に定められている場合を除き、特定資料を複製し又は特定物件の見取図、試験成績表等の製作若しくは写真撮影をしようとするときは、あらかじめ甲の許可を受けるものとする | — |

@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-27T07:24+09:00（収集時点）
+最終更新：2026-10-28T07:27+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：徳島県 香川県 愛媛県 高知県
 
-**136件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**137件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 高知県 | [(建第08049号)下井西(2)地区18号水路改修工事【7月8日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/gigi_kensetu08049.pdf>) | 高知県香南市 | 2026-07-31 | 原文を確認 | 数を用いて体積を算出して設計数量を バーが写るよう運搬車後面のデジタル写真撮影をする | [入札公告 (PDFファイル: 1.1MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_ken08049.pdf>) / [金抜き設計書 (PDFファイル: 350.4KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_ken08049.pdf>) / [公表単価一覧表 (PDFファイル: 25.9KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_ken08049.pdf>) / [数量計算書 (PDFファイル: 256.1KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/suryou_ken08049.pdf>) / [実施図 (PDFファイル: 414.1KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/jisshizu-ken08049.pdf>) |
 | 徳島県 | [大野小学校屋内運動場屋根改修工事](<https://www.city.anan.tokushima.jp/docs/2026070600023/file_contents/0713-1-5.pdf>) | 徳島県阿南市 | 2026-07-29 | 原文を確認 | 等については,不可視部分の出来形が写真で 的確に確認できること.◎工事写真の撮影は, 国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」によること. ・阿南市建築工事様式集で監督員が指示した図書(必要部数)22. 工事検査及び技術検査23. 完成図等◎工事完成撮影は, 別途指定がある場合を除き,専門家によらないも… | [大野小学校屋内運動場屋根改修工事 入札情報\[PDF：63KB\]](<https://www.city.anan.tokushima.jp/docs/2026070600023/file_contents/260713-1.pdf>) / [大野小学校屋内運動場屋根改修工事 3.閲覧補足説明書（１）\[PDF：112KB\]](<https://www.city.anan.tokushima.jp/docs/2026070600023/file_contents/260713-1-3.pdf>) / [大野小学校屋内運動場屋根改修工事 4.閲覧補足説明書（２）\[PDF：141KB\]](<https://www.city.anan.tokushima.jp/docs/2026070600023/file_contents/260713-1-4.pdf>) / [大野小学校屋内運動場屋根改修工事 5.図面\[PDF：2.44MB\]](<https://www.city.anan.tokushima.jp/docs/2026070600023/file_contents/260713-1-5.pdf>) |
 | 高知県 | [(建第08024号) 下井西（1）地区14号農道・水路改修工事【7月29日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_ken08024-2.pdf>) | 高知県香南市 | 2026-07-29 | 2026-08-24 | 及び所在地が計画と一致す運搬車のナンバーが写るよう運搬車後面のデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 364.1KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_ken08094-1.pdf>) / [公表単価一覧表 (PDFファイル: 25.9KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_ken08024.pdf>) / [数量計算書 (PDFファイル: 636.3KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/suryou_ken08024.pdf>) / [実施図 (PDFファイル: 784.5KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/jisshizu-ken08024.pdf>) / [位置図 (PDFファイル: 835.3KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_ken08024.pdf>) |
 | 高知県 | [(生第08094号)香我美市民館非構造部材耐震化工事（建築主体）※更改入札【7月29日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_shougai08094.pdf>) | 高知県香南市 | 2026-07-29 | 2026-09-11 | ・III ・IV)積雪区分 建設省告示第1455号 別表( )※ 工事写真撮影ガイドブック 建築工事編及び解体工事編 国土交通大臣官房官庁営繕部監修区分標準仕様書(建築工事編)(令和4年版)」(以下、「改修標準仕様書」という)により、改修標準仕様書(令和4年版)」(以下、「標準仕様書」という)による | [金抜き設計書 (PDFファイル: 165.3KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_shougai08094.pdf>) / [設計図A-00～26 (PDFファイル: 18.5MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/sekkei-shougai08094-1.pdf>) / [設計図A-27～44 (PDFファイル: 17.7MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/sekkei-shougai08094-2.pdf>) / [位置図 (PDFファイル: 1.5MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_shougai08094.pdf>) |

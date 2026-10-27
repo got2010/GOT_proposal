@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-27T07:24+09:00（収集時点）
+最終更新：2026-10-28T07:27+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**226件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**229件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -16,10 +16,13 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 山口県 | [令和８年度山口河川国道事務所管内航空写真撮影作業](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-10-27 | 原文を確認 | 令和8年度山口河川国道事務所管内航空写真撮影作業 | — |
+| 広島県 | [令和８年度山口河川国道事務所管内航空写真撮影作業](<https://www.cgr.mlit.go.jp/hattyu/buppin/261027/261027-1-e.pdf>) | 国土交通省中国地方整備局 | 2026-10-27 | 原文を確認 | 令和8年度山口河川国道事務所管内航空写真撮影作業 | — |
 | 岡山県 | [岡山県立倉敷天城高等学校 映像音響配信装置一式に係る一般競争入札（条件付）の実施について](<https://www.pref.okayama.jp/uploaded/life/1061805_10291120_misc.pdf>) | 岡山県 | 2026-10-21 | 原文を確認 | 岡山県立倉敷天城高等学校 映像音響配信装置一式に係る一般競争入札(条件付)の実施について | — |
 | 岡山県 | [中国職業能力開発大学校広報用動画の制作業務について（中国能開大） (PDF 191 KB)](<https://www.jeed.go.jp/location/shibu/okayama/q2k4vk000002zr26-att/aj91gk0000005fjm.pdf>) | 独立行政法人高齢・障害・求職者雇用支援機構岡山支部 | 2026-09-11 | 2026-09-18 | 中国職業能力開発大学校広報用動画の制作業務について(中国能開大) (PDF 191 KB) | — |
 | 岡山県 | [令和８年度岡山市固定資産航空写真撮影業務委託](<https://keiyaku.city.okayama.jp/webftp/itaku/2026025875.pdf>) | 岡山県岡山市 | 2026-09-01 | 原文を確認 | 令和8年度岡山市固定資産航空写真撮影業務委託 | [1](<https://keiyaku.city.okayama.jp/webftp/itaku/2026025875_1.zip>) |
 | 広島県 | [ｅＬＴＡＸ等課税資料のデータチェック処理業務（単価契約）](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640116900101.pdf>) | 広島県広島市 | 2026-10-23 | 2026-11-06 | (11) 特に必要のない限り、作業場所内でのカメラ、ビデオ、カセットレコーダー等による撮影及び録音を許可しないこと | [03 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640116900103.pdf>) |
+| 広島県 | [【令和8年10月27日入札関係資料の修正】沼田地区下水道改築8−10号工事（11月18日開札予定）](<https://www.city.hiroshima.lg.jp/business/nyusatsu/1006046/1006111/1026553/1026554/1054739.html>) | 広島県広島市 | 2026-10-23 | 原文を確認 | 更生工事を行うにあたり、既設管内状況をTVカメラ若しくは目視にて鮮明な映像でビデオ撮影または写真撮影を行うとともに、漏水か所、木の根の侵入、破損、クラック、異物の付着、既設取付管の利用状況等を十分把握しなければならない | [入札関係資料の修正について （Word 17.7KB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/054/739/1.docx>) / [設計書等をダウンロードされた方へ（差替） （PDF 187.2KB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/054/739/2.pdf>) / [設計書（又は公開数量書）（差替） （PDF 101.6KB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/054/739/3.pdf>) / [仕様書・特記仕様書等（差替） （PDF 2.7MB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/054/739/4.pdf>) / [積算参考資料（差替） （PDF 175.4KB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/054/739/5.pdf>) |
 | 広島県 | [【公募型プロポーザル】広島城天守倒壊シミュレーション映像化業務](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/054/670/toukai1.pdf>) | 広島県広島市 | 2026-10-23 | 2026-11-25 | の研究成果等に基づいて、広島城天守が原爆により倒壊したシミュレーション映像を制作し、広島城三の丸歴史館等の展示や平和学習において活用することで、市民が被爆以前の広島の歴史・文化の理解を深めることを目的とする | [03 基本仕様書 （PDF 239.5KB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/054/670/toukai3.pdf>) / [04 受託候補者特定基準 （PDF 113.3KB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/054/670/toukai4.pdf>) |
 | 山口県 | [令和8年度下関市奨学金返還支援補助金制度広報業務に係る公募型プロポーザルの実施について](<https://www.city.shimonoseki.lg.jp/uploaded/life/164524_651576_misc.pdf>) | 山口県下関市 | 2026-10-21 | 2026-11-20 | 1 動画配信業務において、各 SNS広告の具体的な配信計画、目標、ターゲット及び目標リーチ数2 デジタルサイネージを活用した放映場所、期間及びその理由3 事業実施スケジュールエ 業務の運営管理体制本業務を遂行する管理責任者及び担当者を指定し、それらの者の資格及び経験等を具体的に記載するとともに運営体制を記載すること | [2\_実施要領 \[PDFファイル／330KB\]](<https://www.city.shimonoseki.lg.jp/uploaded/life/164524_651577_misc.pdf>) / [3\_ （別紙1）仕様書 \[PDFファイル／109KB\]](<https://www.city.shimonoseki.lg.jp/uploaded/life/164524_651578_misc.pdf>) / [4\_ （別紙2～4）仕様書特記事項 \[PDFファイル／106KB\]](<https://www.city.shimonoseki.lg.jp/uploaded/life/164524_651579_misc.pdf>) |
 | 広島県 | [三川ダム管理地草刈及び流入物処理委託業務（東部農林水産事務所三川ダム管理事務所）](<https://www.pref.hiroshima.lg.jp/uploaded/life/1152379_9838131_misc.pdf>) | 広島県 | 2026-10-21 | 2026-11-12 | 2 写真撮影 ポール等で施工範囲が分かるようしたうえで,業務名,作業場所,日付を記入した黒板を入れて,施工前,施工中,施工後を写真に撮影するものとする | [入札説明書 (PDFファイル)(269KB)](<https://www.pref.hiroshima.lg.jp/uploaded/life/1152379_9838132_misc.pdf>) / [誓約書 (PDFファイル)(89KB)](<https://www.pref.hiroshima.lg.jp/uploaded/life/1152379_9838133_misc.pdf>) / [契約書 (PDFファイル)(60KB)](<https://www.pref.hiroshima.lg.jp/uploaded/life/1152379_9838134_misc.pdf>) / [特記仕様書 (PDFファイル)(72KB)](<https://www.pref.hiroshima.lg.jp/uploaded/life/1152379_9838135_misc.pdf>) / [特記仕様書別紙(金抜内訳書) (PDFファイル)(8KB)](<https://www.pref.hiroshima.lg.jp/uploaded/life/1152379_9838136_misc.pdf>) |
@@ -113,8 +116,5 @@
 | 広島県 | [道路維持修繕業務（西部）その2](<https://www.city.fuchu.hiroshima.jp/material/files/group/11/0826seibu.pdf>) | 広島県府中市 | 2026-09-04 | 2026-09-28 | について第1節 写真1.車両・重機の規格(例PC35等)や数量がわかる写真を撮影すること | [PDF](<https://www.city.fuchu.hiroshima.jp/material/files/group/11/7douroiziseibu2.pdf>) |
 | 広島県 | [道路維持修繕業務（北部）その2](<https://www.city.fuchu.hiroshima.jp/material/files/group/11/0826hokubu.pdf>) | 広島県府中市 | 2026-09-04 | 2026-09-28 | について第1節 写真1.車両・重機の規格(例PC35等)や数量がわかる写真を撮影すること | [PDF](<https://www.city.fuchu.hiroshima.jp/material/files/group/11/douroizihokubu2.pdf>) |
 | 鳥取県 | [【調達公告】学校給食センター照明器具取替工事](<https://www.town.kotoura.tottori.jp/docs/2026090400030/files/00.pdf>) | 鳥取県琴浦町 | 2026-09-03 | 2026-09-30 | 印(2)2 特 記 事 項国土交通省大臣官房官庁営繕部監修の「営繕工事写真撮影要領(平成24年版)」によるほか監督職員の指示による | [仕様書](<https://www.town.kotoura.tottori.jp/docs/2026090400030/files/01.pdf>) / [設計書（金額抜き）](<https://www.town.kotoura.tottori.jp/docs/2026090400030/files/02.pdf>) / [図面](<https://www.town.kotoura.tottori.jp/docs/2026090400030/files/03.pdf>) / [入札の注意点](<https://www.town.kotoura.tottori.jp/docs/2026090400030/files/05.pdf>) |
-| 山口県 | [www.pref.yamaguchi.lg.jp](<https://www.pref.yamaguchi.lg.jp>) | 山口県 | 2026-09-01 | 原文を確認 | 更新知事記者会見録・令和8年8月31日実施分2026年9月1日更新県政テレビ番組(9月)2026年9月1日更新県政ラジオ番組(9月)2026年9月1日更新令和8年度 山口県職員採用選考(任期付職員) 受験案内2026年9月1日更新令和8年度山口県職員採用大学卒業程度試験(秋季枠)の受付を開始トピックスの一覧トピックスの… | — |
-| 岡山県 | [奥市公園野球場クッションマット](<https://keiyaku.city.okayama.jp/webftp/pdf/2026027193.pdf>) | 岡山県岡山市 | 2026-08-31 | 原文を確認 | (7) 納入・設置完了後は写真撮影し、エクセルを用い一覧表として提出すること | — |
-| 広島県 | [ひろしま建設フェア2026に係る運営等業務](<https://www.pref.hiroshima.lg.jp/uploaded/attachment/680648.pdf>) | 広島県 | 2026-08-31 | 2026-10-09 | 会場内において、開催に係る記録及び広報用素材として使用するため、適宜、写真撮影を行うこと | [01\_入札説明書 (PDFファイル)(69KB)](<https://www.pref.hiroshima.lg.jp/uploaded/attachment/680649.pdf>) / [06\_業務委託契約書（案） (PDFファイル)(332KB)](<https://www.pref.hiroshima.lg.jp/uploaded/attachment/680654.pdf>) / [07\_仕様書 (PDFファイル)(9.76MB)](<https://www.pref.hiroshima.lg.jp/uploaded/attachment/680655.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

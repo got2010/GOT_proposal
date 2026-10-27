@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-27T07:24+09:00（収集時点）
+最終更新：2026-10-28T07:27+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**252件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**254件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 秋田県 | [造林事業請負（盛岡地区4 下刈・除伐外1）【再公告】](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/morioka/morioka_r8zourin-10.html>) | 林野庁東北森林管理局 | 2026-07-29 | 2026-08-05 | 出来形管理基準(b) 出来形図面(3) 実行記録写真 (a) 実行記録写真の撮影要領(b) 実行記録写真の撮影と整理4.管理の実施(1) 現場代理人は、作業の実施の都度、その結果を記録するとともに、その結果に基づいて適切な実行管理を行わなければならない | [01\_入札公告(PDF : 249KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/morioka/./attach/pdf/morioka_r8zourin-10-1.pdf>) / [02\_入札説明書(PDF : 4,050KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/morioka/./attach/pdf/morioka_r8zourin-10-2.pdf>) / [03\_造林事業請負標準仕様書(PDF : 715KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/morioka/./attach/pdf/morioka_r8zourin-10-3.pdf>) / [04\_入札説明書資料(PDF : 6,718KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/morioka/./attach/pdf/morioka_r8zourin-10-4.pdf>) / [https://www.rinya.maff.go.jp/tohoku/apply/publicsale/manyual/attach/pdf/index-131.pdf](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/morioka/https://www.rinya.maff.go.jp/tohoku/apply/publicsale/manyual/attach/pdf/index-131.pdf>) |
+| 青森県 | [中央公民館改修工事設計業務](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/R8gki.k001.pdf>) | 青森県五所川原市 | 2026-07-29 | 2026-08-12 | d. 写真の著作権の権利等について 受注者は写真の撮影を再委託する場合は、次の事項を条件とすること | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8gki.j001.zip>) |
 | 青森県 | [東部第４雨水幹線防護柵設置工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k027.pdf>) | 青森県五所川原市 | 2026-07-29 | 2026-08-05 | 1台でよい)は現場出発時と処理場到着時に車番(ナンバープレート)を入れ写真撮影すること | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j027.zip>) |
 | 青森県 | [アワビ中間育成施設解体工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k028.pdf>) | 青森県五所川原市 | 2026-07-29 | 2026-08-05 | )について、営繕工事写真撮影要領2.(3)撮影方法に示す項目の電子的記入ができること、かつ信憑性確認(改ざん検知機能)を有するものを使用することとする | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j028.zip>) |
 | 山形県 | [7月28日公告（土木一式A）格付指定型一般競争入札の公告について 工事名：令和8年度由良白山島落石防止工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260728koukoku1.files/20260728koukoku1-1.pdf>) | 山形県鶴岡市 | 2026-07-28 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：2,120KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260728koukoku1.files/20260728koukoku1-2.pdf>) |

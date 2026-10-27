@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-27T07:24+09:00（収集時点）
+最終更新：2026-10-28T07:27+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**226件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**229件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 山口県 | [www.pref.yamaguchi.lg.jp](<https://www.pref.yamaguchi.lg.jp>) | 山口県 | 2026-09-01 | 原文を確認 | 更新知事記者会見録・令和8年8月31日実施分2026年9月1日更新県政テレビ番組(9月)2026年9月1日更新県政ラジオ番組(9月)2026年9月1日更新令和8年度 山口県職員採用選考(任期付職員) 受験案内2026年9月1日更新令和8年度山口県職員採用大学卒業程度試験(秋季枠)の受付を開始トピックスの一覧トピックスの… | — |
+| 岡山県 | [奥市公園野球場クッションマット](<https://keiyaku.city.okayama.jp/webftp/pdf/2026027193.pdf>) | 岡山県岡山市 | 2026-08-31 | 原文を確認 | (7) 納入・設置完了後は写真撮影し、エクセルを用い一覧表として提出すること | — |
+| 広島県 | [ひろしま建設フェア2026に係る運営等業務](<https://www.pref.hiroshima.lg.jp/uploaded/attachment/680648.pdf>) | 広島県 | 2026-08-31 | 2026-10-09 | 会場内において、開催に係る記録及び広報用素材として使用するため、適宜、写真撮影を行うこと | [01\_入札説明書 (PDFファイル)(69KB)](<https://www.pref.hiroshima.lg.jp/uploaded/attachment/680649.pdf>) / [06\_業務委託契約書（案） (PDFファイル)(332KB)](<https://www.pref.hiroshima.lg.jp/uploaded/attachment/680654.pdf>) / [07\_仕様書 (PDFファイル)(9.76MB)](<https://www.pref.hiroshima.lg.jp/uploaded/attachment/680655.pdf>) |
 | 広島県 | [中山地区下水管路施設テレビカメラ調査その他業務８－１](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640099800102.pdf>) | 広島県広島市 | 2026-08-28 | 原文を確認 | また、異常がない場合は5m毎に1回、管内の状況が把握できるようカラー写真撮影を行わなければならない | [03\_設計書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640099800103.pdf>) |
 | 広島県 | [総【JV】7-108-202防災備蓄倉庫新築工事（建築）(PDFファイル:325.4KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-202.pdf>) | 広島県東広島市 | 2026-08-27 | 原文を確認 | 工事中写真及び完成写真の撮影は国土交通省大臣官房官庁営繕部 策定の「営繕工事写真撮影要領」によるものとする | [7-108-202-1](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-200-1tosho.pdf>) / [(PDFファイル:9.4MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-200-1tosho.pdf>) / [7-108-202-2(PDFファイル:8MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-200-2tosho.pdf>) |
 | 広島県 | [維8-108-20公共ます設置業務（全08-2）(PDFファイル:82.5KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-20kokoku.pdf>) | 広島県東広島市 | 2026-08-27 | 2026-09-16 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [8-108-20(PDFファイル:530.4KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-20tosho.pdf>) |
@@ -113,8 +116,5 @@
 | 広島県 | [2号7-108-137西条東7号線道路維持修繕工事(PDFファイル:178.6KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-137_kokoku.pdf>) | 広島県東広島市 | 2026-07-28 | 2026-08-20 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-137(PDFファイル:4.8MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_7-108-137.pdf>) |
 | 山口県 | [第五次宇部市総合計画後期実行計画デザイン編集等支援業務委託に係る公募型プロポーザル参加者募集](<https://www.city.ube.yamaguchi.jp/_res/projects/default_project/_page_/001/029/338/01-2_jissiyouryou.pdf>) | 山口県宇部市 | 2026-07-22 | 2026-08-18 | レイアウト、編集デザイン、データ入力、イラスト・文字・図表等の作成及び写真加工・撮影等を行うこと | [第五次宇部市総合計画後期実行計画デザイン編集等支援業務委託仕様書 （PDF 392.5KB）](<https://www.city.ube.yamaguchi.jp/_res/projects/default_project/_page_/001/029/338/03-2_siyousho.pdf>) |
 | 広島県 | [通信機器清掃点検業務委託（令和8年7月22日～令和8年8月4日）](<https://www.chugokushikoku.npa.go.jp/kaikei/ippan/file/hiroshima/nyusatu-koukoku-080722-2.pdf>) | 国家公安委員会（警察庁）中国四国管区警察局 | 2026-07-22 | 2026-08-05 | (特定資料並びに特定物件の複製及び写真撮影)第6条 乙は、主たる契約に定められている場合を除き、特定資料を複製し又は 特定物件の見取図、試験成績表等の製作若しくは写真撮影をしようとするとき は、あらかじめ甲の許可を受けるものとする | — |
-| 広島県 | [通信施設等点検業務委託（令和8年7月22日～令和8年8月4日）](<https://www.chugokushikoku.npa.go.jp/kaikei/ippan/file/hiroshima/nyusatu-koukoku-080722-1.pdf>) | 国家公安委員会（警察庁）中国四国管区警察局 | 2026-07-22 | 2026-08-05 | (特定資料並びに特定物件の複製及び写真撮影)第6条 乙は、主たる契約に定められている場合を除き、特定資料を複製し又は 特定物件の見取図、試験成績表等の製作若しくは写真撮影をしようとするとき は、あらかじめ甲の許可を受けるものとする | — |
-| 広島県 | [通信施設等点検業務委託（令和8年7月22日～令和8年8月4日）](<https://www.chugokushikoku.npa.go.jp/kaikei/ippan/file/hiroshima/nyusatu-koukoku-080722-1.pdf>) | 国家公安委員会（警察庁）中国管区警察局 | 2026-07-22 | 2026-08-05 | (特定資料並びに特定物件の複製及び写真撮影)第6条 乙は、主たる契約に定められている場合を除き、特定資料を複製し又は 特定物件の見取図、試験成績表等の製作若しくは写真撮影をしようとするとき は、あらかじめ甲の許可を受けるものとする | — |
-| 広島県 | [通信機器清掃点検業務委託（令和8年7月22日～令和8年8月4日）](<https://www.chugokushikoku.npa.go.jp/kaikei/ippan/file/hiroshima/nyusatu-koukoku-080722-2.pdf>) | 国家公安委員会（警察庁）中国管区警察局 | 2026-07-22 | 2026-08-05 | (特定資料並びに特定物件の複製及び写真撮影)第6条 乙は、主たる契約に定められている場合を除き、特定資料を複製し又は 特定物件の見取図、試験成績表等の製作若しくは写真撮影をしようとするとき は、あらかじめ甲の許可を受けるものとする | — |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

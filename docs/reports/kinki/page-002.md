@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-27T07:24+09:00（収集時点）
+最終更新：2026-10-28T07:27+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**208件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**213件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,11 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 大阪府 | [UR賃貸住宅団地内一般清掃等業務（天満橋北団地他2団地）（大阪住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44147_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1674KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44147_3.pdf>) / [仕様書\[2071KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44147_4.pdf>) |
+| 大阪府 | [UR賃貸住宅団地内一般清掃等業務（さざなみプラザ第七団地）（大阪住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44148_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1670KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44148_3.pdf>) / [仕様書\[1697KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44148_4.pdf>) |
+| 大阪府 | [UR賃貸住宅団地内一般清掃等業務（江坂団地他3団地）（千里住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44153_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1836KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44153_3.pdf>) / [仕様書\[2491KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44153_4.pdf>) |
+| 大阪府 | [UR賃貸住宅団地内一般清掃等業務（ルミナス箕面の森二番街団地他2団地）（千里住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44154_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1785KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44154_3.pdf>) / [仕様書\[2218KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44154_4.pdf>) |
+| 大阪府 | [UR賃貸住宅団地内一般清掃等業務（オークタウン東茨木団地）（千里住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44155_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1679KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44155_3.pdf>) / [仕様書\[1542KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44155_4.pdf>) |
 | 大阪府 | [UR賃貸住宅団地内一般清掃等業務（水無瀬駅前団地）（千里住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44156_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1681KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44156_3.pdf>) / [仕様書\[1497KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44156_4.pdf>) |
 | 大阪府 | [UR賃貸住宅団地内一般清掃等業務（若山台第四団地他1団地）（千里住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44157_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1685KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44157_3.pdf>) / [仕様書\[1869KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44157_4.pdf>) |
 | 大阪府 | [能登空港ＥＳＳＥ装置設置その他工事](<https://www.cab.mlit.go.jp/wcab/file/0916_1005_kyoku_notoESSEsouchisextuchisonotakouji.pdf>) | 国土交通省大阪航空局 | 2026-09-16 | 2026-10-05 | 等)7機器撤去・ITV映像表示装置 1式・映像操作端末本体 1式・簡易映像記録装置 1式・受配・配信装置 端末本体 1式・受配・配信装置 表示装置 1式・配信情報表示装置 本体端末 1式・配信情報表示装置 タッチパネル 1式×4 等・電源、通信ケーブル等撤去(RAG空港用ITV装置~分電盤間等)※その他詳細は仕様書によ… | — |
@@ -111,10 +116,5 @@
 | 京都府 | [京都市公共施設劣化度調査業務（エリア４）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/429749.htm>) | 京都府京都市 | 2026-07-17 | 原文を確認 | 分をC及びDと評価した箇所については、デジタルカメラ等を用いて調査記録写真を撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./429749_12_07130927.pdf>) |
 | 京都府 | [京都市公共施設劣化度調査業務（エリア１）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/429741.htm>) | 京都府京都市 | 2026-07-17 | 原文を確認 | 分をC及びDと評価した箇所については、デジタルカメラ等を用いて調査記録写真を撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./429741_12_07130901.pdf>) |
 | 京都府 | [京都市公共施設劣化度調査業務（エリア２）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/429744.htm>) | 京都府京都市 | 2026-07-17 | 原文を確認 | 分をC及びDと評価した箇所については、デジタルカメラ等を用いて調査記録写真を撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./429744_12_07130904.pdf>) |
-| 京都府 | [令和８年度自動車騒音・道路交通振動調査業務委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/430092.htm>) | 京都府京都市 | 2026-07-17 | 原文を確認 | 量証明に係る分析、報告書の作成、提出に係る費用(2) 各種試験、検査、写真撮影等に必要な費用(3) 打合せ、調査結果の報告説明等のための本市施設への訪問に伴う交通費(4) 本市の施設・職員及び第三者等に損害を与えた場合、復旧する費用及び補償(5) 官公署等に対する書類の作成及び届出等の手続きに必要な費用(6) 乙の本委… | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./430092_12_07131510.pdf>) |
-| 奈良県 | [鼓阪小学校嘱託登記業務に係る一般競争入札について](<https://www.city.nara.lg.jp/soshiki/165/271375.html>) | 奈良県奈良市 | 2026-07-16 | 原文を確認 | よりトータルステーション等を用いて下記を確認する作業をいう(境界標等の写真撮影を含む) | [入札公告 \[PDFファイル／151KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/214392.pdf>) / [別記個人情報取扱事項 \[PDFファイル／169KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/214377.pdf>) / [共通仕様書 \[PDFファイル／416KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/214378.pdf>) / [特記仕様書 \[PDFファイル／131KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/214379.pdf>) / [鼓阪小学校位置図 \[PDFファイル／2.36MB\]](<https://www.city.nara.lg.jp/uploaded/attachment/214381.pdf>) |
-| 奈良県 | [https://www.city.ikoma.lg.jp/0000041924.html](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000041/41924/001.koukoku.pdf>) | 奈良県生駒市 | 2026-07-15 | 原文を確認 | る事項(1)契約件名 生駒市統合型地理情報システムデータ更新に伴う航空写真撮影及び地形図更新業務(2)場 所 生駒市全域及び周辺地域(3)契約期間 契約の日から令和9年3月31日まで(4)履行期間 契約の日から令和9年3月31日まで(5)業 種 A(印刷・図書・現像類)オ(航空写真)(6)業務概要 別紙仕様書による(7… | [契約主要事項説明書 (PDF形式、56.83KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000041/41924/002syuyouzikou.pdf>) / [仕様書 (PDF形式、249.59KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000041/41924/003.siyousyo.pdf>) / [事後審査型条件付一般競争入札参加資格確認申請書 (ワード形式、46.50KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000041/41924/007.sankasikaku.doc>) |
-| 兵庫県 | [K01 ちくさ高原スキー場キュービクル式高圧受電設備更新工事](<https://www.city.shiso.lg.jp/material/files/group/29/260630_K01_1_chikusasukiijoukouatsujudensetsubikoushin_koukokusho.pdf>) | 兵庫県宍粟市 | 2026-07-15 | 2026-08-03 | 完成時及び材料検収のほか、監督員が必要と認め指示した箇所についてカラー写真を撮影して提出すること | [仕様書等](<https://www.city.shiso.lg.jp/material/files/group/29/260630_K01_4_chikusasukiijoukouatsujudensetsubikoushin_shiyousho.pdf>) |
-| 兵庫県 | [S01 カード券面事項印字システム機器更新業務](<https://www.city.shiso.lg.jp/material/files/group/29/260630_S01_1_cardkenmenjikouinjisystemkikikoushin_koukokusho.pdf>) | 兵庫県宍粟市 | 2026-07-15 | 原文を確認 | 物品の納品時に写真を撮影し提出すること | [仕様書等](<https://www.city.shiso.lg.jp/material/files/group/29/260630_S01_4_cardkenmenjikouinjisystemkikikoushin_shiyousho.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)
