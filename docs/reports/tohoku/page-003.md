@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-28T07:27+09:00（収集時点）
+最終更新：2026-10-29T07:30+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**254件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**259件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,11 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 宮城県 | [高山林道改良工事](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/miyagihokubu/20260730_doboku_01.html>) | 林野庁東北森林管理局宮城北部森林管理署 | 2026-07-31 | 2026-09-15 | 注者は、林業専用道に係る工事(新設に限る)の施工に当たっては、別紙の「写真撮影基準」により施工管理を行うことができるものとする | [入札公告(PDF : 173KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/miyagihokubu/./attach/pdf/20260730_doboku_01-1.pdf>) / [1.入札説明書(PDF : 212KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/miyagihokubu/./attach/pdf/20260730_doboku_01-2.pdf>) / [3.特記仕様書(PDF : 7,006KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/miyagihokubu/./attach/pdf/20260730_doboku_01-4.pdf>) / [4.現場説明書(PDF : 631KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/miyagihokubu/./attach/pdf/20260730_doboku_01-5.pdf>) / [6.公表用設計書(PDF : 267KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/miyagihokubu/./attach/pdf/20260730_doboku_01-7.pdf>) |
+| 山形県 | [7月30日公告（舗装Bかつ土木一式A）格付指定型一般競争入札の公告について 工事名：鶴岡市公共下水道事業 雨水茅原第2排水区舗装復旧工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/080730-27.files/080730-27.pdf>) | 山形県鶴岡市 | 2026-07-30 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書一式 （PDF：1,420KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/080730-27.files/080730-27-01.pdf>) |
+| 山形県 | [7月30日公告（舗装A）格付指定型一般競争入札の公告について 工事名：鶴岡市集落排水事業 三瀬地区管路施設64～140号路面復旧工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/080730-28.files/080730-28.pdf>) | 山形県鶴岡市 | 2026-07-30 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書一式 （PDF：6,594KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/080730-28.files/080730-28-01.pdf>) |
+| 岩手県 | [製品生産及び森林環境保全整備事業（和佐良比山国有林）外](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kuji/260908_1.html>) | 林野庁東北森林管理局三陸北部森林管理署久慈支署 | 2026-07-30 | 2026-08-14 | 業区域の確認(d) 事業日報(2) 実行記録写真管理 (a) 実行記録写真の撮影要領(b) 実行記録写真の撮影と整理4 管理の実施(1) 現場代理人又は担当技術者は、作業の実施の都度、その結果を記録するとともに、その結果に基づいて適切な実行管理を行わなければならない | [入札公告（和佐良比山国有林）外](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kuji/./attach/pdf/260908_1-11.pdf>) / [入札説明書](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kuji/./attach/pdf/260908_1-1.pdf>) / [競争参加資格確認申請書及び技術提案書作成要領](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kuji/./attach/pdf/260908_1-3.pdf>) / [第1号物件：製品生産事業請負標準仕様書・特記仕様書外（和佐良比山）](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kuji/./attach/pdf/260908_1-4.pdf>) / [第2号物件：製品生産事業請負標準仕様書・特記仕様書外（北野山）](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kuji/./attach/pdf/260908_1-5.pdf>) |
+| 青森県 | [森林環境保全整備事業(内真部山国有林外)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/aomori/260730.html>) | 林野庁東北森林管理局青森森林管理署 | 2026-07-30 | 2026-08-17 | 業区域の確認(d) 事業日報(2) 実行記録写真管理 (a) 実行記録写真の撮影要領(b) 実行記録写真の撮影と整理4 管理の実施(1) 現場代理人又は担当技術者は、作業の実施の都度、その結果を記録するとともに、その結果に基づいて適切な実行管理を行わなければならない | [入札公告(PDF : 185KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/aomori/./attach/pdf/260730-1.pdf>) / [入札説明書(PDF : 200KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/aomori/./attach/pdf/260730-2.pdf>) / [競争参加資格申請書及び技術提案書作成要領(PDF : 3,126KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/aomori/./attach/pdf/260730-4.pdf>) / [林分条件調査表外(PDF : 125KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/aomori/./attach/pdf/260730-6.pdf>) / [位置図(PDF : 7,485KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/aomori/./attach/pdf/260730-7.pdf>) |
 | 秋田県 | [造林事業請負（盛岡地区4 下刈・除伐外1）【再公告】](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/morioka/morioka_r8zourin-10.html>) | 林野庁東北森林管理局 | 2026-07-29 | 2026-08-05 | 出来形管理基準(b) 出来形図面(3) 実行記録写真 (a) 実行記録写真の撮影要領(b) 実行記録写真の撮影と整理4.管理の実施(1) 現場代理人は、作業の実施の都度、その結果を記録するとともに、その結果に基づいて適切な実行管理を行わなければならない | [01\_入札公告(PDF : 249KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/morioka/./attach/pdf/morioka_r8zourin-10-1.pdf>) / [02\_入札説明書(PDF : 4,050KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/morioka/./attach/pdf/morioka_r8zourin-10-2.pdf>) / [03\_造林事業請負標準仕様書(PDF : 715KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/morioka/./attach/pdf/morioka_r8zourin-10-3.pdf>) / [04\_入札説明書資料(PDF : 6,718KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/morioka/./attach/pdf/morioka_r8zourin-10-4.pdf>) / [https://www.rinya.maff.go.jp/tohoku/apply/publicsale/manyual/attach/pdf/index-131.pdf](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/morioka/https://www.rinya.maff.go.jp/tohoku/apply/publicsale/manyual/attach/pdf/index-131.pdf>) |
 | 青森県 | [中央公民館改修工事設計業務](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/R8gki.k001.pdf>) | 青森県五所川原市 | 2026-07-29 | 2026-08-12 | d. 写真の著作権の権利等について 受注者は写真の撮影を再委託する場合は、次の事項を条件とすること | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8gki.j001.zip>) |
 | 青森県 | [東部第４雨水幹線防護柵設置工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k027.pdf>) | 青森県五所川原市 | 2026-07-29 | 2026-08-05 | 1台でよい)は現場出発時と処理場到着時に車番(ナンバープレート)を入れ写真撮影すること | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j027.zip>) |

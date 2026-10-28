@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-28T07:27+09:00（収集時点）
+最終更新：2026-10-29T07:30+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**213件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**215件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 京都府 | [京都市公共施設劣化度調査業務（エリア１）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/429741.htm>) | 京都府京都市 | 2026-07-17 | 原文を確認 | 分をC及びDと評価した箇所については、デジタルカメラ等を用いて調査記録写真を撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./429741_12_07130901.pdf>) |
+| 京都府 | [京都市公共施設劣化度調査業務（エリア２）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/429744.htm>) | 京都府京都市 | 2026-07-17 | 原文を確認 | 分をC及びDと評価した箇所については、デジタルカメラ等を用いて調査記録写真を撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./429744_12_07130904.pdf>) |
 | 京都府 | [令和８年度自動車騒音・道路交通振動調査業務委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/430092.htm>) | 京都府京都市 | 2026-07-17 | 原文を確認 | 量証明に係る分析、報告書の作成、提出に係る費用(2) 各種試験、検査、写真撮影等に必要な費用(3) 打合せ、調査結果の報告説明等のための本市施設への訪問に伴う交通費(4) 本市の施設・職員及び第三者等に損害を与えた場合、復旧する費用及び補償(5) 官公署等に対する書類の作成及び届出等の手続きに必要な費用(6) 乙の本委… | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./430092_12_07131510.pdf>) |
 | 奈良県 | [鼓阪小学校嘱託登記業務に係る一般競争入札について](<https://www.city.nara.lg.jp/soshiki/165/271375.html>) | 奈良県奈良市 | 2026-07-16 | 原文を確認 | よりトータルステーション等を用いて下記を確認する作業をいう(境界標等の写真撮影を含む) | [入札公告 \[PDFファイル／151KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/214392.pdf>) / [別記個人情報取扱事項 \[PDFファイル／169KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/214377.pdf>) / [共通仕様書 \[PDFファイル／416KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/214378.pdf>) / [特記仕様書 \[PDFファイル／131KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/214379.pdf>) / [鼓阪小学校位置図 \[PDFファイル／2.36MB\]](<https://www.city.nara.lg.jp/uploaded/attachment/214381.pdf>) |
 | 奈良県 | [https://www.city.ikoma.lg.jp/0000041924.html](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000041/41924/001.koukoku.pdf>) | 奈良県生駒市 | 2026-07-15 | 原文を確認 | る事項(1)契約件名 生駒市統合型地理情報システムデータ更新に伴う航空写真撮影及び地形図更新業務(2)場 所 生駒市全域及び周辺地域(3)契約期間 契約の日から令和9年3月31日まで(4)履行期間 契約の日から令和9年3月31日まで(5)業 種 A(印刷・図書・現像類)オ(航空写真)(6)業務概要 別紙仕様書による(7… | [契約主要事項説明書 (PDF形式、56.83KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000041/41924/002syuyouzikou.pdf>) / [仕様書 (PDF形式、249.59KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000041/41924/003.siyousyo.pdf>) / [事後審査型条件付一般競争入札参加資格確認申請書 (ワード形式、46.50KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000041/41924/007.sankasikaku.doc>) |

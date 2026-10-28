@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-28T07:27+09:00（収集時点）
+最終更新：2026-10-29T07:30+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**490件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**492件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 5
 
@@ -47,6 +47,8 @@
 | 東京都 | [2027（令和９）年国民生活基礎調査マニュアル動画・広報用動画改修業務一式](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 厚生労働省 | 2026-08-05 | 2026-09-09 | 2027(令和9)年国民生活基礎調査マニュアル動画・広報用動画改修業務一式 | — |
 | 東京都 | [緊急地震速報20周年映像資料の制作](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-29 | 2026-08-19 | 緊急地震速報20周年映像資料の制作 | — |
 | 東京都 | [令和７年度新宿御苑日本館御殿工事（Ⅰ）展示映像撮影業務（総合評価落札方式）](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 環境省 | 2026-07-23 | 2026-08-05 | 令和7年度新宿御苑日本館御殿工事(I)展示映像撮影業務(総合評価落札方式) | — |
+| 埼玉県 | [駒場運動公園陸上競技場躯体の健全性調査業務の入札情報](<https://www.city.saitama.lg.jp/006/011/003/p134569_d/fil/1_.pdf>) | 埼玉県さいたま市 | 2026-10-28 | 2026-11-26 | 劣化や不具合が見つかった場合は写真を撮影し、その位置を平面図等に記録する | [2\_業務委託特記仕様書（PDF形式 868キロバイト）](<https://www.city.saitama.lg.jp/006/011/003/p134569_d/fil/2_.pdf>) / [3\_入札説明書（PDF形式 139キロバイト）](<https://www.city.saitama.lg.jp/006/011/003/p134569_d/fil/3_.pdf>) |
+| 埼玉県 | [駒場運動公園陸上競技場躯体の健全性調査業務の入札情報](<https://www.city.saitama.lg.jp/005/001/017/006/003/p134868_d/fil/1_.pdf>) | 埼玉県さいたま市 | 2026-10-28 | 2026-11-26 | 劣化や不具合が見つかった場合は写真を撮影し、その位置を平面図等に記録する | [2\_業務委託特記仕様書（PDF形式 868キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p134868_d/fil/2_.pdf>) / [3\_入札説明書（PDF形式 139キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p134868_d/fil/3_.pdf>) |
 | 埼玉県 | [さいたま市家庭ごみ収集所看板・啓発物掲示等業務](<https://www.city.saitama.lg.jp/005/001/017/006/003/p134559_d/fil/kokuji.pdf>) | 埼玉県さいたま市 | 2026-10-27 | 2026-11-16 | キ 作業を実施したすべての箇所について、貼付後の状況が確認できる写真を撮影し、整理・保存のうえ、提出又は提示できる状態とすること | [02\_入札説明書（PDF形式 183キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p134559_d/fil/nyuusatusetumeisyo.pdf>) / [03\_家庭ごみ収集所看板・啓発物掲示等業務仕様書（PDF形式 307キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p134559_d/fil/siyousyo.pdf>) |
 | 茨城県 | [（RE-13097）ITER水平ランチャー用HIP接合材の品質確認試験【掲載期間：2026-10-27～2026-11-16】](<https://www.qst.go.jp/uploaded/attachment/53687.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-10-27 | 原文を確認 | (4)QSTが立会にあたり現場の写真撮影の必要性を認めた場合は、受注者の許可の下に、QSTが撮影できることとする | [仕様書 \[PDFファイル／1.42MB\]](<https://www.qst.go.jp/uploaded/attachment/53684.pdf>) |
 | 栃木県 | [公共下水道ストックマネジメント管路施設調査業務委託](<https://www.city.sano.lg.jp/material/files/group/18/081026a.pdf>) | 栃木県佐野市 | 2026-10-26 | 2026-11-04 | 11. 記録写真受注者は、次の各項に従って、記録写真を撮影し、作業完了時には、工種ごとに工程順に編集したものを、作業記録写真帳に整理し、完了届に添付して監督員に提出すること | [入札説明書 (PDFファイル: 167.5KB)](<https://www.city.sano.lg.jp/material/files/group/18/081026b.pdf>) / [仕様書 (PDFファイル: 6.9MB)](<https://www.city.sano.lg.jp/material/files/group/18/081026c.pdf>) |
@@ -114,7 +116,5 @@
 | 埼玉県 | [【10月5日公告】公共下水道管改築工事（第12工区）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202610053.files/8-605_606_koukoku.pdf>) | 埼玉県狭山市 | 2026-10-05 | 原文を確認 | 1 工事概要2 職務分担および緊急時の連絡体制3 工事記録写真撮影計画4 実施工程表5 工法6 主要機械7 主要資材8 材料設計および水理性能評価9 材料品質証明の内容10 前処理計画11 施工管理12 品質管理13 環境対策14 安全・衛生管理15 材料の製造から使用までの保管期間と保管方法16 材料の運搬方法17 … | [入札説明書（PDF・114KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202610053.files/8-606-1_nyuusatusetumeisyo.pdf>) / [位置図（PDF・156KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202610053.files/8-606-2_itizu.pdf>) / [仕様書（PDF・248KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202610053.files/8-606-3_siyousyo.pdf>) / [特記仕様書（自立管・反転形成工法）（PDF・314KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202610053.files/8-606-4-1_tokkisiyousyo_jiritukan_hanten.pdf>) / [特記仕様書（自立管・製管工法）（PDF・267KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202610053.files/8-606-4-2_tokkisiyousyo_jiritukan_seikan.pdf>) |
 | 埼玉県 | [【10月5日公告】令和8年度航空写真作成及び家屋図更新等業務委託](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202610051.files/8-373_koukoku.pdf>) | 埼玉県狭山市 | 2026-10-05 | 原文を確認 | 航空写真撮影(デジタル航空カメラ 1/30,000)一式簡易オルソ画像作成 143枚家屋図更新 1000棟家屋評価調書ファイリング700棟落札候補者について、狭山市建設工事請負等一般競争入札(事後審査型)執行要綱に基づき入札参加資格を満たしているか否かの審査を行う | [入札説明書（PDF・105KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202610051.files/8-373-1_nyuusatusetumeisyo.pdf>) / [仕様書（PDF・244KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202610051.files/8-373-2-1_siyousyo.pdf>) / [別紙1\_撮影計画図（PDF・1,280KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202610051.files/8-373-2-2_bessi1_satueikeikakuzu.pdf>) / [別紙2（PDF・57KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202610051.files/8-373-2-3_bessi2.pdf>) / [特記仕様書（PDF・104KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202610051.files/8-373-3_tokkisiyousyo.pdf>) |
 | 茨城県 | [【電子入札】【電子契約】エントランスノズル組立品の試作試験](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03584.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-10-05 | 2026-11-27 | 験片)採取して溶接部断面の溶け込み状況を顕微鏡を用いて観察すると共に、写真撮影を行い溶け込みがそれぞれの試料で規定された深さに達していること | — |
-| 東京都 | [「デジタル・シティズンシップ醸成講座実施委託」公募型プロポーザルの実施について](<https://www.city.setagaya.lg.jp/documents/34835/02_yoryo.pdf>) | 東京都世田谷区 | 2026-10-02 | 2026-12-08 | 領域に応じた講座設計(3) モデル校講座の内容・構成・実施方法(4) 動画教材の企画・撮影・編集及び全校展開性(5) 教員向け授業支援資料の実用性(6) 保護者向け講座及び教職員向け講座の実効性(7) アンケート設計・集計・分析及び報告(8) 実施体制・専門性・進行管理(9) 情報管理・権利処理・危機管理(10) 類似… | — |
-| 千葉県 | [松契一般第238号 矢切地区排水整備工事（PDF：371KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1002kouji2w.files/238.pdf>) | 千葉県松戸市 | 2026-10-02 | 2026-10-02 | 写真管理 写真撮影内容は目的を満足しているか | [松契一般第238号 設計図書（PDF：16,055KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1002kouji2w.files/238s.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

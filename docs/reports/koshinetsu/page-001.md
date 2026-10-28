@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-28T07:27+09:00（収集時点）
+最終更新：2026-10-29T07:30+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**177件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**178件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 2
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 長野県 | [00\_koukoku\_1112\_tenkenn.pdf](<https://www.town.minowa.lg.jp/material/files/group/4/00_koukoku_1112_tenkenn.pdf>) | 長野県箕輪町 | 2026-10-28 | 2026-10-28 | ア 着手届イ 業務責任者通知書ウ 工程表エ 点検・調査計画書オ 写真撮影計画書カ 職務分担表提出した書類の内容を変更する必要が生じたときは、直ちに変更届を提出すること | [閲覧設計書](<https://www.town.minowa.lg.jp/material/files/group/4/01_sekkei_1112_tennkenn.pdf>) / [標準仕様書](<https://www.town.minowa.lg.jp/material/files/group/4/02_hyoujyun_1112_tenken.pdf>) / [特記仕様書](<https://www.town.minowa.lg.jp/material/files/group/4/03_tokki_1112_tennkenn.pdf>) / [位置図](<https://www.town.minowa.lg.jp/material/files/group/4/04_ichizu_1112_tennkenn.pdf>) / [全部書類（圧縮ファイル）](<https://www.town.minowa.lg.jp/material/files/group/4/06_zenbu_1112_tennkenn.zip>) |
 | 長野県 | [令和8年度 保育所管理事業 新保育園建設 電気設備工事](<https://www.city.komagane.nagano.jp/material/files/group/4/081026_Kokoku163.zip>) | 長野県駒ケ根市 | 2026-10-27 | 2026-11-20 | 火上主要な間仕切りを貫通する場合の施工状況について、貫通個所の両面から写真撮影し、工事写真として提出する | [設計図書外 (圧縮ファイル: 10.2MB)](<https://www.city.komagane.nagano.jp/material/files/group/4/081026_Sekkeitosyo163.zip>) |
 | 長野県 | [令和8年度 通り町駐車場舗装改修工事【舗装工事Ａ・Ｂ・Ｃ級（市内本店）（支店・営業所の本店扱い含む）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081027tansyuku-7.files/7_1_koukoku_toorityo_hosou_sai.pdf>) | 長野県伊那市 | 2026-10-27 | 2026-11-02 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [仕様書（PDF：45KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081027tansyuku-7.files/7_4_siyou_toorityo_hosou_sai.pdf>) / [特記仕様書（PDF：157KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081027tansyuku-7.files/7_5_tokki_toorityo_hosou_sai.pdf>) / [位置図（PDF：5,212KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081027tansyuku-7.files/7_6_itizu_toorityo_hosou_sai.pdf>) / [図面（PDF：281KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081027tansyuku-7.files/7_7_zumen_toorityo_hosou_sai.pdf>) |
 | 長野県 | [令和8年度 伊那東小学校ほか 照明LED化改修工事 実施設計業務委託【建築コンサルタント（一級・二級建築士2名以上）（市内本店）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081027_1_koukoku.files/1_1_koukoku_inahigasi_LED_sekkei.pdf>) | 長野県伊那市 | 2026-10-27 | 2026-11-10 | (エ) 透視図作成(CG 着色パース、A3 判、外観〇面、内観〇面) (オ) 簡易な透視図作成(計画段階の確認用及び色決め用程度) (カ) 石綿含有事前調査 1箇所(分析:事前調査) (キ) 窓枠シーリング材 PCB 含有検査(試料採取及び分析)〇箇所 (ク) 照明器具安定器、変圧器・コンデンサー PCB 含有検査(試… | [特記仕様書（PDF：273KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081027_1_koukoku.files/1_3_tokki_inahigasi_LED_sekkei.pdf>) / [業務委託に関する参考資料（PDF：82KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081027_1_koukoku.files/1_4_siryou_inahigasi_LED_sekkei.pdf>) / [位置図（PDF：957KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081027_1_koukoku.files/1_5_itizu_inahigasi_LED_sekkei.pdf>) / [図面（PDF：193KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081027_1_koukoku.files/1_6_zumen_inahigasi_LED_sekkei.pdf>) |
@@ -115,6 +116,5 @@
 | 長野県 | [令和8年度 町単 雲場池公衆トイレ建築他工事](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10374.pdf>) | 長野県軽井沢町 | 2026-08-26 | 2026-10-06 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [金抜設計書 \[PDFファイル／722KB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10333.pdf>) / [​現場説明事項・施工条件明示事項 \[PDFファイル／789KB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10334.pdf>) / [図面（建築1） \[PDFファイル／3.22MB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10335.pdf>) / [図面（建築2） \[PDFファイル／8.31MB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10336.pdf>) / [図面（建築3） \[PDFファイル／1.14MB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10337.pdf>) |
 | 長野県 | [令和８年度中部山岳国立公園南部地域「Kita Alps Traverse Route」におけるロングトレイルを通じた感動体験・海外情報発信業務](<https://chubu.env.go.jp/shinetsu/content/000424931.pdf>) | 環境省信越自然環境事務所 | 2026-08-26 | 2026-09-14 | 公園南部地域3.業務内容(1)英語圏向け訪日観光Webメディア及び公式動画チャンネルでの掲載・配信2訪日外国人旅行者に対して高い到達力を有する英語圏向け訪日観光 Web メディアにおいて、信飛トレイル及びKita Alps Traverse Routeの魅力を紹介する記事及び動画を制作し、掲載又は配信すること | [入札説明書一式\[PDF 1.6MB\]](<https://chubu.env.go.jp/shinetsu/content/000424932.pdf>) |
 | 長野県 | [9月10日開札（一般競争）旭ヶ丘1号マンホールポンプ場外更新工事](<https://www.city.suzaka.nagano.jp/material/files/group/4/260825koukoku110.zip>) | 長野県須坂市 | 2026-08-25 | 2026-09-10 | また、工事着手前に破損している構造物に関しては状況写真を撮影すること | — |
-| 長野県 | [令和8年度 林業専用道権現山線 法面復旧工事【とび・土工・コンクリート工事Ａ・Ｂ級（市内本店）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080825_1_koukoku.files/1_1_koukoku_gongenyama_norimen.pdf>) | 長野県伊那市 | 2026-08-25 | 2026-09-08 | 2 請負者は施工現場において、使用する建設機械の写真撮影を行い、竣工時に提出するものとする | [特記仕様書（PDF：154KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080825_1_koukoku.files/1_3_tokki_gongenyama_norimen.pdf>) / [位置図（PDF：227KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080825_1_koukoku.files/1_5_itizu_gongenyama_norimen.pdf>) / [図面（PDF：255KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080825_1_koukoku.files/1_6_zumen_gongenyama_norimen.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

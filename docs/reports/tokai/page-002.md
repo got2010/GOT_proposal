@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-28T07:27+09:00（収集時点）
+最終更新：2026-10-29T07:30+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：岐阜県 静岡県 愛知県 三重県
 
-**110件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**117件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,13 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 岐阜県 | [契水工第17号 重給市立恵那病院（乗越1工区）配水管更新工事 (圧縮ファイル: 8.1MB)](<https://www.city.ena.lg.jp/material/files/group/3/20260729suikou17.zip>) | 岐阜県恵那市 | 2026-07-29 | 2026-08-18 | 防食・防錆塗料は主要資材一覧に明記し、塗布状況と塗料材が判別できるよう写真撮影をすること | — |
+| 岐阜県 | [08朝支第32号燦燦朝日館空調設備改修工事](<https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/023/853/08asasi32.pdf>) | 岐阜県高山市 | 2026-07-27 | 2026-08-18 | 設備改修工事13枚の内01号国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領(令和5年度版)・同解説 工事写真の撮り方(建築設備編)」 及び防振支持金物●一般共通事項●空調設備冬季湿度(RH)%・ 設ける ・ 設けない .ばい煙濃度計取付座また、フロートスイッチ部はステンレス鋼製(油面検出部)とする | [08asasi32 （zip 5.9MB）](<https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/023/853/08asasi32.zip>) |
+| 岐阜県 | [自然科学研究機構核融合科学研究所大型ﾍﾘｶﾙ実験棟空調設備改修設計業務（再度公告）](<https://www.nifs.ac.jp/procurement/koukoku-lhdkucho20260724.pdf>) | 大学共同利用機関法人自然科学研究機構核融合科学研究所 | 2026-07-24 | 2026-08-10 | 判の大きさ( )、枚数( )、額の有無( )及び材料( )〕・透視図の写真撮影〔カット枚数( )、判の大きさ( )及び白黒・カラーの別( )〕・模型製作〔縮尺( )、主要材料( )、ケースの有無( )及び材質( )〕・模型の写真撮影〔カット枚数( )、判の大きさ( )及び白黒・カラーの別( )〕・計画通知手続き業務(手… | [仕様書](<https://www.nifs.ac.jp/procurement/tokki-lhdkucho20260724.pdf>) |
+| 静岡県 | [西伊豆地区有害鳥獣捕獲等委託事業（R7当初明許）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/izu/20260724.html>) | 林野庁関東森林管理局伊豆森林管理署 | 2026-07-24 | 2027-03-05 | (2) 捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [入札公告(PDF : 886KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/izu/attach/pdf/20260724-1.pdf>) / [入札説明書(PDF : 961KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/izu/attach/pdf/20260724-2.pdf>) / [共通仕様書(PDF : 1,507KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/izu/attach/pdf/20260724-4.pdf>) / [特記仕様書(PDF : 2,977KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/izu/attach/pdf/20260724-6.pdf>) / [実施箇所位置図(PDF : 3,388KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/izu/attach/pdf/20260724-5.pdf>) |
+| 静岡県 | [瀬尻地区ストックポイント整備事業](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tenryu/260724_1.html>) | 林野庁関東森林管理局天竜森林管理署 | 2026-07-24 | 2026-09-07 | る小黒板情報の電子的記入受注者は、(1)の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [入札公告(PDF : 196KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tenryu/attach/pdf/260724_1-7.pdf>) / [入札説明書(PDF : 252KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tenryu/attach/pdf/260724_1-8.pdf>) / [特記仕様書(PDF : 1,434KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tenryu/attach/pdf/260724_1-4.pdf>) / [現場説明書(PDF : 184KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tenryu/attach/pdf/260724_1-9.pdf>) / [図面(PDF : 338KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tenryu/attach/pdf/260724_1-5.pdf>) |
+| 静岡県 | [桃山1号幹線9公共下水道管渠改築工事に伴う実施設計業務委託](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/018/934/g3k.pdf>) | 静岡県熱海市 | 2026-07-22 | 原文を確認 | 、地勢・土地利用・道路状況・水路状況・支障物件等を十分に把握し、現地の写真撮影を行う | [説明書 （PDF 107.8KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/018/934/g5setu.pdf>) / [設計書 （PDF 154.1KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/018/934/g5sekkei.pdf>) / [仕様書 （PDF 131.0KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/018/934/g5siyou.pdf>) / [設計条件項目表 （PDF 55.1KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/018/934/g5koumoku.pdf>) / [図面 （PDF 284.8KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/018/934/g5zumen.pdf>) |
+| 岐阜県 | [中区系基幹管路（中区配水場～大森ﾎﾟﾝﾌﾟ場）舗装復旧（その４）工事](<https://www.city.kani.lg.jp/secure/30313/1-55koukoku.pdf>) | 岐阜県可児市 | 2026-07-22 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 4632KB)](<https://www.city.kani.lg.jp/secure/30313/1-55siyousyo.pdf>) |
 | 岐阜県 | [令和8年度下水道舗装復旧工事](<https://www.city.kani.lg.jp/secure/30312/1-54koukoku.pdf>) | 岐阜県可児市 | 2026-07-22 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 8894KB)](<https://www.city.kani.lg.jp/secure/30312/1-54siyousyo.pdf>) |
 | 岐阜県 | [広見東地区センター外部改修工事](<https://www.city.kani.lg.jp/secure/30311/1-53koukoku.pdf>) | 岐阜県可児市 | 2026-07-22 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 3869KB)](<https://www.city.kani.lg.jp/secure/30311/1-53siyouryo.pdf>) |
 | 岐阜県 | [令和８年度 愛岐ケ丘地内上水道舗装復旧工事](<https://www.city.kani.lg.jp/secure/30310/1-52koukoku.pdf>) | 岐阜県可児市 | 2026-07-22 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 2092KB)](<https://www.city.kani.lg.jp/secure/30310/1-52siyousyo.pdf>) |

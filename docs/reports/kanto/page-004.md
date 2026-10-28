@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-28T07:27+09:00（収集時点）
+最終更新：2026-10-29T07:30+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**490件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**492件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 4 / 5
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 群馬県 | [砂川地区外有害鳥獣（ニホンジカ）誘引捕獲委託事業（R7当初明許）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tone/20260831-001.html>) | 林野庁関東森林管理局利根沼田森林管理署 | 2026-08-31 | 2026-12-10 | (2) 捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [入札公告(PDF : 880KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tone/attach/pdf/20260831-001-1.pdf>) / [(1)入札説明書(PDF : 1,109KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tone/attach/pdf/20260831-001-2.pdf>) / [(3)共通仕様書(PDF : 927KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tone/attach/pdf/20260831-001-4.pdf>) / [(4)特記仕様書(PDF : 267KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tone/attach/pdf/20260831-001-5.pdf>) / [(5)実施個所位置図(PDF : 2,032KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tone/attach/pdf/20260831-001-6.pdf>) |
+| 茨城県 | [【電子入札】【電子契約】遮へい容器の製作](<https://keiyaku.jaea.go.jp/compe/02/pdf/0804C00623.pdf>) | 国立研究開発法人日本原子力研究開発機構敦賀 | 2026-08-31 | 原文を確認 | 4.6 写真等の管理受注者は、作業の必要上写真、ビデオ映像等の撮影を行う場合には、次の事項を厳守すること | — |
 | 茨城県 | [【電子入札】【電子契約】JWTF空調換気設備送排風機等の点検](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01355.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-08-31 | 2026-10-21 | (16) 以下に従い写真を撮影し、作業報告書に添付すること | — |
 | 茨城県 | [【電子入札】【電子契約】プルトニウム燃料第三開発室送排風機動力制御盤配線用遮断器の交換](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03414.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-08-31 | 2026-10-22 | 火気使用作業に係る手続き等6 入構及び物品の搬出入に係る手続き等7 写真撮影に係る手続き等1 非管理区域作業に係る手続き等非管理区域作業を行う時は、受注者は契約締結後から作業開始2週間前までのなるべく早い時期に、作業計画書及び附属書類「表1」を作成し、JAEAの確認を受けること | — |
 | 茨城県 | [【電子入札】【電子契約】加速空洞用高周波結合器の製作](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03090.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-08-31 | 原文を確認 | メタライズ面の写真を撮影すること | — |
@@ -114,7 +116,5 @@
 | 千葉県 | [松契一般第187号 松戸市立小金原保育所トイレ改修工事（PDF：233KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0731kouji.files/187.pdf>) | 千葉県松戸市 | 2026-07-31 | 2026-07-31 | 理人以外の検査とする)【工事完了後速やかに】報告1■工事写真(建築工事写真撮影基準に準拠)■1工事記録写真■2完成写真【工事完了後速やかに】写真帳写真帳11建1.2.4電1.2.4機1.2.4代表者■完成図PDF,CADデータCDもしくはDVD2建1.7.2電1.7.2機1.7.2□電子納品電子媒体電子媒体納品書CDも… | [松契一般第187号 設計図書（PDF：11,485KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0731kouji.files/187s.pdf>) |
 | 千葉県 | [我孫子行政サービスセンター窓口業務委託（公契約）](<https://www.city.abiko.chiba.jp/jigyousha/nyusatsukeiyaku/r8_nyusatsujoho/proposal_r8.files/R8.7.31_madoguchi_yoko.pdf>) | 千葉県我孫子市 | 2026-07-31 | 2026-08-24 | (イ) 写真は撮影時期を聴取するとともに、外務省が定める基準に則っているか確認し、受付ができない写真の場合は、再撮影を求めること | [仕様書（PDF：315KB）](<https://www.city.abiko.chiba.jp/jigyousha/nyusatsukeiyaku/r8_nyusatsujoho/proposal_r8.files/R8.7.31_madoguchi_shiyo.pdf>) / [別紙1（個別業務仕様書）（PDF：491KB）](<https://www.city.abiko.chiba.jp/jigyousha/nyusatsukeiyaku/r8_nyusatsujoho/proposal_r8.files/R8.7.31_madoguchi_shiyo_bessi1.pdf>) |
 | 千葉県 | [防災研修事業業務委託に係る企画提案の募集について](<https://www.pref.chiba.lg.jp/bousaik/nyuu-kei/buppin-itaku/nyuusatsukoukoku/bousaikensyu-kikakuteian_r8.html>) | 千葉県 | 2026-07-31 | 2026-09-25 | よる研修(消防学校における研修又は出前講座)イ オンライン会議ツールや動画配信等を活用した研修(以下「オンライン研修」という | [防災研修事業業務企画提案仕様書（PDF：523.8KB）](<https://www.pref.chiba.lg.jp/bousaik/nyuu-kei/buppin-itaku/nyuusatsukoukoku/documents/siyousyor8.pdf>) |
-| 茨城県 | [令和8年度 草刈業務委託【清水入池／角来上池／菱木川】](<https://www.city.kasumigaura.lg.jp/data/doc/1785284951_doc_14_0.pdf>) | 茨城県かすみがうら市 | 2026-07-30 | 2026-08-21 | (9)完了写真撮影後、除草範囲を示す杭・リボンテープは速やかに返還・撤去すること | [平面図](<https://www.city.kasumigaura.lg.jp/data/doc/1785284959_doc_14_0.pdf>) / [仕様書](<https://www.city.kasumigaura.lg.jp/data/doc/1785284963_doc_14_0.pdf>) |
-| 茨城県 | [下稲吉中学校給食室調理機器購入](<https://www.city.kasumigaura.lg.jp/data/doc/1785284922_doc_14_0.pdf>) | 茨城県かすみがうら市 | 2026-07-30 | 2026-08-21 | の取扱等について、前記の総合取扱説明書並びに緊急連絡先下記により、竣工写真を撮影し提出する | [仕様書](<https://www.city.kasumigaura.lg.jp/data/doc/1785284926_doc_14_0.pdf>) / [図面](<https://www.city.kasumigaura.lg.jp/data/doc/1785284930_doc_14_0.pdf>) / [同等品確認書](<https://www.city.kasumigaura.lg.jp/data/doc/1785368701_doc_14_0.xls>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-003.md) ｜ [次の100件](page-005.md)
