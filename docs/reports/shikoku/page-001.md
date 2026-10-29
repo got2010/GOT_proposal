@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-29T07:30+09:00（収集時点）
+最終更新：2026-10-30T07:31+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：徳島県 香川県 愛媛県 高知県
 
-**143件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**144件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 2
 
@@ -22,6 +22,7 @@
 | 香川県 | [令和8年度文化観光推進事業に係る収蔵刀剣類のデジタル撮影業務の公募について](<https://www.pref.kagawa.lg.jp/documents/63303/01_koukoku_touken.pdf>) | 香川県 | 2026-09-04 | 2026-09-15 | 令和8年度文化観光推進事業に係る収蔵刀剣類のデジタル撮影業務の公募について | [仕様書（PDF：325KB）](<https://www.pref.kagawa.lg.jp/documents/63303/02_shiyousyo_touken.pdf>) |
 | 愛媛県 | [「プレコンセプションケア」普及啓発動画制作・広告配信業務委託（公募型プロポーザル方式）（すくすく支援課）](<https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/purekonpuropo.files/1_boshuuyouryou.pdf>) | 愛媛県松山市 | 2026-08-03 | 2026-09-07 | 「プレコンセプションケア」普及啓発動画制作・広告配信業務委託(公募型プロポーザル方式)(すくすく支援課) | [2\_（別紙1）仕様書（PDF：236KB）](<https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/purekonpuropo.files/2_siyousho.pdf>) |
 | 高知県 | [消費者被害未然防止啓発動画放送委託業務に係る一般競争入札について](<https://www.pref.kochi.lg.jp/doc/2026072900091/file_contents/file_2026730414200_1.pdf>) | 高知県 | 2026-07-31 | 2026-09-01 | 消費者被害未然防止啓発動画放送委託業務に係る一般競争入札について | [06\_仕様書\[PDF：45KB\]](<https://www.pref.kochi.lg.jp/doc/2026072900091/file_contents/file_2026730414220_1.pdf>) |
+| 徳島県 | [椿公民館空調改修工事](<https://www.city.anan.tokushima.jp/docs/2026102800032/file_contents/261029-4.pdf>) | 徳島県阿南市 | 2026-10-29 | 原文を確認 | ◎工事写真の撮影は、国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」によること | [椿公民館空調改修工事 3.特記仕様書・図面\[PDF：1.83MB\]](<https://www.city.anan.tokushima.jp/docs/2026102800032/file_contents/261029-4-3.pdf>) / [椿公民館空調改修工事 5.位置図\[PDF：354KB\]](<https://www.city.anan.tokushima.jp/docs/2026102800032/file_contents/261029-4-5.pdf>) / [椿公民館空調改修工事 6.閲覧補足説明書\[PDF：94.7KB\]](<https://www.city.anan.tokushima.jp/docs/2026102800032/file_contents/261029-4-6.pdf>) |
 | 香川県 | [香川県園芸総合センター及び隣接する山林の一部樹木伐採等業務に係る一般競争入札の実施について](<https://www.pref.kagawa.lg.jp/documents/64302/1koukoku8-10.pdf>) | 香川県 | 2026-10-28 | 2026-11-25 | (4) 作業前の確認、現場写真の撮影等業務の実施に当たり、県担当者と現地において作業着手前に作業箇所、伐採する樹木等を確認すること | [仕様書（PDF：668KB）](<https://www.pref.kagawa.lg.jp/documents/64302/2siyousyo8-10.pdf>) |
 | 香川県 | [サーベイメータ点検校正業務に係る公募について](<https://www.pref.kagawa.lg.jp/documents/64273/1koukokusabeiii.pdf>) | 香川県 | 2026-10-27 | 2026-11-04 | 15. 点検状況の写真を撮影し、報告書に含めること | [仕様書（PDF：171KB）](<https://www.pref.kagawa.lg.jp/documents/64273/2siyousabei.pdf>) |
 | 徳島県 | [大潟漁港内Ｃ防波堤標識灯更新工事](<https://www.city.anan.tokushima.jp/docs/2026102200108/file_contents/261026-1.pdf>) | 徳島県阿南市 | 2026-10-26 | 原文を確認 | トイレ ・阿南市建築工事様式集で監督員が指示した図書(必要部数)◎工事写真の撮影は, 国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」によること. 的確に確認できること.完成写真については, 工事目的物の状態が,資機材, 施工状況等については,不可視部分の出来形が写真で◎工事写真の電子データは完成写真, 着手前… | [大潟漁港内Ｃ防波堤標識灯更新工事 1.閲覧補足説明書\[PDF：92.8KB\]](<https://www.city.anan.tokushima.jp/docs/2026102200108/file_contents/261026-1-1.pdf>) / [大潟漁港内Ｃ防波堤標識灯更新工事 5.図面\[PDF：1.1MB\]](<https://www.city.anan.tokushima.jp/docs/2026102200108/file_contents/261026-1-5.pdf>) |
@@ -115,6 +116,5 @@
 | 高知県 | [(建第08071号)下井中地区8号水路改修工事【8月5日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_ken08071.pdf>) | 高知県香南市 | 2026-08-05 | 2026-08-31 | 及び所在地が計画と一致す運搬車のナンバーが写るよう運搬車後面のデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 365.6KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_ken08071.pdf>) / [公表単価一覧表 (PDFファイル: 19.3KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_ken08071.pdf>) / [数量計算書 (PDFファイル: 155.9KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/suryou_ken08071.pdf>) / [位置図 (PDFファイル: 497.9KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_ken08071.pdf>) / [図面 (PDFファイル: 1.5MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_ken08071.pdf>) |
 | 高知県 | [(建第08046号) 新道地区15号外水路改修工事【8月5日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_ken08046.pdf>) | 高知県香南市 | 2026-08-05 | 2026-08-31 | 正に処理されてい 荷姿、運搬車のナンバーが写るよう運搬車後面のデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 288.7KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_ken08046-2.pdf>) / [公表単価一覧表 (PDFファイル: 3.1KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_ken08046.pdf>) / [数量計算書 (PDFファイル: 287.6KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/suryou_ken08046.pdf>) / [位置図 (PDFファイル: 158.1KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_ken08046.pdf>) / [図面 (PDFファイル: 584.1KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_ken08046.pdf>) |
 | 徳島県 | [長生小学校屋内運動場屋根改修工事](<https://www.city.anan.tokushima.jp/docs/2026071700029/file_contents/260721-84.pdf>) | 徳島県阿南市 | 2026-08-04 | 原文を確認 | 等については,不可視部分の出来形が写真で 的確に確認できること.◎工事写真の撮影は, 国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」によること. ・阿南市建築工事様式集で監督員が指示した図書(必要部数)22. 工事検査及び技術検査23. 完成図等◎工事完成撮影は, 別途指定がある場合を除き,専門家によらないも… | [長生小学校屋内運動場屋根改修工事 入札情報\[PDF：62.8KB\]](<https://www.city.anan.tokushima.jp/docs/2026071700029/file_contents/260721-5.pdf>) / [長生小学校屋内運動場屋根改修工事 3.閲覧補足説明書（１）\[PDF：111KB\]](<https://www.city.anan.tokushima.jp/docs/2026071700029/file_contents/260721-5-3.pdf>) / [長生小学校屋内運動場屋根改修工事 4.閲覧補足説明書（２）\[PDF：85.3KB\]](<https://www.city.anan.tokushima.jp/docs/2026071700029/file_contents/260721-5-4.pdf>) / [長生小学校屋内運動場屋根改修工事 5.図面\[PDF：2.68MB\]](<https://www.city.anan.tokushima.jp/docs/2026071700029/file_contents/260721-5-5.pdf>) |
-| 徳島県 | [大野小学校屋内運動場空調設置工事のうち管工事](<https://www.city.anan.tokushima.jp/docs/2026071700067/file_contents/260721-7-0804.pdf>) | 徳島県阿南市 | 2026-08-04 | 原文を確認 | トイレ ・阿南市建築工事様式集で監督員が指示した図書(必要部数)◎工事写真の撮影は, 国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」によること.◎工事写真の電子データは完成写真, 着手前, 資機材, 施工状況の順に整理する. CD-R等に保存する. しゅん工図データは,関係図面(データ貸与)を修正して作成し,… | [大野小学校屋内運動場空調設置工事のうち管工事 入札情報\[PDF：61.9KB\]](<https://www.city.anan.tokushima.jp/docs/2026071700067/file_contents/260721-7.pdf>) / [大野小学校屋内運動場空調設置工事のうち管工事 3.閲覧補足説明書\[PDF：111KB\]](<https://www.city.anan.tokushima.jp/docs/2026071700067/file_contents/260721-7-3.pdf>) / [大野小学校屋内運動場空調設置工事のうち管工事 4.図面\[PDF：1.58MB\]](<https://www.city.anan.tokushima.jp/docs/2026071700067/file_contents/260721-7-4.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

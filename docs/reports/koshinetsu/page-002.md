@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-29T07:30+09:00（収集時点）
+最終更新：2026-10-30T07:31+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**178件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**179件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 長野県 | [9月10日開札（一般競争）旭ヶ丘1号マンホールポンプ場外更新工事](<https://www.city.suzaka.nagano.jp/material/files/group/4/260825koukoku110.zip>) | 長野県須坂市 | 2026-08-25 | 2026-09-10 | また、工事着手前に破損している構造物に関しては状況写真を撮影すること | — |
 | 長野県 | [令和8年度 林業専用道権現山線 法面復旧工事【とび・土工・コンクリート工事Ａ・Ｂ級（市内本店）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080825_1_koukoku.files/1_1_koukoku_gongenyama_norimen.pdf>) | 長野県伊那市 | 2026-08-25 | 2026-09-08 | 2 請負者は施工現場において、使用する建設機械の写真撮影を行い、竣工時に提出するものとする | [特記仕様書（PDF：154KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080825_1_koukoku.files/1_3_tokki_gongenyama_norimen.pdf>) / [位置図（PDF：227KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080825_1_koukoku.files/1_5_itizu_gongenyama_norimen.pdf>) / [図面（PDF：255KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080825_1_koukoku.files/1_6_zumen_gongenyama_norimen.pdf>) |
 | 長野県 | [（8.8.25公告）令和8年度 千曲市総合教育センター空調設備更新工事(PDFファイル:292KB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080915-03.pdf>) | 長野県千曲市 | 2026-08-25 | 原文を確認 | 、処分状況の写真(中間処理にあっては、中間処理状況の写真)及び日報工事写真撮影要領 ・着手前及び完成後の撮影部位は、同方向同位置とする | [図面等(PDFファイル:2.2MB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080915-05.pdf>) |
 | 山梨県 | [10 老朽管解消工事箇所舗装本復旧工事(上市之瀬・加賀美工区) (PDF 223KB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/5/8/3/0/_/10_____________________________.pdf>) | 山梨県南アルプス市 | 2026-08-21 | 2026-09-15 | 異変形が生じないように注意して施工するものとし、各種施設の調査を測量、写真撮影により、施工前、施工中、施工後及び必要に応じて随時行うこと | [5081000079 (ZIP 6.36MB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/5/7/7/9/_/5081000079.zip>) |

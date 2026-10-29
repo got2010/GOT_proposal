@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-29T07:30+09:00（収集時点）
+最終更新：2026-10-30T07:31+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**259件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**262件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 岩手県 | [国有林野林産物公売及び造林事業請負（田山地区、地拵・植付）【再公告】](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/iwatehokubu/260804kongou.html>) | 林野庁東北森林管理局岩手北部森林管理署 | 2026-08-04 | 2026-09-10 | (準備器材)2 写真撮影にあたり準備する器材は、次のとおり | [入札公告(PDF : 348KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/iwatehokubu/./attach/pdf/260804kongou-1.pdf>) / [入札説明書(PDF : 438KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/iwatehokubu/./attach/pdf/260804kongou-2.pdf>) / [入札（立木）案内書(PDF : 2,640KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/iwatehokubu/./attach/pdf/260804kongou-3.pdf>) / [造林事業請負入札説明資料（田山地区、地拵・植付）(PDF : 2,628KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/iwatehokubu/./attach/pdf/260804kongou-4.pdf>) / [造林事業請負標準仕様書及び造林事業請負実行管理基準並びに林野火災防止に関する誓約書様式(PDF : 287KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/iwatehokubu/./attach/pdf/260804kongou-5.pdf>) |
+| 秋田県 | [建設機械等チャーター単価契約](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuzawa/charter_2.html>) | 林野庁東北森林管理局秋田森林管理署湯沢支署 | 2026-08-03 | 2026-08-18 | 了時に表示板等に日時、作業内容等を記載の上、使用機械と作業場所が入った写真を撮影すること | [入札公告(PDF : 129KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuzawa/./attach/pdf/charter_2-2.pdf>) / [01\_入札説明書(PDF : 159KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuzawa/./attach/pdf/charter_2-3.pdf>) / [05\_作業実施要領等(PDF : 94KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuzawa/./attach/pdf/charter_2-7.pdf>) / [06\_運転時間実施計画書(PDF : 22KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuzawa/./attach/pdf/charter_2-8.pdf>) / [08\_位置図(PDF : 5,811KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuzawa/./attach/pdf/charter_2-9.pdf>) |
+| 宮城県 | [入札公告（令和８年度 水単請−11（仮称）白石中央SIC周辺整備に伴う 配水管布設工事（２工区）)](<https://www.city.shiroishi.miyagi.jp/uploaded/attachment/30432.pdf>) | 宮城県白石市 | 2026-07-31 | 2026-08-28 | (監督員)における「現場臨場の削減による効率的な時間の活用」を目指し、動画撮影用のカメラ(ウェアラブルカメラ等)とWeb 会議システム等を介して「段階確認」、「材料確認」と「立会」の遠隔臨場を実施できるものとする | [【仕様書】令和８年度 水単請−11（仮称）白石中央SIC周辺整備に伴う配水管布設工事（２工区） \[PDFファイル／2.93MB\]](<https://www.city.shiroishi.miyagi.jp/uploaded/attachment/30433.pdf>) / [【図面】令和８年度 水単請−11（仮称）白石中央SIC周辺整備に伴う配水管布設工事（２工区） \[PDFファイル／16.69MB\]](<https://www.city.shiroishi.miyagi.jp/uploaded/attachment/30434.pdf>) / [【](<https://www.city.shiroishi.miyagi.jp/uploaded/attachment/30431.docx>) |
 | 宮城県 | [高山林道改良工事](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/miyagihokubu/20260730_doboku_01.html>) | 林野庁東北森林管理局宮城北部森林管理署 | 2026-07-31 | 2026-09-15 | 注者は、林業専用道に係る工事(新設に限る)の施工に当たっては、別紙の「写真撮影基準」により施工管理を行うことができるものとする | [入札公告(PDF : 173KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/miyagihokubu/./attach/pdf/20260730_doboku_01-1.pdf>) / [1.入札説明書(PDF : 212KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/miyagihokubu/./attach/pdf/20260730_doboku_01-2.pdf>) / [3.特記仕様書(PDF : 7,006KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/miyagihokubu/./attach/pdf/20260730_doboku_01-4.pdf>) / [4.現場説明書(PDF : 631KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/miyagihokubu/./attach/pdf/20260730_doboku_01-5.pdf>) / [6.公表用設計書(PDF : 267KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/miyagihokubu/./attach/pdf/20260730_doboku_01-7.pdf>) |
 | 山形県 | [7月30日公告（舗装Bかつ土木一式A）格付指定型一般競争入札の公告について 工事名：鶴岡市公共下水道事業 雨水茅原第2排水区舗装復旧工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/080730-27.files/080730-27.pdf>) | 山形県鶴岡市 | 2026-07-30 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書一式 （PDF：1,420KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/080730-27.files/080730-27-01.pdf>) |
 | 山形県 | [7月30日公告（舗装A）格付指定型一般競争入札の公告について 工事名：鶴岡市集落排水事業 三瀬地区管路施設64～140号路面復旧工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/080730-28.files/080730-28.pdf>) | 山形県鶴岡市 | 2026-07-30 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書一式 （PDF：6,594KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/080730-28.files/080730-28-01.pdf>) |
