@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-30T07:31+09:00（収集時点）
+最終更新：2026-10-31T07:28+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**262件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**265件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -21,6 +21,9 @@
 | 秋田県 | [【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-08-17 | 2026-09-16 | 【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務 | — |
 | 岩手県 | [【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-21 | 原文を確認 | 【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務 | — |
 | 岩手県 | [龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について](<https://www.town.iwaizumi.lg.jp/docs/2026071400011/file_contents/00.pdf>) | 岩手県岩泉町 | 2026-07-17 | 2026-09-04 | 龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について | — |
+| 宮城県 | [東北大学（青葉山１）実用プロセス開発実証棟整備事業](<https://www.bureau.tohoku.ac.jp/sisetubu/nyuusatu/koukokukensetu/2026/20261030_koukoku_1.pdf>) | 国立大学法人東北大学 | 2026-10-30 | 2026-12-16 | 3 )、枚数( 1 )、額の有無( 有 )及び材料( )〕• 透視図の写真撮影• 〔カット枚数( )、判の大きさ( )及び白黒・カラーの別( )〕• 模型製作• 〔縮尺( )、主要材料( )、ケースの有無( )及び材質( )〕37• 模型の写真撮影• 〔カット枚数( )、判の大きさ( )及び白黒・カラーの別( )〕⦿ … | [説明書【２０２６年１０月３０日】（PDF ，382KB)](<https://www.bureau.tohoku.ac.jp/sisetubu/nyuusatu/koukokukensetu/2026/20261030_setumeisyo_1.pdf>) / [要求水準書【２０２６年１０月３０日】（PDF ，2,115KB)](<https://www.bureau.tohoku.ac.jp/sisetubu/nyuusatu/koukokukensetu/2026/20261030_gaiyou_1.pdf>) |
+| 岩手県 | [【県南広域振興局（花巻）】融雪用白灯油単価契約《一般競争入札》](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/102/682/081030_koukoku.pdf>) | 岩手県 | 2026-10-30 | 原文を確認 | 内容(1) 購入等件名及び数量 融雪用白灯油 JIS1号 配達料込み(写真撮影含む) 約128,000リットル(2) 調達件名の特質等 入札説明書による | [入札説明書 （PDF 267.4KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/102/682/081030_setumeisyo.pdf>) / [仕様書 （PDF 95.4KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/102/682/081030_siyousyo.pdf>) |
+| 岩手県 | [令和8年度岩手南部森林管理署遠野支署国土保全のためのシカ捕獲事業（早池峰山岳地区）](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/tono/261030hozenn.html>) | 林野庁東北森林管理局岩手南部森林管理署遠野支署 | 2026-10-30 | 原文を確認 | (2) 捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [入札公告(PDF : 143KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/tono/./attach/pdf/261030hozenn-1.pdf>) / [入札説明書(PDF : 129KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/tono/./attach/pdf/261030hozenn-2.pdf>) / [共通仕様書(PDF : 1,788KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/tono/./attach/pdf/261030hozenn-4.pdf>) / [提出様式(PDF : 263KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/tono/./attach/pdf/261030hozenn-5.pdf>) / [特記仕様書(PDF : 5,780KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/tono/./attach/pdf/261030hozenn-6.pdf>) |
 | 青森県 | [分庁舎1階廊下照明器具改修工事 \[その他のファイル／2.3MB\]](<https://www.town.oirase.aomori.jp/uploaded/attachment/27955.zip>) | 青森県おいらせ町 | 2026-10-29 | 2026-11-18 | 提出部数 1部7)工事施工状況写真:工事施工状況写真の撮影は、工事に係る材料、施工及び品質管理の状況が確認できるよう「国土交通省大臣官房官庁営繕部監修 営繕工事写真撮影要領」を参考に、撮影計画書を作成して、監督員に提出する | — |
 | 青森県 | [おいらせ町新庁舎等建設地一次造成工事 \[その他のファイル／6.74MB\]](<https://www.town.oirase.aomori.jp/uploaded/attachment/27954.zip>) | 青森県おいらせ町 | 2026-10-29 | 2026-11-18 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | — |
 | 青森県 | [舘越・幸橋線整備工事 \[その他のファイル／4.18MB\]](<https://www.town.oirase.aomori.jp/uploaded/attachment/27953.zip>) | 青森県おいらせ町 | 2026-10-29 | 2026-11-18 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | — |
@@ -113,8 +116,5 @@
 | 青森県 | [8470.zip](<https://www.town.aomori-nanbu.lg.jp/uploaded/attachment/8470.zip>) | 青森県南部町 | 2026-09-16 | 2026-10-08 | (写真撮影)1 事前調査に掲げる建物等の各部位の調査に当たっては、計測箇所を次の方法により写真撮影を行うものとする | — |
 | 宮城県 | [令８−依・単 ふれあいエスプ塩竈冷温水発生機制御盤更新工事](<https://www.city.shiogama.miyagi.jp/uploaded/life/58615_149946_misc.pdf>) | 宮城県塩竃市 | 2026-09-15 | 2026-09-17 | 備・ 建設工事執行規則(昭和39年3月宮城県規則第9号)・ 営繕工事写真撮影要領(国土交通省大臣官房庁営繕部監修 令和5年版)・ 宮城県建設工事元請・下請適正化要綱(最新版) 及び工事写真撮影ガイドブック&lt;機械設備工事編&gt; (国土交通省大臣官房庁営繕部監修 令和5年版)(令和7年4月1日版)2部1部2枚CD A3版二つ… | [設計書一式 \[その他のファイル／2.3MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/58615_149948_misc.zip>) |
 | 山形県 | [西郡林道災害復旧工事【再公告】](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/nskor26860914.html>) | 林野庁東北森林管理局山形森林管理署 | 2026-09-14 | 2026-10-20 | 注者は、林業専用道に係る工事(新設に限る)の施工に当たっては、別紙の「写真撮影基準」により施工管理を行うことができるものとする | [入札公告(PDF : 140KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nskor26860914-1.pdf>) / [入札説明書(PDF : 190KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nskor26860914-2.pdf>) / [特記仕様書(PDF : 1,142KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nskor26860914-5.pdf>) / [現場説明書(PDF : 1,888KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nskor26860914-6.pdf>) / [図面(PDF : 734KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nskor26860914-7.pdf>) |
-| 岩手県 | [ホリアッペ林道（林業専用道）新設工事【再公告】](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kuji/20260914_doboku2.html>) | 林野庁東北森林管理局三陸北部森林管理署久慈支署 | 2026-09-14 | 2026-10-21 | 注者は、林業専用道に係る工事(新設に限る)の施工に当たっては、別紙の「写真撮影基準」により施工管理を行うことができるものとする | [入札公告(PDF : 147KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kuji/./attach/pdf/20260914_doboku2-8.pdf>) / [入札説明書(PDF : 212KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kuji/./attach/pdf/20260914_doboku2-9.pdf>) / [現場説明書(PDF : 482KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kuji/./attach/pdf/20260914_doboku2-11.pdf>) / [特記仕様書(PDF : 1,124KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kuji/./attach/pdf/20260914_doboku2-12.pdf>) / [位置図(PDF : 6,599KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kuji/./attach/pdf/20260914_doboku2-1.pdf>) |
-| 山形県 | [9月11日公告（土木一式）条件付き一般競争入札の公告について 工事名：寿橋線寿橋上部工架設工事（郵便入札）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260911koukoku.files/20260911koukoku1.pdf>) | 山形県鶴岡市 | 2026-09-11 | 2026-10-05 | III 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [入札説明書 （PDF：212KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260911koukoku.files/20260911koukoku2.pdf>) / [閲覧図書 （PDF：4,602KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260911koukoku.files/20260911koukoku3.pdf>) / [公告様式 （ワード：103KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260911koukoku.files/20260911koukoku4.doc>) |
-| 青森県 | [創作の家解体工事 \[その他のファイル／2.97MB\]](<https://www.town.oirase.aomori.jp/uploaded/attachment/27784.zip>) | 青森県おいらせ町 | 2026-09-11 | 2026-10-01 | 7 工事施工状況写真工事施工状況写真の撮影は、工事に係る材料、施工及び品質管理の状況が確認できるように行うものとし、「国土交通省大臣官房官庁営繕部看守 営繕工事写真撮影要領(令和5年版)による工事写真撮影ガイドブック(令和5年度版)を参考とする | — |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

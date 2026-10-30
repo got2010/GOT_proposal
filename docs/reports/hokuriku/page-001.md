@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-30T07:31+09:00（収集時点）
+最終更新：2026-10-31T07:28+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：富山県 石川県 福井県
 
-**43件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**44件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 1
 
@@ -19,6 +19,7 @@
 | 福井県 | [「ポジティブ教育推進事業」動画作成業務委託に係る業者選定プロポーザルについて](<https://www.pref.fukui.lg.jp/doc/gimu/positive-douga_d/fil/betten.pdf>) | 福井県 | 2026-08-20 | 2026-09-18 | 「ポジティブ教育推進事業」動画作成業務委託に係る業者選定プロポーザルについて | [02\_【公告】「ポジティブ教育推進事業」動画作成配信業務に係る 公募型プロポーザル（公募時公開資料）（ＰＤＦ形式 282キロバイト）](<https://www.pref.fukui.lg.jp/doc/gimu/positive-douga_d/fil/koukoku.pdf>) / [01\_【実施要領】「ポジティブ教育推進事業」動画作成配信業務に係る 公募型プロポーザル（公募時公開資料）（ＰＤＦ形式 292キロバイト）](<https://www.pref.fukui.lg.jp/doc/gimu/positive-douga_d/fil/jisshiyouryou.pdf>) / [03 【仕様書】「ポジティブ教育推進事業」動画作成配信業務に係る 公募型プロポーザル委託仕様書（ＰＤＦ形式 243キロバイト）](<https://www.pref.fukui.lg.jp/doc/gimu/positive-douga_d/fil/shiyousho.pdf>) |
 | 富山県 | [富山河川国道事務所（道路）広報動画制作作業その２【オープンカウンター方式】](<https://www.hrr.mlit.go.jp/toyama/webfile/t1_31b762b2aac29eab357d8a4a21abd853.pdf>) | 国土交通省北陸地方整備局富山河川国道事務所 | 2026-08-05 | 原文を確認 | 富山河川国道事務所(道路)広報動画制作作業その2【オープンカウンター方式】 | — |
 | 福井県 | [一般競争入札公告（デジタル航空写真撮影業務委託）](<https://www.town.minamiechizen.lg.jp/tyousei/708/p011527_d/fil/koukoku.pdf>) | 福井県南越前町 | 2026-07-13 | 2026-07-27 | 一般競争入札公告(デジタル航空写真撮影業務委託) | [設計図書（圧縮ファイル（ＺＩＰ） 6,367キロバイト）](<https://www.town.minamiechizen.lg.jp/tyousei/708/p011527_d/fil/sekkeitosyo.zip>) |
+| 石川県 | [安宅林国有林松くい虫被害木伐倒駆除事業](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/isikawa/081030.html>) | 林野庁近畿中国森林管理局石川森林管理署 | 2026-10-30 | 2026-12-04 | 2 実行記録写真は、造林事業請負実行管理基準に定める実行記録写真の撮影要領に基づき撮影することとするが、一連の記録写真は契約の記番毎に1箇所以上撮影するものとする | [(PDF : 136KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/isikawa/attach/pdf/081030-1.pdf>) / [(PDF : 538KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/isikawa/attach/pdf/081030-2.pdf>) / [(PDF : 4,391KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/isikawa/attach/pdf/081030-3.pdf>) / [(PDF : 3,833KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/isikawa/attach/pdf/081030-4.pdf>) |
 | 石川県 | [田鶴浜小学校事務机・学習机](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/20261029_buppin01.pdf>) | 石川県七尾市 | 2026-10-21 | 2026-10-26 | 納入の際は検収用の写真を撮影し、必要事項を記載し提出すること | [エクセル（エクセル：42KB）](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/20261029_shinsei01.xls>) / [ZIP（ZIP：152KB）](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/01_buppin20261029.zip>) |
 | 石川県 | [令和8年度七尾消防署訓練場災害復旧工事（建築）](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/30_koukoku20261009.pdf>) | 石川県七尾市 | 2026-10-21 | 2026-10-26 | 成 時※カラー・ ※カラー・ ・ ※カラー・ ・※ 景以上「営繕工事写真撮影要領」による※ 景以上※ 1部※ 1部※ 1部・撮 影 枚 数 区 分 分 類 部 数 より整備し、下記により提出する | [ZIP（ZIP：6,344KB）](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/30_kouji20261009.zip>) |
 | 石川県 | [令和8年度相馬分館耐震改修（体育館）及び災害復旧工事](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/29_koukoku20261009.pdf>) | 石川県七尾市 | 2026-10-21 | 2026-10-26 | 成 時※カラー・ ※カラー・ ・ ※カラー・ ・※ 景以上「営繕工事写真撮影要領」による※ 景以上※ 1部※ 1部※ 1部・撮 影 枚 数 区 分 分 類 部 数 より整備し、下記により提出する | [ZIP（ZIP：25,178KB）](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/29_kouji20261009.zip>) |

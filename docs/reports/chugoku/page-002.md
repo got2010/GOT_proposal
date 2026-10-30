@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-30T07:31+09:00（収集時点）
+最終更新：2026-10-31T07:28+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**238件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**239件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 広島県 | [豊平学園第２校舎屋上防水等改修工事](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/29142.pdf>) | 広島県北広島町 | 2026-09-11 | 2026-10-13 | 26年 7月 表紙 A-00 豊平学園第2校舎屋上防水等改修工事【完成写真の撮影業者】 ・ 監督員の承諾する建築写真の専門撮影業者・ 指定なし10【撮影時期】 ・ 改修前 ・ 改修後章項目1一般共通事項特 記 事 項1 適用基準等4 施工条件 下記以外は現場説明書による | [仕様書](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/29143.pdf>) / [特記仕様書](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/29144.pdf>) / [特記仕様書（その２）](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/29145.pdf>) / [図面](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/29146.pdf>) |
 | 広島県 | [【総合評価・一般】（道路交通局道路部道路課）広島市内路面下空洞調査業務（令和8年度）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/053/783/01.pdf>) | 広島県広島市 | 2026-09-11 | 2026-10-06 | 出された異常信号箇所については、前方・左方・右方の3方向の周囲の状況を写真撮影し、概略位置を把握すること(ポジショニング写真) | [入札説明書 （PDF 989.0KB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/053/783/02.pdf>) / [特記仕様書 （PDF 360.1KB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/053/783/05.pdf>) / [調査路線一覧表 （PDF 252.1KB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/053/783/07.pdf>) / [位置図 （PDF 2.9MB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/053/783/08.pdf>) / [積算参考資料 （PDF 243.6KB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/053/783/09.pdf>) |
 | 広島県 | [令和８年度広島県漁業取締船「しおかぜ」定期検査船体整備業務（水産課）](<https://www.pref.hiroshima.lg.jp/uploaded/life/1144909_9798354_misc.pdf>) | 広島県 | 2026-09-09 | 2026-10-15 | 検に係る業務)(1) 法定検査申請手続き(2) 整備前及び整備完了後の写真撮影記録作成(3) 陸上電源の供給上架及び係船期間中は、陸上電源(AC200V又はAC100V)を供給すること | [入札説明書 (PDFファイル)(79KB)](<https://www.pref.hiroshima.lg.jp/uploaded/life/1144909_9798355_misc.pdf>) / [業務委託契約書（案） (PDFファイル)(36KB)](<https://www.pref.hiroshima.lg.jp/uploaded/life/1144909_9798363_misc.pdf>) / [業務委託契約約款 (PDFファイル)(390KB)](<https://www.pref.hiroshima.lg.jp/uploaded/life/1144909_9798364_misc.pdf>) / [機密情報取扱特記事項 (PDFファイル)(157KB)](<https://www.pref.hiroshima.lg.jp/uploaded/life/1144909_9798620_misc.pdf>) / [仕様書 (PDFファイル)(369KB)](<https://www.pref.hiroshima.lg.jp/uploaded/life/1144909_9798621_misc.pdf>) |
 | 広島県 | [井口地区下水管路施設等点検業務８－３](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640103100102.pdf>) | 広島県広島市 | 2026-09-08 | 原文を確認 | (4) マンホール内においては、内部状況を可視範囲まで動画撮影を行い、管内においては、管口から可視範囲まで動画撮影を行う | — |
@@ -115,6 +116,5 @@
 | 広島県 | [中央公園（広島城区域）御門橋点検業務](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640092700101.pdf>) | 広島県広島市 | 2026-07-28 | 2026-08-21 | ほか、現地の通行状況、通行規制の方法等について、現地の状況を調査記録(写真撮影含む)するものとする | [03\_仕様書等](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640092700103.pdf>) |
 | 広島県 | [1号8-108-18グリューネン入野雨水マンホール更生工事（河08−1）(PDFファイル:206.6KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-18_kokoku.pdf>) | 広島県東広島市 | 2026-07-28 | 2026-08-20 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [8-108-18(PDFファイル:1.2MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_8-108-18.pdf>) |
 | 広島県 | [2号8-108-17大内原地区農業集落排水管更生等改築工事（大08−1）(PDFファイル:199.6KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-17_kokoku.pdf>) | 広島県東広島市 | 2026-07-28 | 2026-08-20 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [8-108-17(PDFファイル:1.3MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_8-108-17.pdf>) |
-| 広島県 | [2号7-108-144八本松駅前造成工事（8-3）(PDFファイル:183.5KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-144_kokoku.pdf>) | 広島県東広島市 | 2026-07-28 | 2026-08-20 | 手間を除き、処分量は実態に合わせて設計変更すのとし、搬出1台1回ごとに写真を撮影の上、マニュフェスト及び伝票等を提示すること | [7-108-144(PDFファイル:7.1MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_7-108-144.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

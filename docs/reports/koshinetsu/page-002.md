@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-30T07:31+09:00（収集時点）
+最終更新：2026-10-31T07:28+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**179件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**181件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 長野県 | [令和8年度 町単 雲場池公衆トイレ建築他工事](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10374.pdf>) | 長野県軽井沢町 | 2026-08-26 | 2026-10-06 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [金抜設計書 \[PDFファイル／722KB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10333.pdf>) / [​現場説明事項・施工条件明示事項 \[PDFファイル／789KB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10334.pdf>) / [図面（建築1） \[PDFファイル／3.22MB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10335.pdf>) / [図面（建築2） \[PDFファイル／8.31MB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10336.pdf>) / [図面（建築3） \[PDFファイル／1.14MB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10337.pdf>) |
+| 長野県 | [令和８年度中部山岳国立公園南部地域「Kita Alps Traverse Route」におけるロングトレイルを通じた感動体験・海外情報発信業務](<https://chubu.env.go.jp/shinetsu/content/000424931.pdf>) | 環境省信越自然環境事務所 | 2026-08-26 | 2026-09-14 | 公園南部地域3.業務内容(1)英語圏向け訪日観光Webメディア及び公式動画チャンネルでの掲載・配信2訪日外国人旅行者に対して高い到達力を有する英語圏向け訪日観光 Web メディアにおいて、信飛トレイル及びKita Alps Traverse Routeの魅力を紹介する記事及び動画を制作し、掲載又は配信すること | [入札説明書一式\[PDF 1.6MB\]](<https://chubu.env.go.jp/shinetsu/content/000424932.pdf>) |
 | 長野県 | [9月10日開札（一般競争）旭ヶ丘1号マンホールポンプ場外更新工事](<https://www.city.suzaka.nagano.jp/material/files/group/4/260825koukoku110.zip>) | 長野県須坂市 | 2026-08-25 | 2026-09-10 | また、工事着手前に破損している構造物に関しては状況写真を撮影すること | — |
 | 長野県 | [令和8年度 林業専用道権現山線 法面復旧工事【とび・土工・コンクリート工事Ａ・Ｂ級（市内本店）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080825_1_koukoku.files/1_1_koukoku_gongenyama_norimen.pdf>) | 長野県伊那市 | 2026-08-25 | 2026-09-08 | 2 請負者は施工現場において、使用する建設機械の写真撮影を行い、竣工時に提出するものとする | [特記仕様書（PDF：154KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080825_1_koukoku.files/1_3_tokki_gongenyama_norimen.pdf>) / [位置図（PDF：227KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080825_1_koukoku.files/1_5_itizu_gongenyama_norimen.pdf>) / [図面（PDF：255KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080825_1_koukoku.files/1_6_zumen_gongenyama_norimen.pdf>) |
 | 長野県 | [（8.8.25公告）令和8年度 千曲市総合教育センター空調設備更新工事(PDFファイル:292KB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080915-03.pdf>) | 長野県千曲市 | 2026-08-25 | 原文を確認 | 、処分状況の写真(中間処理にあっては、中間処理状況の写真)及び日報工事写真撮影要領 ・着手前及び完成後の撮影部位は、同方向同位置とする | [図面等(PDFファイル:2.2MB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080915-05.pdf>) |

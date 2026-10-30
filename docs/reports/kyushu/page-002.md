@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-30T07:31+09:00（収集時点）
+最終更新：2026-10-31T07:28+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県
 
-**197件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**198件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 鹿児島県 | [西岳2号線道路改良工事](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/1r80910koukoku.pdf>) | 鹿児島県いちき串木野市 | 2026-09-10 | 2026-09-29 | 条 工事写真1 請負者は工事の進行とともに請負者の負担において次の記録写真を撮影し、工事完成後監督職員へ提出しなければならない | [位置図（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/1r80910shinkaisyakai01itizu.pdf>) / [図面（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/2r80910shinkaisyakai01zumen-s.pdf>) / [数量計算書（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/3r80910shinkaisyakai01suryo.pdf>) / [特記仕様書（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/4r80910shinkaisyakai01tokki-s.pdf>) / [閲覧設計書等（PDF](<http://www.city.ichikikushikino.lg.jp/zaisei2/documents/5r80910shinkaisyakai01eturan-s.pdf>) |
 | 宮崎県 | [【9月10日公告】歴史と文化をつなぐ高城のにわ交流拠点整備事業 造園工事（条件付一般競争入札）](<https://www.town.kijo.lg.jp/material/files/group/2/koukoku_zouenn.pdf>) | 宮崎県木城町 | 2026-09-08 | 原文を確認 | る小黒板情報の電子的記入受注者は、同条1の使用機器を用いてデジタル工事写真を撮影する場合は、被写体小黒板情報を電子画像として同時に記録してもよい | [特記仕様書 (PDFファイル: 164.5KB)](<https://www.town.kijo.lg.jp/material/files/group/2/01tokkisiyousho_zouenn2.pdf>) / [設計書 (PDFファイル: 333.0KB)](<https://www.town.kijo.lg.jp/material/files/group/2/02sekkeisho_zouenn.pdf>) / [図面 (PDFファイル: 2.4MB)](<https://www.town.kijo.lg.jp/material/files/group/2/03zumenn_zouenn.pdf>) |
 | 宮崎県 | [【9月10日公告】歴史と文化をつなぐ高城のにわ交流拠点整備事業 造園工事（条件付一般競争入札）](<https://www.town.kijo.lg.jp/material/files/group/2/koukoku_zouenn.pdf>) | 宮崎県木城町 | 2026-09-08 | 原文を確認 | る小黒板情報の電子的記入受注者は、同条1の使用機器を用いてデジタル工事写真を撮影する場合は、被写体小黒板情報を電子画像として同時に記録してもよい | [特記仕様書 (PDFファイル: 164.5KB)](<https://www.town.kijo.lg.jp/material/files/group/2/01tokkisiyousho_zouenn2.pdf>) / [設計書 (PDFファイル: 333.0KB)](<https://www.town.kijo.lg.jp/material/files/group/2/02sekkeisho_zouenn.pdf>) / [図面 (PDFファイル: 2.4MB)](<https://www.town.kijo.lg.jp/material/files/group/2/03zumenn_zouenn.pdf>) |
 | 熊本県 | [【入札関係】船場町遺跡第3次調査区埋蔵文化財発掘調査業務委託に係る一般競争入札について](<https://www.city.kumamoto.jp/kiji00372760/3_72760_516202_up_154t7hcu.pdf>) | 熊本県熊本市 | 2026-09-07 | 原文を確認 | 5 乙は、作業区分ごとに作業前、作業中、作業後の状況写真を撮影すること | [共通仕様書（PDF：27.1キロバイト）](<https://www.city.kumamoto.jp/kiji00372760/3_72760_up_5t3nmnn4.pdf>) / [特記仕様書（PDF：182.6キロバイト）](<https://www.city.kumamoto.jp/kiji00372760/3_72760_up_1ocybuqh.pdf>) / [別紙3 実測図作成面積（PDF：4キロバイト）](<https://www.city.kumamoto.jp/kiji00372760/3_72760_up_l7323kpu.pdf>) |

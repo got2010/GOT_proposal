@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-30T07:31+09:00（収集時点）
+最終更新：2026-10-31T07:28+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**238件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**239件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -21,6 +21,7 @@
 | 岡山県 | [岡山県立倉敷天城高等学校 映像音響配信装置一式に係る一般競争入札（条件付）の実施について](<https://www.pref.okayama.jp/uploaded/life/1061805_10291120_misc.pdf>) | 岡山県 | 2026-10-21 | 原文を確認 | 岡山県立倉敷天城高等学校 映像音響配信装置一式に係る一般競争入札(条件付)の実施について | — |
 | 岡山県 | [中国職業能力開発大学校広報用動画の制作業務について（中国能開大） (PDF 191 KB)](<https://www.jeed.go.jp/location/shibu/okayama/q2k4vk000002zr26-att/aj91gk0000005fjm.pdf>) | 独立行政法人高齢・障害・求職者雇用支援機構岡山支部 | 2026-09-11 | 2026-09-18 | 中国職業能力開発大学校広報用動画の制作業務について(中国能開大) (PDF 191 KB) | — |
 | 岡山県 | [令和８年度岡山市固定資産航空写真撮影業務委託](<https://keiyaku.city.okayama.jp/webftp/itaku/2026025875.pdf>) | 岡山県岡山市 | 2026-09-01 | 原文を確認 | 令和8年度岡山市固定資産航空写真撮影業務委託 | [1](<https://keiyaku.city.okayama.jp/webftp/itaku/2026025875_1.zip>) |
+| 広島県 | [広島城三の丸平面確認調査等業務に伴う整理・報告書作成業務](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640119900101.pdf>) | 広島県広島市 | 2026-10-30 | 2026-11-18 | オ 出土遺物の復元(接合)カ 実測遺物の選定・計測キ 報告書掲載遺物の写真撮影ク 写真の整理ケ 掲載写真の選別・写真原稿作成コ 図面下図作成サ 遺物の実測シ 遺物のトレースス 原稿執筆・編集セ 出土遺物の収納(報告書掲載・非掲載の別を含め納品用の整理)ソ 図面整理(調査時の原図、作成した第二原図等を含む)タ 自然科学分… | [04 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640119900104.pdf>) |
 | 広島県 | [1号8-108-27西条第二地区雨水管渠建設工事（雨東08-2）(PDFファイル:102.3KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-27-kokoku.pdf>) | 広島県東広島市 | 2026-10-29 | 2026-11-19 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和8年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [8-108-27(PDFファイル:5.3MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-27-tosho.pdf>) |
 | 広島県 | [1号7-108-255新池調整池改築工事(PDFファイル:104.5KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-255-kokoku.pdf>) | 広島県東広島市 | 2026-10-29 | 2026-11-19 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和8年8月)」によるものとし、納納品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかと、紙媒体のダイジェスト版(着手前及び完成、主たる工種の施工状況)とする | [7-108-255(PDFファイル:3.4MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-255-tosho.pdf>) |
 | 広島県 | [2号7-108-254地区計画道路23号線道路改良工事(PDFファイル:92.4KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-254-kokoku.pdf>) | 広島県東広島市 | 2026-10-29 | 2026-11-19 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和8年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-254(PDFファイル:3MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-254-tosho.pdf>) |
@@ -115,6 +116,5 @@
 | 広島県 | [旭町水資源再生センターＮｏ．１汚泥脱水機修理](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640103900104.pdf>) | 広島県広島市 | 2026-09-11 | 原文を確認 | 提出について(1)本修繕においては、別に定める「下水道用機械・電気設備写真撮影要領」に準じ撮影し、修繕完了時に提出すること | [05 図面](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640103900105.pdf>) |
 | 広島県 | [吉島ポンプ場№２汚水自動除塵機修理](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640099900104.pdf>) | 広島県広島市 | 2026-09-11 | 原文を確認 | 提出について(1)本修繕においては、別に定める「下水道用機械・電気設備写真撮影要領」に準じ撮影し、修繕完了時に提出すること | [05 図面](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640099900105.pdf>) |
 | 広島県 | [近世墓所石造物測量業務](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640105000101.pdf>) | 広島県広島市 | 2026-09-11 | 2026-10-05 | なお、写真撮影データ及びオルソ画像については、発注者から貸与する | [03 特記仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640105000103.pdf>) / [10 石造物配置図](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640105000110.pdf>) |
-| 広島県 | [豊平学園第２校舎屋上防水等改修工事](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/29142.pdf>) | 広島県北広島町 | 2026-09-11 | 2026-10-13 | 26年 7月 表紙 A-00 豊平学園第2校舎屋上防水等改修工事【完成写真の撮影業者】 ・ 監督員の承諾する建築写真の専門撮影業者・ 指定なし10【撮影時期】 ・ 改修前 ・ 改修後章項目1一般共通事項特 記 事 項1 適用基準等4 施工条件 下記以外は現場説明書による | [仕様書](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/29143.pdf>) / [特記仕様書](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/29144.pdf>) / [特記仕様書（その２）](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/29145.pdf>) / [図面](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/29146.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

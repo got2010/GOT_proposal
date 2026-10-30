@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-30T07:31+09:00（収集時点）
+最終更新：2026-10-31T07:28+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：沖縄県
 
-**69件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**71件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 1
 
@@ -17,6 +17,8 @@
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
 | 沖縄県 | [浄水場見学者用動画作成業務委託の一般競争入札](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/625/r8_18_01.pdf>) | 沖縄県 | 2026-10-09 | 2026-10-21 | 浄水場見学者用動画作成業務委託の一般競争入札 | [入札説明書 （PDF 138.8KB）](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/625/r8_18_03.pdf>) |
+| 沖縄県 | [名護市配水管布設工事(R8-その２) 発注資料](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_054_01koukoku.pdf>) | 沖縄県名護市 | 2026-10-30 | 原文を確認 | は原則として出来形で行うが、この場合、検査状況及び数量的に確認をし得る写真を撮影し、各ライン施工後、直ちに管割図を作成し、撮影済みの写真と一緒に発注者へ提出するものとする | [6-1 特記仕様書\[PDF：444KB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_054_06-01tokki.pdf>) / [6-2 工事積算に関する説明事項\[PDF：49.5KB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_054_06-02setsumei.pdf>) / [6-3(参照資料)熱中症対策に資する現場管理費の補正の試行について（沖縄県）\[PDF：197KB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_054_06-03sannkousiryoushukyuuhutukazissiyouryouokinwakennnourinnsuisnanbu.pdf>) / [7-1 位置図\[PDF：1.11MB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_054_07-01icizu.pdf>) / [7-2 図面\[PDF：5.74MB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_054_07-02zumen.pdf>) |
+| 沖縄県 | [21世紀の森公園武道機能拡充整備水道管移設工事 発注資料](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_053_01koukoku.pdf>) | 沖縄県名護市 | 2026-10-30 | 原文を確認 | は原則として出来形で行うが、この場合、検査状況及び数量的に確認をし得る写真を撮影し、各ライン施工後、直ちに管割図を作成し、撮影済みの写真と一緒に発注者へ提出するものとする | [6-1 特記仕様書\[PDF：684KB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_053_06-01tokki.pdf>) / [6-2 工事積算に関する説明事項\[PDF：77.6KB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_053_06-02setsumei.pdf>) / [6-3(参照資料)熱中症対策に資する現場管理費の補正の試行について（沖縄県）\[PDF：197KB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_053_06-03sannkousiryoushukyuuhutukazissiyouryouokinwakennnourinnsuisnanbu.pdf>) / [7-1 位置図\[PDF：1.65MB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_053_07-01icizu.pdf>) / [7-2 図面\[PDF：3.7MB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_053_07-02zumen.pdf>) |
 | 沖縄県 | [令和８年度ミヤコカナヘビ生息状況把握等業務［最低価格落札方式］](<https://kyushu.env.go.jp/okinawa/procure_00342.html>) | 環境省沖縄奄美自然環境事務所 | 2026-10-22 | 2026-11-10 | ただし、コピーや写真撮影等の行為は禁止する | [01\_入札公告\[PDF 141KB\]](<https://kyushu.env.go.jp/okinawa/content/000435534.pdf>) / [02-1\_入札説明書\[PDF 169KB\]](<https://kyushu.env.go.jp/okinawa/content/000435535.pdf>) / [02-2\_（別紙）業務請負条件\[PDF 162KB\]](<https://kyushu.env.go.jp/okinawa/content/000435536.pdf>) / [04\_（別添２）仕様書\[PDF 261KB\]](<https://kyushu.env.go.jp/okinawa/content/000435538.pdf>) |
 | 沖縄県 | [小学校空調設備改修工事（久志小学校）](<https://www.city.nago.okinawa.jp/kurashi/2021081000053/file_contents/1bb.pdf>) | 沖縄県名護市 | 2026-10-20 | 原文を確認 | )(2) 主任技術者及び監理技術者の雇用関係についてア(3)※営繕工事写真撮影要領(令和5年版)イ※○ (1) (4)○ (1) 関連工事との取り合いは、別表-1による | [6.特記仕様書\[PDF：126KB\]](<https://www.city.nago.okinawa.jp/kurashi/2021081000053/file_contents/6bb.pdf>) / [7.図面\[PDF：3.41MB\]](<https://www.city.nago.okinawa.jp/kurashi/2021081000053/file_contents/7bb.pdf>) |
 | 沖縄県 | [中城御殿表御殿西側エリア展示委託業務(R8)](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/679/01ippannkyousounyuusatukoukoku.pdf>) | 沖縄県 | 2026-10-19 | 2026-10-28 | 1)動画・静止画に係る編集...必要に応じてテロップ等を追加するなど、わかりやすい内容となるよう工夫すること | [02入札説明書 （PDF 78.7KB）](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/679/02nyuusatusetumeisho.pdf>) / [08-1仕様書 （PDF 183.3KB）](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/679/08-1siyousho.pdf>) / [08-2\_資料1：図面(中城御殿表御殿西側エリア展示設計業務(R8)) （PDF 4.8MB）](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/679/08-2siryo1zumen.pdf>) / [08-2\_資料2：図面(中城御殿表御殿西側エリア展示設計業務(R8)) （PDF 4.3MB）](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/679/08-2siryo2zumen.pdf>) / [08-2\_資料3：図面(中城御殿表御殿西側エリア展示設計業務(R8)) （PDF 3.6MB）](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/679/08-2siryo3zumen.pdf>) |

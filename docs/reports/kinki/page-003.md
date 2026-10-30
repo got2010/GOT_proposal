@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-10-30T07:31+09:00（収集時点）
+最終更新：2026-10-31T07:28+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**216件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**220件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,10 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 兵庫県 | [令和8年度指定管理鳥獣捕獲等事業実施計画策定業務](<https://web.pref.hyogo.lg.jp/nk20/r8siteikanrikeikakusakutei.html>) | 兵庫県 | 2026-07-21 | 2026-07-27 | 上に自動撮影カメラを計17台設置し、8月から10月までのうち73日間、撮影を実施する | [入札公告（PDF：174KB）](<https://web.pref.hyogo.lg.jp/nk20/documents/r8koukoku.pdf>) / [仕様書（PDF：397KB）](<https://web.pref.hyogo.lg.jp/nk20/documents/r8shiyousyo.pdf>) / [金抜き設計書（PDF：629KB）](<https://web.pref.hyogo.lg.jp/nk20/documents/r8kinnukisekkeisyo.pdf>) |
+| 京都府 | [【確定】図面](<https://www.maizuru-ct.ac.jp/wp-content/uploads/2026/07/koukoku_20260703_zumen_kakutei.pdf>) | 独立行政法人国立高等専門学校機構舞鶴工業高等専門学校 | 2026-07-21 | 原文を確認 | )工事写真撮影要領(令和5年9月)●●●●●●●● ● ○●耐震施工設備機器の固定は、施設の分類並びに機器の種別、重要度及び設置階に応じて、次の設計用水平地震力及び設計用鉛直地震力に対し、移動、転倒、破損等が生じないようにする | — |
+| 京都府 | [令和8年7月17日公告分ガスクロマトグラフ質量分析装置の賃貸借に係る入札説明書等](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/071701g.pdf>) | 国家公安委員会（警察庁）京都府警察 | 2026-07-17 | 2026-07-29 | に属する物件 (ウ) (ア)又は (イ)を基に、受注者が作成(複製及び写真撮影を含む )した文書、図 | [仕様書（PDF：268KB）](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/071705g-shiyousho.pdf>) |
+| 京都府 | [京都市公共施設劣化度調査業務（エリア３）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/429747.htm>) | 京都府京都市 | 2026-07-17 | 原文を確認 | 分をC及びDと評価した箇所については、デジタルカメラ等を用いて調査記録写真を撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./429747_12_07130908.pdf>) |
 | 京都府 | [京都市公共施設劣化度調査業務（エリア４）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/429749.htm>) | 京都府京都市 | 2026-07-17 | 原文を確認 | 分をC及びDと評価した箇所については、デジタルカメラ等を用いて調査記録写真を撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./429749_12_07130927.pdf>) |
 | 京都府 | [京都市公共施設劣化度調査業務（エリア１）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/429741.htm>) | 京都府京都市 | 2026-07-17 | 原文を確認 | 分をC及びDと評価した箇所については、デジタルカメラ等を用いて調査記録写真を撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./429741_12_07130901.pdf>) |
 | 京都府 | [京都市公共施設劣化度調査業務（エリア２）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/429744.htm>) | 京都府京都市 | 2026-07-17 | 原文を確認 | 分をC及びDと評価した箇所については、デジタルカメラ等を用いて調査記録写真を撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./429744_12_07130904.pdf>) |
