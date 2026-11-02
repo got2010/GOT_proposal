@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-02T07:28+09:00（収集時点）
+最終更新：2026-11-03T07:31+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**511件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**516件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 6
 
@@ -16,6 +16,11 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（赤羽北二丁目団地他２団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/east/pdf/order_44009_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部 | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19374KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_44009_3.pdf>) / [仕様書\[3263KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_44009_4.pdf>) |
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（グリーンハイツ武蔵境通り団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/east/pdf/order_43997_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部 | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[18857KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_43997_3.pdf>) / [仕様書\[18367KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_43997_4.pdf>) |
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（プラザ新小金井団地他１団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/east/pdf/order_43998_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部 | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[18878KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_43998_3.pdf>) / [仕様書\[18617KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_43998_4.pdf>) |
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（シティコート下連雀団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/east/pdf/order_43999_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部 | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[18825KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_43999_3.pdf>) / [仕様書\[18318KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_43999_4.pdf>) |
+| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（深大寺町団地他２団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/east/pdf/order_44000_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部 | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[18902KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_44000_3.pdf>) / [仕様書\[19803KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_44000_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（光が丘パークタウン公園南団地他１団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/east/pdf/order_44004_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部 | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19336KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_44004_3.pdf>) / [仕様書\[2856KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_44004_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（光が丘パークタウンプロムナード十番街団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/east/pdf/order_44005_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部 | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19380KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_44005_3.pdf>) / [仕様書\[2039KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_44005_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（多摩ニュータウン コリナス長池団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/east/pdf/order_44016_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部 | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19188KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_44016_3.pdf>) / [仕様書\[18371KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_44016_4.pdf>) |
@@ -111,10 +116,5 @@
 | 栃木県 | [令和8年度 日光森林管理署管内車両系建設機械チャーター等単価契約（第2回）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/nikkou/20260904.html>) | 林野庁関東森林管理局日光森林管理署 | 2026-09-04 | 2026-10-02 | )※時間の管理方法は、作業日ごとにアワーメーターの写真を撮影管理すること | [入札公告(PDF : 246KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/nikkou/attach/pdf/20260904-1.pdf>) / [入札説明資料等(PDF : 1,457KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/nikkou/attach/pdf/20260904-2.pdf>) |
 | 茨城県 | [【電子入札】【電子契約】令和8年度 JMTR圧縮空気系統点検整備](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01296.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-09-04 | 2026-11-04 | (10)構内の写真等撮影は、許可を受けた場合以外は原則として禁止する | — |
 | 千葉県 | [松契一般第210号 松戸駅東口デッキ補修工事（PDF：140KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/210k.pdf>) | 千葉県松戸市 | 2026-09-04 | 2026-09-04 | 写真管理 写真撮影内容は目的を満足しているか | [松契一般第210号 設計図書（PDF：2,098KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/210s.pdf>) |
-| 千葉県 | [松契一般第209号 坂川2号橋補修工事（PDF：140KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/209k.pdf>) | 千葉県松戸市 | 2026-09-04 | 2026-09-04 | 写真管理 写真撮影内容は目的を満足しているか | [松契一般第209号 設計図書（PDF：3,494KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/209s.pdf>) |
-| 千葉県 | [松契一般第208号 松戸市消防局空調設備改修その他電気設備工事（第3期）（PDF：139KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/208k.pdf>) | 千葉県松戸市 | 2026-09-04 | 2026-09-04 | 理人以外の検査とする)【工事完了後速やかに】報告1■工事写真(建築工事写真撮影基準に準拠)■1工事記録写真■2完成写真【工事完了後速やかに】写真帳写真帳11建1.2.4電1.2.4機1.2.4代表者■完成図PDF,CADデータCDもしくはDVD2建1.7.2電1.7.2機1.7.2■電子納品電子媒体電子媒体納品書CDも… | [松契一般第208号 設計図書（PDF：1,270KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/208s.pdf>) |
-| 千葉県 | [松契一般第207号 松戸市消防局空調設備改修工事（第3期）（PDF：139KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/207k.pdf>) | 千葉県松戸市 | 2026-09-04 | 2026-09-04 | 〇全空気方式〇工事写真@ 国土交通省大臣官房官庁営繕部制定の「営繕工事写真撮影要領(令和5年版)」による | [松契一般第207号 設計図書（PDF：2,003KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/207s.pdf>) |
-| 千葉県 | [松契一般第211号 松戸駅西口地下駐車場空調設備等交換修繕 （PDF：135KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904syuuzen.files/211k.pdf>) | 千葉県松戸市 | 2026-09-04 | 2026-09-04 | (3)着手前と完了時の写真撮影は、同一方向から行うものとする | [松契一般第211号 設計図書（PDF：2,505KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904syuuzen.files/211s.pdf>) |
-| 埼玉県 | [農業集落排水処理施設及びマンホールポンプ施設維持管理業務委託](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/672/8-300375koukoku.pdf>) | 埼玉県川越市 | 2026-09-03 | 2026-09-14 | (9)路線ごとに報告用の写真を撮影すること | [仕様書（川越市上下水道局公告財務第101号） （PDF 4.1MB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/672/8-300375shiyousyo.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-002.md) ｜ [次の100件](page-004.md)

@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-02T07:28+09:00（収集時点）
+最終更新：2026-11-03T07:31+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**511件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**516件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 4 / 6
 
@@ -16,6 +16,11 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 千葉県 | [松契一般第209号 坂川2号橋補修工事（PDF：140KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/209k.pdf>) | 千葉県松戸市 | 2026-09-04 | 2026-09-04 | 写真管理 写真撮影内容は目的を満足しているか | [松契一般第209号 設計図書（PDF：3,494KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/209s.pdf>) |
+| 千葉県 | [松契一般第208号 松戸市消防局空調設備改修その他電気設備工事（第3期）（PDF：139KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/208k.pdf>) | 千葉県松戸市 | 2026-09-04 | 2026-09-04 | 理人以外の検査とする)【工事完了後速やかに】報告1■工事写真(建築工事写真撮影基準に準拠)■1工事記録写真■2完成写真【工事完了後速やかに】写真帳写真帳11建1.2.4電1.2.4機1.2.4代表者■完成図PDF,CADデータCDもしくはDVD2建1.7.2電1.7.2機1.7.2■電子納品電子媒体電子媒体納品書CDも… | [松契一般第208号 設計図書（PDF：1,270KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/208s.pdf>) |
+| 千葉県 | [松契一般第207号 松戸市消防局空調設備改修工事（第3期）（PDF：139KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/207k.pdf>) | 千葉県松戸市 | 2026-09-04 | 2026-09-04 | 〇全空気方式〇工事写真@ 国土交通省大臣官房官庁営繕部制定の「営繕工事写真撮影要領(令和5年版)」による | [松契一般第207号 設計図書（PDF：2,003KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/207s.pdf>) |
+| 千葉県 | [松契一般第211号 松戸駅西口地下駐車場空調設備等交換修繕 （PDF：135KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904syuuzen.files/211k.pdf>) | 千葉県松戸市 | 2026-09-04 | 2026-09-04 | (3)着手前と完了時の写真撮影は、同一方向から行うものとする | [松契一般第211号 設計図書（PDF：2,505KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904syuuzen.files/211s.pdf>) |
+| 埼玉県 | [農業集落排水処理施設及びマンホールポンプ施設維持管理業務委託](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/672/8-300375koukoku.pdf>) | 埼玉県川越市 | 2026-09-03 | 2026-09-14 | (9)路線ごとに報告用の写真を撮影すること | [仕様書（川越市上下水道局公告財務第101号） （PDF 4.1MB）](<https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/672/8-300375shiyousyo.pdf>) |
 | 茨城県 | [令和8年度 市道路側草刈業務委託第2回【第3工区】](<https://www.city.kasumigaura.lg.jp/data/doc/1788226310_doc_14_0.pdf>) | 茨城県かすみがうら市 | 2026-09-03 | 2026-10-01 | (2)除草及び集草・積込み・運搬等の作業状況の写真を撮影すること | [平面図](<https://www.city.kasumigaura.lg.jp/data/doc/1788226318_doc_14_0.pdf>) / [共通仕様書](<https://www.city.kasumigaura.lg.jp/data/doc/1788226326_doc_14_0.pdf>) |
 | 茨城県 | [令和8年度 市道路側草刈業務委託第2回【第1工区】](<https://www.city.kasumigaura.lg.jp/data/doc/1788225880_doc_14_0.pdf>) | 茨城県かすみがうら市 | 2026-09-03 | 2026-10-01 | (2)除草及び集草・積込み・運搬等の作業状況の写真を撮影すること | [平面図](<https://www.city.kasumigaura.lg.jp/data/doc/1788225888_doc_14_0.pdf>) / [共通仕様書](<https://www.city.kasumigaura.lg.jp/data/doc/1788225896_doc_14_0.pdf>) |
 | 茨城県 | [令和8年度 市道路側草刈業務委託第2回【第4工区】](<https://www.city.kasumigaura.lg.jp/data/doc/1788225353_doc_14_0.pdf>) | 茨城県かすみがうら市 | 2026-09-03 | 2026-10-01 | (2)除草及び集草・積込み・運搬等の作業状況の写真を撮影すること | [平面図](<https://www.city.kasumigaura.lg.jp/data/doc/1788225361_doc_14_0.pdf>) / [共通仕様書](<https://www.city.kasumigaura.lg.jp/data/doc/1788225369_doc_14_0.pdf>) |
@@ -111,10 +116,5 @@
 | 東京都 | [【再公募】江戸川区小岩アーバンプラザ舞台操作業務委託事業者選定プロポーザルの実施](<https://www.city.edogawa.tokyo.jp/documents/73193/koiwaurbanplaza_jisshiyoko.pdf>) | 東京都江戸川区 | 2026-08-06 | 2026-09-02 | 4 写真撮影は機器、配線のみ可とします | [令和8年度江戸川区小岩アーバンプラザ舞台操作業務委託仕様書（案）（PDF：236KB）](<https://www.city.edogawa.tokyo.jp/documents/73193/r8_koiwaurbanplaza_shiyosho.pdf>) |
 | 茨城県 | [(RE-07719)JT-60発電機棟他屋内消火配管補修工事【掲載期間:2026-8-6～2026-8-31】](<https://www.qst.go.jp/uploaded/attachment/52685.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-08-06 | 2026-09-30 | デジタルカメラで撮影する場合は、国土交通省が定めた「営繕工事写真撮影要領」有効画素数100~300万画素数程度の仕様とする | [仕様書 \[PDFファイル／1.21MB\]](<https://www.qst.go.jp/uploaded/attachment/52686.pdf>) |
 | 神奈川県 | [360度フィードバック業務及び管理職向け研修業務](<https://www.nedo.go.jp/content/800059519.pdf>) | 国立研究開発法人新エネルギー・産業技術総合開発機構 | 2026-08-06 | 2026-09-04 | フォロー及び実施までの間の見返しの観点で、受注者は事前説明会の録画及び編集後の事前説明会動画の使用を許諾すること | [仕様書（967KB）](<https://www.nedo.go.jp/content/800059520.pdf>) |
-| 茨城県 | [【電子入札】【電子契約】蒸気ドラム等の解体撤去作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0804C00590.pdf>) | 国立研究開発法人日本原子力研究開発機構敦賀 | 2026-08-06 | 2026-10-06 | 4.6 写真等の管理受注者は、作業の必要上写真、ビデオ映像等の撮影を行う場合には、次の事項を厳守すること | — |
-| 茨城県 | [【電子入札】【電子契約】PWTF機械室系コイルユニットの更新](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C02661.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-08-05 | 2026-10-07 | 火気使用作業に係る手続き等6 入構及び物品の搬出入に係る手続き等7 写真撮影に係る手続き等1 非管理区域作業に係る手続き等非管理区域作業を行う時は、受注者は契約締結後から作業開始2週間前までのなるべく早い時期に、作業計画書及び附属書類「表1」を作成し、JAEAの確認を受けること | — |
-| 神奈川県 | [市民交流センター湧水・汚水ポンプ等更新工事](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_siminnkoryuosuiponputoukousin.pdf>) | 神奈川県逗子市 | 2026-08-04 | 2026-08-26 | (工事写真)第9条 受注者は、工事中の写真を撮影し、工事着手前、施工中、完成時の工程順に整理編集し、工事完了後写真帳(デジタルカメラ可)を提出すること | [02\_図面一式 （PDF 6.0 MB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8zumen_siminnkoryuosuiponputoukousin.pdf>) / [03\_設計書 （Excel 307.5 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8utiwake_siminnkoryuosuiponputoukousin.xls>) / [01\_仕様書 （PDF 432.8 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8siyo_siminnkoryuosuiponputoukousin.pdf>) |
-| 神奈川県 | [既存団地における雨庭の導入効果検討業務 （令和8年8月3日）](<https://www.ur-net.go.jp/orders/honsha/pdf/order_43827_3.pdf>) | 独立行政法人都市再生機構本社 | 2026-08-03 | 2026-09-16 | 料収集、要約といった簡易な業務・ トレース業務、模型製作、パース作成、写真撮影・ 計算(日影、省エネルギー関係、防災関係)・ データ入力(CAD、電算)※ 記載のない内容を再委託する場合は、その作業の質と表の範囲を勘案して判断するものとする | [仕様書\[420KB\]](<https://www.ur-net.go.jp/orders/honsha/pdf/order_43827_4.pdf>) |
-| 茨城県 | [(RE-07516)ITER NBI HVブッシングFRP絶縁管インサート金具引抜試験体の製作【掲載期間:2026-8-3～2026-8-25】](<https://www.qst.go.jp/uploaded/attachment/52591.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-08-03 | 2027-03-10 | また、上部から写真を撮影すること | [仕様書 \[PDFファイル／615KB\]](<https://www.qst.go.jp/uploaded/attachment/52592.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-003.md) ｜ [次の100件](page-005.md)

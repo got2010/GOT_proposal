@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-02T07:28+09:00（収集時点）
+最終更新：2026-11-03T07:31+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**511件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**516件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 6 / 6
 
@@ -16,6 +16,11 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 埼玉県 | [（仮称）汚泥再生処理センター整備事業の総合評価一般競争入札の公告について](<https://www.city.kumagaya.lg.jp/about/soshiki/kankyo/kankyosuishin/kasyouodeisaisei/odeikoukoku.files/nyusatsukokoku.pdf>) | 埼玉県熊谷市 | 2026-07-14 | 2026-10-20 | 第7 工事写真の撮影受注者は、本工事全般にわたって、工事工程に従って段階的に土木建築工事、機械設備工事等についての工事写真を撮影編集し、本市の要求に応じていつでも閲覧できるように整備すること | [入札説明書（PDF：286KB）](<https://www.city.kumagaya.lg.jp/about/soshiki/kankyo/kankyosuishin/kasyouodeisaisei/odeikoukoku.files/nyusatsusetsumeisyo.pdf>) / [要求水準書（PDF：637KB）](<https://www.city.kumagaya.lg.jp/about/soshiki/kankyo/kankyosuishin/kasyouodeisaisei/odeikoukoku.files/yokyusuijunsyo.pdf>) / [落札者決定基準書（PDF：332KB）](<https://www.city.kumagaya.lg.jp/about/soshiki/kankyo/kankyosuishin/kasyouodeisaisei/odeikoukoku.files/rakusatsusyaketteikijunsyo.pdf>) / [様式集1から4（エクセル：146KB）](<https://www.city.kumagaya.lg.jp/about/soshiki/kankyo/kankyosuishin/kasyouodeisaisei/odeikoukoku.files/yoshikisyu1kara4.xlsx>) / [様式集5（ワード：19KB）](<https://www.city.kumagaya.lg.jp/about/soshiki/kankyo/kankyosuishin/kasyouodeisaisei/odeikoukoku.files/yoshikisyu5.docx>) |
+| 神奈川県 | [逗子市地域防災計画等作成業務委託](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_tiikibousaikeikakusakusei.pdf>) | 神奈川県逗子市 | 2026-07-14 | 2026-07-29 | 害認定業務実施体制の手引き(内閣府)(27)住家の被害認定調査における写真撮影に係る留意事項 について(内閣府)(28)罹災証明書の統一様式の改定について(内閣府)(29)人とペットの災害対策ガイドライン(環境省)(30)災害廃棄物対策指針(環境省)(31)災害時の一般廃棄物処理に関する初動対応の手引き(環境省)(32… | [01\_仕様書 （PDF 164.4 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8siyo_tiikibousaikeikakusakusei.pdf>) |
+| 神奈川県 | [自動車騒音常時監視業務委託](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_zidousyasouonnkannsi.pdf>) | 神奈川県逗子市 | 2026-07-14 | 2026-07-29 | なお、測定箇所は、概況が判別できるよう、周辺の写真撮影を行い、台帳を整理する | [01\_仕様書 （PDF 230.9 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8siyo_zidousyasouonkansi.pdf>) |
+| 神奈川県 | [桜山第1マンホールポンプ場No.1ポンプ及び沼間第2マンホールポンプ場No.1ポンプ更新工事](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_manho-ruponnpuzyoukousin.pdf>) | 神奈川県逗子市 | 2026-07-14 | 2026-07-29 | (工事写真)第8条 受注者は、工事中の写真を撮影し、工事着手前、施工中、完成時の工程順に整理編集し、工事完了後写真帳(デジタルカメラ可)を提出すること | [02\_図面一式 （PDF 3.0 MB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8zumen_manho-ruponnpuzyoukousin.pdf>) / [03\_設計書 （PDF 30.4 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8utiwake_manho-ruponnpuzyoukousin.pdf>) / [01\_仕様書 （PDF 205.9 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8siyou_manho-ruponnpuzyoukousin.pdf>) |
+| 神奈川県 | [ハイランド吐室及び遠方監視制御装置改築工事](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_hairandohakisituoyobiennposeigyokaitik.pdf>) | 神奈川県逗子市 | 2026-07-14 | 2026-07-29 | (工事写真)第8条 受注者は、工事中の写真を撮影し、工事着手前、施工中、完成時の工程順に整理編集し、工事完了後写真帳(デジタルカメラ可)を提出すること | [02\_図面一式 （PDF 2.8 MB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8zumen_hairandohakisituoyobiennposeigyokaitik.pdf>) / [03\_設計書 （Excel 71.5 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8utiwake_hairandohakisituoyobiennposeigyokaitik.xlsx>) / [01\_仕様書 （PDF 636.7 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8siyo_hairandohakisituoyobiennposeigyokaitiku.pdf>) |
 | 茨城県 | [【電子入札】【電子契約】取水設備定期点検](<https://keiyaku.jaea.go.jp/compe/02/pdf/0804C00524.pdf>) | 国立研究開発法人日本原子力研究開発機構敦賀 | 2026-07-14 | 2026-07-14 | 囲(1)補機送水管路(取水口ポンプ室含む)1外観調査 : 目視・打診・写真撮影 一式2コンクリート性状調査:表面硬度・ひび割れ幅測定 23箇所中性化調査 8箇所3変位測定 :沈下測定 42箇所水平移動調査 96箇所(2)共同溝、中央配管溝、西側配管溝、ケーブル洞道1外観調査 : 目視・打診・写真撮影 一式2.2.2 作… | — |
 | 茨城県 | [【電子入札】【電子契約】岩盤中の核種移行現象解明とモデル開発のための分析調査](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C02414.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-07-14 | 2026-09-16 | オープンニコルとクロスニコル等の偏光グラスを切替えて写真撮影を行う | — |
 | 東京都 | [%E2%96%B62026.07.13\_%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A4\_%E7%AC%AC%E4%BA%8C%E4%B8%96%E4%BB%A3%E3%82%B7%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%B8%80%E5%BC%8F%20%E5%A4%962%E7%89%…](<https://www.tmd.ac.jp/archive-tmdu/zaimukeiyaku/%E2%96%B62026.07.13_%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A4_%E7%AC%AC%E4%BA%8C%E4%B8%96%E4%BB%A3%E3%82%B7%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%B8%80%E5%BC%8F%20%E5%A4%962%E7%89%A9%E4%BB%B6.pdf>) | 国立大学法人東京科学大学 | 2026-07-13 | 原文を確認 | 教育研究評議会学長選考・監察会議広報誌・刊行物広報誌・刊行物トップ大学紹介動画大学紹介動画トップ大学紹介動画キャンパスライフ編留学制度編多職種連携教育編学長×医学部学生懇談学長×歯学部学生懇談東京医科歯科大学の歴史大学概要(冊子)統合報告書広報誌広報誌トップ広報誌「Bloom! 医科歯科大」英語版広報誌「TMDU AN… | — |

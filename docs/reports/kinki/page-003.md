@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-02T07:28+09:00（収集時点）
+最終更新：2026-11-03T07:31+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**220件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**222件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 京都府 | [貴船山山腹工事](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/260722.html>) | 林野庁近畿中国森林管理局京都大阪森林管理事務所 | 2026-07-22 | 2026-09-24 | 難な部分を主として、着工から完成までの一連作業の施工状況が、識別できる写真を撮影すること | [入札公告(PDF : 202KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/attach/pdf/260722-1.pdf>) / [入札説明書(PDF : 3,101KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/attach/pdf/260722-2.pdf>) / [閲覧図書(PDF : 2,060KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/attach/pdf/260722-3.pdf>) |
+| 奈良県 | [地峯渓間工事](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/nara/20260722jimine.html>) | 林野庁近畿中国森林管理局奈良森林管理事務所 | 2026-07-22 | 2026-09-17 | 黒板情報の電子的記入 受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [入札公告(PDF : 325KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/nara/attach/pdf/20260722jimine-1.pdf>) / [入札説明書(PDF : 6,245KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/nara/attach/pdf/20260722jimine-2.pdf>) / [閲覧図書(PDF : 1,340KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/nara/attach/pdf/20260722jimine-3.pdf>) |
 | 兵庫県 | [令和8年度指定管理鳥獣捕獲等事業実施計画策定業務](<https://web.pref.hyogo.lg.jp/nk20/r8siteikanrikeikakusakutei.html>) | 兵庫県 | 2026-07-21 | 2026-07-27 | 上に自動撮影カメラを計17台設置し、8月から10月までのうち73日間、撮影を実施する | [入札公告（PDF：174KB）](<https://web.pref.hyogo.lg.jp/nk20/documents/r8koukoku.pdf>) / [仕様書（PDF：397KB）](<https://web.pref.hyogo.lg.jp/nk20/documents/r8shiyousyo.pdf>) / [金抜き設計書（PDF：629KB）](<https://web.pref.hyogo.lg.jp/nk20/documents/r8kinnukisekkeisyo.pdf>) |
 | 京都府 | [【確定】図面](<https://www.maizuru-ct.ac.jp/wp-content/uploads/2026/07/koukoku_20260703_zumen_kakutei.pdf>) | 独立行政法人国立高等専門学校機構舞鶴工業高等専門学校 | 2026-07-21 | 原文を確認 | )工事写真撮影要領(令和5年9月)●●●●●●●● ● ○●耐震施工設備機器の固定は、施設の分類並びに機器の種別、重要度及び設置階に応じて、次の設計用水平地震力及び設計用鉛直地震力に対し、移動、転倒、破損等が生じないようにする | — |
 | 京都府 | [令和8年7月17日公告分ガスクロマトグラフ質量分析装置の賃貸借に係る入札説明書等](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/071701g.pdf>) | 国家公安委員会（警察庁）京都府警察 | 2026-07-17 | 2026-07-29 | に属する物件 (ウ) (ア)又は (イ)を基に、受注者が作成(複製及び写真撮影を含む )した文書、図 | [仕様書（PDF：268KB）](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/071705g-shiyousho.pdf>) |

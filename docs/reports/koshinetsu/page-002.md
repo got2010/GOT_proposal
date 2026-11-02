@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-02T07:28+09:00（収集時点）
+最終更新：2026-11-03T07:31+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**181件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**184件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 長野県 | [5 市民の森公園体育館LED化改修工事](<https://www.city.ueda.nagano.jp/uploaded/attachment/85098.pdf>) | 長野県上田市 | 2026-09-01 | 2026-09-17 | 上主要な間仕切りを貫通する場合、その施工状況について貫通個所の両面から写真撮影し、工事写真として提出する | [設計書 \[PDFファイル／118KB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/85101.pdf>) / [設計図 \[PDFファイル／544KB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/85103.pdf>) |
+| 長野県 | [令和8年度 老朽管更新黒沢配水管布設替工事【水道施設工事Ｂ・Ｃ級（市内本店）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080901tansyuku-4.files/4_1_koukoku_kurosawa_haisui.pdf>) | 長野県伊那市 | 2026-09-01 | 2026-09-08 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [特記仕様書（PDF：233KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080901tansyuku-4.files/4_3_tokki_kurosawa_haisui.pdf>) / [位置図（PDF：151KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080901tansyuku-4.files/4_4_itizu_kurosawa_haisui.pdf>) / [図面（PDF：1,122KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080901tansyuku-4.files/4_5_zumen_kurosawa_haisui.pdf>) |
+| 山梨県 | [令和8年度上佐野地区森林環境保全整備事業（保育間伐活用型）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/0901_seisan.html>) | 林野庁関東森林管理局山梨森林管理事務所 | 2026-09-01 | 2026-10-14 | 事業請負標準仕様書(別紙)製品生産事業請負実行管理基準の別表「実行記録写真の撮影要領」は別紙3のとおりとする | [入札公告(PDF : 206KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0901_seisan-1.pdf>) / [(1)入札説明書(PDF : 324KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0901_seisan-2.pdf>) / [(4)特記仕様書(PDF : 393KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0901_seisan-5.pdf>) / [(5)造材寸法表(PDF : 41KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0901_seisan-4.pdf>) / [(7)位置図等(PDF : 2,276KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0901_seisan-6.pdf>) |
 | 長野県 | [令和8年度 町単 雲場池公衆トイレ建築他工事](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10374.pdf>) | 長野県軽井沢町 | 2026-08-26 | 2026-10-06 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [金抜設計書 \[PDFファイル／722KB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10333.pdf>) / [​現場説明事項・施工条件明示事項 \[PDFファイル／789KB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10334.pdf>) / [図面（建築1） \[PDFファイル／3.22MB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10335.pdf>) / [図面（建築2） \[PDFファイル／8.31MB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10336.pdf>) / [図面（建築3） \[PDFファイル／1.14MB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10337.pdf>) |
 | 長野県 | [令和８年度中部山岳国立公園南部地域「Kita Alps Traverse Route」におけるロングトレイルを通じた感動体験・海外情報発信業務](<https://chubu.env.go.jp/shinetsu/content/000424931.pdf>) | 環境省信越自然環境事務所 | 2026-08-26 | 2026-09-14 | 公園南部地域3.業務内容(1)英語圏向け訪日観光Webメディア及び公式動画チャンネルでの掲載・配信2訪日外国人旅行者に対して高い到達力を有する英語圏向け訪日観光 Web メディアにおいて、信飛トレイル及びKita Alps Traverse Routeの魅力を紹介する記事及び動画を制作し、掲載又は配信すること | [入札説明書一式\[PDF 1.6MB\]](<https://chubu.env.go.jp/shinetsu/content/000424932.pdf>) |
 | 長野県 | [9月10日開札（一般競争）旭ヶ丘1号マンホールポンプ場外更新工事](<https://www.city.suzaka.nagano.jp/material/files/group/4/260825koukoku110.zip>) | 長野県須坂市 | 2026-08-25 | 2026-09-10 | また、工事着手前に破損している構造物に関しては状況写真を撮影すること | — |

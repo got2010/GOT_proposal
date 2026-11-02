@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-02T07:28+09:00（収集時点）
+最終更新：2026-11-03T07:31+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**265件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**266件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 青森県 | [広田・尻無線舗装１工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k031.pdf>) | 青森県五所川原市 | 2026-08-05 | 2026-08-19 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j031.zip>) |
 | 宮城県 | [公告\_第R8-一般14号\_令和8年度 槻木五間堀改修工事.pdf \[ 133 KB pdfファイル\]](<https://www.town.shibata.miyagi.jp/index.cfm/88,35632,c,html/35632/20260804-151613.pdf>) | 宮城県柴田町 | 2026-08-04 | 2026-08-20 | (監督員)における「現場臨場の削減による効率的な時間の活用」を目指し、動画撮影用のカメラ(ウェアラブルカメラ等)とWeb 会議システム等を介して「段階確認」、「材料確認」と「立会」の遠隔臨場を行うものである | [第R8-一般14号\_令和8年度 槻木五間堀改修工事.zip \[ 14486 KB zipファイル\]](<https://www.town.shibata.miyagi.jp/index.cfm/88,35632,c,html/35632/20260804-152216.zip>) |
 | 福島県 | [上ノ原配水池ロボット清掃業務委託](<https://www.town.namie.fukushima.jp/uploaded/attachment/25358.pdf>) | 福島県浪江町 | 2026-08-04 | 2026-08-18 | 工中、完了及び腐食、劣化、点検調査状況等の写真を添付し業務報告書を1部作成、内部映像はCD、またはDVDに収録し1枚提出すること | [入札説明書 \[PDFファイル／258KB\]](<https://www.town.namie.fukushima.jp/uploaded/attachment/25360.pdf>) / [設計書 \[PDFファイル／11KB\]](<https://www.town.namie.fukushima.jp/uploaded/attachment/25353.pdf>) / [仕様書 \[PDFファイル／623KB\]](<https://www.town.namie.fukushima.jp/uploaded/attachment/25354.pdf>) |
 | 岩手県 | [造林事業請負（松尾4地区、地拵・植付）外](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/iwatehokubu/260804.html>) | 林野庁東北森林管理局岩手北部森林管理署 | 2026-08-04 | 2026-09-10 | 出来形管理基準(b) 出来形図面(3) 実行記録写真 (a) 実行記録写真の撮影要領(b) 実行記録写真の撮影と整理4.管理の実施(1) 現場代理人は、作業の実施の都度、その結果を記録するとともに、その結果に基づいて適切な実行管理を行わなければならない | [入札公告(PDF : 196KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/iwatehokubu/./attach/pdf/260804-1.pdf>) / [造林説明書(PDF : 372KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/iwatehokubu/./attach/pdf/260804-2.pdf>) / [造林事業請負標準仕様書及び造林事業請負実行管理基準並びに林野火災防止に関する誓約書様式(PDF : 287KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/iwatehokubu/./attach/pdf/260804-3.pdf>) / [入札説明資料1号（松尾4地区、地拵・植付）(PDF : 2,824KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/iwatehokubu/./attach/pdf/260804-4.pdf>) / [入札説明資料2号（浄法寺3地区、除伐）(PDF : 3,538KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/iwatehokubu/./attach/pdf/260804-5.pdf>) |

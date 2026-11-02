@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-02T07:28+09:00（収集時点）
+最終更新：2026-11-03T07:31+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：沖縄県
 
-**71件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**72件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 1
 
@@ -17,6 +17,7 @@
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
 | 沖縄県 | [浄水場見学者用動画作成業務委託の一般競争入札](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/625/r8_18_01.pdf>) | 沖縄県 | 2026-10-09 | 2026-10-21 | 浄水場見学者用動画作成業務委託の一般競争入札 | [入札説明書 （PDF 138.8KB）](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/625/r8_18_03.pdf>) |
+| 沖縄県 | [名護自然動植物公園機能強化事業交差点改良工事 発注資料](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261102_056_01koukoku.pdf>) | 沖縄県名護市 | 2026-11-02 | 原文を確認 | 示施設(板) 19 付表-1-1 週間工程表 20 資料-1-8 工事写真撮影方法 21 資料-1-17 完成図書 30 資料-1-18 完成図面及び設計図面 31 付表-1-2 交通信号機工事完成図書式 32 付図-1-1 交通信号機工事完成図作図基準 33 付表-1-3 交通信号機管理簿書式 34 付表-1-4 視… | [6-1-1 特記仕様書\[PDF：335KB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261102_056_06-01-01tokki.pdf>) / [6-1-2 特記仕様書（磁気探査）\[PDF：78KB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261102_056_06-01-02tokkijikitansa.pdf>) / [6-1-3 〔別添参照〕交通信号機設備工事仕様書（令和３年度改訂版）\[PDF：7.16MB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261102_056_06-01-03sanshoulputuushingoukisetubikouzisiyousho.pdf>) / [6-2 工事積算に関する説明事項\[PDF：83.6KB\]\[PDF：70.6KB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261102_056_06-02setsumei.pdf>) / [7 図面(工事・磁気探査)\[PDF：5.52MB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261102_056_07zumenkoujijikitansa.pdf>) |
 | 沖縄県 | [名護市配水管布設工事(R8-その２) 発注資料](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_054_01koukoku.pdf>) | 沖縄県名護市 | 2026-10-30 | 原文を確認 | は原則として出来形で行うが、この場合、検査状況及び数量的に確認をし得る写真を撮影し、各ライン施工後、直ちに管割図を作成し、撮影済みの写真と一緒に発注者へ提出するものとする | [6-1 特記仕様書\[PDF：444KB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_054_06-01tokki.pdf>) / [6-2 工事積算に関する説明事項\[PDF：49.5KB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_054_06-02setsumei.pdf>) / [6-3(参照資料)熱中症対策に資する現場管理費の補正の試行について（沖縄県）\[PDF：197KB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_054_06-03sannkousiryoushukyuuhutukazissiyouryouokinwakennnourinnsuisnanbu.pdf>) / [7-1 位置図\[PDF：1.11MB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_054_07-01icizu.pdf>) / [7-2 図面\[PDF：5.74MB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_054_07-02zumen.pdf>) |
 | 沖縄県 | [21世紀の森公園武道機能拡充整備水道管移設工事 発注資料](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_053_01koukoku.pdf>) | 沖縄県名護市 | 2026-10-30 | 原文を確認 | は原則として出来形で行うが、この場合、検査状況及び数量的に確認をし得る写真を撮影し、各ライン施工後、直ちに管割図を作成し、撮影済みの写真と一緒に発注者へ提出するものとする | [6-1 特記仕様書\[PDF：684KB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_053_06-01tokki.pdf>) / [6-2 工事積算に関する説明事項\[PDF：77.6KB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_053_06-02setsumei.pdf>) / [6-3(参照資料)熱中症対策に資する現場管理費の補正の試行について（沖縄県）\[PDF：197KB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_053_06-03sannkousiryoushukyuuhutukazissiyouryouokinwakennnourinnsuisnanbu.pdf>) / [7-1 位置図\[PDF：1.65MB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_053_07-01icizu.pdf>) / [7-2 図面\[PDF：3.7MB\]](<https://www.city.nago.okinawa.jp/kurashi/2018071800281/file_contents/20261030_053_07-02zumen.pdf>) |
 | 沖縄県 | [令和８年度ミヤコカナヘビ生息状況把握等業務［最低価格落札方式］](<https://kyushu.env.go.jp/okinawa/procure_00342.html>) | 環境省沖縄奄美自然環境事務所 | 2026-10-22 | 2026-11-10 | ただし、コピーや写真撮影等の行為は禁止する | [01\_入札公告\[PDF 141KB\]](<https://kyushu.env.go.jp/okinawa/content/000435534.pdf>) / [02-1\_入札説明書\[PDF 169KB\]](<https://kyushu.env.go.jp/okinawa/content/000435535.pdf>) / [02-2\_（別紙）業務請負条件\[PDF 162KB\]](<https://kyushu.env.go.jp/okinawa/content/000435536.pdf>) / [04\_（別添２）仕様書\[PDF 261KB\]](<https://kyushu.env.go.jp/okinawa/content/000435538.pdf>) |
