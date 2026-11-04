@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-04T07:34+09:00（収集時点）
+最終更新：2026-11-05T07:39+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**516件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**517件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 6 / 6
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 茨城県 | [【電子入札】【電子契約】換気設備用計装機器の自主検査](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C00917.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-07-15 | 2026-09-11 | 6 写真を撮影し、作業報告書に添付すること | — |
 | 埼玉県 | [（仮称）汚泥再生処理センター整備事業の総合評価一般競争入札の公告について](<https://www.city.kumagaya.lg.jp/about/soshiki/kankyo/kankyosuishin/kasyouodeisaisei/odeikoukoku.files/nyusatsukokoku.pdf>) | 埼玉県熊谷市 | 2026-07-14 | 2026-10-20 | 第7 工事写真の撮影受注者は、本工事全般にわたって、工事工程に従って段階的に土木建築工事、機械設備工事等についての工事写真を撮影編集し、本市の要求に応じていつでも閲覧できるように整備すること | [入札説明書（PDF：286KB）](<https://www.city.kumagaya.lg.jp/about/soshiki/kankyo/kankyosuishin/kasyouodeisaisei/odeikoukoku.files/nyusatsusetsumeisyo.pdf>) / [要求水準書（PDF：637KB）](<https://www.city.kumagaya.lg.jp/about/soshiki/kankyo/kankyosuishin/kasyouodeisaisei/odeikoukoku.files/yokyusuijunsyo.pdf>) / [落札者決定基準書（PDF：332KB）](<https://www.city.kumagaya.lg.jp/about/soshiki/kankyo/kankyosuishin/kasyouodeisaisei/odeikoukoku.files/rakusatsusyaketteikijunsyo.pdf>) / [様式集1から4（エクセル：146KB）](<https://www.city.kumagaya.lg.jp/about/soshiki/kankyo/kankyosuishin/kasyouodeisaisei/odeikoukoku.files/yoshikisyu1kara4.xlsx>) / [様式集5（ワード：19KB）](<https://www.city.kumagaya.lg.jp/about/soshiki/kankyo/kankyosuishin/kasyouodeisaisei/odeikoukoku.files/yoshikisyu5.docx>) |
 | 神奈川県 | [逗子市地域防災計画等作成業務委託](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_tiikibousaikeikakusakusei.pdf>) | 神奈川県逗子市 | 2026-07-14 | 2026-07-29 | 害認定業務実施体制の手引き(内閣府)(27)住家の被害認定調査における写真撮影に係る留意事項 について(内閣府)(28)罹災証明書の統一様式の改定について(内閣府)(29)人とペットの災害対策ガイドライン(環境省)(30)災害廃棄物対策指針(環境省)(31)災害時の一般廃棄物処理に関する初動対応の手引き(環境省)(32… | [01\_仕様書 （PDF 164.4 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8siyo_tiikibousaikeikakusakusei.pdf>) |
 | 神奈川県 | [自動車騒音常時監視業務委託](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_zidousyasouonnkannsi.pdf>) | 神奈川県逗子市 | 2026-07-14 | 2026-07-29 | なお、測定箇所は、概況が判別できるよう、周辺の写真撮影を行い、台帳を整理する | [01\_仕様書 （PDF 230.9 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8siyo_zidousyasouonkansi.pdf>) |

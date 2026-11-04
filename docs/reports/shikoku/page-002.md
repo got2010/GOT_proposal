@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-04T07:34+09:00（収集時点）
+最終更新：2026-11-05T07:39+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：徳島県 香川県 愛媛県 高知県
 
-**146件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**147件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 高知県 | [(建第08071号)下井中地区8号水路改修工事【8月5日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_ken08071.pdf>) | 高知県香南市 | 2026-08-05 | 2026-08-31 | 及び所在地が計画と一致す運搬車のナンバーが写るよう運搬車後面のデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 365.6KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_ken08071.pdf>) / [公表単価一覧表 (PDFファイル: 19.3KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_ken08071.pdf>) / [数量計算書 (PDFファイル: 155.9KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/suryou_ken08071.pdf>) / [位置図 (PDFファイル: 497.9KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_ken08071.pdf>) / [図面 (PDFファイル: 1.5MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_ken08071.pdf>) |
 | 高知県 | [(建第08046号) 新道地区15号外水路改修工事【8月5日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_ken08046.pdf>) | 高知県香南市 | 2026-08-05 | 2026-08-31 | 正に処理されてい 荷姿、運搬車のナンバーが写るよう運搬車後面のデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 288.7KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_ken08046-2.pdf>) / [公表単価一覧表 (PDFファイル: 3.1KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_ken08046.pdf>) / [数量計算書 (PDFファイル: 287.6KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/suryou_ken08046.pdf>) / [位置図 (PDFファイル: 158.1KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_ken08046.pdf>) / [図面 (PDFファイル: 584.1KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_ken08046.pdf>) |
 | 徳島県 | [長生小学校屋内運動場屋根改修工事](<https://www.city.anan.tokushima.jp/docs/2026071700029/file_contents/260721-84.pdf>) | 徳島県阿南市 | 2026-08-04 | 原文を確認 | 等については,不可視部分の出来形が写真で 的確に確認できること.◎工事写真の撮影は, 国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」によること. ・阿南市建築工事様式集で監督員が指示した図書(必要部数)22. 工事検査及び技術検査23. 完成図等◎工事完成撮影は, 別途指定がある場合を除き,専門家によらないも… | [長生小学校屋内運動場屋根改修工事 入札情報\[PDF：62.8KB\]](<https://www.city.anan.tokushima.jp/docs/2026071700029/file_contents/260721-5.pdf>) / [長生小学校屋内運動場屋根改修工事 3.閲覧補足説明書（１）\[PDF：111KB\]](<https://www.city.anan.tokushima.jp/docs/2026071700029/file_contents/260721-5-3.pdf>) / [長生小学校屋内運動場屋根改修工事 4.閲覧補足説明書（２）\[PDF：85.3KB\]](<https://www.city.anan.tokushima.jp/docs/2026071700029/file_contents/260721-5-4.pdf>) / [長生小学校屋内運動場屋根改修工事 5.図面\[PDF：2.68MB\]](<https://www.city.anan.tokushima.jp/docs/2026071700029/file_contents/260721-5-5.pdf>) |
 | 徳島県 | [大野小学校屋内運動場空調設置工事のうち管工事](<https://www.city.anan.tokushima.jp/docs/2026071700067/file_contents/260721-7-0804.pdf>) | 徳島県阿南市 | 2026-08-04 | 原文を確認 | トイレ ・阿南市建築工事様式集で監督員が指示した図書(必要部数)◎工事写真の撮影は, 国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」によること.◎工事写真の電子データは完成写真, 着手前, 資機材, 施工状況の順に整理する. CD-R等に保存する. しゅん工図データは,関係図面(データ貸与)を修正して作成し,… | [大野小学校屋内運動場空調設置工事のうち管工事 入札情報\[PDF：61.9KB\]](<https://www.city.anan.tokushima.jp/docs/2026071700067/file_contents/260721-7.pdf>) / [大野小学校屋内運動場空調設置工事のうち管工事 3.閲覧補足説明書\[PDF：111KB\]](<https://www.city.anan.tokushima.jp/docs/2026071700067/file_contents/260721-7-3.pdf>) / [大野小学校屋内運動場空調設置工事のうち管工事 4.図面\[PDF：1.58MB\]](<https://www.city.anan.tokushima.jp/docs/2026071700067/file_contents/260721-7-4.pdf>) |

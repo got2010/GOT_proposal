@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-04T07:34+09:00（収集時点）
+最終更新：2026-11-05T07:39+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**222件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**226件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,10 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 京都府 | [令和8年7月24日公告分放置駐車違反管理処理システムの賃貸借に係る入札説明書等](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/072401.pdf>) | 国家公安委員会（警察庁）京都府警察 | 2026-07-24 | 2026-08-04 | 外秘の指定をした事項に属する物件○ 前記を基に、受注者が作成(複製及び写真撮影を含む | [仕様書（PDF：885KB）](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/072403.pdf>) |
+| 大阪府 | [郵便期限：8月5日 門真市立第二中学校屋内運動場空調機器賃貸借契約](<https://www.city.kadoma.osaka.jp/material/files/group/48/20260723jissiyouryou2kucyou.pdf>) | 大阪府門真市 | 2026-07-23 | 原文を確認 | (エ) 調査の際、生徒及び職員等の個人情報が写らない範囲であれば、写真撮影は可とします | [仕様書 (PDFファイル: 147.2KB)](<https://www.city.kadoma.osaka.jp/material/files/group/48/20260723siyosyo2kucyou.pdf>) / [内封筒貼付票 (Wordファイル: 32.0KB)](<https://www.city.kadoma.osaka.jp/material/files/group/48/20260723utibuutouharitukehyou2kucyou.docx>) |
+| 兵庫県 | [【制限付一般競争入札】明石市立総合福祉センター外壁修繕](<https://www.city.akashi.lg.jp/documents/40203/20260723104419.pdf>) | 兵庫県明石市 | 2026-07-23 | 原文を確認 | 繕着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、修繕完成時に現状復旧が行われているか確認すること | [仕様書（PDF：111KB）](<https://www.city.akashi.lg.jp/documents/40203/20260723104834.pdf>) / [特記仕様書（PDF：63KB）](<https://www.city.akashi.lg.jp/documents/40203/20260723104852.pdf>) |
+| 大阪府 | [郵送期限：8月7日 門真市ものづくり企業若者人材確保支援事業業務委託](<https://www.city.kadoma.osaka.jp/material/files/group/14/00r8m_youryou.pdf>) | 大阪府門真市 | 2026-07-22 | 原文を確認 | コンテンツ等作成業務の実施にあっては、参加企業を取材・撮影、原稿作成、校正、誌面デザイン、印刷製本、動画編集等を行い、発注者に納品する | [(イ)仕様書 (PDFファイル: 391.9KB)](<https://www.city.kadoma.osaka.jp/material/files/group/14/02r8m_siyousho.pdf>) / [(コ)内封筒貼付票 (Wordファイル: 32.1KB)](<https://www.city.kadoma.osaka.jp/material/files/group/14/10r8m_uchihuutou.docx>) |
 | 京都府 | [貴船山山腹工事](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/260722.html>) | 林野庁近畿中国森林管理局京都大阪森林管理事務所 | 2026-07-22 | 2026-09-24 | 難な部分を主として、着工から完成までの一連作業の施工状況が、識別できる写真を撮影すること | [入札公告(PDF : 202KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/attach/pdf/260722-1.pdf>) / [入札説明書(PDF : 3,101KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/attach/pdf/260722-2.pdf>) / [閲覧図書(PDF : 2,060KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/attach/pdf/260722-3.pdf>) |
 | 奈良県 | [地峯渓間工事](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/nara/20260722jimine.html>) | 林野庁近畿中国森林管理局奈良森林管理事務所 | 2026-07-22 | 2026-09-17 | 黒板情報の電子的記入 受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [入札公告(PDF : 325KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/nara/attach/pdf/20260722jimine-1.pdf>) / [入札説明書(PDF : 6,245KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/nara/attach/pdf/20260722jimine-2.pdf>) / [閲覧図書(PDF : 1,340KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/nara/attach/pdf/20260722jimine-3.pdf>) |
 | 兵庫県 | [令和8年度指定管理鳥獣捕獲等事業実施計画策定業務](<https://web.pref.hyogo.lg.jp/nk20/r8siteikanrikeikakusakutei.html>) | 兵庫県 | 2026-07-21 | 2026-07-27 | 上に自動撮影カメラを計17台設置し、8月から10月までのうち73日間、撮影を実施する | [入札公告（PDF：174KB）](<https://web.pref.hyogo.lg.jp/nk20/documents/r8koukoku.pdf>) / [仕様書（PDF：397KB）](<https://web.pref.hyogo.lg.jp/nk20/documents/r8shiyousyo.pdf>) / [金抜き設計書（PDF：629KB）](<https://web.pref.hyogo.lg.jp/nk20/documents/r8kinnukisekkeisyo.pdf>) |

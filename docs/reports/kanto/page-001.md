@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-04T07:34+09:00（収集時点）
+最終更新：2026-11-05T07:39+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**516件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**517件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 6
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 東京都 | [金融機関が行う預貯金口座の不正利用等防止の取組への協力要請に係る周知広報動画の広告出稿代行業務](<https://www.fsa.go.jp/choutatu/choutatu_j/R8/20261104-1.pdf>) | 金融庁 | 2026-11-04 | 原文を確認 | 金融機関が行う預貯金口座の不正利用等防止の取組への協力要請に係る周知広報動画の広告出稿代行業務 | — |
 | 東京都 | [政策シミュレーション国際会議（コネクションズ・ジャパン）運営業務及び動画作成業務）](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 防衛省 | 2026-10-30 | 原文を確認 | 政策シミュレーション国際会議(コネクションズ・ジャパン)運営業務及び動画作成業務) | — |
 | 東京都 | [令和８年度OSA政策広報動画の制作及び広報施策](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 外務省 | 2026-10-23 | 原文を確認 | 令和8年度OSA政策広報動画の制作及び広報施策 | — |
 | 東京都 | [キャリア形成支援ガイド及び採用・オンボーディング・活躍支援ガイドに基づく動画コンテンツの作成業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 人事院 | 2026-10-23 | 原文を確認 | キャリア形成支援ガイド及び採用・オンボーディング・活躍支援ガイドに基づく動画コンテンツの作成業務 | — |
@@ -115,6 +116,5 @@
 | 茨城県 | [【電子入札】【電子契約】γ線スペクトル分析装置の購入](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C04178.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-10-15 | 2026-12-01 | 受注者 1 作業開始14日前撮影許可申請書 機構 1作業開始14日前(撮影を行う場合)カメラ等持込み・持出し申請書 機構 1作業開始14日前(撮影を行う場合)工事資材等持込・持出申請書 機構 1作業開始14日前(物品の持込・持出を行う場合)持込制限物品の持込・持出申請書 機構 1作業開始14日前(物品の持込・持出を行う… | — |
 | 埼玉県 | [自転車等の放置防止対策包括業務委託に係る公募型プロポーザルの参加者募集について](<https://www.city.kawaguchi.lg.jp/material/files/group/116/zissiyouryou.pdf>) | 埼玉県川口市 | 2026-10-14 | 2026-11-19 | 札の貼付時及び一定時間経過後の確認時は、専用のシステム端末等で1台ずつ写真を撮影(遠景・近景)し、日時や場所等をシステムに記録する | [別紙1\_仕様書 (PDFファイル: 299.0KB)](<https://www.city.kawaguchi.lg.jp/material/files/group/116/siyoousyo.pdf>) |
 | 東京都 | [令和8年度国家森林資源データベースシステムの運用及びデータ整備等業務(PDF : 228KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/system-718.pdf>) | 林野庁 | 2026-10-13 | 2026-10-28 | 2 閲覧資料については、撮影及び複製を行いません | [入札説明書(PDF : 1,198KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/system-719.pdf>) / [仕様書(PDF : 2,673KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/system-720.pdf>) |
-| 東京都 | [江戸川区河川敷施設維持管理業務委託 事業者選定プロポーザルの実施について](<https://www.city.edogawa.tokyo.jp/documents/30835/edogawakukasenjikishisetsuijikanrigyomuitakuboshuyoko.pdf>) | 東京都江戸川区 | 2026-10-13 | 2026-11-13 | ・清掃後の現場写真を毎月1回撮影し、上記報告書に添付すること | [江戸川区河川敷施設維持管理業務委託仕様書（河川敷グラウンド：運営）（PDF：1,085KB）](<https://www.city.edogawa.tokyo.jp/documents/30835/edogawakukasenjikiijikanrigyomuitakushiyosho-kasenjikiground-unei.pdf>) / [江戸川区河川敷施設維持管理業務委託仕様書（河川敷グラウンド：整備・修繕等）（PDF：222KB）](<https://www.city.edogawa.tokyo.jp/documents/30835/edogawakukasenjikiijikanrigyomuitakushiyosho-kasenjikiground-seibishuzento.pdf>) / [江戸川区河川敷施設維持管理業務委託仕様書（河川敷緑地）（PDF：2,151KB）](<https://www.city.edogawa.tokyo.jp/documents/30835/edogawakukasenjikiijikanrigyomuitakushiyosho-kasenjikiryokuchi.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

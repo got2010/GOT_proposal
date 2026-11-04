@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-04T07:34+09:00（収集時点）
+最終更新：2026-11-05T07:39+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県
 
-**203件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**204件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 宮崎県 | [都城市職員採用パンフレット作成業務委託に係る公募型プロポーザルを実施します](<https://www.city.miyakonojo.miyazaki.jp/uploaded/attachment/47833.pdf>) | 宮崎県都城市 | 2026-09-11 | 2026-11-17 | 26日(金)まで4 業務内容等パンフレットに係る企画、編集、デザイン、取材、写真撮影、原稿作成、校正等の作成に係る一切の業務を行うこと | [02＿別紙１ 仕様書 \[PDFファイル／560KB\]](<https://www.city.miyakonojo.miyazaki.jp/uploaded/attachment/47834.pdf>) |
 | 宮崎県 | [串間市ふるさと納税事務業務委託に伴う公募型プロポーザルについて](<https://www.city.kushima.lg.jp/main/business/upload/suikanri/01_%E4%B8%B2%E9%96%93%E5%B8%82%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%8E%E5%AF%84%E9%99%84%E9%87%91%E9%81%8B%E5%96%B6%E6%A5%AD%E5%8B%99%E3%83%97%E3%83%AD%E3%83%9D%E3%83%BC%E3%82%B6%E3%83%AB%E5%AE%9F%E6%96%BD%E8%A6%81%E9%A0%98%202.pdf>) | 宮崎県串間市 | 2026-09-11 | 原文を確認 | 11 12 13 14 15 1ア)イ)ウ)2ア)1 21)返礼品の写真撮影2)返礼品の写真の加工(文字入れ等)3)返礼品の紹介文の作成なお、返礼品の掲載にあたっては、事前に事業者に掲載内容に誤りがないか確認を行うこと | [02\_串間市ふるさと納税寄附金運営業務委託仕様書 .pdf](<https://www.city.kushima.lg.jp/main/business/upload/suikanri/02_%E4%B8%B2%E9%96%93%E5%B8%82%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%8E%E5%AF%84%E9%99%84%E9%87%91%E9%81%8B%E5%96%B6%E6%A5%AD%E5%8B%99%E5%A7%94%E8%A8%97%E4%BB%95%E6%A7%98%E6%9B%B8%201.pdf>) / [04\_プロポーザル実施要領（様式集）.zip](<https://www.city.kushima.lg.jp/main/business/upload/suikanri/04_%E3%83%97%E3%83%AD%E3%83%9D%E3%83%BC%E3%82%B6%E3%83%AB%E5%AE%9F%E6%96%BD%E8%A6%81%E9%A0%98%EF%BC%88%E6%A7%98%E5%BC%8F%E9%9B%86%EF%BC%89%201.zip>) |
 | 福岡県 | [入札公告「田熊雨水ポンプ場整備工事(土木)(第１期)](<https://www.city.munakata.lg.jp/kiji00310388/3_10388_17343_up_smaqty4h.zip>) | 福岡県宗像市 | 2026-09-11 | 2026-10-22 | ・ 使用する道路や側溝、その他工事の影響を受ける恐れがあるものは写真撮影等により事前調査を実施すること | — |
 | 福岡県 | [【入札公告】津屋崎中学校校舎増築1期工事 （再公告）](<https://www.city.fukutsu.lg.jp/material/files/group/12/20261020_kouboJV_saikoukoku.pdf>) | 福岡県福津市 | 2026-09-11 | 2026-10-08 | このほか、写真の撮影、整理等については国土交通省大臣官房官庁営繕部監修「工事写真撮影ガイドブック建築工事編及び解体工事編」による | [【入札説明書】津屋崎中学校校舎増築1期工事 (PDFファイル: 445.5KB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20261020_kouboJV_setsumei_kenchiku.pdf>) / [設計書［津屋崎中学校校舎増築1期工事］ (PDFファイル: 1.2MB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20261020_kouboJV_sekkeisho_kenchiku.pdf>) / [特記仕様書 (PDFファイル: 278.9KB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20261020_kouboJV_shiyou_kenchiku.pdf>) / [図面リスト(PDFファイル:85.1KB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20261020_kouboJV_zumen_list.pdf>) / [建築工事（A01～A92）(PDFファイル:15.8MB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20261020_kouboJV_zumen_architecture.pdf>) |
@@ -115,6 +116,5 @@
 | 鹿児島県 | [赤水漁港照明器具LED化業務委託に係る制限付き一般競争入札(公告)](<https://www.city.kagoshima.lg.jp/keizai/nourinsuisan/seisanryutu/documents/01koukokubun-.pdf>) | 鹿児島県鹿児島市 | 2026-07-16 | 2026-07-24 | (3) LED照明器具の設置の記録1 写真撮影工程に沿って、以下の内容について写真撮影を行うこと | [仕様書（PDF：199KB）](<https://www.city.kagoshima.lg.jp/keizai/nourinsuisan/seisanryutu/documents/02siyousho.pdf>) / [品仕様書一覧表（PDF：209KB）](<https://www.city.kagoshima.lg.jp/keizai/nourinsuisan/seisanryutu/documents/seihinsiyoushoitiranhyou.pdf>) / [赤水漁港配当図（PDF：742KB）](<https://www.city.kagoshima.lg.jp/keizai/nourinsuisan/seisanryutu/documents/05heimenzu.pdf>) |
 | 福岡県 | [社会人向け講座第４次産業革命エグゼクティブビジネススクールにおける受講者集客PR企画・活動及び特別講座運営業務](<https://www.kct.ac.jp/burger_editor/burger_editor/dl/886__56S_5Lya5Lq65ZCR44GR6Kyb5bqn56ys77yU5qyh55Sj5qWt6Z2p5ZG944Ko44Kw44K844Kv44OG44Kj44OW44OT44K444ON44K544K544Kv44O844Or44Gr44GK44GR44KL5Y_X6Kyb6ICF6ZuG5a6iUFLkvIHnlLvjg7vmtLvli5Xlj4rjgbPnibnliKXorJvluqfpgYvllrbmpa3li5k-d-.pdf>) | 独立行政法人国立高等専門学校機構北九州工業高等専門学校 | 2026-07-16 | 2026-07-24 | ・講座の様子を録画および写真撮影すること | — |
 | 佐賀県 | [令和8年度佐賀県原子力防災図上訓練の実施に係る支援及び評価業務委託における条件付一般競争入札を行います](<https://www.pref.saga.lg.jp/kiji003120256/3_120256_396040_up_5cltlmho.pdf>) | 佐賀県 | 2026-07-15 | 2026-07-31 | アドバイザーを兼ねるものとし、訓練当日は評価の実施に合わせて活動状況の写真撮影を行うこと | [03\_入札説明書（佐賀県原子力防災図上訓練の実施に係る支援業務及び評価業務）.pdf](<https://www.pref.saga.lg.jp/kiji003120256/3_120256_396035_up_3m8giaol.pdf>) / [04\_仕様書（佐賀県原子力防災図上訓練の実施に係る支援業務及び評価業務）.pdf](<https://www.pref.saga.lg.jp/kiji003120256/3_120256_396036_up_8vrytrmd.pdf>) |
-| 大分県 | [一般競争入札に付する事項](<https://www.pref.oita.jp/uploaded/life/2346311_4785646_misc.pdf>) | 大分県 | 2026-07-13 | 2026-07-16 | 報通信業通信業、放送業、情報サービス業、インターネット付随サービス業、映像・音声・文字情報制作業運輸業、郵便業鉄道業、道路旅客運送業、道路貨物運送業、上記以外の運輸業、郵便業卸売業、小売業各種商品卸売業、各種商品小売業、自動車小売業、機械器具小売業、家具・建具・畳小売業、じゅう器小売業、燃料小売業、上記以外の卸売り業、… | [入札説明書 \[PDFファイル／166KB\]](<https://www.pref.oita.jp/uploaded/life/2346311_4785647_misc.pdf>) / [仕様書 \[PDFファイル／442KB\]](<https://www.pref.oita.jp/uploaded/life/2346311_4781997_misc.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

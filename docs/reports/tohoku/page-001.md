@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-04T07:34+09:00（収集時点）
+最終更新：2026-11-05T07:39+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**266件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**268件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -21,6 +21,8 @@
 | 秋田県 | [【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-08-17 | 2026-09-16 | 【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務 | — |
 | 岩手県 | [【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-21 | 原文を確認 | 【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務 | — |
 | 岩手県 | [龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について](<https://www.town.iwaizumi.lg.jp/docs/2026071400011/file_contents/00.pdf>) | 岩手県岩泉町 | 2026-07-17 | 2026-09-04 | 龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について | — |
+| 岩手県 | [【管財課入札公告】県庁舎ほか14地区合同庁舎等オイル地下タンク貯蔵所ほか清掃及び定期点検業務](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/184/01_nyuusatukoukoku08.pdf>) | 岩手県 | 2026-11-04 | 原文を確認 | 明書を添付)6 作業内容及び手順7 業務管理(作業完了確認、品質確認、写真撮影要領等)8 緊急時の連絡体制及び対応手順9 交通管理(敷地内走行速度、過積載防止、車両点検、道路交通法の遵守等)10 環境対策(騒音、振動、ゴミ、ほこり等の対策等)11 産業廃棄物処理(産業廃棄物の運搬、処分方法等)12 作業員名簿13 証明… | [02 入札説明書 （PDF 313.8KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/184/02_nyuusatusetumeisyo08.pdf>) / [04 仕様書 （PDF 220.9KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/184/04_siyousyo08.pdf>) / [05 設計書 （PDF 1.2MB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/184/05_sekkeisyo08.pdf>) / [07 産業廃棄物収集・運搬特記仕様書（案） （PDF 163.4KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/184/07_sangyohaikibutusyusyuunpan08.pdf>) |
+| 青森県 | [太田１地区農林災害頭首工復旧工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k043.pdf>) | 青森県五所川原市 | 2026-11-04 | 2027-03-22 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j043.zip>) |
 | 宮城県 | [令和８年度 台山公園トイレ改築工事【入札公告】（総合評価一般競争入札）](<https://www.city.kakuda.lg.jp/uploaded/attachment/11149.pdf>) | 宮城県角田市 | 2026-11-02 | 原文を確認 | 9.室内の空気中 工事写真撮影ガイドブック&lt;建築工事編及び解体工事編&gt;植栽工事 ・造園(造園工事作業)排水工事 ・配管(建築配管作業)舗装工事・内装仕上施工(鋼製下地工事作業) 金属工事・建築板金(内外装板金作業)左官工事建具工事カーテンウォール工事塗装工事内装工事・サッシ施工(ビル用サッシ施工作業)・カーテンウォール… | [現場説明書 \[PDFファイル／67KB\]](<https://www.city.kakuda.lg.jp/uploaded/attachment/11132.pdf>) / [図面 \[PDFファイル／14.85MB\]](<https://www.city.kakuda.lg.jp/uploaded/attachment/11133.pdf>) / [公開数量内訳書 \[PDFファイル／552KB\]](<https://www.city.kakuda.lg.jp/uploaded/attachment/11134.pdf>) / [落札決定基準（令和８年度 台山公園トイレ改築工事） \[Wordファイル／51KB\]](<https://www.city.kakuda.lg.jp/uploaded/attachment/11150.docx>) |
 | 宮城県 | [東北大学（青葉山１）実用プロセス開発実証棟整備事業](<https://www.bureau.tohoku.ac.jp/sisetubu/nyuusatu/koukokukensetu/2026/20261030_koukoku_1.pdf>) | 国立大学法人東北大学 | 2026-10-30 | 2026-12-16 | 3 )、枚数( 1 )、額の有無( 有 )及び材料( )〕• 透視図の写真撮影• 〔カット枚数( )、判の大きさ( )及び白黒・カラーの別( )〕• 模型製作• 〔縮尺( )、主要材料( )、ケースの有無( )及び材質( )〕37• 模型の写真撮影• 〔カット枚数( )、判の大きさ( )及び白黒・カラーの別( )〕⦿ … | [説明書【２０２６年１０月３０日】（PDF ，382KB)](<https://www.bureau.tohoku.ac.jp/sisetubu/nyuusatu/koukokukensetu/2026/20261030_setumeisyo_1.pdf>) / [要求水準書【２０２６年１０月３０日】（PDF ，2,115KB)](<https://www.bureau.tohoku.ac.jp/sisetubu/nyuusatu/koukokukensetu/2026/20261030_gaiyou_1.pdf>) |
 | 岩手県 | [【県南広域振興局（花巻）】融雪用白灯油単価契約《一般競争入札》](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/102/682/081030_koukoku.pdf>) | 岩手県 | 2026-10-30 | 原文を確認 | 内容(1) 購入等件名及び数量 融雪用白灯油 JIS1号 配達料込み(写真撮影含む) 約128,000リットル(2) 調達件名の特質等 入札説明書による | [入札説明書 （PDF 267.4KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/102/682/081030_setumeisyo.pdf>) / [仕様書 （PDF 95.4KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/102/682/081030_siyousyo.pdf>) |
@@ -114,7 +116,5 @@
 | 福島県 | [「会津湯川米ブランド化推進事業」公募型プロポーザルの実施について](<https://www.vill.yugawa.fukushima.jp/uploaded/attachment/3283.pdf>) | 福島県湯川村 | 2026-09-16 | 原文を確認 | イ (3)で実施する販売会等で PR するため、水稲栽培の動画を制作すること | [業務委託仕様書（案） \[PDFファイル／238KB\]](<https://www.vill.yugawa.fukushima.jp/uploaded/attachment/3284.pdf>) |
 | 青森県 | [米田２号線道路整備４工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k037.pdf>) | 青森県五所川原市 | 2026-09-16 | 2026-09-25 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j037.zip>) |
 | 青森県 | [松野木・飯詰線道路整備３工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k038.pdf>) | 青森県五所川原市 | 2026-09-16 | 2026-09-25 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j038.zip>) |
-| 青森県 | [8470.zip](<https://www.town.aomori-nanbu.lg.jp/uploaded/attachment/8470.zip>) | 青森県南部町 | 2026-09-16 | 2026-10-08 | (写真撮影)1 事前調査に掲げる建物等の各部位の調査に当たっては、計測箇所を次の方法により写真撮影を行うものとする | — |
-| 宮城県 | [令８−依・単 ふれあいエスプ塩竈冷温水発生機制御盤更新工事](<https://www.city.shiogama.miyagi.jp/uploaded/life/58615_149946_misc.pdf>) | 宮城県塩竃市 | 2026-09-15 | 2026-09-17 | 備・ 建設工事執行規則(昭和39年3月宮城県規則第9号)・ 営繕工事写真撮影要領(国土交通省大臣官房庁営繕部監修 令和5年版)・ 宮城県建設工事元請・下請適正化要綱(最新版) 及び工事写真撮影ガイドブック&lt;機械設備工事編&gt; (国土交通省大臣官房庁営繕部監修 令和5年版)(令和7年4月1日版)2部1部2枚CD A3版二つ… | [設計書一式 \[その他のファイル／2.3MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/58615_149948_misc.zip>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

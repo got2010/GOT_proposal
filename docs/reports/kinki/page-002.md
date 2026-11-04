@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-04T07:34+09:00（収集時点）
+最終更新：2026-11-05T07:39+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**222件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**226件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,10 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 大阪府 | [UR賃貸住宅団地内一般清掃等業務（いぶき野三丁目団地）（泉北住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44134_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1658KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44134_3.pdf>) / [仕様書\[1802KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44134_4.pdf>) |
+| 大阪府 | [UR賃貸住宅団地内一般清掃等業務（南花台団地）（泉北住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44135_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1659KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44135_3.pdf>) / [仕様書\[3885KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44135_4.pdf>) |
+| 大阪府 | [UR賃貸住宅団地内一般清掃等業務（小金台団地他3団地）（泉北住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44136_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1662KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44136_3.pdf>) / [仕様書\[5125KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44136_4.pdf>) |
+| 大阪府 | [UR賃貸住宅団地内一般清掃等業務（鈴の宮団地）（泉北住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44137_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1660KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44137_3.pdf>) / [仕様書\[1828KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44137_4.pdf>) |
 | 大阪府 | [UR賃貸住宅団地内一般清掃等業務（サンヴァリエ津久野団地他1団地）（泉北住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44138_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1670KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44138_3.pdf>) / [仕様書\[8336KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44138_4.pdf>) |
 | 大阪府 | [UR賃貸住宅団地内一般清掃等業務（磯路公園団地他3団地）（大阪住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44149_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1689KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44149_3.pdf>) / [仕様書\[2356KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44149_4.pdf>) |
 | 大阪府 | [UR賃貸住宅団地内一般清掃等業務（シティコート曽根東町第2団地）（千里住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44150_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1677KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44150_3.pdf>) / [仕様書\[1209KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44150_4.pdf>) |
@@ -112,9 +116,5 @@
 | 京都府 | [令和８年度市庁舎汚水槽等清掃作業について（上半期分）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/433134.htm>) | 京都府京都市 | 2026-07-28 | 原文を確認 | (3)水槽内を調査し、作業前に写真撮影(カラー)を行う | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./433134_12_07241517.pdf>) |
 | 大阪府 | [​](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68112.pdf>) | 大阪府高槻市 | 2026-07-24 | 原文を確認 | また、鋲等は、 スケール等を当てて写真撮影等を行い、記録しておくこと | [設計図書 （その他のファイル：2.5MB）](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68060.zip>) |
 | 大阪府 | [令和7年度公共下水道管きょ更新工事（第3工区）](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68111.pdf>) | 大阪府高槻市 | 2026-07-24 | 原文を確認 | 1 工事概要2 職務分担および緊急時の連絡体制3 工事記録写真撮影計画4 実施工程表5 施工工法(※)6 主要機械7 主要資材8 材料設計および水理性能評価9 材料品質証明の内容10 前処理計画(※)11 施工管理(※)12 品質管理(※)13 環境対策14 安全・衛生管理15 材料の製造から使用までの保管期間と保管方… | [設計図書 （その他のファイル：5.97MB）](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68117.zip>) |
-| 京都府 | [令和8年7月24日公告分放置駐車違反管理処理システムの賃貸借に係る入札説明書等](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/072401.pdf>) | 国家公安委員会（警察庁）京都府警察 | 2026-07-24 | 2026-08-04 | 外秘の指定をした事項に属する物件○ 前記を基に、受注者が作成(複製及び写真撮影を含む | [仕様書（PDF：885KB）](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/072403.pdf>) |
-| 大阪府 | [郵便期限：8月5日 門真市立第二中学校屋内運動場空調機器賃貸借契約](<https://www.city.kadoma.osaka.jp/material/files/group/48/20260723jissiyouryou2kucyou.pdf>) | 大阪府門真市 | 2026-07-23 | 原文を確認 | (エ) 調査の際、生徒及び職員等の個人情報が写らない範囲であれば、写真撮影は可とします | [仕様書 (PDFファイル: 147.2KB)](<https://www.city.kadoma.osaka.jp/material/files/group/48/20260723siyosyo2kucyou.pdf>) / [内封筒貼付票 (Wordファイル: 32.0KB)](<https://www.city.kadoma.osaka.jp/material/files/group/48/20260723utibuutouharitukehyou2kucyou.docx>) |
-| 兵庫県 | [【制限付一般競争入札】明石市立総合福祉センター外壁修繕](<https://www.city.akashi.lg.jp/documents/40203/20260723104419.pdf>) | 兵庫県明石市 | 2026-07-23 | 原文を確認 | 繕着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、修繕完成時に現状復旧が行われているか確認すること | [仕様書（PDF：111KB）](<https://www.city.akashi.lg.jp/documents/40203/20260723104834.pdf>) / [特記仕様書（PDF：63KB）](<https://www.city.akashi.lg.jp/documents/40203/20260723104852.pdf>) |
-| 大阪府 | [郵送期限：8月7日 門真市ものづくり企業若者人材確保支援事業業務委託](<https://www.city.kadoma.osaka.jp/material/files/group/14/00r8m_youryou.pdf>) | 大阪府門真市 | 2026-07-22 | 原文を確認 | コンテンツ等作成業務の実施にあっては、参加企業を取材・撮影、原稿作成、校正、誌面デザイン、印刷製本、動画編集等を行い、発注者に納品する | [(イ)仕様書 (PDFファイル: 391.9KB)](<https://www.city.kadoma.osaka.jp/material/files/group/14/02r8m_siyousho.pdf>) / [(コ)内封筒貼付票 (Wordファイル: 32.1KB)](<https://www.city.kadoma.osaka.jp/material/files/group/14/10r8m_uchihuutou.docx>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

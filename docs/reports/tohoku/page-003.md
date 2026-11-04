@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-04T07:34+09:00（収集時点）
+最終更新：2026-11-05T07:39+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**266件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**268件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 青森県 | [東峰小学校屋内運動場渡り廊下・給食棟渡り廊下屋根防水修繕](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8hi.k058.pdf>) | 青森県五所川原市 | 2026-08-05 | 2026-08-19 | なお、写真撮影に際しては、黒板(あるいはホワイトボード)等に件名を明記すると共に撮影場所が判別できる背景を入れるものとする | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8hi.j058.zip>) |
+| 青森県 | [湊・寺町線舗装５工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k030.pdf>) | 青森県五所川原市 | 2026-08-05 | 2026-08-19 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j030.zip>) |
 | 青森県 | [広田・尻無線舗装１工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k031.pdf>) | 青森県五所川原市 | 2026-08-05 | 2026-08-19 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j031.zip>) |
 | 宮城県 | [公告\_第R8-一般14号\_令和8年度 槻木五間堀改修工事.pdf \[ 133 KB pdfファイル\]](<https://www.town.shibata.miyagi.jp/index.cfm/88,35632,c,html/35632/20260804-151613.pdf>) | 宮城県柴田町 | 2026-08-04 | 2026-08-20 | (監督員)における「現場臨場の削減による効率的な時間の活用」を目指し、動画撮影用のカメラ(ウェアラブルカメラ等)とWeb 会議システム等を介して「段階確認」、「材料確認」と「立会」の遠隔臨場を行うものである | [第R8-一般14号\_令和8年度 槻木五間堀改修工事.zip \[ 14486 KB zipファイル\]](<https://www.town.shibata.miyagi.jp/index.cfm/88,35632,c,html/35632/20260804-152216.zip>) |
 | 福島県 | [上ノ原配水池ロボット清掃業務委託](<https://www.town.namie.fukushima.jp/uploaded/attachment/25358.pdf>) | 福島県浪江町 | 2026-08-04 | 2026-08-18 | 工中、完了及び腐食、劣化、点検調査状況等の写真を添付し業務報告書を1部作成、内部映像はCD、またはDVDに収録し1枚提出すること | [入札説明書 \[PDFファイル／258KB\]](<https://www.town.namie.fukushima.jp/uploaded/attachment/25360.pdf>) / [設計書 \[PDFファイル／11KB\]](<https://www.town.namie.fukushima.jp/uploaded/attachment/25353.pdf>) / [仕様書 \[PDFファイル／623KB\]](<https://www.town.namie.fukushima.jp/uploaded/attachment/25354.pdf>) |
