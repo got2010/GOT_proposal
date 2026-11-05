@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-05T07:39+09:00（収集時点）
+最終更新：2026-11-06T07:39+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**268件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**271件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -21,6 +21,9 @@
 | 秋田県 | [【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-08-17 | 2026-09-16 | 【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務 | — |
 | 岩手県 | [【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-21 | 原文を確認 | 【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務 | — |
 | 岩手県 | [龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について](<https://www.town.iwaizumi.lg.jp/docs/2026071400011/file_contents/00.pdf>) | 岩手県岩泉町 | 2026-07-17 | 2026-09-04 | 龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について | — |
+| 宮城県 | [第R8-一般16号\_令和8年度 公共土木施設災害復旧工事（槻木五間堀川).pdf \[ 134 KB pdfファイル\]](<https://www.town.shibata.miyagi.jp/index.cfm/88,35632,c,html/35632/20261105-090643.pdf>) | 宮城県柴田町 | 2026-11-05 | 2026-11-20 | (監督員)における「現場臨場の削減による効率的な時間の活用」を目指し、動画撮影用のカメラ(ウェアラブルカメラ等)とWeb 会議システム等を介して「段階確認」、「材料確認」と「立会」の遠隔臨場を行うものである | [第R8-一般16号\_令和8年度 公共土木施設災害復旧工事（槻木五間堀川).zip \[ 15385 KB zipファイル\]](<https://www.town.shibata.miyagi.jp/index.cfm/88,35632,c,html/35632/20261105-091417.zip>) |
+| 青森県 | [おいらせ町新庁舎等建設地一次造成工事 \[その他のファイル／6.74MB\]](<https://www.town.oirase.aomori.jp/uploaded/attachment/27993.zip>) | 青森県おいらせ町 | 2026-11-05 | 2026-11-18 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | — |
+| 青森県 | [舘越・幸橋線整備工事 \[その他のファイル／4.18MB\]](<https://www.town.oirase.aomori.jp/uploaded/attachment/27999.zip>) | 青森県おいらせ町 | 2026-11-05 | 2026-11-18 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | — |
 | 岩手県 | [【管財課入札公告】県庁舎ほか14地区合同庁舎等オイル地下タンク貯蔵所ほか清掃及び定期点検業務](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/184/01_nyuusatukoukoku08.pdf>) | 岩手県 | 2026-11-04 | 原文を確認 | 明書を添付)6 作業内容及び手順7 業務管理(作業完了確認、品質確認、写真撮影要領等)8 緊急時の連絡体制及び対応手順9 交通管理(敷地内走行速度、過積載防止、車両点検、道路交通法の遵守等)10 環境対策(騒音、振動、ゴミ、ほこり等の対策等)11 産業廃棄物処理(産業廃棄物の運搬、処分方法等)12 作業員名簿13 証明… | [02 入札説明書 （PDF 313.8KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/184/02_nyuusatusetumeisyo08.pdf>) / [04 仕様書 （PDF 220.9KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/184/04_siyousyo08.pdf>) / [05 設計書 （PDF 1.2MB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/184/05_sekkeisyo08.pdf>) / [07 産業廃棄物収集・運搬特記仕様書（案） （PDF 163.4KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/184/07_sangyohaikibutusyusyuunpan08.pdf>) |
 | 青森県 | [太田１地区農林災害頭首工復旧工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k043.pdf>) | 青森県五所川原市 | 2026-11-04 | 2027-03-22 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j043.zip>) |
 | 宮城県 | [令和８年度 台山公園トイレ改築工事【入札公告】（総合評価一般競争入札）](<https://www.city.kakuda.lg.jp/uploaded/attachment/11149.pdf>) | 宮城県角田市 | 2026-11-02 | 原文を確認 | 9.室内の空気中 工事写真撮影ガイドブック&lt;建築工事編及び解体工事編&gt;植栽工事 ・造園(造園工事作業)排水工事 ・配管(建築配管作業)舗装工事・内装仕上施工(鋼製下地工事作業) 金属工事・建築板金(内外装板金作業)左官工事建具工事カーテンウォール工事塗装工事内装工事・サッシ施工(ビル用サッシ施工作業)・カーテンウォール… | [現場説明書 \[PDFファイル／67KB\]](<https://www.city.kakuda.lg.jp/uploaded/attachment/11132.pdf>) / [図面 \[PDFファイル／14.85MB\]](<https://www.city.kakuda.lg.jp/uploaded/attachment/11133.pdf>) / [公開数量内訳書 \[PDFファイル／552KB\]](<https://www.city.kakuda.lg.jp/uploaded/attachment/11134.pdf>) / [落札決定基準（令和８年度 台山公園トイレ改築工事） \[Wordファイル／51KB\]](<https://www.city.kakuda.lg.jp/uploaded/attachment/11150.docx>) |
@@ -113,8 +116,5 @@
 | 宮城県 | [令和８年度 市道除融雪業務（３工区）（単価契約）](<https://www.tomiya-city.miyagi.jp/uploads/pdf/38776e5698d3e5068f2db5eca3d7d47cb48abc60.pdf>) | 宮城県富谷市 | 2026-09-16 | 原文を確認 | . 融雪剤散布量については、散布前後の融雪剤タンクの液量が分かるように写真を撮影し、日報に添付すること | [仕様書](<https://www.tomiya-city.miyagi.jp/uploads/pdf/f2f051cd935b5f373878646a82f2f1be7ab9e0fe.pdf>) |
 | 宮城県 | [令和８年度 市道除融雪業務（２工区）（単価契約）](<https://www.tomiya-city.miyagi.jp/uploads/pdf/522796e33b074b73f273feb81720cebce4894ba0.pdf>) | 宮城県富谷市 | 2026-09-16 | 原文を確認 | . 融雪剤散布量については、散布前後の融雪剤タンクの液量が分かるように写真を撮影し、日報に添付すること | [仕様書](<https://www.tomiya-city.miyagi.jp/uploads/pdf/ce7ba4c771f36c3bbdbb130d78ff650d3ee905d4.pdf>) |
 | 宮城県 | [令和８年度 市道除融雪業務（１工区）（単価契約）](<https://www.tomiya-city.miyagi.jp/uploads/pdf/f32efff9c3d84fc31a6507e2d83f4791917a1fe4.pdf>) | 宮城県富谷市 | 2026-09-16 | 原文を確認 | . 融雪剤散布量については、散布前後の融雪剤タンクの液量が分かるように写真を撮影し、日報に添付すること | [仕様書](<https://www.tomiya-city.miyagi.jp/uploads/pdf/dba5911def01af00e2dddb2e9a38cc61cc9f3c4e.pdf>) |
-| 福島県 | [「会津湯川米ブランド化推進事業」公募型プロポーザルの実施について](<https://www.vill.yugawa.fukushima.jp/uploaded/attachment/3283.pdf>) | 福島県湯川村 | 2026-09-16 | 原文を確認 | イ (3)で実施する販売会等で PR するため、水稲栽培の動画を制作すること | [業務委託仕様書（案） \[PDFファイル／238KB\]](<https://www.vill.yugawa.fukushima.jp/uploaded/attachment/3284.pdf>) |
-| 青森県 | [米田２号線道路整備４工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k037.pdf>) | 青森県五所川原市 | 2026-09-16 | 2026-09-25 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j037.zip>) |
-| 青森県 | [松野木・飯詰線道路整備３工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k038.pdf>) | 青森県五所川原市 | 2026-09-16 | 2026-09-25 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j038.zip>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

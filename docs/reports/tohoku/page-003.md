@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-05T07:39+09:00（収集時点）
+最終更新：2026-11-06T07:39+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**268件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**271件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 山形県 | [【会計局会計課】録音・録画装置（設置型）（令和8年8月31日入札）](<https://www.pref.yamagata.jp/documents/53528/koukoku.pdf>) | 山形県 | 2026-08-05 | 2026-08-26 | 1ランプの点灯取調室外の入口付近に設置し、取調室のカメラ及びマイクで撮影、集音した映像、音声を、2記録装置部において録音・録画を開始した時にランプが点灯し、停止・終了した時にランプが消灯すること | [入札説明書（PDF：233KB）](<https://www.pref.yamagata.jp/documents/53528/setsumeisyo.pdf>) / [仕様書（PDF：414KB）](<https://www.pref.yamagata.jp/documents/53528/shiyousyoall.pdf>) / [応札物品仕様書（PDF：195KB）](<https://www.pref.yamagata.jp/documents/53528/ousatsu.pdf>) |
+| 宮城県 | [岩手運輸支局外壁改修工事](<https://wwwtb.mlit.go.jp/tohoku/content/000378619.pdf>) | 国土交通省東北運輸局 | 2026-08-05 | 原文を確認 | 標準詳細図(国土交通省大臣官房官庁営繕部監修 令和4年版)・ 営繕工事写真撮影要領(国土交通省大臣官房官庁営繕部 令和5年版)及び 工事写真撮影ガイドブック(国土交通省大臣官房官庁営繕部監修 令和5年版)・ 建設業法令遵守ガイドライン(第12版)3.概成工期 工事工期より 日前 ※ 適用する(請負精算額が500万円以上… | [仕様書（PDF）](<https://wwwtb.mlit.go.jp/tohoku/content/000378622.pdf>) / [設計図（PDF）](<https://wwwtb.mlit.go.jp/tohoku/content/000378623.pdf>) |
+| 岩手県 | [吉里吉里地区治山工事調査設計業務](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanrikucyubu/260805chisancyousa.html>) | 林野庁東北森林管理局三陸中部森林管理署 | 2026-08-05 | 2026-09-15 | ア イ ウ エ オ編者・著者・発行所(一社)日本治山治水協会名称ドローン撮影オルソ画像 木製構造物の設計に当たっては、「森林土木木製構造物施工マニュアル」を使用すること | [入札公告(PDF : 165KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanrikucyubu/./attach/pdf/260805chisancyousa-1.pdf>) / [入札説明書(PDF : 222KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanrikucyubu/./attach/pdf/260805chisancyousa-2.pdf>) / [技術提案書作成要領(PDF : 186KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanrikucyubu/./attach/pdf/260805chisancyousa-3.pdf>) / [履行確実性追加資料作成要領(PDF : 94KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanrikucyubu/./attach/pdf/260805chisancyousa-4.pdf>) / [履行確実性の審査・評価のための追加資料等(PDF : 94KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanrikucyubu/./attach/pdf/260805chisancyousa-5.pdf>) |
 | 青森県 | [東峰小学校屋内運動場渡り廊下・給食棟渡り廊下屋根防水修繕](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8hi.k058.pdf>) | 青森県五所川原市 | 2026-08-05 | 2026-08-19 | なお、写真撮影に際しては、黒板(あるいはホワイトボード)等に件名を明記すると共に撮影場所が判別できる背景を入れるものとする | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8hi.j058.zip>) |
 | 青森県 | [湊・寺町線舗装５工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k030.pdf>) | 青森県五所川原市 | 2026-08-05 | 2026-08-19 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j030.zip>) |
 | 青森県 | [広田・尻無線舗装１工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k031.pdf>) | 青森県五所川原市 | 2026-08-05 | 2026-08-19 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j031.zip>) |

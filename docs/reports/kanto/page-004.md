@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-05T07:39+09:00（収集時点）
+最終更新：2026-11-06T07:39+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**517件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**518件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 4 / 6
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 茨城県 | [【電子入札】【電子契約】令和8年度 JMTR圧縮空気系統点検整備](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01296.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-09-04 | 2026-11-04 | (10)構内の写真等撮影は、許可を受けた場合以外は原則として禁止する | — |
 | 千葉県 | [松契一般第210号 松戸駅東口デッキ補修工事（PDF：140KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/210k.pdf>) | 千葉県松戸市 | 2026-09-04 | 2026-09-04 | 写真管理 写真撮影内容は目的を満足しているか | [松契一般第210号 設計図書（PDF：2,098KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/210s.pdf>) |
 | 千葉県 | [松契一般第209号 坂川2号橋補修工事（PDF：140KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/209k.pdf>) | 千葉県松戸市 | 2026-09-04 | 2026-09-04 | 写真管理 写真撮影内容は目的を満足しているか | [松契一般第209号 設計図書（PDF：3,494KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/209s.pdf>) |
 | 千葉県 | [松契一般第208号 松戸市消防局空調設備改修その他電気設備工事（第3期）（PDF：139KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/208k.pdf>) | 千葉県松戸市 | 2026-09-04 | 2026-09-04 | 理人以外の検査とする)【工事完了後速やかに】報告1■工事写真(建築工事写真撮影基準に準拠)■1工事記録写真■2完成写真【工事完了後速やかに】写真帳写真帳11建1.2.4電1.2.4機1.2.4代表者■完成図PDF,CADデータCDもしくはDVD2建1.7.2電1.7.2機1.7.2■電子納品電子媒体電子媒体納品書CDも… | [松契一般第208号 設計図書（PDF：1,270KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0904kouji.files/208s.pdf>) |
@@ -115,6 +116,5 @@
 | 東京都 | [入札公告「東北サイバーセキュリティシンポジウム2026運営等業務」に係る一般競争入札](<https://www.ipa.go.jp/choutatsu/nyusatsu/2026/nyusatsu20260807.html>) | 独立行政法人情報処理推進機構 | 2026-08-07 | 2026-08-25 | 2 会場各所において準備から撤収に至る過程の記録として写真撮影を行うこと | [入札説明書(PDF:957 KB)](<https://www.ipa.go.jp/choutatsu/nyusatsu/2026/rcu1hd000001ajgp-att/nyusatsu20260807.pdf>) |
 | 千葉県 | [令和8年度千葉県企業局コンプライアンス特別研修業務委託の企画提案募集について](<https://www.pref.chiba.lg.jp/suidou/souki/nyuu-kei/buppin-itaku/nyuusatsukoukoku/r8kgkonpurakensyu-puropo.html>) | 千葉県 | 2026-08-07 | 2026-09-01 | 実施することとし、集合形式による研修の実施回数やオンデマンド形式による研修動画の配信場所などは、以下のとおりとする | [企画提案仕様書（PDF：185.8KB）](<https://www.pref.chiba.lg.jp/suidou/souki/nyuu-kei/buppin-itaku/nyuusatsukoukoku/documents/5kikakuteiannsiyousyo.pdf>) |
 | 東京都 | [【再公募】江戸川区小岩アーバンプラザ舞台操作業務委託事業者選定プロポーザルの実施](<https://www.city.edogawa.tokyo.jp/documents/73193/koiwaurbanplaza_jisshiyoko.pdf>) | 東京都江戸川区 | 2026-08-06 | 2026-09-02 | 4 写真撮影は機器、配線のみ可とします | [令和8年度江戸川区小岩アーバンプラザ舞台操作業務委託仕様書（案）（PDF：236KB）](<https://www.city.edogawa.tokyo.jp/documents/73193/r8_koiwaurbanplaza_shiyosho.pdf>) |
-| 茨城県 | [(RE-07719)JT-60発電機棟他屋内消火配管補修工事【掲載期間:2026-8-6～2026-8-31】](<https://www.qst.go.jp/uploaded/attachment/52685.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-08-06 | 2026-09-30 | デジタルカメラで撮影する場合は、国土交通省が定めた「営繕工事写真撮影要領」有効画素数100~300万画素数程度の仕様とする | [仕様書 \[PDFファイル／1.21MB\]](<https://www.qst.go.jp/uploaded/attachment/52686.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-003.md) ｜ [次の100件](page-005.md)

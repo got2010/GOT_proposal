@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-05T07:39+09:00（収集時点）
+最終更新：2026-11-06T07:39+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**268件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**271件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 福島県 | [「会津湯川米ブランド化推進事業」公募型プロポーザルの実施について](<https://www.vill.yugawa.fukushima.jp/uploaded/attachment/3283.pdf>) | 福島県湯川村 | 2026-09-16 | 原文を確認 | イ (3)で実施する販売会等で PR するため、水稲栽培の動画を制作すること | [業務委託仕様書（案） \[PDFファイル／238KB\]](<https://www.vill.yugawa.fukushima.jp/uploaded/attachment/3284.pdf>) |
+| 青森県 | [米田２号線道路整備４工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k037.pdf>) | 青森県五所川原市 | 2026-09-16 | 2026-09-25 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j037.zip>) |
+| 青森県 | [松野木・飯詰線道路整備３工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k038.pdf>) | 青森県五所川原市 | 2026-09-16 | 2026-09-25 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j038.zip>) |
 | 青森県 | [8470.zip](<https://www.town.aomori-nanbu.lg.jp/uploaded/attachment/8470.zip>) | 青森県南部町 | 2026-09-16 | 2026-10-08 | (写真撮影)1 事前調査に掲げる建物等の各部位の調査に当たっては、計測箇所を次の方法により写真撮影を行うものとする | — |
 | 宮城県 | [令８−依・単 ふれあいエスプ塩竈冷温水発生機制御盤更新工事](<https://www.city.shiogama.miyagi.jp/uploaded/life/58615_149946_misc.pdf>) | 宮城県塩竃市 | 2026-09-15 | 2026-09-17 | 備・ 建設工事執行規則(昭和39年3月宮城県規則第9号)・ 営繕工事写真撮影要領(国土交通省大臣官房庁営繕部監修 令和5年版)・ 宮城県建設工事元請・下請適正化要綱(最新版) 及び工事写真撮影ガイドブック&lt;機械設備工事編&gt; (国土交通省大臣官房庁営繕部監修 令和5年版)(令和7年4月1日版)2部1部2枚CD A3版二つ… | [設計書一式 \[その他のファイル／2.3MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/58615_149948_misc.zip>) |
 | 山形県 | [西郡林道災害復旧工事【再公告】](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/nskor26860914.html>) | 林野庁東北森林管理局山形森林管理署 | 2026-09-14 | 2026-10-20 | 注者は、林業専用道に係る工事(新設に限る)の施工に当たっては、別紙の「写真撮影基準」により施工管理を行うことができるものとする | [入札公告(PDF : 140KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nskor26860914-1.pdf>) / [入札説明書(PDF : 190KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nskor26860914-2.pdf>) / [特記仕様書(PDF : 1,142KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nskor26860914-5.pdf>) / [現場説明書(PDF : 1,888KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nskor26860914-6.pdf>) / [図面(PDF : 734KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nskor26860914-7.pdf>) |
@@ -113,8 +116,5 @@
 | 秋田県 | [大開林道改良工事](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yonesiroseibu/oobiraki-kairyou-060806.html>) | 林野庁東北森林管理局米代西部森林管理署 | 2026-08-06 | 2026-09-15 | 注者は、林業専用道に係る工事(新設に限る)の施工に当たっては、別紙の「写真撮影基準」により施工管理を行うことができるものとする | [入札公告(PDF : 146KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yonesiroseibu/./attach/pdf/oobiraki-kairyou-060806-1.pdf>) / [1.入札説明書(PDF : 136KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yonesiroseibu/./attach/pdf/oobiraki-kairyou-060806-2.pdf>) / [2.現場説明書(PDF : 279KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yonesiroseibu/./attach/pdf/oobiraki-kairyou-060806-3.pdf>) / [3.特記仕様書(PDF : 1,272KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yonesiroseibu/./attach/pdf/oobiraki-kairyou-060806-4.pdf>) / [6.公表用設計書(PDF : 229KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yonesiroseibu/./attach/pdf/oobiraki-kairyou-060806-7.pdf>) |
 | 山形県 | [8月5日公告（舗装AB）格付指定型一般競争入札の公告について 工事名：下田沢大平線表層改良工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260805koukoku1.files/20260805koukoku1-1.pdf>) | 山形県鶴岡市 | 2026-08-05 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：1,475KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260805koukoku1.files/20260805koukoku1-2.pdf>) |
 | 山形県 | [【会計局会計課】録音・録画装置（小型可搬型）（令和8年8月31日入札）](<https://www.pref.yamagata.jp/documents/53561/koukoku.pdf>) | 山形県 | 2026-08-05 | 2026-08-26 | 附属資料」のとおりとすること(1-3)取付部品1形状・性能3金具8送信映像仕 様 書項目1 撮影装置部(1-1)小型カメラ(1-2)小型カメラケース1 / 3 ページ1型式 コンデンサー型2指向特性 全指向性3周波数特性 300Hz~5kHzを包含する周波数特性を有すること4感度‐40dB±3(0dB=1V/Pa、1k… | [入札説明書（PDF：233KB）](<https://www.pref.yamagata.jp/documents/53561/setsumeisyo.pdf>) / [仕様書（PDF：389KB）](<https://www.pref.yamagata.jp/documents/53561/shiyousyoall.pdf>) / [応札物品仕様書（PDF：181KB）](<https://www.pref.yamagata.jp/documents/53561/ousatsu.pdf>) |
-| 山形県 | [【会計局会計課】録音・録画装置（設置型）（令和8年8月31日入札）](<https://www.pref.yamagata.jp/documents/53528/koukoku.pdf>) | 山形県 | 2026-08-05 | 2026-08-26 | 1ランプの点灯取調室外の入口付近に設置し、取調室のカメラ及びマイクで撮影、集音した映像、音声を、2記録装置部において録音・録画を開始した時にランプが点灯し、停止・終了した時にランプが消灯すること | [入札説明書（PDF：233KB）](<https://www.pref.yamagata.jp/documents/53528/setsumeisyo.pdf>) / [仕様書（PDF：414KB）](<https://www.pref.yamagata.jp/documents/53528/shiyousyoall.pdf>) / [応札物品仕様書（PDF：195KB）](<https://www.pref.yamagata.jp/documents/53528/ousatsu.pdf>) |
-| 宮城県 | [岩手運輸支局外壁改修工事](<https://wwwtb.mlit.go.jp/tohoku/content/000378619.pdf>) | 国土交通省東北運輸局 | 2026-08-05 | 原文を確認 | 標準詳細図(国土交通省大臣官房官庁営繕部監修 令和4年版)・ 営繕工事写真撮影要領(国土交通省大臣官房官庁営繕部 令和5年版)及び 工事写真撮影ガイドブック(国土交通省大臣官房官庁営繕部監修 令和5年版)・ 建設業法令遵守ガイドライン(第12版)3.概成工期 工事工期より 日前 ※ 適用する(請負精算額が500万円以上… | [仕様書（PDF）](<https://wwwtb.mlit.go.jp/tohoku/content/000378622.pdf>) / [設計図（PDF）](<https://wwwtb.mlit.go.jp/tohoku/content/000378623.pdf>) |
-| 岩手県 | [吉里吉里地区治山工事調査設計業務](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanrikucyubu/260805chisancyousa.html>) | 林野庁東北森林管理局三陸中部森林管理署 | 2026-08-05 | 2026-09-15 | ア イ ウ エ オ編者・著者・発行所(一社)日本治山治水協会名称ドローン撮影オルソ画像 木製構造物の設計に当たっては、「森林土木木製構造物施工マニュアル」を使用すること | [入札公告(PDF : 165KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanrikucyubu/./attach/pdf/260805chisancyousa-1.pdf>) / [入札説明書(PDF : 222KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanrikucyubu/./attach/pdf/260805chisancyousa-2.pdf>) / [技術提案書作成要領(PDF : 186KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanrikucyubu/./attach/pdf/260805chisancyousa-3.pdf>) / [履行確実性追加資料作成要領(PDF : 94KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanrikucyubu/./attach/pdf/260805chisancyousa-4.pdf>) / [履行確実性の審査・評価のための追加資料等(PDF : 94KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanrikucyubu/./attach/pdf/260805chisancyousa-5.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

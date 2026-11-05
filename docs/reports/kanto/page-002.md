@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-05T07:39+09:00（収集時点）
+最終更新：2026-11-06T07:39+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**517件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**518件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 6
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 東京都 | [令和8年度国家森林資源データベースシステムの運用及びデータ整備等業務(PDF : 228KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/system-718.pdf>) | 林野庁 | 2026-10-13 | 2026-10-28 | 2 閲覧資料については、撮影及び複製を行いません | [入札説明書(PDF : 1,198KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/system-719.pdf>) / [仕様書(PDF : 2,673KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/system-720.pdf>) |
 | 東京都 | [江戸川区河川敷施設維持管理業務委託 事業者選定プロポーザルの実施について](<https://www.city.edogawa.tokyo.jp/documents/30835/edogawakukasenjikishisetsuijikanrigyomuitakuboshuyoko.pdf>) | 東京都江戸川区 | 2026-10-13 | 2026-11-13 | ・清掃後の現場写真を毎月1回撮影し、上記報告書に添付すること | [江戸川区河川敷施設維持管理業務委託仕様書（河川敷グラウンド：運営）（PDF：1,085KB）](<https://www.city.edogawa.tokyo.jp/documents/30835/edogawakukasenjikiijikanrigyomuitakushiyosho-kasenjikiground-unei.pdf>) / [江戸川区河川敷施設維持管理業務委託仕様書（河川敷グラウンド：整備・修繕等）（PDF：222KB）](<https://www.city.edogawa.tokyo.jp/documents/30835/edogawakukasenjikiijikanrigyomuitakushiyosho-kasenjikiground-seibishuzento.pdf>) / [江戸川区河川敷施設維持管理業務委託仕様書（河川敷緑地）（PDF：2,151KB）](<https://www.city.edogawa.tokyo.jp/documents/30835/edogawakukasenjikiijikanrigyomuitakushiyosho-kasenjikiryokuchi.pdf>) |
 | 東京都 | [国立赤城青少年交流の家 建具改修工事](<https://www.niye.go.jp/wp-content/uploads/2026/10/20261013_%E8%B5%A4%E5%9F%8E%E5%BB%BA%E5%85%B701.pdf>) | 独立行政法人国立青少年教育振興機構 | 2026-10-13 | 2026-11-16 | なお、本項に規定していない事項は「工事写真撮影要領(文部科学省大臣官房文教施設企画・防災部参事官)」に準ずる | [入札説明書（PDF/1MB）](<https://www.niye.go.jp/wp-content/uploads/2026/10/20261013_%E8%B5%A4%E5%9F%8E%E5%BB%BA%E5%85%B702.pdf>) / [設計図書（PDF/5MB）](<https://www.niye.go.jp/wp-content/uploads/2026/10/20261013_%E8%B5%A4%E5%9F%8E%E5%BB%BA%E5%85%B703.pdf>) |
 | 茨城県 | [【電子入札】【電子契約】ふげん構内除雪作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0804C00490.pdf>) | 国立研究開発法人日本原子力研究開発機構敦賀 | 2026-10-10 | 2026-11-25 | 4.6 写真等の管理受注者は、作業の必要上写真、ビデオ映像等の撮影を行う場合には、次の事項を厳守すること | — |
@@ -115,6 +116,5 @@
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（北砂七丁目団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/east/pdf/order_43991_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部 | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[18886KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_43991_3.pdf>) / [仕様書\[19710KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_43991_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（木場二丁目団地他６団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/east/pdf/order_43992_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部 | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19110KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_43992_3.pdf>) / [仕様書\[22729KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_43992_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（練馬北町一丁目団地他１団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/east/pdf/order_44006_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部 | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19328KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_44006_3.pdf>) / [仕様書\[3356KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_44006_4.pdf>) |
-| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（舟渡二丁目団地他２団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/east/pdf/order_44007_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部 | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19349KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_44007_3.pdf>) / [仕様書\[3174KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_44007_4.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

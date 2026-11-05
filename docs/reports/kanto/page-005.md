@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-05T07:39+09:00（収集時点）
+最終更新：2026-11-06T07:39+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**517件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**518件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 5 / 6
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 茨城県 | [(RE-07719)JT-60発電機棟他屋内消火配管補修工事【掲載期間:2026-8-6～2026-8-31】](<https://www.qst.go.jp/uploaded/attachment/52685.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-08-06 | 2026-09-30 | デジタルカメラで撮影する場合は、国土交通省が定めた「営繕工事写真撮影要領」有効画素数100~300万画素数程度の仕様とする | [仕様書 \[PDFファイル／1.21MB\]](<https://www.qst.go.jp/uploaded/attachment/52686.pdf>) |
 | 神奈川県 | [360度フィードバック業務及び管理職向け研修業務](<https://www.nedo.go.jp/content/800059519.pdf>) | 国立研究開発法人新エネルギー・産業技術総合開発機構 | 2026-08-06 | 2026-09-04 | フォロー及び実施までの間の見返しの観点で、受注者は事前説明会の録画及び編集後の事前説明会動画の使用を許諾すること | [仕様書（967KB）](<https://www.nedo.go.jp/content/800059520.pdf>) |
 | 茨城県 | [【電子入札】【電子契約】蒸気ドラム等の解体撤去作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0804C00590.pdf>) | 国立研究開発法人日本原子力研究開発機構敦賀 | 2026-08-06 | 2026-10-06 | 4.6 写真等の管理受注者は、作業の必要上写真、ビデオ映像等の撮影を行う場合には、次の事項を厳守すること | — |
 | 茨城県 | [【電子入札】【電子契約】PWTF機械室系コイルユニットの更新](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C02661.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-08-05 | 2026-10-07 | 火気使用作業に係る手続き等6 入構及び物品の搬出入に係る手続き等7 写真撮影に係る手続き等1 非管理区域作業に係る手続き等非管理区域作業を行う時は、受注者は契約締結後から作業開始2週間前までのなるべく早い時期に、作業計画書及び附属書類「表1」を作成し、JAEAの確認を受けること | — |
@@ -115,6 +116,5 @@
 | 埼玉県 | [「草加市病児・病後児保育事業業務委託」の公募型プロポーザルに参加する業者を募集します](<https://www.city.soka.saitama.jp/cont/s1307/010/010/020/050/1_koukoku.pdf>) | 埼玉県草加市 | 2026-07-15 | 2026-09-15 | 5 施設の写真及び動画の撮影は原則可能とします | [2\_草加市病児・病後児保育事業業務委託 仕様書.pdf（PDF：287KB）](<https://www.city.soka.saitama.jp/cont/s1307/010/010/020/050/2_shiyousyo.pdf>) / [4\_草加市病児・病後児保育事業業務委託 募集要領.pdf（PDF：317KB）](<https://www.city.soka.saitama.jp/cont/s1307/010/010/020/050/4_bosyuuyouryou.pdf>) |
 | 群馬県 | [水沼地区有害鳥獣（ニホンジカ）の誘引捕獲委託事業（R7当初明許）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/20260715-0223-02.html>) | 林野庁関東森林管理局群馬森林管理署 | 2026-07-15 | 2026-12-18 | (2) 捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [入札公告(PDF : 879KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260715-0223-02-1.pdf>) / [入札説明書(PDF : 1,290KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260715-0223-02-2.pdf>) / [共通仕様書(PDF : 1,005KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260715-0223-02-4.pdf>) / [特記仕様書(PDF : 464KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260715-0223-02-5.pdf>) / [実施箇所位置図(PDF : 3,627KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260715-0223-02-6.pdf>) |
 | 群馬県 | [倉渕・細野地区有害鳥獣（二ホンジカ）の誘引捕獲委託事業（R7当初明許）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/20260715-0223-01.html>) | 林野庁関東森林管理局群馬森林管理署 | 2026-07-15 | 2026-12-18 | (2) 捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [入札公告(PDF : 881KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260715-0223-01-10.pdf>) / [入札説明書(PDF : 1,294KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260715-0223-01-1.pdf>) / [共通仕様書(PDF : 1,005KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260715-0223-01-3.pdf>) / [特記仕様書(PDF : 223KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260715-0223-01-4.pdf>) / [実施箇所位置図(PDF : 1,139KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/gunma/attach/pdf/20260715-0223-01-5.pdf>) |
-| 茨城県 | [【電子入札】【電子契約】放射性物質分析・研究施設別棟の内装設備の製作](<https://keiyaku.jaea.go.jp/compe/02/pdf/0812C00332.pdf>) | 国立研究開発法人日本原子力研究開発機構福島 | 2026-07-15 | 原文を確認 | 性物質\](第1種)e.診療放射線技師f.エックス線作業主任者,γ線透過写真撮影作業主任者(2)・大学,専修学校等の原子力専門課程を卒業した者(3)・放射線防護に関する特定の研修を終了した者a.(原子力機構(旧原研))旧:放射線管理コース放射線防護基礎コース(旧:放射線防護基礎課程)b.(放医研)放射線防護課程c.(原電… | — |
 
 [この地域の目次](README.md) ｜ [前の100件](page-004.md) ｜ [次の100件](page-006.md)
