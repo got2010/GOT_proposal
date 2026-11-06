@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-06T07:39+09:00（収集時点）
+最終更新：2026-11-07T07:30+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**271件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**273件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 宮城県 | [令和８年度 市道除融雪業務（２工区）（単価契約）](<https://www.tomiya-city.miyagi.jp/uploads/pdf/522796e33b074b73f273feb81720cebce4894ba0.pdf>) | 宮城県富谷市 | 2026-09-16 | 原文を確認 | . 融雪剤散布量については、散布前後の融雪剤タンクの液量が分かるように写真を撮影し、日報に添付すること | [仕様書](<https://www.tomiya-city.miyagi.jp/uploads/pdf/ce7ba4c771f36c3bbdbb130d78ff650d3ee905d4.pdf>) |
+| 宮城県 | [令和８年度 市道除融雪業務（１工区）（単価契約）](<https://www.tomiya-city.miyagi.jp/uploads/pdf/f32efff9c3d84fc31a6507e2d83f4791917a1fe4.pdf>) | 宮城県富谷市 | 2026-09-16 | 原文を確認 | . 融雪剤散布量については、散布前後の融雪剤タンクの液量が分かるように写真を撮影し、日報に添付すること | [仕様書](<https://www.tomiya-city.miyagi.jp/uploads/pdf/dba5911def01af00e2dddb2e9a38cc61cc9f3c4e.pdf>) |
 | 福島県 | [「会津湯川米ブランド化推進事業」公募型プロポーザルの実施について](<https://www.vill.yugawa.fukushima.jp/uploaded/attachment/3283.pdf>) | 福島県湯川村 | 2026-09-16 | 原文を確認 | イ (3)で実施する販売会等で PR するため、水稲栽培の動画を制作すること | [業務委託仕様書（案） \[PDFファイル／238KB\]](<https://www.vill.yugawa.fukushima.jp/uploaded/attachment/3284.pdf>) |
 | 青森県 | [米田２号線道路整備４工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k037.pdf>) | 青森県五所川原市 | 2026-09-16 | 2026-09-25 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j037.zip>) |
 | 青森県 | [松野木・飯詰線道路整備３工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k038.pdf>) | 青森県五所川原市 | 2026-09-16 | 2026-09-25 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j038.zip>) |
@@ -114,7 +116,5 @@
 | 秋田県 | [旧十文字貯木場地下埋設物掘削・埋戻・産業廃棄物運搬撤去業務](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuzawa/jyumonji.html>) | 林野庁東北森林管理局秋田森林管理署湯沢支署 | 2026-08-06 | 2026-08-25 | した箇所において、深さ15mの掘削を行い、約20m毎に深さの確認できる写真及び撮影箇所挿入位置 図を提出すること | [入札公告(PDF : 133KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuzawa/./attach/pdf/jyumonji-1.pdf>) / [入札説明書(PDF : 111KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuzawa/./attach/pdf/jyumonji-2.pdf>) / [東北森林管理局競争入札入札心得(PDF : 264KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuzawa/./attach/pdf/jyumonji-3.pdf>) / [特記仕様書(PDF : 466KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuzawa/./attach/pdf/jyumonji-4.pdf>) / [紙入札参加承諾願(PDF : 60KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuzawa/./attach/pdf/jyumonji-7.pdf>) |
 | 秋田県 | [造林事業請負（象潟地区、下刈・除伐）](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuri/260806.html>) | 林野庁東北森林管理局由利森林管理署 | 2026-08-06 | 2026-09-11 | (3) 実行記録写真(a) 実行記録写真の撮影要領ア.実行記録写真は、事業完了時に確認できない部分等の証拠及び品質管理等実行管理に役立たせるために撮影するものとし、事業着手前の状況から事業完了に至るまでの実行の経過を記録し、整理編集の上、監督職員に提出しなければならない | [入札公告.pdf(PDF : 323KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuri/./attach/pdf/260806-1.pdf>) / [（1）入札説明書.pdf(PDF : 394KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuri/./attach/pdf/260806-2.pdf>) / [（2）競争参加資格確認申請書外.pdf(PDF : 913KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuri/./attach/pdf/260806-3.pdf>) / [（3）紙入札参加承諾願.pdf(PDF : 172KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuri/./attach/pdf/260806-4.pdf>) / [（5）条件因子表（象潟地区）.pdf(PDF : 79KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuri/./attach/pdf/260806-6.pdf>) |
 | 秋田県 | [大開林道改良工事](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yonesiroseibu/oobiraki-kairyou-060806.html>) | 林野庁東北森林管理局米代西部森林管理署 | 2026-08-06 | 2026-09-15 | 注者は、林業専用道に係る工事(新設に限る)の施工に当たっては、別紙の「写真撮影基準」により施工管理を行うことができるものとする | [入札公告(PDF : 146KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yonesiroseibu/./attach/pdf/oobiraki-kairyou-060806-1.pdf>) / [1.入札説明書(PDF : 136KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yonesiroseibu/./attach/pdf/oobiraki-kairyou-060806-2.pdf>) / [2.現場説明書(PDF : 279KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yonesiroseibu/./attach/pdf/oobiraki-kairyou-060806-3.pdf>) / [3.特記仕様書(PDF : 1,272KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yonesiroseibu/./attach/pdf/oobiraki-kairyou-060806-4.pdf>) / [6.公表用設計書(PDF : 229KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yonesiroseibu/./attach/pdf/oobiraki-kairyou-060806-7.pdf>) |
-| 山形県 | [8月5日公告（舗装AB）格付指定型一般競争入札の公告について 工事名：下田沢大平線表層改良工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260805koukoku1.files/20260805koukoku1-1.pdf>) | 山形県鶴岡市 | 2026-08-05 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：1,475KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260805koukoku1.files/20260805koukoku1-2.pdf>) |
-| 山形県 | [【会計局会計課】録音・録画装置（小型可搬型）（令和8年8月31日入札）](<https://www.pref.yamagata.jp/documents/53561/koukoku.pdf>) | 山形県 | 2026-08-05 | 2026-08-26 | 附属資料」のとおりとすること(1-3)取付部品1形状・性能3金具8送信映像仕 様 書項目1 撮影装置部(1-1)小型カメラ(1-2)小型カメラケース1 / 3 ページ1型式 コンデンサー型2指向特性 全指向性3周波数特性 300Hz~5kHzを包含する周波数特性を有すること4感度‐40dB±3(0dB=1V/Pa、1k… | [入札説明書（PDF：233KB）](<https://www.pref.yamagata.jp/documents/53561/setsumeisyo.pdf>) / [仕様書（PDF：389KB）](<https://www.pref.yamagata.jp/documents/53561/shiyousyoall.pdf>) / [応札物品仕様書（PDF：181KB）](<https://www.pref.yamagata.jp/documents/53561/ousatsu.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

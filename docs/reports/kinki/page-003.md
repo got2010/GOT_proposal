@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-06T07:39+09:00（収集時点）
+最終更新：2026-11-07T07:30+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**228件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**231件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 大阪府 | [高槻市本庁舎広告付きモニター等設置事業](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68404.pdf>) | 大阪府高槻市 | 2026-07-29 | 2026-09-18 | 、17Z「その他」、22I「業務委託(施設管理業務委託を除く)/HP、ビデオ制作・イベント企画」を希望品目としていること | [高槻市本庁舎広告媒体設置場所貸付事業実施要領 （PDF：160KB）](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68405.pdf>) / [高槻市本庁舎広告付きモニター等設置事業仕様書 （PDF：240KB）](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68406.pdf>) / [モニター位置 （PDF：380KB）](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68409.pdf>) / [配置図 （PDF：366KB）](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68410.pdf>) / [配置状況 （PDF：329KB）](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68411.pdf>) |
+| 兵庫県 | [【制限付一般競争入札】明石市立錦が丘幼稚園南側屋外階段修繕（7月28日発注）](<https://www.city.akashi.lg.jp/documents/40248/20260727175111.pdf>) | 兵庫県明石市 | 2026-07-28 | 原文を確認 | 繕着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、修繕完成時に現状復旧が行われているか確認すること | [仕様書（PDF：312KB）](<https://www.city.akashi.lg.jp/documents/40248/20260727175519.pdf>) / [特記仕様書（PDF：214KB）](<https://www.city.akashi.lg.jp/documents/40248/20260727175540.pdf>) |
+| 京都府 | [令和８年度市庁舎汚水槽等清掃作業について（上半期分）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/433134.htm>) | 京都府京都市 | 2026-07-28 | 原文を確認 | (3)水槽内を調査し、作業前に写真撮影(カラー)を行う | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./433134_12_07241517.pdf>) |
 | 大阪府 | [​](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68112.pdf>) | 大阪府高槻市 | 2026-07-24 | 原文を確認 | また、鋲等は、 スケール等を当てて写真撮影等を行い、記録しておくこと | [設計図書 （その他のファイル：2.5MB）](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68060.zip>) |
 | 大阪府 | [令和7年度公共下水道管きょ更新工事（第3工区）](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68111.pdf>) | 大阪府高槻市 | 2026-07-24 | 原文を確認 | 1 工事概要2 職務分担および緊急時の連絡体制3 工事記録写真撮影計画4 実施工程表5 施工工法(※)6 主要機械7 主要資材8 材料設計および水理性能評価9 材料品質証明の内容10 前処理計画(※)11 施工管理(※)12 品質管理(※)13 環境対策14 安全・衛生管理15 材料の製造から使用までの保管期間と保管方… | [設計図書 （その他のファイル：5.97MB）](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68117.zip>) |
 | 京都府 | [令和8年7月24日公告分放置駐車違反管理処理システムの賃貸借に係る入札説明書等](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/072401.pdf>) | 国家公安委員会（警察庁）京都府警察 | 2026-07-24 | 2026-08-04 | 外秘の指定をした事項に属する物件○ 前記を基に、受注者が作成(複製及び写真撮影を含む | [仕様書（PDF：885KB）](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/072403.pdf>) |

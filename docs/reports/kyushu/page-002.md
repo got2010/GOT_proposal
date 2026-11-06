@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-06T07:39+09:00（収集時点）
+最終更新：2026-11-07T07:30+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県
 
-**204件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**206件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 佐賀県 | [令和8年度地域未来交付金(地域防災緊急整備型)パーテーション整備事業 災害用簡易間仕切り購入の施行に伴う一般競争入札の実施について](<https://www.town.genkai.lg.jp/uploaded/attachment/8423.pdf>) | 佐賀県玄海町 | 2026-09-11 | 2026-10-07 | (1) 土木建築工事(2) 測量業務(土地の測量、地図の調整及び測量用写真の撮影であって、政令で定めるもの以外のもの)、土木建築に関する調査及び工事の設計2 前金払の対象となる経費の範囲は、当該工事の材料費、労務費、機械器具の賃借料、機械購入費(当該工事において償却される割合に相当する額に限る | [仕様書 \[PDFファイル／90KB\]](<https://www.town.genkai.lg.jp/uploaded/attachment/8414.pdf>) / [切抜設計書 \[PDFファイル／38KB\]](<https://www.town.genkai.lg.jp/uploaded/attachment/8415.pdf>) / [様式集 \[その他のファイル／38KB\]](<https://www.town.genkai.lg.jp/uploaded/attachment/8416.zip>) / [郵便入札の注意事項 \[Wordファイル／76KB\]](<https://www.town.genkai.lg.jp/uploaded/attachment/8338.docx>) / [玄海町建設工事等入札・契約執行要綱 \[PDFファイル／234KB\]](<https://www.town.genkai.lg.jp/uploaded/attachment/8340.pdf>) |
+| 宮崎県 | [簡易公募型プロポーザルに係る公告について（令和8年度 防衛施設周辺民生安定施設整備事業 総合福祉センター実施設計業務委託）](<https://www.town.shintomi.lg.jp/material/files/group/4/koukoku_hukusisennta-sekkei.pdf>) | 宮崎県新富町 | 2026-09-11 | 原文を確認 | 転計画案の検討に必要と認める事項七 敷地内の使用状況の概要が把握できる写真の撮影(建物調査)第118条 予備調査に係る建物の調査は、前2条の調査結果を基に土地等の取得等の対象となる範囲に存する建物及び従前の機能を回復するために関連移転の検討の対象とする建物について、第71条から第73条までに準ずる方法により行うものとす… | [07（別添2）公共建築設計業務委託共通仕様書(PDFファイル:174.3KB)](<https://www.town.shintomi.lg.jp/material/files/group/4/betten2hukusisenta-sekkei.pdf>) / [08（別添3）建築設計業務委託特記仕様書(PDFファイル:427KB)](<https://www.town.shintomi.lg.jp/material/files/group/4/bettenn3_hukusisenta-sekkei.pdf>) / [09（別添4）設計業務共通仕様書(PDFファイル:852.6KB)](<https://www.town.shintomi.lg.jp/material/files/group/4/bettenn4_hukusisennta-sekkei.pdf>) / [10（別添5）土木設計業務委託特記仕様書(PDFファイル:216.2KB)](<https://www.town.shintomi.lg.jp/material/files/group/4/betten5_hukusisennta-sekkei.pdf>) / [11（別添6）測量業務共通仕様書(PDFファイル:501.2KB)](<https://www.town.shintomi.lg.jp/material/files/group/4/betten6_hukusisennta-sekkei.pdf>) |
 | 宮崎県 | [都城市職員採用パンフレット作成業務委託に係る公募型プロポーザルを実施します](<https://www.city.miyakonojo.miyazaki.jp/uploaded/attachment/47833.pdf>) | 宮崎県都城市 | 2026-09-11 | 2026-11-17 | 26日(金)まで4 業務内容等パンフレットに係る企画、編集、デザイン、取材、写真撮影、原稿作成、校正等の作成に係る一切の業務を行うこと | [02＿別紙１ 仕様書 \[PDFファイル／560KB\]](<https://www.city.miyakonojo.miyazaki.jp/uploaded/attachment/47834.pdf>) |
 | 宮崎県 | [串間市ふるさと納税事務業務委託に伴う公募型プロポーザルについて](<https://www.city.kushima.lg.jp/main/business/upload/suikanri/01_%E4%B8%B2%E9%96%93%E5%B8%82%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%8E%E5%AF%84%E9%99%84%E9%87%91%E9%81%8B%E5%96%B6%E6%A5%AD%E5%8B%99%E3%83%97%E3%83%AD%E3%83%9D%E3%83%BC%E3%82%B6%E3%83%AB%E5%AE%9F%E6%96%BD%E8%A6%81%E9%A0%98%202.pdf>) | 宮崎県串間市 | 2026-09-11 | 原文を確認 | 11 12 13 14 15 1ア)イ)ウ)2ア)1 21)返礼品の写真撮影2)返礼品の写真の加工(文字入れ等)3)返礼品の紹介文の作成なお、返礼品の掲載にあたっては、事前に事業者に掲載内容に誤りがないか確認を行うこと | [02\_串間市ふるさと納税寄附金運営業務委託仕様書 .pdf](<https://www.city.kushima.lg.jp/main/business/upload/suikanri/02_%E4%B8%B2%E9%96%93%E5%B8%82%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%8E%E5%AF%84%E9%99%84%E9%87%91%E9%81%8B%E5%96%B6%E6%A5%AD%E5%8B%99%E5%A7%94%E8%A8%97%E4%BB%95%E6%A7%98%E6%9B%B8%201.pdf>) / [04\_プロポーザル実施要領（様式集）.zip](<https://www.city.kushima.lg.jp/main/business/upload/suikanri/04_%E3%83%97%E3%83%AD%E3%83%9D%E3%83%BC%E3%82%B6%E3%83%AB%E5%AE%9F%E6%96%BD%E8%A6%81%E9%A0%98%EF%BC%88%E6%A7%98%E5%BC%8F%E9%9B%86%EF%BC%89%201.zip>) |
 | 福岡県 | [入札公告「田熊雨水ポンプ場整備工事(土木)(第１期)](<https://www.city.munakata.lg.jp/kiji00310388/3_10388_17343_up_smaqty4h.zip>) | 福岡県宗像市 | 2026-09-11 | 2026-10-22 | ・ 使用する道路や側溝、その他工事の影響を受ける恐れがあるものは写真撮影等により事前調査を実施すること | — |
@@ -114,7 +116,5 @@
 | 福岡県 | [通信鉄塔等補修工事](<https://www.kyushu.npa.go.jp/from_2023/bidding/bidding_pdf/nyuusatu/1kouji20260717-0730.pdf>) | 国家公安委員会（警察庁）九州管区警察局 | 2026-07-17 | 2026-07-31 | (特定資料並びに特定物件の複製及び写真撮影)第6条 乙は、主たる契約に定められている場合を除き、特定資料を複製し又は 特定物件の見取図、試験成績表等の製作若しくは写真撮影をしようとするとき は、あらかじめ甲の許可を受けるものとする | — |
 | 熊本県 | [〔再公告〕【入札関係】国指定史跡釜尾古墳復旧基本計画策定業務委託に係る一般競争入札について](<https://www.city.kumamoto.jp/kiji00371886/3_71886_up_sz402igh.pdf>) | 熊本県熊本市 | 2026-07-16 | 原文を確認 | (2)写真の著作権の権利等について受託者は写真の撮影を再委託する場合は、次の事項を条件とすること | [委託仕様書（釜尾古墳）（PDF：968.8キロバイト）](<https://www.city.kumamoto.jp/kiji00371886/3_71886_510823_up_45prtxcx.pdf>) / [設計書 金抜（釜尾古墳）（PDF：226.4キロバイト）](<https://www.city.kumamoto.jp/kiji00371886/3_71886_510825_up_45prtxcx.pdf>) |
 | 鹿児島県 | [赤水漁港照明器具LED化業務委託に係る制限付き一般競争入札(公告)](<https://www.city.kagoshima.lg.jp/keizai/nourinsuisan/seisanryutu/documents/01koukokubun-.pdf>) | 鹿児島県鹿児島市 | 2026-07-16 | 2026-07-24 | (3) LED照明器具の設置の記録1 写真撮影工程に沿って、以下の内容について写真撮影を行うこと | [仕様書（PDF：199KB）](<https://www.city.kagoshima.lg.jp/keizai/nourinsuisan/seisanryutu/documents/02siyousho.pdf>) / [品仕様書一覧表（PDF：209KB）](<https://www.city.kagoshima.lg.jp/keizai/nourinsuisan/seisanryutu/documents/seihinsiyoushoitiranhyou.pdf>) / [赤水漁港配当図（PDF：742KB）](<https://www.city.kagoshima.lg.jp/keizai/nourinsuisan/seisanryutu/documents/05heimenzu.pdf>) |
-| 福岡県 | [社会人向け講座第４次産業革命エグゼクティブビジネススクールにおける受講者集客PR企画・活動及び特別講座運営業務](<https://www.kct.ac.jp/burger_editor/burger_editor/dl/886__56S_5Lya5Lq65ZCR44GR6Kyb5bqn56ys77yU5qyh55Sj5qWt6Z2p5ZG944Ko44Kw44K844Kv44OG44Kj44OW44OT44K444ON44K544K544Kv44O844Or44Gr44GK44GR44KL5Y_X6Kyb6ICF6ZuG5a6iUFLkvIHnlLvjg7vmtLvli5Xlj4rjgbPnibnliKXorJvluqfpgYvllrbmpa3li5k-d-.pdf>) | 独立行政法人国立高等専門学校機構北九州工業高等専門学校 | 2026-07-16 | 2026-07-24 | ・講座の様子を録画および写真撮影すること | — |
-| 佐賀県 | [令和8年度佐賀県原子力防災図上訓練の実施に係る支援及び評価業務委託における条件付一般競争入札を行います](<https://www.pref.saga.lg.jp/kiji003120256/3_120256_396040_up_5cltlmho.pdf>) | 佐賀県 | 2026-07-15 | 2026-07-31 | アドバイザーを兼ねるものとし、訓練当日は評価の実施に合わせて活動状況の写真撮影を行うこと | [03\_入札説明書（佐賀県原子力防災図上訓練の実施に係る支援業務及び評価業務）.pdf](<https://www.pref.saga.lg.jp/kiji003120256/3_120256_396035_up_3m8giaol.pdf>) / [04\_仕様書（佐賀県原子力防災図上訓練の実施に係る支援業務及び評価業務）.pdf](<https://www.pref.saga.lg.jp/kiji003120256/3_120256_396036_up_8vrytrmd.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

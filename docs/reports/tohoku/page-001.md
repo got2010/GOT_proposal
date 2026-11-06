@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-06T07:39+09:00（収集時点）
+最終更新：2026-11-07T07:30+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**271件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**273件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -21,7 +21,9 @@
 | 秋田県 | [【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-08-17 | 2026-09-16 | 【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務 | — |
 | 岩手県 | [【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-21 | 原文を確認 | 【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務 | — |
 | 岩手県 | [龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について](<https://www.town.iwaizumi.lg.jp/docs/2026071400011/file_contents/00.pdf>) | 岩手県岩泉町 | 2026-07-17 | 2026-09-04 | 龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について | — |
+| 山形県 | [置賜森林管理署庁舎構内ほか除排雪作業（建設機械等チャーター）](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/okitama/zyosetsu081106.html>) | 林野庁東北森林管理局置賜森林管理署 | 2026-11-06 | 2026-12-02 | 了時に表示板等に日時、作業内容等を記載の上、使用機械と作業場所が入った写真を撮影すること | [01\_入札公告(PDF : 131KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/okitama/./attach/pdf/zyosetsu081106-1.pdf>) / [02\_仕様書(PDF : 1,815KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/okitama/./attach/pdf/zyosetsu081106-2.pdf>) / [04\_入札説明書(PDF : 151KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/okitama/./attach/pdf/zyosetsu081106-4.pdf>) / [05\_各種様式(PDF : 479KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/okitama/./attach/pdf/zyosetsu081106-5.pdf>) |
 | 宮城県 | [第R8-一般16号\_令和8年度 公共土木施設災害復旧工事（槻木五間堀川).pdf \[ 134 KB pdfファイル\]](<https://www.town.shibata.miyagi.jp/index.cfm/88,35632,c,html/35632/20261105-090643.pdf>) | 宮城県柴田町 | 2026-11-05 | 2026-11-20 | (監督員)における「現場臨場の削減による効率的な時間の活用」を目指し、動画撮影用のカメラ(ウェアラブルカメラ等)とWeb 会議システム等を介して「段階確認」、「材料確認」と「立会」の遠隔臨場を行うものである | [第R8-一般16号\_令和8年度 公共土木施設災害復旧工事（槻木五間堀川).zip \[ 15385 KB zipファイル\]](<https://www.town.shibata.miyagi.jp/index.cfm/88,35632,c,html/35632/20261105-091417.zip>) |
+| 岩手県 | [湯田・湯本合同森林事務所排雪作業外](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/iwatenanbu/20261127.html>) | 林野庁東北森林管理局岩手南部森林管理署 | 2026-11-05 | 2026-11-20 | 了時に表示板等に日時、作業内容等を記載の上、使用機械と作業場所が入った写真を撮影すること | [01\_入札公告(PDF : 131KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/iwatenanbu/./attach/pdf/20261127-1.pdf>) / [03\_入札説明書(PDF : 151KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/iwatenanbu/./attach/pdf/20261127-3.pdf>) / [04\_東北森林管理局競争契約入札心得(PDF : 437KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/iwatenanbu/./attach/pdf/20261127-4.pdf>) / [07\_除排雪作業仕様書外(PDF : 454KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/iwatenanbu/./attach/pdf/20261127-7.pdf>) / [09\_紙入札参加承諾願(PDF : 58KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/iwatenanbu/./attach/pdf/20261127-9.pdf>) |
 | 青森県 | [おいらせ町新庁舎等建設地一次造成工事 \[その他のファイル／6.74MB\]](<https://www.town.oirase.aomori.jp/uploaded/attachment/27993.zip>) | 青森県おいらせ町 | 2026-11-05 | 2026-11-18 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | — |
 | 青森県 | [舘越・幸橋線整備工事 \[その他のファイル／4.18MB\]](<https://www.town.oirase.aomori.jp/uploaded/attachment/27999.zip>) | 青森県おいらせ町 | 2026-11-05 | 2026-11-18 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | — |
 | 岩手県 | [【管財課入札公告】県庁舎ほか14地区合同庁舎等オイル地下タンク貯蔵所ほか清掃及び定期点検業務](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/184/01_nyuusatukoukoku08.pdf>) | 岩手県 | 2026-11-04 | 原文を確認 | 明書を添付)6 作業内容及び手順7 業務管理(作業完了確認、品質確認、写真撮影要領等)8 緊急時の連絡体制及び対応手順9 交通管理(敷地内走行速度、過積載防止、車両点検、道路交通法の遵守等)10 環境対策(騒音、振動、ゴミ、ほこり等の対策等)11 産業廃棄物処理(産業廃棄物の運搬、処分方法等)12 作業員名簿13 証明… | [02 入札説明書 （PDF 313.8KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/184/02_nyuusatusetumeisyo08.pdf>) / [04 仕様書 （PDF 220.9KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/184/04_siyousyo08.pdf>) / [05 設計書 （PDF 1.2MB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/184/05_sekkeisyo08.pdf>) / [07 産業廃棄物収集・運搬特記仕様書（案） （PDF 163.4KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/184/07_sangyohaikibutusyusyuunpan08.pdf>) |
@@ -114,7 +116,5 @@
 | 山形県 | [【中央病院】循環器動画ファイリングシステム（令和8年10月15日入札）](<https://www.pref.yamagata.jp/documents/54126/01_koukoku_r8_cardiology_video_filing_system.pdf>) | 山形県 | 2026-09-17 | 2026-10-08 | 2026/9/4仕様 備考1 基本要件1 1 主に血管撮影装置にて、撮影したDICOM動画とレポートを5年間以上、保存できること | [入札説明書等（PDF：304KB）](<https://www.pref.yamagata.jp/documents/54126/02_nyuusatusetumeisyo_r8_cardiology_video_filing_system.pdf>) / [仕様書（PDF：437KB）](<https://www.pref.yamagata.jp/documents/54126/03_siyousyo_r8_cardiology_video_filing_system.pdf>) / [要件定義書（PDF：650KB）](<https://www.pref.yamagata.jp/documents/54126/03_yokenteigi_r8_cardiology_video_filing_system.pdf>) |
 | 宮城県 | [令和８年度 市道除融雪業務（４工区）（単価契約）](<https://www.tomiya-city.miyagi.jp/uploads/pdf/89a482e253a59668b0c2d075b29d4857ca7e8f93.pdf>) | 宮城県富谷市 | 2026-09-16 | 原文を確認 | . 融雪剤散布量については、散布前後の融雪剤タンクの液量が分かるように写真を撮影し、日報に添付すること | [仕様書](<https://www.tomiya-city.miyagi.jp/uploads/pdf/79471845ec7320e42caa61d9e854211436eb0704.pdf>) |
 | 宮城県 | [令和８年度 市道除融雪業務（３工区）（単価契約）](<https://www.tomiya-city.miyagi.jp/uploads/pdf/38776e5698d3e5068f2db5eca3d7d47cb48abc60.pdf>) | 宮城県富谷市 | 2026-09-16 | 原文を確認 | . 融雪剤散布量については、散布前後の融雪剤タンクの液量が分かるように写真を撮影し、日報に添付すること | [仕様書](<https://www.tomiya-city.miyagi.jp/uploads/pdf/f2f051cd935b5f373878646a82f2f1be7ab9e0fe.pdf>) |
-| 宮城県 | [令和８年度 市道除融雪業務（２工区）（単価契約）](<https://www.tomiya-city.miyagi.jp/uploads/pdf/522796e33b074b73f273feb81720cebce4894ba0.pdf>) | 宮城県富谷市 | 2026-09-16 | 原文を確認 | . 融雪剤散布量については、散布前後の融雪剤タンクの液量が分かるように写真を撮影し、日報に添付すること | [仕様書](<https://www.tomiya-city.miyagi.jp/uploads/pdf/ce7ba4c771f36c3bbdbb130d78ff650d3ee905d4.pdf>) |
-| 宮城県 | [令和８年度 市道除融雪業務（１工区）（単価契約）](<https://www.tomiya-city.miyagi.jp/uploads/pdf/f32efff9c3d84fc31a6507e2d83f4791917a1fe4.pdf>) | 宮城県富谷市 | 2026-09-16 | 原文を確認 | . 融雪剤散布量については、散布前後の融雪剤タンクの液量が分かるように写真を撮影し、日報に添付すること | [仕様書](<https://www.tomiya-city.miyagi.jp/uploads/pdf/dba5911def01af00e2dddb2e9a38cc61cc9f3c4e.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

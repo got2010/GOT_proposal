@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-06T07:39+09:00（収集時点）
+最終更新：2026-11-07T07:30+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**228件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**231件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -26,6 +26,9 @@
 | 兵庫県 | [宝塚市広報番組制作業務委託に係る公募型プロポーザル](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/boshuyoko.pdf>) | 兵庫県宝塚市 | 2026-08-05 | 原文を確認 | 宝塚市広報番組制作業務委託に係る公募型プロポーザル | [業務仕様書 （PDF 345.9 KB）](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/2_gyomusiyosho.pdf>) / [資料2\_秘密保持等に関する特記仕様書 （PDF 196.0 KB）](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/2_himituhojitounikansurutoltukisiyousho.pdf>) |
 | 京都府 | [令和8年度きょうとプレコン推進事業（幼児期から中学生等を対象とした教育プログラムに係るデザイン・動画作成事業）](<https://www.pref.kyoto.jp/kosodate/news/2026/purecon-sougouhyoka.html>) | 京都府 | 2026-08-03 | 2027-03-31 | 令和8年度きょうとプレコン推進事業(幼児期から中学生等を対象とした教育プログラムに係るデザイン・動画作成事業) | [総合評価競争入札公告（PDF：264KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/01_koukoku.pdf>) / [入札説明書（PDF：228KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/02_nyuusatusetumeisyo_1.pdf>) / [(別紙1)業務委託仕様書（PDF：267KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/03_siyousyo.pdf>) / [(別紙2)企画提案書作成要領（PDF：137KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/03_sakuseiyouryou.pdf>) / [落札者決定基準（PDF：52KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/15_ketteikizyunn.pdf>) |
 | 京都府 | [令和８年度京都市美術館所蔵品撮影業務](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/432372.htm>) | 京都府京都市 | 2026-07-27 | 原文を確認 | 令和8年度京都市美術館所蔵品撮影業務 | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./432372_12_07241115.pdf>) |
+| 兵庫県 | [【制限付一般競争入札】明石市立魚住中学校プール改修修繕（11月6日発注）](<https://www.city.akashi.lg.jp/documents/40569/2026-uozumi-3-011_koukoku.pdf>) | 兵庫県明石市 | 2026-11-06 | 原文を確認 | 場着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、完成時に現状復旧が行われているか確認すること | [業務仕様書（PDF：114KB）](<https://www.city.akashi.lg.jp/documents/40569/2026-uozumi-21-siyousho.pdf>) / [特記仕様書（PDF：42KB）](<https://www.city.akashi.lg.jp/documents/40569/2026-uozumi-22-tokki.pdf>) |
+| 京都府 | [（単価契約）京都市西部圧縮梱包施設 冬期除雪・凍結対策業務委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/200529.htm>) | 京都府京都市 | 2026-11-06 | 原文を確認 | 止剤散布作業を行った日については、作業箇所の作業前後の状況が確認できる写真を撮影し、上記各月分報告書原本とともに提出するものとする | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./200529_12_10301050.pdf>) |
+| 京都府 | [不用物品売却（軽乗用自動車等 計２台）について](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/456307.htm>) | 京都府京都市 | 2026-11-06 | 原文を確認 | ついて文字等の抹消が完了した車両の車台番号とその車両全体一周を中断なく動画撮影し、1台分を1ファイルとして保存すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./456307_12_11021144.pdf>) |
 | 兵庫県 | [Inseyets Offline Standaloneの納入](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/D26110501.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-11-05 | 2026-11-05 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |
 | 京都府 | [（単価契約）違反はり紙等除却及び搬入業務](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2027/200125.htm>) | 京都府京都市 | 2026-11-05 | 原文を確認 | (3) 除却作業に際しては、履行状況を確認する写真(撮影時間を入れて、除却前と除却後に撮影し、除却後の写真は、場所がわかるよう附近の建物又は工作物等が写るようにすること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2027/./200125_12_10301628.pdf>) |
 | 京都府 | [（単価契約）歴史的風土特別保存地区内買入地調査業務委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2027/200119.htm>) | 京都府京都市 | 2026-11-05 | 原文を確認 | )第11条 業務従事者は、調査の結果、異常を認めた場合は、位置を確認し写真撮影するとともに、次の措置を講ずるものとする | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2027/./200119_12_10301543.pdf>) |
@@ -113,8 +116,5 @@
 | 大阪府 | [UR賃貸住宅団地内一般清掃等業務（東山台ハイツ団地他1団地）（阪神住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44126_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1692KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44126_3.pdf>) / [仕様書\[2038KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44126_4.pdf>) |
 | 大阪府 | [UR賃貸住宅団地内一般清掃等業務（シティハイツ尼崎駅前団地他2団地）（阪神住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44127_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1711KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44127_3.pdf>) / [仕様書\[2306KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44127_4.pdf>) |
 | 大阪府 | [UR賃貸住宅団地内一般清掃等業務（フレール芦屋朝日ヶ丘団地他2団地）（阪神住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44128_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1697KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44128_3.pdf>) / [仕様書\[2051KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44128_4.pdf>) |
-| 大阪府 | [UR賃貸住宅団地内一般清掃等業務（アミティ中宮北町団地他2団地）（大阪住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44139_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1684KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44139_3.pdf>) / [仕様書\[2449KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44139_4.pdf>) |
-| 大阪府 | [UR賃貸住宅団地内一般清掃等業務（八尾若草団地他1団地）（大阪住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44140_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1718KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44140_3.pdf>) / [仕様書\[2074KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44140_4.pdf>) |
-| 大阪府 | [UR賃貸住宅団地内一般清掃等業務（玉串西団地）（大阪住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44141_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1666KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44141_3.pdf>) / [仕様書\[1630KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44141_4.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

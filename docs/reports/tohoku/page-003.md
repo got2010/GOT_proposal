@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-06T07:39+09:00（収集時点）
+最終更新：2026-11-07T07:30+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**271件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**273件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 山形県 | [8月5日公告（舗装AB）格付指定型一般競争入札の公告について 工事名：下田沢大平線表層改良工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260805koukoku1.files/20260805koukoku1-1.pdf>) | 山形県鶴岡市 | 2026-08-05 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：1,475KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260805koukoku1.files/20260805koukoku1-2.pdf>) |
+| 山形県 | [【会計局会計課】録音・録画装置（小型可搬型）（令和8年8月31日入札）](<https://www.pref.yamagata.jp/documents/53561/koukoku.pdf>) | 山形県 | 2026-08-05 | 2026-08-26 | 附属資料」のとおりとすること(1-3)取付部品1形状・性能3金具8送信映像仕 様 書項目1 撮影装置部(1-1)小型カメラ(1-2)小型カメラケース1 / 3 ページ1型式 コンデンサー型2指向特性 全指向性3周波数特性 300Hz~5kHzを包含する周波数特性を有すること4感度‐40dB±3(0dB=1V/Pa、1k… | [入札説明書（PDF：233KB）](<https://www.pref.yamagata.jp/documents/53561/setsumeisyo.pdf>) / [仕様書（PDF：389KB）](<https://www.pref.yamagata.jp/documents/53561/shiyousyoall.pdf>) / [応札物品仕様書（PDF：181KB）](<https://www.pref.yamagata.jp/documents/53561/ousatsu.pdf>) |
 | 山形県 | [【会計局会計課】録音・録画装置（設置型）（令和8年8月31日入札）](<https://www.pref.yamagata.jp/documents/53528/koukoku.pdf>) | 山形県 | 2026-08-05 | 2026-08-26 | 1ランプの点灯取調室外の入口付近に設置し、取調室のカメラ及びマイクで撮影、集音した映像、音声を、2記録装置部において録音・録画を開始した時にランプが点灯し、停止・終了した時にランプが消灯すること | [入札説明書（PDF：233KB）](<https://www.pref.yamagata.jp/documents/53528/setsumeisyo.pdf>) / [仕様書（PDF：414KB）](<https://www.pref.yamagata.jp/documents/53528/shiyousyoall.pdf>) / [応札物品仕様書（PDF：195KB）](<https://www.pref.yamagata.jp/documents/53528/ousatsu.pdf>) |
 | 宮城県 | [岩手運輸支局外壁改修工事](<https://wwwtb.mlit.go.jp/tohoku/content/000378619.pdf>) | 国土交通省東北運輸局 | 2026-08-05 | 原文を確認 | 標準詳細図(国土交通省大臣官房官庁営繕部監修 令和4年版)・ 営繕工事写真撮影要領(国土交通省大臣官房官庁営繕部 令和5年版)及び 工事写真撮影ガイドブック(国土交通省大臣官房官庁営繕部監修 令和5年版)・ 建設業法令遵守ガイドライン(第12版)3.概成工期 工事工期より 日前 ※ 適用する(請負精算額が500万円以上… | [仕様書（PDF）](<https://wwwtb.mlit.go.jp/tohoku/content/000378622.pdf>) / [設計図（PDF）](<https://wwwtb.mlit.go.jp/tohoku/content/000378623.pdf>) |
 | 岩手県 | [吉里吉里地区治山工事調査設計業務](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanrikucyubu/260805chisancyousa.html>) | 林野庁東北森林管理局三陸中部森林管理署 | 2026-08-05 | 2026-09-15 | ア イ ウ エ オ編者・著者・発行所(一社)日本治山治水協会名称ドローン撮影オルソ画像 木製構造物の設計に当たっては、「森林土木木製構造物施工マニュアル」を使用すること | [入札公告(PDF : 165KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanrikucyubu/./attach/pdf/260805chisancyousa-1.pdf>) / [入札説明書(PDF : 222KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanrikucyubu/./attach/pdf/260805chisancyousa-2.pdf>) / [技術提案書作成要領(PDF : 186KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanrikucyubu/./attach/pdf/260805chisancyousa-3.pdf>) / [履行確実性追加資料作成要領(PDF : 94KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanrikucyubu/./attach/pdf/260805chisancyousa-4.pdf>) / [履行確実性の審査・評価のための追加資料等(PDF : 94KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sanrikucyubu/./attach/pdf/260805chisancyousa-5.pdf>) |
