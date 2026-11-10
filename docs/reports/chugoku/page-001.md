@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-09T07:27+09:00（収集時点）
+最終更新：2026-11-10T12:57+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**247件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**248件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -30,6 +30,7 @@
 | 広島県 | [消防屯所等解体工事](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/167500.pdf>) | 広島県三原市 | 2026-11-02 | 2026-11-19 | ・完成写真(竣工写真)の撮影を外注する場合は、撮影データを三原市が利用することについての承諾書を提出す ること | [仕様書等](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/167501.pdf>) |
 | 広島県 | [市営宮浦北住宅２号棟外壁等改修工事](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/167497.pdf>) | 広島県三原市 | 2026-11-02 | 2026-11-19 | ・完成写真(竣工写真)の撮影を外注する場合は、撮影データを三原市が利用することについての承諾書を提出す ること | [仕様書等](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/167498.pdf>) |
 | 広島県 | [広島城三の丸平面確認調査等業務に伴う整理・報告書作成業務](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640119900101.pdf>) | 広島県広島市 | 2026-10-30 | 2026-11-18 | オ 出土遺物の復元(接合)カ 実測遺物の選定・計測キ 報告書掲載遺物の写真撮影ク 写真の整理ケ 掲載写真の選別・写真原稿作成コ 図面下図作成サ 遺物の実測シ 遺物のトレースス 原稿執筆・編集セ 出土遺物の収納(報告書掲載・非掲載の別を含め納品用の整理)ソ 図面整理(調査時の原図、作成した第二原図等を含む)タ 自然科学分… | [04 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640119900104.pdf>) |
+| 広島県 | [【令和8年11月9日入札関係資料の修正】亀山南地区下水道改築8−31号工事（11月25日開札予定）](<https://www.city.hiroshima.lg.jp/business/nyusatsu/1006046/1006111/1026553/1026554/1055024.html>) | 広島県広島市 | 2026-10-30 | 原文を確認 | 更生工事を行うにあたり、既設管内状況をTVカメラ若しくは目視にて鮮明な映像でビデオ撮影または写真撮影を行うとともに、漏水か所、木の根の侵入、破損、クラック、異物の付着、既設取付管の利用状況等を十分把握しなければならない | [03仕様書・特記仕様書等（差替） （PDF 2.2MB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/055/024/siyousho.pdf>) |
 | 広島県 | [1号8-108-27西条第二地区雨水管渠建設工事（雨東08-2）(PDFファイル:102.3KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-27-kokoku.pdf>) | 広島県東広島市 | 2026-10-29 | 2026-11-19 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和8年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [8-108-27(PDFファイル:5.3MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-27-tosho.pdf>) |
 | 広島県 | [1号7-108-255新池調整池改築工事(PDFファイル:104.5KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-255-kokoku.pdf>) | 広島県東広島市 | 2026-10-29 | 2026-11-19 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和8年8月)」によるものとし、納納品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかと、紙媒体のダイジェスト版(着手前及び完成、主たる工種の施工状況)とする | [7-108-255(PDFファイル:3.4MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-255-tosho.pdf>) |
 | 広島県 | [2号7-108-254地区計画道路23号線道路改良工事(PDFファイル:92.4KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-254-kokoku.pdf>) | 広島県東広島市 | 2026-10-29 | 2026-11-19 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和8年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-254(PDFファイル:3MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-254-tosho.pdf>) |
@@ -115,6 +116,5 @@
 | 広島県 | [2号7-108-207大迫排水路河川修繕工事(PDFファイル:207.9KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-207_kokoku.pdf>) | 広島県東広島市 | 2026-09-14 | 2026-10-08 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-207(PDFファイル:2MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_7-108-207.pdf>) |
 | 広島県 | [2号7-108-206元町古宮線道路修繕工事(PDFファイル:209.7KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-206_kokoku.pdf>) | 広島県東広島市 | 2026-09-14 | 2026-10-08 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-206(PDFファイル:1.3MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_7-108-206.pdf>) |
 | 広島県 | [2号7-108-205桧谷5号線舗装修繕工事(PDFファイル:204.5KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-205_kokoku.pdf>) | 広島県東広島市 | 2026-09-14 | 2026-10-09 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-205(PDFファイル:640.4KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_7-108-205.pdf>) |
-| 広島県 | [2号7-108-204大歳1号線道路修繕工事(PDFファイル:205KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-204_kokoku.pdf>) | 広島県東広島市 | 2026-09-14 | 2026-10-08 | 北工区工 種 測定項目 規格値 測定基準- 8 -2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-204(PDFファイル:3.4MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_7-108-204.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

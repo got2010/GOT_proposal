@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-09T07:27+09:00（収集時点）
+最終更新：2026-11-10T12:57+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**531件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**533件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 6 / 6
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 千葉県 | [松契一般第174号 松戸市立松戸高等学校分散備蓄倉庫設置工事（PDF：142KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0717kouji1w.files/174.pdf>) | 千葉県松戸市 | 2026-07-17 | 2026-07-17 | 理人以外の検査とする)【工事完了後速やかに】報告1■工事写真(建築工事写真撮影基準に準拠)■1工事記録写真■2完成写真【工事完了後速やかに】写真帳写真帳11建1.2.4電1.2.4機1.2.4代表者■完成図PDF,CADデータCDもしくはDVD2建1.7.2電1.7.2機1.7.2□電子納品電子媒体電子媒体納品書CDも… | [松契一般第174号 設計図書（PDF：3,311KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0717kouji1w.files/174k.pdf>) |
+| 千葉県 | [松契一般第173号 市内一円安全施設工事（排水施設）（PDF：141KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0717kouji1w.files/173.pdf>) | 千葉県松戸市 | 2026-07-17 | 2026-07-17 | 物、その他を撤去し、取り壊す場合は、関係者立会いにて承諾を得て、現況の写真撮影、測量等の記録をした後、施工すること | [松契一般第173号 設計図書（PDF：6,298KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0717kouji1w.files/173k.PDF>) |
 | 千葉県 | [松契一般第171号 松戸市男女共同参画センター屋上防水及び南側外壁改修工事（PDF：143KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0717kouji1w.files/171.pdf>) | 千葉県松戸市 | 2026-07-17 | 2026-07-17 | における2の(2)手すり 国土交通省大臣官房官庁営繕部制定の「営繕工事写真撮影要領(最新版)」及び官公署等への手続 ているものは、証明となる資料等の提出を省略することができる | [松契一般第171号 設計図書（PDF：11,481KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0717kouji1w.files/171k.pdf>) |
 | 千葉県 | [「２０２７年国際園芸博覧会」【機運醸成イベント】に係る企画運営業務委託 企画提案募集について](<https://www.pref.chiba.lg.jp/seisan/nyuu-kei/buppin-itaku/nyuusatsukoukoku/kiun-bosyuu.html>) | 千葉県 | 2026-07-17 | 2026-07-30 | (3)実施内容ア.県産花きの展示、フォトスポット(具体例)花を背景に写真撮影ができるスペースを設置し、SNS 投稿を促すことで認知拡大に繋げる(ハッシュタグを案内し、投稿者にはプレゼント抽選の参加権を提供するなど) | [「2027年国際園芸博覧会」【機運醸成イベント】に係る企画運営業務委託 仕様書（PDF：1,268.2KB）](<https://www.pref.chiba.lg.jp/seisan/nyuu-kei/buppin-itaku/nyuusatsukoukoku/documents/ki-siyousyo.pdf>) |
 | 東京都 | [江東区平成史編さん業務委託プロポーザルの実施について](<https://www.city.koto.lg.jp/051101/somu/heiseishi/documents/01-1_jissiyouryou.pdf>) | 東京都江東区 | 2026-07-16 | 2026-09-07 | の作成(2)資料収集・調査等1図書館等の区内外の資料保存施設での複写・写真撮影※概ね10日間の想定 | [仕様書（PDF：363KB）（別ウィンドウで開きます）](<https://www.city.koto.lg.jp/051101/somu/heiseishi/documents/02-1_siyousyo.pdf>) |

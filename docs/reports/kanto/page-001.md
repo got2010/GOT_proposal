@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-09T07:27+09:00（収集時点）
+最終更新：2026-11-10T12:57+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**531件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**533件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 6
 
@@ -50,6 +50,8 @@
 | 東京都 | [2027（令和９）年国民生活基礎調査マニュアル動画・広報用動画改修業務一式](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 厚生労働省 | 2026-08-05 | 2026-09-09 | 2027(令和9)年国民生活基礎調査マニュアル動画・広報用動画改修業務一式 | — |
 | 東京都 | [緊急地震速報20周年映像資料の制作](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-29 | 2026-08-19 | 緊急地震速報20周年映像資料の制作 | — |
 | 東京都 | [令和７年度新宿御苑日本館御殿工事（Ⅰ）展示映像撮影業務（総合評価落札方式）](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 環境省 | 2026-07-23 | 2026-08-05 | 令和7年度新宿御苑日本館御殿工事(I)展示映像撮影業務(総合評価落札方式) | — |
+| 東京都 | [港区立中学校海外修学旅行事業業務委託事業候補者をプロポーザル方式により募集します](<https://www.city.minato.tokyo.jp/documents/182181/20261106140244.pdf>) | 東京都港区 | 2026-11-09 | 2026-12-25 | 特別支援学級を含む)教員(事務局含む)介助員医療的ケア看護師付添看護師写真撮影事業者1御成門学園御成門中学校西新橋3-25-30 108名 11名 1名 1名 1名 1名 123名 4名 4名 4台2 三田中学校 三田4-13-13 130名 9名 1名 1名 1名 1名 143名 4名 4名 4台3 高松中学校 高輪… | [【別紙１】仕様書（PDF：460KB）](<https://www.city.minato.tokyo.jp/documents/182181/20261106140307.pdf>) |
+| 茨城県 | [（RE-09803）容器内機器流量・温度監視ソフトの作成及び校正作業【掲載期間：2026-11-9～2026-11-30】](<https://www.qst.go.jp/uploaded/attachment/53881.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-11-09 | 原文を確認 | (5) QSTは、立会現場の写真撮影の必要性を認める場合には、撮影できることとする | [仕様書 \[PDFファイル／621KB\]](<https://www.qst.go.jp/uploaded/attachment/53882.pdf>) |
 | 東京都 | [日野市立平山季重ふれあい館防水等修繕](<https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/008/446/2026-1104-1-1.pdf>) | 東京都日野市 | 2026-11-06 | 2026-12-03 | 努なお、写真の撮影位置め がわかるよう位置記載るをした図面をと添付すること | [仕様書 （PDF 179.5KB）](<https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/008/446/2026-1104-1-2.pdf>) / [図面 （PDF 793.6KB）](<https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/008/446/2026-1104-1-3.pdf>) |
 | 千葉県 | [松契一般第300号 松戸市市民交流会館文化施設高圧ケーブル交換修繕（PDF：335KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106syuuzen.files/300.pdf>) | 千葉県松戸市 | 2026-11-06 | 2026-11-06 | 特記事項 1.写真は、施工状況がわかるように修繕前・修繕中・修繕後の写真を撮影し、完了届とともに提出すること | [松契一般第300号 設計図書（PDF：1,327KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106syuuzen.files/300s.pdf>) |
 | 千葉県 | [松契一般第297号 松戸市立小中学校屋内消火栓ポンプ修繕（PDF：344KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106syuuzen.files/297.pdf>) | 千葉県松戸市 | 2026-11-06 | 2026-11-06 | (5)工程写真は、修繕前・修繕中・修繕後の写真を撮影し、提出すること | [松契一般第297号 設計図書（PDF：581KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106syuuzen.files/297s.pdf>) |
@@ -114,7 +116,5 @@
 | 茨城県 | [消防本部東消防署新築工事](<https://www.city.kasumigaura.lg.jp/data/doc/1792054659_doc_203_0.pdf>) | 茨城県かすみがうら市 | 2026-10-16 | 2026-11-18 | 工事写真の撮影方法は、国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領(令和5年版)による工事写真撮影ガイドブック 機械設備工事編 令和5年版」を参考とする | [いばらき電子入札](<https://ebid.cals-ibaraki.lg.jp/CALS/Accepter/index.jsp>) / [システム](<https://ebid.cals-ibaraki.lg.jp/CALS/Accepter/index.jsp>) / [意匠図](<https://www.city.kasumigaura.lg.jp/data/doc/1792054676_doc_203_0.pdf>) / [構造図](<https://www.city.kasumigaura.lg.jp/data/doc/1792054679_doc_203_0.pdf>) / [電気設備図](<https://www.city.kasumigaura.lg.jp/data/doc/1792054684_doc_203_0.pdf>) |
 | 茨城県 | [消防本部西消防署新築工事](<https://www.city.kasumigaura.lg.jp/data/doc/1792031933_doc_203_0.pdf>) | 茨城県かすみがうら市 | 2026-10-16 | 2026-11-18 | 工事写真の撮影方法は、国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領(令和5年版)による工事写真撮影ガイドブック 機械設備工事編 令和5年版」を参考とする | [いばらき電子入札](<https://ebid.cals-ibaraki.lg.jp/CALS/Accepter/index.jsp>) / [システム](<https://ebid.cals-ibaraki.lg.jp/CALS/Accepter/index.jsp>) / [意匠図【消防本部】](<https://www.city.kasumigaura.lg.jp/data/doc/1792053562_doc_203_0.pdf>) / [意匠図【西消防署】](<https://www.city.kasumigaura.lg.jp/data/doc/1792053566_doc_203_0.pdf>) / [意匠図【訓練塔】](<https://www.city.kasumigaura.lg.jp/data/doc/1792053571_doc_203_0.pdf>) |
 | 茨城県 | [(RE-9865)ITER水平ランチャーミラーモジュールの深穴加工試験【掲載期間:2026-10-16～2026-11-05】](<https://www.qst.go.jp/uploaded/attachment/53535.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-10-16 | 原文を確認 | (4)QSTが立会にあたり現場の写真撮影の必要性を認めた場合は、受注者の許可の下に、QSTが撮影できることとする | [仕様書 \[PDFファイル／1.91MB\]](<https://www.qst.go.jp/uploaded/attachment/53536.pdf>) |
-| 茨城県 | [（RE-10398）ITER水平ランチャー用CuCrZr-IG材の製作【掲載期間：2026-10-16～2026-11-05】](<https://www.qst.go.jp/uploaded/attachment/53574.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-10-16 | 原文を確認 | 入法の促進.. 81.16 輸出入について.. 81.17 製造作業の記録映像について.. 81.18 特記事項.. 82. 技術仕様.92.1 品質計画書、製造検査計画書及び製造工程説明書.. 92.2 製作に関わる技術仕様.. 92.3 試験検査に関する事項.. 92.3.1 試験検査要領書.. 92.3.2 材料… | [仕様書 \[PDFファイル／2.44MB\]](<https://www.qst.go.jp/uploaded/attachment/53575.pdf>) |
-| 茨城県 | [【電子入札】【電子契約】光学顕微鏡の購入](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01426.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-10-16 | 原文を確認 | ただし、コピーや写真撮影等の行為は禁止する | — |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)
