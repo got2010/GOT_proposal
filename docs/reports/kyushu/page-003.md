@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-10T12:57+09:00（収集時点）
+最終更新：2026-11-11T10:40+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県
 
-**208件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**209件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 福岡県 | [通信鉄塔等補修工事](<https://www.kyushu.npa.go.jp/from_2023/bidding/bidding_pdf/nyuusatu/1kouji20260717-0730.pdf>) | 国家公安委員会（警察庁）九州管区警察局 | 2026-07-17 | 2026-07-31 | (特定資料並びに特定物件の複製及び写真撮影)第6条 乙は、主たる契約に定められている場合を除き、特定資料を複製し又は 特定物件の見取図、試験成績表等の製作若しくは写真撮影をしようとするとき は、あらかじめ甲の許可を受けるものとする | — |
 | 熊本県 | [〔再公告〕【入札関係】国指定史跡釜尾古墳復旧基本計画策定業務委託に係る一般競争入札について](<https://www.city.kumamoto.jp/kiji00371886/3_71886_up_sz402igh.pdf>) | 熊本県熊本市 | 2026-07-16 | 原文を確認 | (2)写真の著作権の権利等について受託者は写真の撮影を再委託する場合は、次の事項を条件とすること | [委託仕様書（釜尾古墳）（PDF：968.8キロバイト）](<https://www.city.kumamoto.jp/kiji00371886/3_71886_510823_up_45prtxcx.pdf>) / [設計書 金抜（釜尾古墳）（PDF：226.4キロバイト）](<https://www.city.kumamoto.jp/kiji00371886/3_71886_510825_up_45prtxcx.pdf>) |
 | 鹿児島県 | [赤水漁港照明器具LED化業務委託に係る制限付き一般競争入札(公告)](<https://www.city.kagoshima.lg.jp/keizai/nourinsuisan/seisanryutu/documents/01koukokubun-.pdf>) | 鹿児島県鹿児島市 | 2026-07-16 | 2026-07-24 | (3) LED照明器具の設置の記録1 写真撮影工程に沿って、以下の内容について写真撮影を行うこと | [仕様書（PDF：199KB）](<https://www.city.kagoshima.lg.jp/keizai/nourinsuisan/seisanryutu/documents/02siyousho.pdf>) / [品仕様書一覧表（PDF：209KB）](<https://www.city.kagoshima.lg.jp/keizai/nourinsuisan/seisanryutu/documents/seihinsiyoushoitiranhyou.pdf>) / [赤水漁港配当図（PDF：742KB）](<https://www.city.kagoshima.lg.jp/keizai/nourinsuisan/seisanryutu/documents/05heimenzu.pdf>) |
 | 福岡県 | [社会人向け講座第４次産業革命エグゼクティブビジネススクールにおける受講者集客PR企画・活動及び特別講座運営業務](<https://www.kct.ac.jp/burger_editor/burger_editor/dl/886__56S_5Lya5Lq65ZCR44GR6Kyb5bqn56ys77yU5qyh55Sj5qWt6Z2p5ZG944Ko44Kw44K844Kv44OG44Kj44OW44OT44K444ON44K544K544Kv44O844Or44Gr44GK44GR44KL5Y_X6Kyb6ICF6ZuG5a6iUFLkvIHnlLvjg7vmtLvli5Xlj4rjgbPnibnliKXorJvluqfpgYvllrbmpa3li5k-d-.pdf>) | 独立行政法人国立高等専門学校機構北九州工業高等専門学校 | 2026-07-16 | 2026-07-24 | ・講座の様子を録画および写真撮影すること | — |

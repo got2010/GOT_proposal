@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-10T12:57+09:00（収集時点）
+最終更新：2026-11-11T10:40+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**231件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**234件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 兵庫県 | [Inseyets Offline Standaloneの納入](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/D26073001.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-07-30 | 2026-07-30 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |
+| 京都府 | [令和8年度 福知山鉱山坑廃水処理場導水管高圧洗浄業務に係る一般競争入札の実施について](<https://www.city.fukuchiyama.lg.jp/uploaded/attachment/54921.pdf>) | 京都府福知山市 | 2026-07-30 | 2026-08-24 | エ 洗浄し、吸引した汚泥については、第1原水槽に入れ、必ず写真で撮影すること | [仕様書 \[PDFファイル／105KB\]](<https://www.city.fukuchiyama.lg.jp/uploaded/attachment/54925.pdf>) |
+| 京都府 | [令和８年度京都御苑富小路地区整備計画検討業務](<https://www.env.go.jp/garden/kyotogyoen/4_sup/sup_00104.html>) | 環境省京都御苑 | 2026-07-30 | 2026-09-03 | ただし、コピーや写真撮影等の行為は禁止する | [入札説明書](<https://www.env.go.jp/garden/content/000419520.pdf>) / [特記仕様書](<https://www.env.go.jp/garden/content/000419525.pdf>) / [特記仕様書\_別紙](<https://www.env.go.jp/garden/content/000419526.pdf>) |
 | 大阪府 | [高槻市本庁舎広告付きモニター等設置事業](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68404.pdf>) | 大阪府高槻市 | 2026-07-29 | 2026-09-18 | 、17Z「その他」、22I「業務委託(施設管理業務委託を除く)/HP、ビデオ制作・イベント企画」を希望品目としていること | [高槻市本庁舎広告媒体設置場所貸付事業実施要領 （PDF：160KB）](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68405.pdf>) / [高槻市本庁舎広告付きモニター等設置事業仕様書 （PDF：240KB）](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68406.pdf>) / [モニター位置 （PDF：380KB）](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68409.pdf>) / [配置図 （PDF：366KB）](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68410.pdf>) / [配置状況 （PDF：329KB）](<https://www.city.takatsuki.osaka.jp/uploaded/attachment/68411.pdf>) |
 | 兵庫県 | [【制限付一般競争入札】明石市立錦が丘幼稚園南側屋外階段修繕（7月28日発注）](<https://www.city.akashi.lg.jp/documents/40248/20260727175111.pdf>) | 兵庫県明石市 | 2026-07-28 | 原文を確認 | 繕着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、修繕完成時に現状復旧が行われているか確認すること | [仕様書（PDF：312KB）](<https://www.city.akashi.lg.jp/documents/40248/20260727175519.pdf>) / [特記仕様書（PDF：214KB）](<https://www.city.akashi.lg.jp/documents/40248/20260727175540.pdf>) |
 | 京都府 | [令和８年度市庁舎汚水槽等清掃作業について（上半期分）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/433134.htm>) | 京都府京都市 | 2026-07-28 | 原文を確認 | (3)水槽内を調査し、作業前に写真撮影(カラー)を行う | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./433134_12_07241517.pdf>) |

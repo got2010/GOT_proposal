@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-10T12:57+09:00（収集時点）
+最終更新：2026-11-11T10:40+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県
 
-**208件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**209件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -20,6 +20,7 @@
 | 宮崎県 | [令和8年度広報用航空写真撮影業務委託に係る一般競争入札について](<https://www.pref.miyazaki.lg.jp/kohosenryaku/kense/chotatsu/20260916094125.html>) | 宮崎県 | 2026-09-16 | 原文を確認 | 令和8年度広報用航空写真撮影業務委託に係る一般競争入札について | [入札説明書（PDF：105KB）](<https://www.pref.miyazaki.lg.jp/documents/112559/112559_20260916104237-1.pdf>) / [仕様書（PDF：39KB）](<https://www.pref.miyazaki.lg.jp/documents/112559/112559_20260916104305-1.pdf>) |
 | 鹿児島県 | [「令和8年度鹿児島県国民保護共同実動・図上訓練の撮影・録画・配信業務」に係る一般競争入札について](<https://www.pref.kagoshima.jp/aj01/documents/130491_20260915111211-1.pdf>) | 鹿児島県 | 2026-09-15 | 原文を確認 | 「令和8年度鹿児島県国民保護共同実動・図上訓練の撮影・録画・配信業務」に係る一般競争入札について | [仕様書（PDF：106KB）](<https://www.pref.kagoshima.jp/aj01/documents/130491_20260915111312-1.pdf>) |
 | 佐賀県 | [令和8年度 嬉野市行政番組制作業務に係る公募型プロポーザルの実施について](<https://www.city.ureshino.lg.jp/var/rev0/0049/4695/12612295343.pdf>) | 佐賀県嬉野市 | 2026-09-01 | 原文を確認 | 令和8年度 嬉野市行政番組制作業務に係る公募型プロポーザルの実施について | [令和8年度 嬉野市行政番組制作業務 仕様書](<https://www.city.ureshino.lg.jp/var/rev0/0049/4696/12612292658.pdf>) / [仕様書別表1](<https://www.city.ureshino.lg.jp/var/rev0/0049/4697/12612294028.pdf>) / [令和8年度 嬉野市行政番組制作業務プロポーザル実施要領](<https://www.city.ureshino.lg.jp/var/rev0/0049/4698/12612292121.pdf>) / [（様式2）仕様書等に関する質問表](<https://www.city.ureshino.lg.jp/var/rev0/0049/4701/12612292320.doc>) |
+| 宮崎県 | [宮崎県総合農業試験場内樹木伐採等及び側溝布設替え業務委託に係る条件付一般競争入札の実施について](<https://www.pref.miyazaki.lg.jp/desaki/kense/chotatsu/sogonogyoshikenjo/20261108104728.html>) | 宮崎県 | 2026-11-10 | 2026-11-25 | 託企画提案競技の実施について 令和9年度版職員採用案内パンフレット及び動画等制作業務委託に係る企画提案競技について 2027日台観光サミットin宮崎実施計画策定・開催支援事業業務委託企画提案競技(プロポーザル方式)の実施について 【県総合博物館】令和8年度常設展示室装置・機器等点検整備業務委託における一般競争入札(条件… | [入札関係案内資料（PDF：235KB）](<https://www.pref.miyazaki.lg.jp/documents/113924/113924_20261108171531-1.pdf>) |
 | 宮崎県 | [令和8年度豚熱経口ワクチン散布（後期）業務の委託に係る一般競争入札（条件付）の実施について](<https://www.pref.miyazaki.lg.jp/shinsei-kachikuboeki/kense/chotatsu/itaku/ippannyuusatsu/20261028102209.html>) | 宮崎県 | 2026-11-09 | 2026-11-20 | 託企画提案競技の実施について 令和9年度版職員採用案内パンフレット及び動画等制作業務委託に係る企画提案競技について 2027日台観光サミットin宮崎実施計画策定・開催支援事業業務委託企画提案競技(プロポーザル方式)の実施について 【県総合博物館】令和8年度常設展示室装置・機器等点検整備業務委託における一般競争入札(条件… | [入札公告（PDF：524KB）](<https://www.pref.miyazaki.lg.jp/documents/113720/113720_20261106151433-1.pdf>) / [入札説明書（PDF：554KB）](<https://www.pref.miyazaki.lg.jp/documents/113720/113720_20261106151456-1.pdf>) / [豚熱経口ワクチン散布業務委託仕様書（PDF：2,537KB）](<https://www.pref.miyazaki.lg.jp/documents/113720/113720_20261106152049-1.pdf>) |
 | 福岡県 | [令和8年度福岡労働局産業廃棄物品収集運搬及び処分業務委託](<https://jsite.mhlw.go.jp/fukuoka-roudoukyoku/content/contents/002885145.pdf>) | 厚生労働省福岡労働局 | 2026-11-09 | 原文を確認 | ※ 必要に応じて、証拠写真の撮影を許可すること | — |
 | 熊本県 | [【入札関係】(再公告)東部環境工場水分塩化水素濃度計及びばいじん濃度計点検整備業務委託について](<https://www.city.kumamoto.jp/kiji00373678/3_73678_up_eycpyqhs.pdf>) | 熊本県熊本市 | 2026-11-06 | 原文を確認 | 12 写真帳作業中に以下の写真撮影を行うこと | [仕様書（PDF：1.11メガバイト）](<https://www.city.kumamoto.jp/kiji00373678/3_73678_up_yasdginc.pdf>) / [参考図面（PDF：2.94メガバイト）](<https://www.city.kumamoto.jp/kiji00373678/3_73678_up_uawucnnh.pdf>) |
@@ -115,6 +116,5 @@
 | 福岡県 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（吉塚六丁目団地他２団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/kyushu/pdf/order_44106_1.pdf>) | 独立行政法人都市再生機構九州支社 | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1221KB\]](<https://www.ur-net.go.jp/orders/kyushu/pdf/order_44106_3.pdf>) / [仕様書\[1990KB\]](<https://www.ur-net.go.jp/orders/kyushu/pdf/order_44106_4.pdf>) |
 | 福岡県 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（福浜二丁目団地他３団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/kyushu/pdf/order_44107_1.pdf>) | 独立行政法人都市再生機構九州支社 | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1220KB\]](<https://www.ur-net.go.jp/orders/kyushu/pdf/order_44107_3.pdf>) / [仕様書\[2098KB\]](<https://www.ur-net.go.jp/orders/kyushu/pdf/order_44107_4.pdf>) |
 | 大分県 | [一般競争入札「令和8年度大分市行動変容ウェブサイトの構築および運用保守業務委託」を行います（環境政策課）](<https://www.city.oita.oita.jp/o258/machizukuri/kankyo/documents/01_koukokubun_r8webisitekochiku.pdf>) | 大分県大分市 | 2026-09-16 | 2026-09-24 | 28 学校で取組む1(デジタル教材)動画集 ※環境省等、他の団体で作成されているものを掲載する予定 | [仕様書（PDF：297KB）](<https://www.city.oita.oita.jp/o258/machizukuri/kankyo/documents/02-1_shiyosho_r8webisitekochiku.pdf>) / [仕様書別紙（PDF：883KB）](<https://www.city.oita.oita.jp/o258/machizukuri/kankyo/documents/02-2_shiyosho_besshi_r8webisitekochiku.pdf>) |
-| 福岡県 | [【令和8年9月30日（水曜日）申込締切】令和9年北九州市二十歳の記念式典企画支援業務（公募型プロポーザル）](<https://www.city.kitakyushu.lg.jp/files/001229984.pdf>) | 福岡県北九州市 | 2026-09-15 | 2026-10-07 | 2 映像制作方針テーマに沿った映像制作について基本的な方針を記載すること | [仕様書（イベント企画支援業務）（PDF形式：395KB）](<https://www.city.kitakyushu.lg.jp/files/001229985.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

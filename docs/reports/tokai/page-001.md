@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-10T12:57+09:00（収集時点）
+最終更新：2026-11-11T10:40+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：岐阜県 静岡県 愛知県 三重県
 
-**125件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**126件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 2
 
@@ -19,6 +19,7 @@
 | 岐阜県 | [令和8年度地方創生SDGsワークスタイル情報発信動画制作・広告出稿業務委託に関する一般競争入札公告](<https://www.pref.gifu.lg.jp/uploaded/life/516685_2972474_misc.pdf>) | 岐阜県 | 2026-09-09 | 2026-09-18 | 令和8年度地方創生SDGsワークスタイル情報発信動画制作・広告出稿業務委託に関する一般競争入札公告 | — |
 | 岐阜県 | [令和8年度地方創生SDGsワークスタイル情報発信動画制作・広告出稿業務委託に関する一般競争入札公告](<https://www.pref.gifu.lg.jp/uploaded/life/516416_2970143_misc.pdf>) | 岐阜県 | 2026-09-07 | 2026-09-18 | 令和8年度地方創生SDGsワークスタイル情報発信動画制作・広告出稿業務委託に関する一般競争入札公告 | — |
 | 静岡県 | [R8年度熱海市・三島市・函南町航空写真共同撮影業務委託](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-kokoku.pdf>) | 静岡県熱海市 | 2026-08-13 | 原文を確認 | R8年度熱海市・三島市・函南町航空写真共同撮影業務委託 | [設計書 （PDF 228.3KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-sekkei1.pdf>) / [仕様書 （PDF 319.9KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-siyou1.pdf>) / [仕様書別添1 （PDF 490.6KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-siyou2.pdf>) / [仕様書別添2 （PDF 563.5KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-siyou3.pdf>) / [仕様書別添3 （PDF 5.6MB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-siyou4.pdf>) |
+| 三重県 | [令和8年度 木曽岬町文化資料館屋根外壁改修工事](<https://www.town.kisosaki.lg.jp/cmsfiles/contents/0000003/3218/90-koukoku.pdf>) | 三重県木曾岬町 | 2026-11-10 | 原文を確認 | 営繕工事写真撮影要領(国土交通省大臣官房官庁営繕部 (令和5年版))に従い撮影すること | [一般競争入札参加説明書 (PDF形式、166.75KB)](<https://www.town.kisosaki.lg.jp/cmsfiles/contents/0000003/3218/90-setumeisho.pdf>) / [特記仕様書 (PDF形式、2.48MB)](<https://www.town.kisosaki.lg.jp/cmsfiles/contents/0000003/3218/90-zumen.tokkisiyousho.pdf>) / [位置図 (PDF形式、815.97KB)](<https://www.town.kisosaki.lg.jp/cmsfiles/contents/0000003/3218/90-ichizu.pdf>) |
 | 岐阜県 | [令和８年度 下恵土地内下水道管渠更生（その２）工事](<https://www.city.kani.lg.jp/secure/30554/1-96koukoku.pdf>) | 岐阜県可児市 | 2026-11-04 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 2717KB)](<https://www.city.kani.lg.jp/secure/30554/1-96-1siyousyo.pdf>) |
 | 岐阜県 | [令和８年度 下恵土地内下水道管渠更生（その１）工事](<https://www.city.kani.lg.jp/secure/30553/1-95koukoku.pdf>) | 岐阜県可児市 | 2026-11-04 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 2661KB)](<https://www.city.kani.lg.jp/secure/30553/1-95-1siyousyo.pdf>) |
 | 岐阜県 | [令和8年度 可児市内区画線設置工事](<https://www.city.kani.lg.jp/secure/30552/1-94koukou.pdf>) | 岐阜県可児市 | 2026-11-04 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 8240KB)](<https://www.city.kani.lg.jp/secure/30552/1-94siyousyo.pdf>) |
@@ -115,6 +116,5 @@
 | 静岡県 | [令和8年度 磐田市役所本庁舎外3支所宿日直業務委託 入札](<https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/016/810/kokoku.pdf>) | 静岡県磐田市 | 2026-08-05 | 2026-08-17 | 対応(市民からの問合せ対応、担当課職員への電話取次ぎ)7 戸籍届に伴う写真撮影(婚姻届について、届出人の希望があった場合)8 動物死体処理に係る業者への連絡9 市が作成するマニュアル記載の事務10 郵便物、配送物等の受領11 非常時の担当職員等への連絡、取次ぎ12 防災FAXの受信13 物品等の貸し出し及び返却時の受領… | [仕様書 （PDF 254.9KB）](<https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/016/810/shiyosyo.pdf>) / [個人情報の保護に関する特記事項 （PDF 163.9KB）](<https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/016/810/kojinjoho.pdf>) / [内訳書 （Excel 12.7KB）](<https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/016/810/uchiwakesyo.xlsx>) |
 | 岐阜県 | [令和８年度 第一五反田橋他1橋補修工事](<https://www.city.kani.lg.jp/secure/30352/1-64koukoku.pdf>) | 岐阜県可児市 | 2026-08-05 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 3171KB)](<https://www.city.kani.lg.jp/secure/30352/1-64siyousyo.pdf>) |
 | 岐阜県 | [令和８年度 下柳坪橋他１橋補修工事](<https://www.city.kani.lg.jp/secure/30351/1-63koukoku.pdf>) | 岐阜県可児市 | 2026-08-05 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 2397KB)](<https://www.city.kani.lg.jp/secure/30351/1-63siyousyo.pdf>) |
-| 岐阜県 | [令和８年度 第一空田橋補修工事](<https://www.city.kani.lg.jp/secure/30350/1-62koukoku.pdf>) | 岐阜県可児市 | 2026-08-05 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 2778KB)](<https://www.city.kani.lg.jp/secure/30350/1-62siyousyo.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-10T12:57+09:00（収集時点）
+最終更新：2026-11-11T10:40+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：徳島県 香川県 愛媛県 高知県
 
-**154件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**155件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 香川県 | [札所寺院の史跡指定に係る道隆寺詳細調査業務の一般競争入札について](<https://www.pref.kagawa.lg.jp/documents/62932/koukoku.pdf>) | 香川県 | 2026-08-10 | 2026-09-08 | 務内容対象とする文化財について、各分野の専門的見地に基づく調査を行い、写真撮影や図面作成等を行う | [仕様書（PDF：155KB）](<https://www.pref.kagawa.lg.jp/documents/62932/shiyousyo.pdf>) |
 | 高知県 | [令和8年度高知市立学校屋内運動場他ＬＥＤ化推進業務委託の実施について](<https://www.city.kochi.kochi.jp/uploaded/life/267934_1153305_misc.pdf>) | 高知県高知市 | 2026-08-10 | 2026-09-28 | また、産業廃棄物を搬出する車両について、処分場ごとに1台のみ写真撮影し、随時担当職員に報告すること | [(2)-1仕様書](<https://www.city.kochi.kochi.jp/uploaded/life/267934_1153306_misc.pdf>) |
 | 愛媛県 | [南予子ども・女性支援センター電話設備更新に係る入札案内](<https://www.pref.ehime.jp/uploaded/life/155134_325759_misc.pdf>) | 愛媛県 | 2026-08-07 | 2026-08-14 | (5)施工状況は工程ごとに写真を撮影し1部提出すること | [入札説明書 \[PDFファイル／721KB\]](<https://www.pref.ehime.jp/uploaded/life/155134_325760_misc.pdf>) / [仕様書 \[PDFファイル／149KB\]](<https://www.pref.ehime.jp/uploaded/life/155134_325761_misc.pdf>) |
 | 高知県 | [令和8年度 有害鳥獣誘引捕獲事業（黒尊山国有林4林班外5）](<https://www.rinya.maff.go.jp/shikoku/apply/publicsale/hukyu/attach/pdf/20260807_1-1.pdf>) | 林野庁四国森林管理局 | 2026-08-07 | 2027-02-12 | ウ 捕獲したシカは、共通仕様書2.4.2(2)により記録写真を撮影する際、捕獲個体記録票(別紙様式 33)とともに撮影すること | [2.入札説明書(PDF : 499KB)](<https://www.rinya.maff.go.jp/shikoku/apply/publicsale/hukyu/attach/pdf/20260807_1-2.pdf>) / [5.国有林野における有害鳥獣誘引捕獲事業の実施に係る共通仕様書(PDF : 12,172KB)](<https://www.rinya.maff.go.jp/shikoku/apply/publicsale/hukyu/attach/pdf/20260807_1-5.pdf>) / [6.特記仕様書(PDF : 274KB)](<https://www.rinya.maff.go.jp/shikoku/apply/publicsale/hukyu/attach/pdf/20260807_1-6.pdf>) / [9.閲覧者記載用紙(PDF : 315KB)](<https://www.rinya.maff.go.jp/shikoku/apply/publicsale/hukyu/attach/pdf/20260807_1-9.pdf>) / [10.別記様式1 有害鳥獣捕獲等事業の実施に係る安全管理規程（作成例）(PDF : 271KB)](<https://www.rinya.maff.go.jp/shikoku/apply/publicsale/hukyu/attach/pdf/20260807_1-10.pdf>) |
