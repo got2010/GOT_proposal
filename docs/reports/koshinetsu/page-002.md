@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-11T10:40+09:00（収集時点）
+最終更新：2026-11-12T11:41+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**190件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**197件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,13 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 長野県 | [10月1日開札（一般競争）日野保育園照明器具LED化改修工事](<https://www.city.suzaka.nagano.jp/material/files/group/4/260908koukoku117.zip>) | 長野県須坂市 | 2026-09-08 | 2026-10-01 | また工事着手前に写真撮影計画を提出する | — |
+| 長野県 | [令和8年度 舗装維持工事 市道 田代3号線ほか【舗装工事Ａ・Ｂ・Ｃ級（市内本店）（支店・営業所の本店扱い含む）（一抜け方式2番）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080908_6_koukoku.files/6_1_koukoku_hosou_tasiro3.pdf>) | 長野県伊那市 | 2026-09-08 | 2026-09-29 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [特記仕様書（PDF：218KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080908_6_koukoku.files/6_3_tokki_hosou_tasiro3.pdf>) / [位置図（PDF：3,354KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080908_6_koukoku.files/6_4_itizu_hosou_tasiro3.pdf>) / [図面（PDF：213KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080908_6_koukoku.files/6_5_zumen_hosou_tasiro3.pdf>) |
+| 長野県 | [令和8年度 舗装維持工事 市道 緑ヶ丘大宮線ほか【舗装工事Ａ・Ｂ級（市内本店）（支店・営業所の本店扱い含む）（一抜け方式1番）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080908_5_koukoku.files/5_1_koukoku_hosou_midorigaokaoomiya.pdf>) | 長野県伊那市 | 2026-09-08 | 2026-09-29 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [特記仕様書（PDF：195KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080908_5_koukoku.files/5_3_tokki_hosou_midorigaokaoomiya.pdf>) / [位置図（PDF：8,120KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080908_5_koukoku.files/5_4_itizu_hosou_midorigaokaoomiya.pdf>) / [図面（PDF：295KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080908_5_koukoku.files/5_5_zumen_hosou_midorigaokaoomiya.pdf>) |
+| 新潟県 | [5(529)野々花教職員住宅屋根外壁塗装工事](<https://www.town.aga.niigata.jp/material/files/group/3/08-529.xls>) | 新潟県阿賀町 | 2026-09-07 | 2026-09-14 | 建設機械を使用する場合、現場代理人は施工現場において使用する建設機械の写真撮影を行い、監督職員に提出するものとする | [5(529)設計図書 (PDFファイル: 4.4MB)](<https://www.town.aga.niigata.jp/material/files/group/3/0800917-529.pdf>) |
+| 新潟県 | [4(485)たきがしら湿原木橋改修工事](<https://www.town.aga.niigata.jp/material/files/group/3/08-485.xls>) | 新潟県阿賀町 | 2026-09-07 | 2026-09-14 | ンとは別に、独立し・ブルドーザ・発動発電機(可搬式) 用する建設機械の写真撮影を行い、監督職員に提出するものとする | [4(485)設計図書 (PDFファイル: 650.1KB)](<https://www.town.aga.niigata.jp/material/files/group/3/0800917-485.pdf>) |
+| 新潟県 | [宮ノ越地区保育間伐業務委託](<https://www.city.uonuma.lg.jp/nyusatu/260917/003229/00322901.pdf>) | 新潟県魚沼市 | 2026-09-04 | 原文を確認 | (3)写真の管理項目については、新潟県林業土木工事標準仕様書「写真撮影要領」により管理を行うものとする | [02\_特記仕様書\_8森委第3号](<https://www.city.uonuma.lg.jp/nyusatu/260917/003229/00322903.pdf>) / [04\_図面\_8森委第3号](<https://www.city.uonuma.lg.jp/nyusatu/260917/003229/00322905.pdf>) |
+| 新潟県 | [道行沢地区利用間伐業務委託](<https://www.city.uonuma.lg.jp/nyusatu/260917/003230/00323001.pdf>) | 新潟県魚沼市 | 2026-09-04 | 原文を確認 | (3)写真の管理項目については、新潟県林業土木工事標準仕様書「写真撮影要領」により管理を行うものとする | [02\_特記仕様書\_8森委第4号](<https://www.city.uonuma.lg.jp/nyusatu/260917/003230/00323003.pdf>) / [04\_図面-8森委第4号](<https://www.city.uonuma.lg.jp/nyusatu/260917/003230/00323005.pdf>) |
 | 長野県 | [本海野減圧弁移設工事(掲載日:令和8年9月3日)](<https://www.city.tomi.nagano.jp/file/185819.pdf>) | 長野県東御市 | 2026-09-03 | 2026-09-18 | との因果関係を明確にするため、工事着手前に影響が予想される構造物などは写真を撮影し、監督員と協議すること | [電子入札案件に紙入札により参加する場合の注意事項(pdf 129 kb)](<https://www.city.tomi.nagano.jp/file/183935.pdf>) / [02【特記仕様書】本海野減圧弁移設工事(pdf 622 kb)](<https://www.city.tomi.nagano.jp/file/185813.pdf>) / [04【設計図面】本海野減圧弁移設工事(pdf 924 kb)](<https://www.city.tomi.nagano.jp/file/185815.pdf>) / [05【公表単価一覧表】本海野減圧弁移設工事(pdf 74 kb)](<https://www.city.tomi.nagano.jp/file/185816.pdf>) / [07【金抜設計書】本海野減圧弁移設工事(pdf 419 kb)](<https://www.city.tomi.nagano.jp/file/185818.pdf>) |
 | 長野県 | [新屋減圧弁更新工事(掲載日:令和8年9月3日)](<https://www.city.tomi.nagano.jp/file/185826.pdf>) | 長野県東御市 | 2026-09-03 | 原文を確認 | 事記録写真(1) 請負者は、工事着手に先立ち、「施行計画書 工事記録,写真撮影計画書」を作成し、係員に提出すること | [02【特記仕様書】新屋減圧弁更新工事(pdf 188 kb)](<https://www.city.tomi.nagano.jp/file/185822.pdf>) / [04【据付図】新屋減圧弁更新工事(pdf 56 kb)](<https://www.city.tomi.nagano.jp/file/185824.pdf>) / [05【金抜設計書】新屋減圧弁更新工事(pdf 90 kb)](<https://www.city.tomi.nagano.jp/file/185825.pdf>) |
 | 長野県 | [（8.9.3公告）令和8年度 武水別神社神官松田邸板塀等修理工事(PDFファイル:297KB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080915-12.pdf>) | 長野県千曲市 | 2026-09-03 | 原文を確認 | 分状況の写真(中間処理にあっては、中間処理状況の写真)及び日報28工事写真撮影要領 ・着手前及び完成後の撮影部位は、同方向同位置とする | [図面等(PDFファイル:3.2MB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080915-14.pdf>) |
