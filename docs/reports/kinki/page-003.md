@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-12T11:41+09:00（収集時点）
+最終更新：2026-11-13T11:21+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**237件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**239件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 奈良県 | [奈良教育大学（高畑）新館３号棟改修工事](<https://www.nara-ni.ac.jp/wp-content/uploads/2026/07/siryo_edu_Takabatake_Kentiku.zip>) | 国立大学法人奈良国立大学機構 | 2026-07-31 | 2026-09-15 | なお,本項に規定していない事項は「工事写真撮影要領(文部科学省大臣官房文教施設企画・防災部参事官)」に準ずる | [sankouzu\_edu\_Takabatake\_Kentiku.zip](<https://www.nara-ni.ac.jp/wp-content/uploads/2026/07/sankouzu_edu_Takabatake_Kentiku.zip>) |
+| 奈良県 | [奈良市避難行動要支援者支援システム構築業務及び計画作成等に係る支援業務委託に係る一般競争入札について](<https://www.city.nara.lg.jp/soshiki/33/270812.html>) | 奈良県奈良市 | 2026-07-31 | 2026-08-19 | また、集合型研修に参加できなかった者の操作学習を実施するため、研修動画を作成すること | [入札公告文 \[PDFファイル／184KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/214819.pdf>) / [仕様書（案）【システム構築及び計画作成等支援業務 \[PDFファイル／943KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/214538.pdf>) / [仕様書（案）【利用保守業務】 \[PDFファイル／253KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/214274.pdf>) |
 | 奈良県 | [令和8年度橿原市航空写真図化業務委託](<https://www.city.kashihara.nara.jp/material/files/group/20/5082000845.pdf>) | 奈良県橿原市 | 2026-07-31 | 原文を確認 | 00845 1/2頁・過去10年以内に、人口10万人以上の自治体で航空写真撮影の同種業務の元請実績を有すること | — |
 | 兵庫県 | [Inseyets Offline Standalone外の納入②](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/D26073003.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-07-30 | 2026-07-30 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |
 | 兵庫県 | [Inseyets Offline Standalone外の納入①](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/D26073002.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-07-30 | 2026-07-30 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |

@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-12T11:41+09:00（収集時点）
+最終更新：2026-11-13T11:21+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：北海道
 
-**88件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**90件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 1
 
@@ -22,6 +22,8 @@
 | 北海道 | [64702 落石漁港外3港航空写真撮影 (PDF:348KB)](<https://www.hkd.mlit.go.jp/ks/keiyaku/qgmend0000002uuv-att/qk1q5400000004on.pdf>) | 国土交通省北海道開発局釧路開発建設部 | 2026-10-15 | 2026-11-05 | 64702 落石漁港外3港航空写真撮影 (PDF:348KB) | — |
 | 北海道 | [サロマ湖漁港外航空写真撮影 (PDF:545KB)](<https://www.hkd.mlit.go.jp/ab/keiyaku/k232su0000000a80-att/s27mdu0000001gqh.pdf>) | 国土交通省北海道開発局網走開発建設部 | 2026-08-10 | 2026-09-02 | サロマ湖漁港外航空写真撮影 (PDF:545KB) | — |
 | 北海道 | [一般競争入札の実施（令和８年度(2026年度)農業DX人材育成プログラム動画制作・配信委託業務）](<https://www.pref.hokkaido.lg.jp/sm/kmc/265624.html>) | 北海道 | 2026-07-24 | 原文を確認 | 一般競争入札の実施(令和8年度(2026年度)農業DX人材育成プログラム動画制作・配信委託業務) | [北海道告示第11230号（入札の公告） (PDF 129KB)](<https://www.pref.hokkaido.lg.jp/fs/1/3/1/8/6/2/9/0/_/%E5%8C%97%E6%B5%B7%E9%81%93%E5%91%8A%E7%A4%BA%E7%AC%AC11230%E5%8F%B7.pdf>) / [関係書類 (ZIP 1.32MB)](<https://www.pref.hokkaido.lg.jp/fs/1/3/1/8/6/2/9/1/_/%E9%96%A2%E4%BF%82%E8%B3%87%E6%96%99%E4%B8%80%E5%BC%8F.zip>) |
+| 北海道 | [令和8年度日高北部森林管理署構内外除排雪単価契約（オープンカウンター方式による見積合わせ）](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/hidakahokubu/attach/pdf/261112_1-1.pdf>) | 林野庁北海道森林管理局 | 2026-11-12 | 原文を確認 | また、積雪状況(測尺等による)、作業前及び作業後の現地状況写真を撮影し、併せて提出すること | [仕様書等1(PDF : 626KB)](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/hidakahokubu/attach/pdf/261112_1-2.pdf>) |
+| 北海道 | [令和8年度 林道等除雪機械賃貸借単価契約（電子調達対象案件）](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/abasirichubu/attach/pdf/261112-1.pdf>) | 林野庁北海道森林管理局 | 2026-11-12 | 2026-11-30 | 4 賃貸人は、各日の作業開始及び終了時にアワーメーターの撮影を行い、別紙「運転時間管理票・集計表」を作成し、監督職員に提出すること | [仕様書等(PDF : 608KB)](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/abasirichubu/attach/pdf/261112-2.pdf>) |
 | 北海道 | [令和8年度林道等除雪建設機械賃貸借単価契約（第1号～第4号）（電子調達対象案件）](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/abasirinanbu/attach/pdf/261111_1-3.pdf>) | 林野庁北海道森林管理局 | 2026-11-11 | 2026-11-30 | 4 賃貸人は、各日の作業開始及び終了時にアワメーターの撮影を行い、別紙「運転時間管理票・集計表」を作成し、監督職員に提出すること | [仕様書等(PDF : 1,013KB)](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/abasirinanbu/attach/pdf/261111_1-4.pdf>) |
 | 北海道 | [令和8年度構内除雪及び除雪機械賃貸借単価契約第1号～3号（電子調達対象案件）](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/tokatitoubu/attach/pdf/261109-1.pdf>) | 林野庁北海道森林管理局 | 2026-11-09 | 2026-11-25 | 作業着手前の写真を添付 ※ 作業終了後の写真を添付 ※ 作業終了後の写真を添付 撮影日時:令和 年 月 日( ) 時 分 作業内容:※具体的な作業内容を記載する | [仕様書等(PDF : 720KB)](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/tokatitoubu/attach/pdf/261109-2.pdf>) |
 | 北海道 | [令和8年度根釧東部署【中標津地区】建設機械賃貸借（林道等除雪）単価契約（電子調達対象案件）](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/konsentoubu/attach/pdf/261109-1.pdf>) | 林野庁北海道森林管理局 | 2026-11-09 | 2026-11-25 | 特 記 仕 様 書1.写真撮影について1 作業前・作業中断時(休憩時)及び作業後にはアワーメーターを確認し、「運転時間確認表及び集計表に記載のうえ、監督職員に提出すること | [仕様書等(PDF : 1,361KB)](<https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/konsentoubu/attach/pdf/261109-2.pdf>) |

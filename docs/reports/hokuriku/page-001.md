@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-12T11:41+09:00（収集時点）
+最終更新：2026-11-13T11:21+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：富山県 石川県 福井県
 
-**50件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**52件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 1
 
@@ -23,6 +23,7 @@
 | 福井県 | [「ポジティブ教育推進事業」動画作成業務委託に係る業者選定プロポーザルについて](<https://www.pref.fukui.lg.jp/doc/gimu/positive-douga_d/fil/betten.pdf>) | 福井県 | 2026-08-20 | 2026-09-18 | 「ポジティブ教育推進事業」動画作成業務委託に係る業者選定プロポーザルについて | [02\_【公告】「ポジティブ教育推進事業」動画作成配信業務に係る 公募型プロポーザル（公募時公開資料）（ＰＤＦ形式 282キロバイト）](<https://www.pref.fukui.lg.jp/doc/gimu/positive-douga_d/fil/koukoku.pdf>) / [01\_【実施要領】「ポジティブ教育推進事業」動画作成配信業務に係る 公募型プロポーザル（公募時公開資料）（ＰＤＦ形式 292キロバイト）](<https://www.pref.fukui.lg.jp/doc/gimu/positive-douga_d/fil/jisshiyouryou.pdf>) / [03 【仕様書】「ポジティブ教育推進事業」動画作成配信業務に係る 公募型プロポーザル委託仕様書（ＰＤＦ形式 243キロバイト）](<https://www.pref.fukui.lg.jp/doc/gimu/positive-douga_d/fil/shiyousho.pdf>) |
 | 富山県 | [富山河川国道事務所（道路）広報動画制作作業その２【オープンカウンター方式】](<https://www.hrr.mlit.go.jp/toyama/webfile/t1_31b762b2aac29eab357d8a4a21abd853.pdf>) | 国土交通省北陸地方整備局富山河川国道事務所 | 2026-08-05 | 原文を確認 | 富山河川国道事務所(道路)広報動画制作作業その2【オープンカウンター方式】 | — |
 | 福井県 | [一般競争入札公告（デジタル航空写真撮影業務委託）](<https://www.town.minamiechizen.lg.jp/tyousei/708/p011527_d/fil/koukoku.pdf>) | 福井県南越前町 | 2026-07-13 | 2026-07-27 | 一般競争入札公告(デジタル航空写真撮影業務委託) | [設計図書（圧縮ファイル（ＺＩＰ） 6,367キロバイト）](<https://www.town.minamiechizen.lg.jp/tyousei/708/p011527_d/fil/sekkeitosyo.zip>) |
+| 石川県 | [後期事務用消耗品外の購入(PDF : 173KB)](<https://www.maff.go.jp/hokuriku/bid/materials/attach/pdf/kyosonyusatu-467.pdf>) | 農林水産省北陸農政局 | 2026-11-12 | 原文を確認 | 紙メーカー 品番・商品名1北陸農政局本局5福井県拠点1 デジタルカメラ動画(縦型動画含む)撮影可能、動画専用電子式手ブレ補正機能搭載、ISO感度125~12800、18-50mm高額ズーム機能搭載 | [仕様書(PDF : 1,558KB)](<https://www.maff.go.jp/hokuriku/bid/materials/attach/pdf/kyosonyusatu-468.pdf>) |
 | 福井県 | [【No.3057】公共下水道 下水管渠調査業務委託その1 \[PDFファイル／131KB\]](<https://www.city.katsuyama.fukui.jp/uploaded/attachment/38063.pdf>) | 福井県勝山市 | 2026-11-04 | 2026-11-11 | 12.調査記録写真受注者は、次の各号に従って調査記録写真を撮影し、調査が終了したときは、工種毎、工程順に編集したものを調査記録写真帳に整理し、「完了届」に添付して当市監督員に提出すること | [No.3057 仕様書 \[PDFファイル／20.59MB\]](<https://www.city.katsuyama.fukui.jp/uploaded/attachment/38064.pdf>) |
 | 福井県 | [【No.3052】勝山市内小学校 高木伐採等業務委託 \[PDFファイル／109KB\]](<https://www.city.katsuyama.fukui.jp/uploaded/attachment/38045.pdf>) | 福井県勝山市 | 2026-11-04 | 2026-11-11 | m程度 運搬処分費、スカイマスター、ユニック等使用費用含む 1 式 ・写真撮影時には実施場所ごとに「実施前」「実施中」「実施後」の状況が分かるよう撮影すること | [No.3052 仕様書 \[PDFファイル／495KB\]](<https://www.city.katsuyama.fukui.jp/uploaded/attachment/38046.pdf>) |
 | 石川県 | [安宅林国有林松くい虫被害木伐倒駆除事業](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/isikawa/081030.html>) | 林野庁近畿中国森林管理局石川森林管理署 | 2026-10-30 | 2026-12-04 | 2 実行記録写真は、造林事業請負実行管理基準に定める実行記録写真の撮影要領に基づき撮影することとするが、一連の記録写真は契約の記番毎に1箇所以上撮影するものとする | [(PDF : 136KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/isikawa/attach/pdf/081030-1.pdf>) / [(PDF : 538KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/isikawa/attach/pdf/081030-2.pdf>) / [(PDF : 4,391KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/isikawa/attach/pdf/081030-3.pdf>) / [(PDF : 3,833KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/isikawa/attach/pdf/081030-4.pdf>) |
@@ -44,6 +45,7 @@
 | 福井県 | [ふくいの共育（ともいく）応援企業奨励事業広報業務にかかる公募型プロポーザルを実施します。](<https://www.pref.fukui.lg.jp/doc/kodomo/tomoikupuro_koho_d/fil/01_koubokoukoku_tomoiku.pdf>) | 福井県 | 2026-09-04 | 2026-09-29 | 締結日から令和9年3月31日(水)まで4 委託業務の内容(1)企業向け動画作成および視聴の呼びかけ・男性育休や育児時短勤務、妊活休暇の導入にあたって、企業の導入スキーム、事例紹介等、取得が浸透するための他にはない工夫を行い、ふくいの共育(ともいく)応援企業奨励事業の理念を周知するとともに、経営者層が自然と子育てと仕事の… | [02\_実施要領（ふくいの共育応援企業奨励事業広報）（ＰＤＦ形式 311キロバイト）](<https://www.pref.fukui.lg.jp/doc/kodomo/tomoikupuro_koho_d/fil/02_jisshiyouryo_tomoiku.pdf>) / [04\_委託仕様書（ふくいの共育応援企業奨励事業広報）\_（ＰＤＦ形式 250キロバイト）](<https://www.pref.fukui.lg.jp/doc/kodomo/tomoikupuro_koho_d/fil/04_itakushiyousyo_tomoiku.pdf>) |
 | 石川県 | [令和8年度七尾駅前にぎわい館機械設備改修工事](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/17_koukoku20260901.pdf>) | 石川県七尾市 | 2026-09-01 | 2026-09-15 | 理槽 ・ 厨房機器 ・1) 国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領(令和5年改定)」による | [ZIP（ZIP：1,639KB）](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/17_kouji20260901.zip>) |
 | 石川県 | [令和8年度6災3336号七尾市公共下水道（七尾処理区）管渠災害復旧工事（1工区）](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/01_koukoku20260901.pdf>) | 石川県七尾市 | 2026-09-01 | 2026-09-15 | (ク)写真撮影・受注者は調査箇所で既に損壊のある所等、事業損失に係る事後調査と照合上必要と思われる箇所について写真撮影(カラー)を行い、整理整本するものとする | [ZIP（ZIP：6,160KB）](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/01_kouji20260901.zip>) |
+| 福井県 | [越前市広報紙企画制作等業務に係る公募型プロポーザルの実施について](<https://www.city.echizen.lg.jp/office/030/011/kouhoushir8proposal_d/fil/youryou.pdf>) | 福井県越前市 | 2026-08-31 | 2026-10-26 | (4) 写真の撮影表紙に使用する写真について、撮影を行う | [仕様書（PDF形式 174キロバイト）](<https://www.city.echizen.lg.jp/office/030/011/kouhoushir8proposal_d/fil/shiyousyo.pdf>) / [仕様書（PDF形式 174キロバイト）](<https://www.city.echizen.lg.jp/office/030/011/kouhoushir8proposal_d/fil/shiyousyo.pdf>) |
 | 福井県 | [県庁食堂空間リニューアル物品等整備業務に係る公募型プロポーザルの実施について](<https://www.pref.fukui.lg.jp/doc/jinji/proposal/proposal_cafeteria2026_d/fil/01_Notice.pdf>) | 福井県 | 2026-08-12 | 2026-09-01 | え・誘導サイン含む)、机・椅子、ソファ、カウンター、照明器具、植栽、県PR動画配信にも使用可能な大型ディスプレイ、STB機器 等)※食堂内の机・椅子、ガラスショーケース等は別発注にて廃棄予定 | [募集要領（PDF形式）](<https://www.pref.fukui.lg.jp/doc/jinji/proposal/proposal_cafeteria2026_d/fil/02_guideline.pdf>) / [仕様書（案）（PDF形式）](<https://www.pref.fukui.lg.jp/doc/jinji/proposal/proposal_cafeteria2026_d/fil/04_document.pdf>) |
 | 福井県 | [一般競争入札公告（旧京藤家住宅主屋修理工事）](<https://www.town.minamiechizen.lg.jp/tyousei/708/p011558_d/fil/koukoku.pdf>) | 福井県南越前町 | 2026-08-07 | 2027-01-15 | 2025年6月10日(日) 9:30~14:00 破損状況確認目視、写真撮影 所在地 福井県南条郡南越前町今庄68-35木造2階、延床面積:約319m2担当者 柴田 叔之(クレヨン)屋根廻り(外観、小屋裏調査)その他 ※国指定重要文化財 | [設計図書（圧縮ファイル（ＺＩＰ） 4,799キロバイト）](<https://www.town.minamiechizen.lg.jp/tyousei/708/p011558_d/fil/sekkeitosyo.zip>) |
 | 福井県 | [一般競争入札公告（小中学校認証サーバー・無線AP更新工事 調査設計業務委託）](<https://www.town.minamiechizen.lg.jp/tyousei/708/p011559_d/fil/koukoku.pdf>) | 福井県南越前町 | 2026-08-07 | 2026-10-30 | ) 情報化設備管理施設 住所:南越前町今庄74-9(8) 南越前町自主放送番組制作スタジオ 住所:南越前町牧谷29-15-13.工事費本業務における概算工事費は27,720千円程度(税込)を想定し、受託者は当該予算を踏まえた設計を行うこと | [設計図書（圧縮ファイル（ＺＩＰ） 3,256キロバイト）](<https://www.town.minamiechizen.lg.jp/tyousei/708/p011559_d/fil/sekkeitosyo.zip>) |

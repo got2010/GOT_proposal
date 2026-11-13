@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-12T11:41+09:00（収集時点）
+最終更新：2026-11-13T11:21+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**536件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**540件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 6
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 東京都 | [頼れる身寄りがいない高齢者等を支援する民生委員に関する普及啓発動画の制作及び配信等業務委託一式](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 厚生労働省 | 2026-11-12 | 2026-11-30 | 頼れる身寄りがいない高齢者等を支援する民生委員に関する普及啓発動画の制作及び配信等業務委託一式 | — |
 | 東京都 | [地方公共団体におけるアナログ規制見直しの支援に関する動画作成事業](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | デジタル庁東京都 | 2026-11-11 | 2026-12-08 | 地方公共団体におけるアナログ規制見直しの支援に関する動画作成事業 | — |
 | 東京都 | [｢車両火災の発生要因及び緊急時対応に関する調査検証業務｣に基づく啓発ビデオ制作の撮影等委託](<https://www.ntsel.go.jp/alias/pc/chotatsu/cyoutatsu_file/2026/261106_1.pdf>) | 独立行政法人自動車技術総合機構交通安全環境研究所 | 2026-11-06 | 原文を確認 | 「車両火災の発生要因及び緊急時対応に関する調査検証業務」に基づく啓発ビデオ制作の撮影等委託 | — |
 | 東京都 | [金融機関が行う預貯金口座の不正利用等防止の取組への協力要請に係る周知広報動画の広告出稿代行業務](<https://www.fsa.go.jp/choutatu/choutatu_j/R8/20261104-1.pdf>) | 金融庁 | 2026-11-04 | 原文を確認 | 金融機関が行う預貯金口座の不正利用等防止の取組への協力要請に係る周知広報動画の広告出稿代行業務 | — |
@@ -51,6 +52,9 @@
 | 東京都 | [2027（令和９）年国民生活基礎調査マニュアル動画・広報用動画改修業務一式](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 厚生労働省 | 2026-08-05 | 2026-09-09 | 2027(令和9)年国民生活基礎調査マニュアル動画・広報用動画改修業務一式 | — |
 | 東京都 | [緊急地震速報20周年映像資料の制作](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-29 | 2026-08-19 | 緊急地震速報20周年映像資料の制作 | — |
 | 東京都 | [令和７年度新宿御苑日本館御殿工事（Ⅰ）展示映像撮影業務（総合評価落札方式）](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 環境省 | 2026-07-23 | 2026-08-05 | 令和7年度新宿御苑日本館御殿工事(I)展示映像撮影業務(総合評価落札方式) | — |
+| 群馬県 | [【入札公告】ジョブカフェぐんま原状回復工事 (事後審査方式)(入札説明書を兼ねる)](<https://www.pref.gunma.jp/site/nyuusatsu/782765.html>) | 群馬県 | 2026-11-12 | 原文を確認 | 32 小黒板情報電子化 工事写真の撮影時に電子小黒板を利用する場合は平成29年5月1日適用技術基準(電子小黒板を利用した写真撮影の運用開始について)による | [現場説明書（一般競争入札） （PDF：420KB）](<https://www.pref.gunma.jp/uploaded/attachment/719233.pdf>) / [図面一式 （PDF：1.57MB）](<https://www.pref.gunma.jp/uploaded/attachment/719302.pdf>) / [群馬県競争入札心得 （PDF：2.02MB）](<https://www.pref.gunma.jp/uploaded/attachment/719236.pdf>) |
+| 神奈川県 | [都市再生事業におけるグリーンインフラの導入促進手法検討調査業務 （令和8年11月12日）](<https://www.ur-net.go.jp/orders/honsha/pdf/order_44430_3.pdf>) | 独立行政法人都市再生機構本社 | 2026-11-12 | 2026-11-27 | 補助的な業務\[例\]・コピー、印刷、製本・トレース、資料収集、資料整理、写真撮影・データ入力(CAD、電算)、計算処理※記載のない内容を再委託する場合は、その作業の質と表の範囲を勘案して判断するもの6とする | [仕様書\[423KB\]](<https://www.ur-net.go.jp/orders/honsha/pdf/order_44430_4.pdf>) |
+| 東京都 | [入札公告「Open Data Spaces (ODS)のブランド確立及び普及に向けたコンテンツ企画・制作事業」に係る一般競争入札](<https://www.ipa.go.jp/choutatsu/nyusatsu/2026/nyusatsu20261112.html>) | 独立行政法人情報処理推進機構 | 2026-11-12 | 2026-12-03 | 任意 201.2 (A-1)ODS User Voice動画の企画と制作・実施内容を理解し、適切な計画の下で、妥当な提案を行っているか | [入札説明書(PDF:1.1 MB)](<https://www.ipa.go.jp/choutatsu/nyusatsu/2026/rqr7mi000000fgw1-att/nyusatsu20261112.pdf>) |
 | 神奈川県 | [次世代型地熱発電模型の製作業務](<https://www.nedo.go.jp/content/800075639.pdf>) | 国立研究開発法人新エネルギー・産業技術総合開発機構 | 2026-11-11 | 2026-12-04 | 入物の事前確認1 模型(a)(b)(c)それぞれ塗装前、塗装後に現況を写真撮影し、作業状況の報告を行うこと | [仕様書（192KB）](<https://www.nedo.go.jp/content/800075638.pdf>) |
 | 東京都 | [令和8年度空中写真ネガフィルムのデジタル化等業務(PDF : 265KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/sonota-815.pdf>) | 林野庁 | 2026-11-10 | 2026-11-30 | (2)(1)でジオリファレンスした標定図を基に、写真撮影地点のポイントデータ(shape形式)を作成し、別添2に基づき属性情報を入力する | [入札説明書(PDF : 613KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/sonota-816.pdf>) / [仕様書(PDF : 602KB)](<https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/sonota-817.pdf>) |
 | 東京都 | [港区立中学校海外修学旅行事業業務委託事業候補者をプロポーザル方式により募集します](<https://www.city.minato.tokyo.jp/documents/182181/20261106140244.pdf>) | 東京都港区 | 2026-11-09 | 2026-12-25 | 特別支援学級を含む)教員(事務局含む)介助員医療的ケア看護師付添看護師写真撮影事業者1御成門学園御成門中学校西新橋3-25-30 108名 11名 1名 1名 1名 1名 123名 4名 4名 4台2 三田中学校 三田4-13-13 130名 9名 1名 1名 1名 1名 143名 4名 4名 4台3 高松中学校 高輪… | [【別紙１】仕様書（PDF：460KB）](<https://www.city.minato.tokyo.jp/documents/182181/20261106140307.pdf>) |
@@ -112,9 +116,5 @@
 | 神奈川県 | [新宿会館建具改修工事](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_sinjukukaikantategu.pdf>) | 神奈川県逗子市 | 2026-10-20 | 2026-11-04 | (工事写真)第9条 受注者は、工事中の写真を撮影し、工事着手前、施工中、完成時の工程順に整理編集し、工事完了後写真帳(デジタルカメラ可)を提出すること | [02\_図面一式 （PDF 9.8 MB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8zumen_sinjukukaikantategu.pdf>) / [03\_設計書 （Excel 302.0 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8utiwake_sinjukukaikantategu.xls>) / [01\_仕様書 （PDF 476.8 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8siyo_sinjukukaikantategu.pdf>) |
 | 茨城県 | [2026年度-2028年度課題別研修「稲作技術向上（普及員）」に係る研修委託契約（420KB）](<https://www.jica.go.jp/about/announce/domestic/02/06/__icsFiles/afieldfile/2026/10/20/koji_20261020.pdf>) | 独立行政法人国際協力機構JICA筑波 | 2026-10-20 | 2026-11-26 | 備・確認、ポータルサイト等へのアップロード(遠隔研修の場合) ケ.講義映像の録画、編集、校閲、ポータルサイト等へのアップロード(遠隔研修の場合) コ.インターネットを活用した双方向型のコミュニケーション方法の検討、研修員への周知、補助(遠隔研修の場合) サ.インターネット上のコミュニケーションツールを活用したワークショ… | — |
 | 埼玉県 | [学校給食センター空調設備設置工事](<https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27029/koukoku.pdf>) | 埼玉県宮代町 | 2026-10-19 | 2026-11-12 | (6)改修工事等を施工する場合、施工する前後に工事対象箇所の写真撮影を 行う | [意匠図（学校給食センター空調設備設置工事） (PDF形式、3.96MB)](<https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27029/isyou.pdf>) / [構造図（学校給食センター空調設備設置工事）(PDF形式、166.44KB)](<https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27029/kouzou.pdf>) / [電気設備図（学校給食センター空調設備設置工事） (PDF形式、903.69KB)](<https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27029/denki.pdf>) / [機械設備図（学校給食センター空調設備設置工事） (PDF形式、1.79MB)](<https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27029/kikai.pdf>) |
-| 茨城県 | [消防本部東消防署新築工事](<https://www.city.kasumigaura.lg.jp/data/doc/1792393610_doc_203_0.pdf>) | 茨城県かすみがうら市 | 2026-10-19 | 2026-11-18 | 工事写真の撮影方法は、国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領(令和5年版)による工事写真撮影ガイドブック 機械設備工事編 令和5年版」を参考とする | [いばらき電子入札](<https://ebid.cals-ibaraki.lg.jp/CALS/Accepter/index.jsp>) / [システム](<https://ebid.cals-ibaraki.lg.jp/CALS/Accepter/index.jsp>) / [意匠図](<https://www.city.kasumigaura.lg.jp/data/doc/1792054676_doc_203_0.pdf>) / [構造図](<https://www.city.kasumigaura.lg.jp/data/doc/1792054679_doc_203_0.pdf>) / [電気設備図](<https://www.city.kasumigaura.lg.jp/data/doc/1792054684_doc_203_0.pdf>) |
-| 茨城県 | [【電子入札】【電子契約】情報交流棟北ウイング地階電気室東側扉改修工事](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03938.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-10-19 | 2026-11-17 | c 工事写真 1部原則として国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」の最新版に従い撮影及び整理を行うものとする | — |
-| 茨城県 | [【電子入札】【電子契約】圧空設備分解整備作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03994.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-10-19 | 2026-12-11 | 2.10 作業報告書及び写真撮影(1) 作業報告書1 作業結果の各項目、測定結果に対して、異常の有無の判定を記載すること | — |
-| 茨城県 | [茨城県議会議員一般選挙ポスター掲示板設置・撤去業務委託](<https://www.city.kasumigaura.lg.jp/data/doc/1792029714_doc_203_0.pdf>) | 茨城県かすみがうら市 | 2026-10-16 | 2026-11-06 | 11. 写真撮影及び提出書類(1)各設置箇所について設置前、設置後、固定状況、撤去後の写真を撮影すること | [仕様書](<https://www.city.kasumigaura.lg.jp/data/doc/1792029719_doc_203_0.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

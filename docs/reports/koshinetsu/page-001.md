@@ -2,20 +2,24 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-12T11:41+09:00（収集時点）
+最終更新：2026-11-13T11:21+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**197件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**201件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
-## 一覧 1 / 2
+## 一覧 1 / 3
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 新潟県 | [令和８年度 民有林造林事業（衛生伐） 伐倒駆除・くん蒸業務委託（その６）（PDF：293KB）](<https://www.city.tainai.niigata.jp/gyose/nyusatsu/documents/239_koukoku_2026.pdf>) | 新潟県胎内市 | 2026-11-12 | 原文を確認 | )を伐根に再設置し、写真を撮影し記録整備すること | [設計図書（PDF：4,642KB）](<https://www.city.tainai.niigata.jp/gyose/nyusatsu/documents/239_sekkeitosyo_2026.pdf>) |
+| 新潟県 | [令和８年度 民有林造林事業（衛生伐） 伐倒駆除・くん蒸業務委託（その５）（PDF：293KB）](<https://www.city.tainai.niigata.jp/gyose/nyusatsu/documents/238_koukoku_2026.pdf>) | 新潟県胎内市 | 2026-11-12 | 原文を確認 | )を伐根に再設置し、写真を撮影し記録整備すること | [設計図書（PDF：3,691KB）](<https://www.city.tainai.niigata.jp/gyose/nyusatsu/documents/238_sekkeitosyo_2026.pdf>) |
+| 新潟県 | [令和８年度 市単森林病害虫等防除事業 伐倒駆除・くん蒸業務委託（その４）（PDF：293KB）](<https://www.city.tainai.niigata.jp/gyose/nyusatsu/documents/237_koukoku_2026.pdf>) | 新潟県胎内市 | 2026-11-12 | 原文を確認 | )を伐根に再設置し、写真を撮影し記録整備すること | [設計図書（PDF：7,141KB）](<https://www.city.tainai.niigata.jp/gyose/nyusatsu/documents/237_sekkeitosyo_2026.pdf>) |
+| 長野県 | [00\_koukoku\_1127\_sokkou.pdf](<https://www.town.minowa.lg.jp/material/files/group/4/00_koukoku_1127_sokkou.pdf>) | 長野県箕輪町 | 2026-11-12 | 2026-11-12 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [閲覧設計書](<https://www.town.minowa.lg.jp/material/files/group/4/01_sekkei_1127_sokkou.pdf>) / [数量総括表](<https://www.town.minowa.lg.jp/material/files/group/4/02_suuryou_1127_sokkou.pdf>) / [施工条件・特記仕様書](<https://www.town.minowa.lg.jp/material/files/group/4/03_sekoujyouken_1127_sokkou.pdf>) / [位置図](<https://www.town.minowa.lg.jp/material/files/group/4/04_itizu_1127_sokkou.pdf>) / [図面](<https://www.town.minowa.lg.jp/material/files/group/4/05_zumen_1127_sokkou.pdf>) |
 | 山梨県 | [大野第2取水井ポンプ更新工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/12575.pdf>) | 山梨県山梨市 | 2026-11-11 | 2026-11-18 | 注者は、機器製作中及び製作後、また現場工事開始から完了までの過程を随時写真撮影し、整理した上で1部提出すること | [第一般７２号 設計書 \[その他のファイル／3.02MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/12596.zip>) |
 | 山梨県 | [フルーツライン植栽工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/12574.pdf>) | 山梨県山梨市 | 2026-11-11 | 2026-11-18 | おいて指定機械であることを識別するラベルが確認できるように、建設機械を写真撮影し、工事写真帳に添付すること | [第一般７１号 設計書 \[その他のファイル／5.14MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/12595.zip>) |
 | 山梨県 | [山梨地域下水道舗装本復旧(その1)工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/12573.pdf>) | 山梨県山梨市 | 2026-11-11 | 2026-11-18 | おいて指定機械であることを識別するラベルが確認できるように、建設機械を写真撮影し、工事写真帳に添付すること | [第一般７０号 設計書 \[その他のファイル／2.33MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/12594.zip>) |
@@ -112,9 +116,5 @@
 | 山梨県 | [北地内配水管布設替工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11859.pdf>) | 山梨県山梨市 | 2026-09-08 | 2026-09-15 | 整備事業 山梨西部地区(2工区)運搬距離:4.5km2)残土処理置場の写真を撮影し、工事完成写真に添付するものとする | [第一般58号 設計書 \[その他のファイル／4.76MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11850.zip>) |
 | 山梨県 | [橋梁長寿命化 赤の浦橋補修工事（明許）](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11858.pdf>) | 山梨県山梨市 | 2026-09-08 | 2026-09-15 | おいて指定機械であることを識別するラベルが確認できるように、建設機械を写真撮影し、工事写真帳に添付すること | [第一般57号 設計書 \[その他のファイル／3.14MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11849.zip>) |
 | 山梨県 | [橋梁長寿命化 神喰田橋補修工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11857.pdf>) | 山梨県山梨市 | 2026-09-08 | 2026-09-15 | おいて指定機械であることを識別するラベルが確認できるように、建設機械を写真撮影し、工事写真帳に添付すること | [第一般56号 設計書 \[その他のファイル／1.4MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11848.zip>) |
-| 山梨県 | [（都）加納岩小学校西通り線道路改良外（8-5工区）工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11856.pdf>) | 山梨県山梨市 | 2026-09-08 | 2026-09-15 | おいて指定機械であることを識別するラベルが確認できるように、建設機械を写真撮影し、工事写真帳に添付すること | [第一般55号 設計書 \[その他のファイル／5.85MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11847.zip>) |
-| 山梨県 | [(都)加納岩小学校西通り線水路改良外(8-6工区)工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11855.pdf>) | 山梨県山梨市 | 2026-09-08 | 2026-09-15 | おいて指定機械であることを識別するラベルが確認できるように、建設機械を写真撮影し、工事写真帳に添付すること | [第一般54号 設計書 \[その他のファイル／10.82MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11846.zip>) |
-| 長野県 | [10月1日開札（一般競争）高甫保育園照明器具LED化改修工事](<https://www.city.suzaka.nagano.jp/material/files/group/4/260908koukoku119.zip>) | 長野県須坂市 | 2026-09-08 | 2026-10-01 | また工事着手前に写真撮影計画を提出する | — |
-| 長野県 | [10月1日開札（一般競争）仁礼保育園照明器具LED化改修工事](<https://www.city.suzaka.nagano.jp/material/files/group/4/260908koukoku118.zip>) | 長野県須坂市 | 2026-09-08 | 2026-10-01 | また工事着手前に写真撮影計画を提出する | — |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

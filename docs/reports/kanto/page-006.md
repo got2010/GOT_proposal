@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-12T11:41+09:00（収集時点）
+最終更新：2026-11-13T11:21+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**536件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**540件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 6 / 6
 
@@ -16,6 +16,10 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 群馬県 | [【入札公告】利根沼田振興局庁舎太陽光発電設備PCS更新工事に係る一般競争入札](<https://www.pref.gunma.jp/site/nyuusatsu/766512.html>) | 群馬県 | 2026-07-17 | 2026-07-30 | 11 工事写真工事写真は、(一社)公共建築協会「営繕工事写真撮影要領による工事写真撮影ガイドブック電気設備工事編令和 5 年版」に準拠して撮影、記録等をすること | [入札公告兼説明書 （PDF：999KB）](<https://www.pref.gunma.jp/uploaded/attachment/707767.pdf>) / [特記仕様書 （PDF：363KB）](<https://www.pref.gunma.jp/uploaded/attachment/707719.pdf>) |
+| 東京都 | [新国立劇場舞台美術センター保管棟Ａ・Ｂ換気設備改修工事](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTcentreKaishu/01_R8NNTTcentreKaishu_Koukoku.pdf>) | 独立行政法人日本芸術文化振興会 | 2026-07-17 | 2026-09-03 | なお、本項に規定していない事項は「工事写真撮影要領(文部科学省大臣官房文教施設企画・防災部参事官)」に準ずる | [入札説明書等 (796.59KB)](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTcentreKaishu/02_R8NNTTcentreKaishu_Explanation.pdf>) / [特記仕様書・図面 (1.29MB)](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTcentreKaishu/04_R8NNTTcentreKaishu_ShiyousyoandZumen.pdf>) / [現場説明書 (599.59KB)](<https://www.ntj.jac.go.jp/assets/files/004_NYUSATSU/R8/R8_7/R8NNTTcentreKaishu/05_R8NNTTcentreKaishu_Genbasetsumeisyo.pdf>) |
+| 群馬県 | [砂川地区外有害鳥獣（ニホンジカ）誘引捕獲委託事業（R7当初明許）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tone/20260717-001.html>) | 林野庁関東森林管理局利根沼田森林管理署 | 2026-07-17 | 2026-12-10 | (2) 捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [入札公告(PDF : 879KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tone/attach/pdf/20260717-001-1.pdf>) / [(1)入札説明書(PDF : 1,109KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tone/attach/pdf/20260717-001-2.pdf>) / [(3)共通仕様書(PDF : 927KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tone/attach/pdf/20260717-001-4.pdf>) / [(4)特記仕様書(PDF : 268KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tone/attach/pdf/20260717-001-5.pdf>) / [(5)実施個所位置図(PDF : 2,032KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tone/attach/pdf/20260717-001-6.pdf>) |
+| 神奈川県 | [箱根地区車両系建設機械チャーター等単価契約](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tokyo_kanagawa/tk20260817_rindou02.html>) | 林野庁関東森林管理局東京神奈川森林管理署 | 2026-07-17 | 2026-08-17 | )※時間の管理方法は、作業日ごとにアワーメーターの写真を撮影管理すること | [入札公告(PDF : 251KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tokyo_kanagawa/attach/pdf/tk20260817_rindou02-1.pdf>) / [入札説明資料等【箱根地区】(PDF : 1,719KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/tokyo_kanagawa/attach/pdf/tk20260817_rindou02-2.pdf>) |
 | 茨城県 | [【電子入札】【電子契約】第三ウラン貯蔵庫換気空調設備点検作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C02814.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-07-17 | 2026-09-16 | 火気使用作業に係る手続き等6 入構及び物品の搬出入に係る手続き等7 写真撮影に係る手続き等1 非管理区域作業に係る手続き等非管理区域作業を行う時は、受注者は契約締結後から作業開始2週間前までのなるべく早い時期に、作業計画書及び附属書類「表1」を作成し、JAEAの確認を受けること | — |
 | 茨城県 | [【電子入札】【電子契約】大強度3GeVシンクロトロン棟チラー冷凍機基礎改修工事](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C02654.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-07-17 | 2026-08-21 | c 工事写真 1部原則として国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」の最新版に従い撮影及び整理を行うものとする | — |
 | 千葉県 | [松契一般第165号 松戸市立第五中学校給水管改修及び公共下水道接続工事（PDF：372KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0717kouji2w.files/165.pdf>) | 千葉県松戸市 | 2026-07-17 | 2026-07-17 | 〇全空気方式●工事写真@ 国土交通省大臣官房官庁営繕部制定の「営繕工事写真撮影要領(令和5年版)」による | [松契一般第165号 設計図書（PDF：8,807KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0717kouji2w.files/165s.pdf>) |

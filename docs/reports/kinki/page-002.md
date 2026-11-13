@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-12T11:41+09:00（収集時点）
+最終更新：2026-11-13T11:21+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**237件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**239件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 大阪府 | [UR賃貸住宅団地内一般清掃等業務（鹿の子台北ハイツ）（兵庫住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44131_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1670KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44131_3.pdf>) / [仕様書\[1786KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44131_4.pdf>) |
+| 大阪府 | [UR賃貸住宅団地内一般清掃等業務（ＨＡＴ神戸脇の浜団地他1団地）（兵庫住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44132_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1683KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44132_3.pdf>) / [仕様書\[2017KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44132_4.pdf>) |
 | 大阪府 | [UR賃貸住宅団地内一般清掃等業務（高見フローラルタウン五番街団地他1団地）（阪神住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44123_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1699KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44123_3.pdf>) / [仕様書\[1861KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44123_4.pdf>) |
 | 大阪府 | [UR賃貸住宅団地内一般清掃等業務（歌島橋団地他2団地）（阪神住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44124_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1717KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44124_3.pdf>) / [仕様書\[2298KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44124_4.pdf>) |
 | 大阪府 | [UR賃貸住宅団地内一般清掃等業務（ルネシティ西宮高畑町団地他3団地）（阪神住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44125_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1717KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44125_3.pdf>) / [仕様書\[2469KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44125_4.pdf>) |
@@ -114,7 +116,5 @@
 | 京都府 | [避難所運営資機材（間仕切りテント）の購入について](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/433230.htm>) | 京都府京都市 | 2026-08-03 | 2026-09-10 | (5)納品先施設管理者による納品確認及び納品状況の写真撮影ア 納品時には、納品先施設管理者等による納品確認及び納品書への記名を受けること | [入札公告](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./433230_01_07301517.pdf>) / [入札説明書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./433230_02_07301517.pdf>) / [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./433230_03_07301517.pdf>) |
 | 奈良県 | [奈良教育大学（高畑）新館３号棟改修機械設備工事](<https://www.nara-ni.ac.jp/wp-content/uploads/2026/07/siryo_edu_Takabatake_Kikai.zip>) | 国立大学法人奈良国立大学機構 | 2026-07-31 | 2026-09-15 | なお,本項に規定していない事項は「工事写真撮影要領(文部科学省大臣官房文教施設企画・防災部参事官)」に準ずる | [sankouzu\_edu\_Takabatake\_Kikai.zip](<https://www.nara-ni.ac.jp/wp-content/uploads/2026/07/sankouzu_edu_Takabatake_Kikai.zip>) |
 | 奈良県 | [奈良教育大学（高畑）新館３号棟改修電気設備工事](<https://www.nara-ni.ac.jp/wp-content/uploads/2026/07/siryo_edu_Takabatake_Denki.zip>) | 国立大学法人奈良国立大学機構 | 2026-07-31 | 2026-08-21 | )○工事写真撮影要領(令和5年9月)○(1)本工事に使用する機材等は、設計図書に定める品質及び性能の他、通常有すべ●機材の品質等き品質及び性能を有するものとする | [sankouzu\_edu\_Takabatake\_Denki.zip](<https://www.nara-ni.ac.jp/wp-content/uploads/2026/07/sankouzu_edu_Takabatake_Denki.zip>) |
-| 奈良県 | [奈良教育大学（高畑）新館３号棟改修工事](<https://www.nara-ni.ac.jp/wp-content/uploads/2026/07/siryo_edu_Takabatake_Kentiku.zip>) | 国立大学法人奈良国立大学機構 | 2026-07-31 | 2026-09-15 | なお,本項に規定していない事項は「工事写真撮影要領(文部科学省大臣官房文教施設企画・防災部参事官)」に準ずる | [sankouzu\_edu\_Takabatake\_Kentiku.zip](<https://www.nara-ni.ac.jp/wp-content/uploads/2026/07/sankouzu_edu_Takabatake_Kentiku.zip>) |
-| 奈良県 | [奈良市避難行動要支援者支援システム構築業務及び計画作成等に係る支援業務委託に係る一般競争入札について](<https://www.city.nara.lg.jp/soshiki/33/270812.html>) | 奈良県奈良市 | 2026-07-31 | 2026-08-19 | また、集合型研修に参加できなかった者の操作学習を実施するため、研修動画を作成すること | [入札公告文 \[PDFファイル／184KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/214819.pdf>) / [仕様書（案）【システム構築及び計画作成等支援業務 \[PDFファイル／943KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/214538.pdf>) / [仕様書（案）【利用保守業務】 \[PDFファイル／253KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/214274.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

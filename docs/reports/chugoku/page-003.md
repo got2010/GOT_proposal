@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-12T11:41+09:00（収集時点）
+最終更新：2026-11-13T11:21+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**248件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**249件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 広島県 | [農業集落排水事業原東処理区機械装置更新工事（その２）](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/28909.pdf>) | 広島県北広島町 | 2026-07-31 | 2026-08-31 | 2.工事記録写真撮影(1) 工事の施工順序に従い、監督職員の指示又は必要に応じて記録写真を整備し、工事完了後提出しなければならない | [仕様書](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/28910.pdf>) / [設計図面](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/28911.pdf>) / [最低制限価格の算定上での「スクラップ控除」の取り扱いについて](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/28912.pdf>) |
 | 広島県 | [【公募型プロポーザル】湯来町「滝パンフレット」制作業務](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/052/163/01.pdf>) | 広島県広島市 | 2026-07-31 | 2026-08-21 | 10(3) 撮影、デザイン及び編集ア 撮影及びパンフレットに関するコンセプトが、選定された滝の特徴及び湯来町の豊かな自然環境を効果的に表現できるものとなっているか | [05 （別紙）受託候補者特定基準 （PDF 156.2KB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/052/163/05.pdf>) / [06 基本仕様書 （PDF 295.6KB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/052/163/06.pdf>) |
 | 広島県 | [汚水管埋設（8-20-1）工事](<https://www.city.fuchu.hiroshima.jp/material/files/group/11/05_osuikanmaisetu8-20-1.pdf>) | 広島県府中市 | 2026-07-31 | 2026-08-21 | 事記録写真1. 請負者は、「広島県土木工事共通仕様書」に従って工事記録写真を撮影すること | [PDF](<https://www.city.fuchu.hiroshima.jp/material/files/group/11/5osuikan8201siyousyo.pdf>) / [PDF](<https://www.city.fuchu.hiroshima.jp/material/files/group/11/5osuikan8201zumen.pdf>) |
 | 島根県 | [令和８年度 津和野中学校屋内運動場LED化及び空調設備等設置工事](<https://www.town.tsuwano.lg.jp//www/contents/1784857486886/files/koukoku33.pdf>) | 島根県鹿足郡津和野町 | 2026-07-29 | 2026-08-14 | 標準詳細図(令和4年版)・公共住宅標準詳細設計図集(第4版)\*営繕工事写真撮影要領による工事写真撮影ガイドブック 一般社団法人公共建築協会 編集 建築工事編及び解体工事編 令和5年版 ものとし、JIS及びJASマーク表示のない材料及びその製造業者等は、2 材料の品質等 本工事に使用する材料等は、設計図書に定める品質及び… | [２．位置図（PDF：1691KB）](<https://www.town.tsuwano.lg.jp//www/contents/1784857486886/files/itizu33.pdf>) / [３−１．見積参考資料01（PDF：67KB）](<https://www.town.tsuwano.lg.jp//www/contents/1784857486886/files/01_sankousiryou.pdf>) / [３−２．見積参考資料02（PDF：190KB）](<https://www.town.tsuwano.lg.jp//www/contents/1784857486886/files/02_sankousiryou.pdf>) / [３−３．見積参考資料03（PDF：4MB）](<https://www.town.tsuwano.lg.jp//www/contents/1784857486886/files/03_sankousiryou03.pdf>) / [４．週休２日促進工事の実施について（PDF：121KB）](<https://www.town.tsuwano.lg.jp//www/contents/1784857486886/files/syuukyuufutuka.pdf>) |

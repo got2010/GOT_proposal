@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-12T11:41+09:00（収集時点）
+最終更新：2026-11-13T11:21+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：徳島県 香川県 愛媛県 高知県
 
-**157件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**158件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 2
 
@@ -22,6 +22,7 @@
 | 香川県 | [令和8年度文化観光推進事業に係る収蔵刀剣類のデジタル撮影業務の公募について](<https://www.pref.kagawa.lg.jp/documents/63303/01_koukoku_touken.pdf>) | 香川県 | 2026-09-04 | 2026-09-15 | 令和8年度文化観光推進事業に係る収蔵刀剣類のデジタル撮影業務の公募について | [仕様書（PDF：325KB）](<https://www.pref.kagawa.lg.jp/documents/63303/02_shiyousyo_touken.pdf>) |
 | 愛媛県 | [「プレコンセプションケア」普及啓発動画制作・広告配信業務委託（公募型プロポーザル方式）（すくすく支援課）](<https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/purekonpuropo.files/1_boshuuyouryou.pdf>) | 愛媛県松山市 | 2026-08-03 | 2026-09-07 | 「プレコンセプションケア」普及啓発動画制作・広告配信業務委託(公募型プロポーザル方式)(すくすく支援課) | [2\_（別紙1）仕様書（PDF：236KB）](<https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/purekonpuropo.files/2_siyousho.pdf>) |
 | 高知県 | [消費者被害未然防止啓発動画放送委託業務に係る一般競争入札について](<https://www.pref.kochi.lg.jp/doc/2026072900091/file_contents/file_2026730414200_1.pdf>) | 高知県 | 2026-07-31 | 2026-09-01 | 消費者被害未然防止啓発動画放送委託業務に係る一般競争入札について | [06\_仕様書\[PDF：45KB\]](<https://www.pref.kochi.lg.jp/doc/2026072900091/file_contents/file_2026730414220_1.pdf>) |
+| 香川県 | [令和8年度香川県園芸総合センターしだれ桜ライトアップイベント業務委託契約に係る企画提案方式（コンペ方式）による公募について（公告）](<https://www.pref.kagawa.lg.jp/documents/64588/koukoku.pdf>) | 香川県 | 2026-11-12 | 2026-12-14 | 8 その他業務ア ライトアップ風景写真の撮影・ライトアップ風景の写真撮影をすること | [仕様書（PDF：1,364KB）](<https://www.pref.kagawa.lg.jp/documents/64588/siyousho.pdf>) |
 | 高知県 | [令和8年度 林道災害復旧事業 林道トウガチ線（梅雨前線豪雨及び台風７号災害（6.24-6.27）・１号箇所）（８年発生）](<https://www.town.niyodogawa.lg.jp/download/?t=LD&id=3434&fid=24236>) | 高知県仁淀川町 | 2026-11-11 | 原文を確認 | 及び所在地が計画と一致す運搬車のナンバーが写るよう運搬車後面のデジタル写真撮影をする | [金抜設計書（PDF：1.56MB）](<https://www.town.niyodogawa.lg.jp/download/?t=LD&id=3434&fid=24238>) |
 | 徳島県 | [阿南第二中学校管理棟屋上防水改修工事](<https://www.city.anan.tokushima.jp/docs/2026110600013/file_contents/20261109-1.pdf>) | 徳島県阿南市 | 2026-11-09 | 原文を確認 | トイレ ・阿南市建築工事様式集で監督員が指示した図書(必要部数)◎工事写真の撮影は, 国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」によること. 的確に確認できること.完成写真については, 工事目的物の状態が,資機材, 施工状況等については,不可視部分の出来形が写真で◎工事写真の電子データは完成写真, 着手前… | [阿南第二中学校管理棟屋上防水改修工事 1.閲覧補足説明書\[PDF：94.3KB\]](<https://www.city.anan.tokushima.jp/docs/2026110600013/file_contents/20261109-1-1.pdf>) / [阿南第二中学校管理棟屋上防水改修工事 2.図面\[PDF：917KB\]](<https://www.city.anan.tokushima.jp/docs/2026110600013/file_contents/20261109-1-2.pdf>) |
 | 徳島県 | [54\_%E5%85%A5%E6%9C%AD%E6%83%85%E5%A0%B1.pdf](<https://www.city.komatsushima.lg.jp/fs/6/4/4/4/5/3/_/54_%E5%85%A5%E6%9C%AD%E6%83%85%E5%A0%B1.pdf>) | 徳島県小松島市 | 2026-11-06 | 原文を確認 | に関する資料・ その他監督員が指示する図書(必要部数)4 5 6 工事写真の撮影は、 国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」によること | [設計図書等 (PDF 3.59MB)](<https://www.city.komatsushima.lg.jp/fs/6/4/4/4/5/2/_/54_%E8%A8%AD%E8%A8%88%E5%9B%B3%E6%9B%B8%E7%AD%89.pdf>) |
@@ -115,6 +116,5 @@
 | 高知県 | [高知市春野地域防犯灯ＬＥＤ化業務委託に係る一般競争入札（公告）](<https://www.city.kochi.kochi.jp/uploaded/attachment/182004.pdf>) | 高知県高知市 | 2026-08-18 | 2026-09-14 | また、産業廃棄物を搬出する車両について、処分場ごとに1台のみ写真撮影し、随時担当職員に報告すること | [仕様書 \[PDFファイル／216KB\]](<https://www.city.kochi.kochi.jp/uploaded/attachment/182043.pdf>) |
 | 愛媛県 | [まつやま こども・子育てサイト「にこっと」及びインスタグラム「にこっと」運用業務委託（公募型プロポーザル方式）（こどもえがお課）](<https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/nikkotositeinstagram.files/01_bosyuyoryou.pdf>) | 愛媛県松山市 | 2026-08-14 | 原文を確認 | 容や、子育て中の疑問や不安解消につながるような内容の記事を制作(企画、取材、写真撮影及び入力を含む | [02\_仕様書（別紙1）（PDF：245KB）](<https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/nikkotositeinstagram.files/02_siyousyo.pdf>) |
 | 高知県 | [令和8年度 防災安全交付金事業 町道岩丸線（岩丸橋）橋梁耐震補強工事](<https://www.town.niyodogawa.lg.jp/download/?t=LD&id=3376&fid=23786>) | 高知県仁淀川町 | 2026-08-12 | 原文を確認 | 先の名称及び所在地が計画運搬車のナンバーが写るよう運搬車後面のデジタル写真撮影をする | [金抜設計書（PDF：8.58MB）](<https://www.town.niyodogawa.lg.jp/download/?t=LD&id=3376&fid=23787>) |
-| 高知県 | [【中止】(上水第08032号)香我美町山南地区配水管更新工事（2−2工区）【7月22日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/chushikoukoku_suidou08032.pdf>) | 高知県香南市 | 2026-08-12 | 原文を確認 | ト交付番号も記載 荷姿、運搬車のナンバーが写るよう運搬車後面のデジタル写真撮影をする | [入札公告 (PDFファイル: 1.1MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_jyousui08032.pdf>) / [金抜き設計書 (PDFファイル: 406.1KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_jyousui08032.pdf>) / [公表単価一覧表 (PDFファイル: 256.9KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_jyousui08032.pdf>) / [位置図 (PDFファイル: 271.7KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_jyousui08032.pdf>) / [図面 (圧縮ファイル: 218.4KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_jyousui08032.zip>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

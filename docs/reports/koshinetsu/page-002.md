@@ -2,20 +2,24 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-12T11:41+09:00（収集時点）
+最終更新：2026-11-13T11:21+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**197件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**201件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
-## 一覧 2 / 2
+## 一覧 2 / 3
 
-[この地域の目次](README.md) ｜ [前の100件](page-001.md)
+[この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 山梨県 | [（都）加納岩小学校西通り線道路改良外（8-5工区）工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11856.pdf>) | 山梨県山梨市 | 2026-09-08 | 2026-09-15 | おいて指定機械であることを識別するラベルが確認できるように、建設機械を写真撮影し、工事写真帳に添付すること | [第一般55号 設計書 \[その他のファイル／5.85MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11847.zip>) |
+| 山梨県 | [(都)加納岩小学校西通り線水路改良外(8-6工区)工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11855.pdf>) | 山梨県山梨市 | 2026-09-08 | 2026-09-15 | おいて指定機械であることを識別するラベルが確認できるように、建設機械を写真撮影し、工事写真帳に添付すること | [第一般54号 設計書 \[その他のファイル／10.82MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11846.zip>) |
+| 長野県 | [10月1日開札（一般競争）高甫保育園照明器具LED化改修工事](<https://www.city.suzaka.nagano.jp/material/files/group/4/260908koukoku119.zip>) | 長野県須坂市 | 2026-09-08 | 2026-10-01 | また工事着手前に写真撮影計画を提出する | — |
+| 長野県 | [10月1日開札（一般競争）仁礼保育園照明器具LED化改修工事](<https://www.city.suzaka.nagano.jp/material/files/group/4/260908koukoku118.zip>) | 長野県須坂市 | 2026-09-08 | 2026-10-01 | また工事着手前に写真撮影計画を提出する | — |
 | 長野県 | [10月1日開札（一般競争）日野保育園照明器具LED化改修工事](<https://www.city.suzaka.nagano.jp/material/files/group/4/260908koukoku117.zip>) | 長野県須坂市 | 2026-09-08 | 2026-10-01 | また工事着手前に写真撮影計画を提出する | — |
 | 長野県 | [令和8年度 舗装維持工事 市道 田代3号線ほか【舗装工事Ａ・Ｂ・Ｃ級（市内本店）（支店・営業所の本店扱い含む）（一抜け方式2番）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080908_6_koukoku.files/6_1_koukoku_hosou_tasiro3.pdf>) | 長野県伊那市 | 2026-09-08 | 2026-09-29 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [特記仕様書（PDF：218KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080908_6_koukoku.files/6_3_tokki_hosou_tasiro3.pdf>) / [位置図（PDF：3,354KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080908_6_koukoku.files/6_4_itizu_hosou_tasiro3.pdf>) / [図面（PDF：213KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080908_6_koukoku.files/6_5_zumen_hosou_tasiro3.pdf>) |
 | 長野県 | [令和8年度 舗装維持工事 市道 緑ヶ丘大宮線ほか【舗装工事Ａ・Ｂ級（市内本店）（支店・営業所の本店扱い含む）（一抜け方式1番）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080908_5_koukoku.files/5_1_koukoku_hosou_midorigaokaoomiya.pdf>) | 長野県伊那市 | 2026-09-08 | 2026-09-29 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [特記仕様書（PDF：195KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080908_5_koukoku.files/5_3_tokki_hosou_midorigaokaoomiya.pdf>) / [位置図（PDF：8,120KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080908_5_koukoku.files/5_4_itizu_hosou_midorigaokaoomiya.pdf>) / [図面（PDF：295KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080908_5_koukoku.files/5_5_zumen_hosou_midorigaokaoomiya.pdf>) |
@@ -112,6 +116,5 @@
 | 長野県 | [令和7年度 手良小学校 給食調理場改修 建築工事【建築一式工事Ａ級（市内本店）（支店・営業所の本店扱い含む）（一抜け方式1番）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_1_koukoku.files/1_1_koukoku_terasyo_kyuusyoku_kentiku.pdf>) | 長野県伊那市 | 2026-07-14 | 2026-07-28 | 築構造設計基準 国土交通省大臣官房官庁営繕部監修(最新版)・ 営繕工事写真撮影要綱 国土交通省大臣官房官庁営繕部監修(最新版)・ 公共建築改修工事標準仕様書 国土交通省大臣官房官庁営繕部監修(最新版)・ 公共建築工事標準仕様書 国土交通省大臣官房官庁営繕部監修(最新版)・ 公共建築木造工事標準仕様書 国土交通省大臣官房… | [位置図（PDF：467KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_1_koukoku.files/1_4_itizu_terasyo_kyuusyoku_kentiku.pdf>) / [図面（前半）（PDF：4,510KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_1_koukoku.files/1_5_1_zumen1_terasyo_kyuusyoku_kentiku.pdf>) / [図面（後半）（PDF：3,691KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_1_koukoku.files/1_5_2_zumen2_terasyo_kyuusyoku_kentiku.pdf>) |
 | 長野県 | [令和8年度 町単道路舗装事業町道1465号線工事（令和8年7月13日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku721.pdf>) | 長野県辰野町 | 2026-07-13 | 2026-07-29 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [2 設計書 (PDFファイル: 29.3KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo721.pdf>) / [3 特記仕様書 (PDFファイル: 172.8KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo721.pdf>) / [5 位置図 (PDFファイル: 121.8KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/05_itizu721.pdf>) / [6 図面 (PDFファイル: 60.8KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/06_zumen721.pdf>) / [7 工事内訳書 (Excelファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/07_utiwake721.xls>) |
 | 長野県 | [令和8年度 小野旭配水池送配水管布設替工事（令和8年7月13日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku713.pdf>) | 長野県辰野町 | 2026-07-13 | 2026-07-29 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [2 設計書 (PDFファイル: 607.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo713.pdf>) / [3 特記仕様書 (PDFファイル: 177.8KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyou713.pdf>) / [5 代価表 (PDFファイル: 2.0MB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/05_daikahyo713.pdf>) / [6 図面 (PDFファイル: 313.8KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/06_zumen713.pdf>) / [7 工事内訳書 (Excelファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/07_utiwake713.xls>) |
-| 長野県 | [（8.7.13公告）令和8年度 上山田文化会館非常用電源装置更新工事(PDFファイル:292.9KB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080728-01.pdf>) | 長野県千曲市 | 2026-07-13 | 原文を確認 | ・受注者は、完成写真の撮影者との契約にあたって、以下の事項を条件とすること | [図面等(PDFファイル:1.5MB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080728-03.pdf>) |
 
-[この地域の目次](README.md) ｜ [前の100件](page-001.md)
+[この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

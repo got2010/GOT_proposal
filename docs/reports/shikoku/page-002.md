@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-12T11:41+09:00（収集時点）
+最終更新：2026-11-13T11:21+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：徳島県 香川県 愛媛県 高知県
 
-**157件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**158件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 高知県 | [【中止】(上水第08032号)香我美町山南地区配水管更新工事（2−2工区）【7月22日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/chushikoukoku_suidou08032.pdf>) | 高知県香南市 | 2026-08-12 | 原文を確認 | ト交付番号も記載 荷姿、運搬車のナンバーが写るよう運搬車後面のデジタル写真撮影をする | [入札公告 (PDFファイル: 1.1MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_jyousui08032.pdf>) / [金抜き設計書 (PDFファイル: 406.1KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_jyousui08032.pdf>) / [公表単価一覧表 (PDFファイル: 256.9KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_jyousui08032.pdf>) / [位置図 (PDFファイル: 271.7KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_jyousui08032.pdf>) / [図面 (圧縮ファイル: 218.4KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_jyousui08032.zip>) |
 | 高知県 | [(建第08099号)新道地区6・7号水路改修工事【8月12日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_kendai08099.pdf>) | 高知県香南市 | 2026-08-12 | 2026-08-31 | 数を用いて体積を算出して設計数量を バーが写るよう運搬車後面のデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 419.5KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_kendai08099.pdf>) / [公表単価一覧表 (PDFファイル: 44.0KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_kendai08099.pdf>) / [数量計算書 (PDFファイル: 1.9MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/suryou_kendai08099.pdf>) / [位置図 (PDFファイル: 975.0KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_kendai08099.pdf>) / [図面 (PDFファイル: 5.6MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_kendai08099.pdf>) |
 | 愛媛県 | [松山市長選挙投票率向上プロジェクト業務委託（公募型プロポーサル方式）](<https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/R8sennkyo.files/1-bosyuuyouryou.pdf>) | 愛媛県松山市 | 2026-08-12 | 原文を確認 | 2.委託業務概要(1)Youtubeを活用した啓発動画制作および配信・期日前投票および当日投票の2種類の15秒動画とし、選挙とキャンペーン両方を周知するものであること | [仕様書（別紙1）（PDF：277KB）](<https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/R8sennkyo.files/2-siyousyo.pdf>) |
 | 香川県 | [札所寺院の史跡指定に係る道隆寺詳細調査業務の一般競争入札について](<https://www.pref.kagawa.lg.jp/documents/62932/koukoku.pdf>) | 香川県 | 2026-08-10 | 2026-09-08 | 務内容対象とする文化財について、各分野の専門的見地に基づく調査を行い、写真撮影や図面作成等を行う | [仕様書（PDF：155KB）](<https://www.pref.kagawa.lg.jp/documents/62932/shiyousyo.pdf>) |
