@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-13T11:21+09:00（収集時点）
+最終更新：2026-11-14T10:58+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**540件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**544件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 6
 
@@ -16,6 +16,10 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 東京都 | [令和9年度「広報としま特集版」発行業務委託のプロポーザルを実施します](<https://www.city.toshima.lg.jp/documents/58148/kohotoshima_bosyuyoko.pdf>) | 東京都豊島区 | 2026-10-20 | 2026-12-02 | 3取材・原稿作成乙は紙面作成に必要な取材および写真撮影を行い、紙面の内容構成、原稿案を作成する | [(別紙)令和9年度「広報としま特集版」発行業務委託仕様書（PDF：302KB）](<https://www.city.toshima.lg.jp/documents/58148/kohotoshima_siyousyo.pdf>) |
+| 神奈川県 | [新宿会館建具改修工事](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_sinjukukaikantategu.pdf>) | 神奈川県逗子市 | 2026-10-20 | 2026-11-04 | (工事写真)第9条 受注者は、工事中の写真を撮影し、工事着手前、施工中、完成時の工程順に整理編集し、工事完了後写真帳(デジタルカメラ可)を提出すること | [02\_図面一式 （PDF 9.8 MB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8zumen_sinjukukaikantategu.pdf>) / [03\_設計書 （Excel 302.0 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8utiwake_sinjukukaikantategu.xls>) / [01\_仕様書 （PDF 476.8 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8siyo_sinjukukaikantategu.pdf>) |
+| 茨城県 | [2026年度-2028年度課題別研修「稲作技術向上（普及員）」に係る研修委託契約（420KB）](<https://www.jica.go.jp/about/announce/domestic/02/06/__icsFiles/afieldfile/2026/10/20/koji_20261020.pdf>) | 独立行政法人国際協力機構JICA筑波 | 2026-10-20 | 2026-11-26 | 備・確認、ポータルサイト等へのアップロード(遠隔研修の場合) ケ.講義映像の録画、編集、校閲、ポータルサイト等へのアップロード(遠隔研修の場合) コ.インターネットを活用した双方向型のコミュニケーション方法の検討、研修員への周知、補助(遠隔研修の場合) サ.インターネット上のコミュニケーションツールを活用したワークショ… | — |
+| 埼玉県 | [学校給食センター空調設備設置工事](<https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27029/koukoku.pdf>) | 埼玉県宮代町 | 2026-10-19 | 2026-11-12 | (6)改修工事等を施工する場合、施工する前後に工事対象箇所の写真撮影を 行う | [意匠図（学校給食センター空調設備設置工事） (PDF形式、3.96MB)](<https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27029/isyou.pdf>) / [構造図（学校給食センター空調設備設置工事）(PDF形式、166.44KB)](<https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27029/kouzou.pdf>) / [電気設備図（学校給食センター空調設備設置工事） (PDF形式、903.69KB)](<https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27029/denki.pdf>) / [機械設備図（学校給食センター空調設備設置工事） (PDF形式、1.79MB)](<https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27029/kikai.pdf>) |
 | 茨城県 | [消防本部東消防署新築工事](<https://www.city.kasumigaura.lg.jp/data/doc/1792393610_doc_203_0.pdf>) | 茨城県かすみがうら市 | 2026-10-19 | 2026-11-18 | 工事写真の撮影方法は、国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領(令和5年版)による工事写真撮影ガイドブック 機械設備工事編 令和5年版」を参考とする | [いばらき電子入札](<https://ebid.cals-ibaraki.lg.jp/CALS/Accepter/index.jsp>) / [システム](<https://ebid.cals-ibaraki.lg.jp/CALS/Accepter/index.jsp>) / [意匠図](<https://www.city.kasumigaura.lg.jp/data/doc/1792054676_doc_203_0.pdf>) / [構造図](<https://www.city.kasumigaura.lg.jp/data/doc/1792054679_doc_203_0.pdf>) / [電気設備図](<https://www.city.kasumigaura.lg.jp/data/doc/1792054684_doc_203_0.pdf>) |
 | 茨城県 | [【電子入札】【電子契約】情報交流棟北ウイング地階電気室東側扉改修工事](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03938.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-10-19 | 2026-11-17 | c 工事写真 1部原則として国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」の最新版に従い撮影及び整理を行うものとする | — |
 | 茨城県 | [【電子入札】【電子契約】圧空設備分解整備作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03994.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-10-19 | 2026-12-11 | 2.10 作業報告書及び写真撮影(1) 作業報告書1 作業結果の各項目、測定結果に対して、異常の有無の判定を記載すること | — |
@@ -112,9 +116,5 @@
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（コンフォール南浦和団地他２団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44083_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1499KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44083_3.pdf>) / [仕様書\[22089KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44083_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（コンフォール西本郷団地他１団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44084_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1499KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44084_3.pdf>) / [仕様書\[20282KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44084_4.pdf>) |
 | 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（アーバンみらい東大宮東一番街団地他１団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44086_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1495KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44086_3.pdf>) / [仕様書\[21340KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44086_4.pdf>) |
-| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（浦和白幡団地他２団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44087_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1503KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44087_3.pdf>) / [仕様書\[23410KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44087_4.pdf>) |
-| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（コンフォール与野本町西団地他４団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44088_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1506KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44088_3.pdf>) / [仕様書\[26563KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44088_4.pdf>) |
-| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（プラザシティ新所沢けやき通り団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44093_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[18958KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44093_3.pdf>) / [仕様書\[18659KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44093_4.pdf>) |
-| 東京都 | [【ＵＲコミュニティ】ＵＲ賃貸住宅団地内一般清掃等業務（西大和団地他４団地） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44094_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（埼玉地域） | 2026-09-17 | 2026-12-02 | -1-102-83-54-350技術提案書本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[19084KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44094_3.pdf>) / [仕様書\[27227KB\]](<https://www.ur-net.go.jp/orders/saitama/pdf/order_44094_4.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

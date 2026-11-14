@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-13T11:21+09:00（収集時点）
+最終更新：2026-11-14T10:58+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**249件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**255件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,12 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 広島県 | [令和８年度広島市マンション実態調査業務](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640090800101.pdf>) | 広島県広島市 | 2026-08-04 | 2027-02-12 | ンションへ訪問し、管理組合の代表等に対し面談調査を行うとともに、外観の撮影を行う | [03 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640090800103.pdf>) |
+| 広島県 | [一般競争入札（旧廿日市市清掃センター解体工事）](<https://www.city.hatsukaichi.hiroshima.jp/uploaded/attachment/92762.pdf>) | 広島県廿日市市 | 2026-08-04 | 原文を確認 | キシン類の測定(汚染物のサンプリング調査箇所)、結果の記録、除去前後の写真撮影、評価記録を作成すること | [令和8年7月16日開札分 \[PDFファイル／41KB\]](<https://www.city.hatsukaichi.hiroshima.jp/uploaded/attachment/95486.pdf>) / [入札説明書（事後審査型）共通説明書 \[PDFファイル／207KB\]](<https://www.city.hatsukaichi.hiroshima.jp/uploaded/attachment/92815.pdf>) / [発注仕様書 \[PDFファイル／16.34MB\]](<https://www.city.hatsukaichi.hiroshima.jp/uploaded/attachment/92743.pdf>) / [添付資料1-1～7 \[その他のファイル／24.51MB\]](<https://www.city.hatsukaichi.hiroshima.jp/uploaded/attachment/92816.zip>) / [添付資料8-1図面 \[その他のファイル／23.03MB\]](<https://www.city.hatsukaichi.hiroshima.jp/uploaded/attachment/92502.zip>) |
+| 広島県 | [皆実雨水排水ポンプ場機械設備工事（8-1）](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/165588.pdf>) | 広島県三原市 | 2026-08-04 | 2026-08-27 | なお施工前、溶接完了時、施工後それぞれの状態で監督員の検査を受け、写真撮影する | [仕様書等](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/165589.pdf>) |
+| 広島県 | [入札公告の取消し「通信施設除草等業務委託」（令和8年7月31日～令和8年8月10日）](<https://www.chugokushikoku.npa.go.jp/kaikei/ippan/file/okayama/okayama-nk080731.pdf>) | 国家公安委員会（警察庁）中国四国管区警察局 | 2026-08-04 | 原文を確認 | (特定資料並びに特定物件の複製及び写真撮影)第6条 競争参加業者は、主たる契約に定められている場合を除き、特定資料を 複製し又は特定物件の見取図、試験成績表等の製作若しくは写真撮影をしよう とするときは、あらかじめ発注者の許可を受けるものとする | — |
+| 広島県 | [入札公告の取消し「通信施設除草等業務委託」（令和8年7月31日～令和8年8月10日）](<https://www.chugokushikoku.npa.go.jp/kaikei/ippan/file/okayama/okayama-nk080731.pdf>) | 国家公安委員会（警察庁）中国管区警察局 | 2026-08-04 | 原文を確認 | (特定資料並びに特定物件の複製及び写真撮影)第6条 競争参加業者は、主たる契約に定められている場合を除き、特定資料を 複製し又は特定物件の見取図、試験成績表等の製作若しくは写真撮影をしよう とするときは、あらかじめ発注者の許可を受けるものとする | — |
+| 山口県 | [『山陽小野田市小型自動車競走事業包括的民間委託業務』の受託業者を募集します（公募型プロポーザル）](<https://www.city.sanyo-onoda.lg.jp/uploaded/attachment/76247.pdf>) | 山口県山陽小野田市 | 2026-08-03 | 2026-08-28 | 設案内、交通アクセス案内発信などク CS放送中継業務・CS放送におけるテレビ番組制作全般・映像機器類の操作、調整、保守及びトラブル対応・レース実況放送、選手インタビュー・各種案内、テロップ作成及び放送・放送室、記者室の運用及び維持管理・場外発売場等への実況放送送信・緊急時の場内音声放送ケ 場内モニター保守管理業務・場内… | — |
 | 広島県 | [農業集落排水事業原東処理区機械装置更新工事（その２）](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/28909.pdf>) | 広島県北広島町 | 2026-07-31 | 2026-08-31 | 2.工事記録写真撮影(1) 工事の施工順序に従い、監督職員の指示又は必要に応じて記録写真を整備し、工事完了後提出しなければならない | [仕様書](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/28910.pdf>) / [設計図面](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/28911.pdf>) / [最低制限価格の算定上での「スクラップ控除」の取り扱いについて](<https://www.town.kitahiroshima.lg.jp/uploaded/attachment/28912.pdf>) |
 | 広島県 | [【公募型プロポーザル】湯来町「滝パンフレット」制作業務](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/052/163/01.pdf>) | 広島県広島市 | 2026-07-31 | 2026-08-21 | 10(3) 撮影、デザイン及び編集ア 撮影及びパンフレットに関するコンセプトが、選定された滝の特徴及び湯来町の豊かな自然環境を効果的に表現できるものとなっているか | [05 （別紙）受託候補者特定基準 （PDF 156.2KB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/052/163/05.pdf>) / [06 基本仕様書 （PDF 295.6KB）](<https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/052/163/06.pdf>) |
 | 広島県 | [汚水管埋設（8-20-1）工事](<https://www.city.fuchu.hiroshima.jp/material/files/group/11/05_osuikanmaisetu8-20-1.pdf>) | 広島県府中市 | 2026-07-31 | 2026-08-21 | 事記録写真1. 請負者は、「広島県土木工事共通仕様書」に従って工事記録写真を撮影すること | [PDF](<https://www.city.fuchu.hiroshima.jp/material/files/group/11/5osuikan8201siyousyo.pdf>) / [PDF](<https://www.city.fuchu.hiroshima.jp/material/files/group/11/5osuikan8201zumen.pdf>) |
