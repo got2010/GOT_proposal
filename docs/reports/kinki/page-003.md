@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-16T10:32+09:00（収集時点）
+最終更新：2026-11-17T13:18+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**243件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**245件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 京都府 | [桃山山腹工事](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/260805_momoyama.html>) | 林野庁近畿中国森林管理局京都大阪森林管理事務所 | 2026-08-05 | 2026-10-02 | 黒板情報の電子的記入 受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [入札公告(PDF : 205KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/attach/pdf/260805_momoyama-1.pdf>) / [入札説明書(PDF : 3,019KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/attach/pdf/260805_momoyama-2.pdf>) / [閲覧図書(PDF : 3,131KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/attach/pdf/260805_momoyama-3.pdf>) |
+| 京都府 | [令和8年度女性担い手育成事業研修旅行業務に係る一般競争入札の実施について](<https://www.pref.kyoto.jp/josei/news/r8joseininaiteikuseinyuusatsu.html>) | 京都府 | 2026-08-04 | 2026-08-18 | 見交換会 ・スタッフの指示に従い、研修運営の支援、片付け・終了後、集合写真撮影18:00-18:30 研修会場~宿泊施設 ・観光バスで移動18:30-20:00 夕食 ・参加者誘導(2)令和8年12月13日(日)時間(予定) 行程 備考8:20-9:20 朝食 ・参加者誘導9:20-10:13 宿泊施設~西舞鶴駅 ・観… | [入札公告（PDF：223KB）](<https://www.pref.kyoto.jp/josei/news/documents/01koukoku.pdf>) / [入札説明書（PDF：251KB）](<https://www.pref.kyoto.jp/josei/news/documents/02nyuusatsusetsumei.pdf>) / [〈封筒作成例〉（PDF：56KB）](<https://www.pref.kyoto.jp/josei/news/documents/14futorei.pdf>) / [仕様書（PDF：299KB）](<https://www.pref.kyoto.jp/josei/news/documents/17shiyousho_1.pdf>) |
 | 京都府 | [一般競争入札のお知らせ（令和８年度主伐・再造林一貫作業実施業務（埴生事業地））](<https://www.pref.kyoto.jp/rinmu/fuyurin/nyuusatu_habu.html>) | 京都府 | 2026-08-03 | 2026-08-25 | 業終了後には実施状況や出来形数量等が確認できない部分を中心に作業状況を写真撮影する | [(1)入札公告（PDF：247KB）](<https://www.pref.kyoto.jp/rinmu/fuyurin/documents/01nyuusatsukoukoku_habu.pdf>) / [(2)入札説明書（PDF：224KB）](<https://www.pref.kyoto.jp/rinmu/fuyurin/documents/02nyuusatsusetsumeisyo_habu.pdf>) / [(4)位置図（PDF：169KB）](<https://www.pref.kyoto.jp/rinmu/fuyurin/documents/04ichizu_habu.pdf>) / [(5)閲覧設計書（PDF：362KB）](<https://www.pref.kyoto.jp/rinmu/fuyurin/documents/05etsurannsekkeisyo_habu.pdf>) / [(6)図面（PDF：2,070KB）](<https://www.pref.kyoto.jp/rinmu/fuyurin/documents/06zumenn_habu.pdf>) |
 | 京都府 | [避難所運営資機材（間仕切りテント）の購入について](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/433230.htm>) | 京都府京都市 | 2026-08-03 | 2026-09-10 | (5)納品先施設管理者による納品確認及び納品状況の写真撮影ア 納品時には、納品先施設管理者等による納品確認及び納品書への記名を受けること | [入札公告](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./433230_01_07301517.pdf>) / [入札説明書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./433230_02_07301517.pdf>) / [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./433230_03_07301517.pdf>) |
 | 奈良県 | [奈良教育大学（高畑）新館３号棟改修機械設備工事](<https://www.nara-ni.ac.jp/wp-content/uploads/2026/07/siryo_edu_Takabatake_Kikai.zip>) | 国立大学法人奈良国立大学機構 | 2026-07-31 | 2026-09-15 | なお,本項に規定していない事項は「工事写真撮影要領(文部科学省大臣官房文教施設企画・防災部参事官)」に準ずる | [sankouzu\_edu\_Takabatake\_Kikai.zip](<https://www.nara-ni.ac.jp/wp-content/uploads/2026/07/sankouzu_edu_Takabatake_Kikai.zip>) |

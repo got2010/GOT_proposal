@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-16T10:32+09:00（収集時点）
+最終更新：2026-11-17T13:18+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**243件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**245件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 大阪府 | [UR賃貸住宅団地内一般清掃等業務（花園団地）（京都住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44115_1.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1661KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44115_3.pdf>) / [仕様書\[1444KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44115_4.pdf>) |
+| 大阪府 | [UR賃貸住宅団地内一般清掃等業務（保津川団地）（京都住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44116_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1661KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44116_3.pdf>) / [仕様書\[1775KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44116_4.pdf>) |
 | 大阪府 | [UR賃貸住宅団地内一般清掃等業務（西大和星和台団地他1団地）（奈良住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44117_1.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1683KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44117_3.pdf>) / [仕様書\[2011KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44117_4.pdf>) |
 | 大阪府 | [UR賃貸住宅団地内一般清掃等業務（橿原団地）（奈良住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44118_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1677KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44118_3.pdf>) / [仕様書\[1694KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44118_4.pdf>) |
 | 大阪府 | [UR賃貸住宅団地内一般清掃等業務（逆瀬川団地）（阪神住まいセンター） （令和8年9月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44129_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-09-17 | 2026-12-02 | 18 様式4-711020本提案を行う場合は、巡回時の写真撮影並びに巡回時の清掃作業実施状況の確認及び業務従事者に対する指示・伝達内容に関する実施報告書の作成を行っていただきます | [入札説明書等\[1649KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44129_3.pdf>) / [仕様書\[1723KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44129_4.pdf>) |
@@ -114,7 +116,5 @@
 | 大阪府 | [令和７年度（繰越）吉野熊野国立公園天神崎園地四阿整備工事【再公告】](<https://kinki.env.go.jp/content/000420792.pdf>) | 環境省近畿地方環境事務所 | 2026-08-06 | 2026-09-11 | (原本及びアルバム)については、原則デジタル写真とし、仕様は「営繕工事写真撮影要領(国土交通省大臣官房官庁営繕部制定)」によるものとする | [別添１\_入札心得\[PDF 259KB\]](<https://kinki.env.go.jp/content/000420782.pdf>) / [契約書（案）\[PDF 322KB\]](<https://kinki.env.go.jp/content/000420785.pdf>) / [現場説明書\[PDF 392KB\]](<https://kinki.env.go.jp/content/000420786.pdf>) / [特記仕様書・図面\[PDF 2.6MB\]](<https://kinki.env.go.jp/content/000420797.pdf>) / [積算参考資料（金抜き）\[Excel 119KB\]](<https://kinki.env.go.jp/content/000420788.xlsx>) |
 | 京都府 | [令和8年8月5日公告分運転免許更新等予約登録システムの賃貸借に係る入札公告等](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/080501menkyo.pdf>) | 国家公安委員会（警察庁）京都府警察 | 2026-08-05 | 原文を確認 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | [入札説明書（PDF：126KB）](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/080502menkyo.pdf>) / [仕様書（PDF：252KB）](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/080503menkyo.pdf>) |
 | 京都府 | [kou12-koukoku.pdf](<https://www.kaiho.mlit.go.jp/08kanku/nyuusatu/tenpu/R8/kouji_fune/kou12/kou12-koukoku.pdf>) | 海上保安庁第八管区海上保安本部 | 2026-08-05 | 2026-09-04 | (1) 工事完成後に視認できない箇所は、工事の進捗につれて写真撮影を行う | [入札説明書](<https://www.kaiho.mlit.go.jp/08kanku/nyuusatu/tenpu/R8/kouji_fune/kou12/kou12-nyuusetu.pdf>) / [仕様書](<https://www.kaiho.mlit.go.jp/08kanku/nyuusatu/tenpu/R8/kouji_fune/kou12/kou12-siyousyo.pdf>) |
-| 京都府 | [桃山山腹工事](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/260805_momoyama.html>) | 林野庁近畿中国森林管理局京都大阪森林管理事務所 | 2026-08-05 | 2026-10-02 | 黒板情報の電子的記入 受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [入札公告(PDF : 205KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/attach/pdf/260805_momoyama-1.pdf>) / [入札説明書(PDF : 3,019KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/attach/pdf/260805_momoyama-2.pdf>) / [閲覧図書(PDF : 3,131KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/attach/pdf/260805_momoyama-3.pdf>) |
-| 京都府 | [令和8年度女性担い手育成事業研修旅行業務に係る一般競争入札の実施について](<https://www.pref.kyoto.jp/josei/news/r8joseininaiteikuseinyuusatsu.html>) | 京都府 | 2026-08-04 | 2026-08-18 | 見交換会 ・スタッフの指示に従い、研修運営の支援、片付け・終了後、集合写真撮影18:00-18:30 研修会場~宿泊施設 ・観光バスで移動18:30-20:00 夕食 ・参加者誘導(2)令和8年12月13日(日)時間(予定) 行程 備考8:20-9:20 朝食 ・参加者誘導9:20-10:13 宿泊施設~西舞鶴駅 ・観… | [入札公告（PDF：223KB）](<https://www.pref.kyoto.jp/josei/news/documents/01koukoku.pdf>) / [入札説明書（PDF：251KB）](<https://www.pref.kyoto.jp/josei/news/documents/02nyuusatsusetsumei.pdf>) / [〈封筒作成例〉（PDF：56KB）](<https://www.pref.kyoto.jp/josei/news/documents/14futorei.pdf>) / [仕様書（PDF：299KB）](<https://www.pref.kyoto.jp/josei/news/documents/17shiyousho_1.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

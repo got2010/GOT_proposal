@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-16T10:32+09:00（収集時点）
+最終更新：2026-11-17T13:18+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**205件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**206件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 山梨県 | [下石森・上石森地内配水管布設替工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11861.pdf>) | 山梨県山梨市 | 2026-09-08 | 2026-09-15 | 整備事業 山梨西部地区(2工区)運搬距離:4.4km2)残土処理置場の写真を撮影し、工事完成写真に添付するものとする | [第一般60号 設計書 \[その他のファイル／4.26MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11852.zip>) |
 | 山梨県 | [小原西地内配水管布設替(その2)工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11860.pdf>) | 山梨県山梨市 | 2026-09-08 | 2026-09-15 | おいて指定機械であることを識別するラベルが確認できるように、建設機械を写真撮影し、工事写真綴りに添付すること | [第一般59号 設計書 \[その他のファイル／5MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11851.zip>) |
 | 山梨県 | [北地内配水管布設替工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11859.pdf>) | 山梨県山梨市 | 2026-09-08 | 2026-09-15 | 整備事業 山梨西部地区(2工区)運搬距離:4.5km2)残土処理置場の写真を撮影し、工事完成写真に添付するものとする | [第一般58号 設計書 \[その他のファイル／4.76MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11850.zip>) |
 | 山梨県 | [橋梁長寿命化 赤の浦橋補修工事（明許）](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11858.pdf>) | 山梨県山梨市 | 2026-09-08 | 2026-09-15 | おいて指定機械であることを識別するラベルが確認できるように、建設機械を写真撮影し、工事写真帳に添付すること | [第一般57号 設計書 \[その他のファイル／3.14MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11849.zip>) |
@@ -115,6 +116,5 @@
 | 新潟県 | [5(319)綱木処理場機能強化対策工事](<https://www.town.aga.niigata.jp/material/files/group/3/08-319.xls>) | 新潟県阿賀町 | 2026-07-15 | 2026-07-23 | (3) 工事記録写真撮影1.工事の施工順序に従い、監督職員の指示または必要に応じて記録写真を整備し、工事 完了後提出しなければならない | [5(319)設計図書 (PDFファイル: 3.4MB)](<https://www.town.aga.niigata.jp/material/files/group/3/0800728-319.pdf>) |
 | 長野県 | [3 保育所施設整備事業 城下保育園長寿命化工事](<https://www.city.ueda.nagano.jp/uploaded/attachment/83727.pdf>) | 長野県上田市 | 2026-07-14 | 2026-07-30 | 誌へ記録する書類及び使用した資料等を整理するとともに、随時、実施状況の写真を撮影すること | [設計書 \[PDFファイル／140KB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/83730.pdf>) / [設計図 \[PDFファイル／635KB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/83732.pdf>) |
 | 長野県 | [令和8年度 富県小学校 老朽化対策等改修工事 実施設計業務委託【建築コンサルタント（一級・二級建築士2名以上）（市内本店）（一抜け方式3番）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_7_koukoku.files/7_1_koukoku_tomigata_kaisyuu_jissisekkei.pdf>) | 長野県伊那市 | 2026-07-14 | 2026-07-28 | (エ) 透視図作成(CG 着色パース、A3 判、外観〇面、内観〇面) (オ) 簡易な透視図作成(計画段階の確認用及び色決め用程度) (カ) 石綿含有事前調査箇所:5箇所程度 (キ) 窓枠シーリング材 PCB 含有検査(試料採取及び分析)〇箇所 (ク) 照明器具安定器、変圧器・コンデンサー PCB 含有検査(試料採取及び… | [特記仕様書（PDF：233KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_7_koukoku.files/7_3_tokki_tomigata_kaisyuu_jissisekkei.pdf>) / [業務委託に関する参考資料（PDF：83KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_7_koukoku.files/7_4_siryou_tomigata_kaisyuu_jissisekkei.pdf>) / [位置図（PDF：1,337KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_7_koukoku.files/7_5_itizu_tomigata_kaisyu_jissisekkei.pdf>) / [配置図（PDF：55KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_7_koukoku.files/7_6_haitizu_tomigata_kaisyu_jissisekkei.pdf>) |
-| 長野県 | [令和8年度 伊那北小学校 老朽化対策等改修工事 実施設計業務委託【建築コンサルタント（一級・二級建築士2名以上）（市内本店）（一抜け方式2番）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_6_koukoku.files/6_1_koukoku_inakita_kaisyuu_jissisekkei.pdf>) | 長野県伊那市 | 2026-07-14 | 2026-07-28 | (エ) 透視図作成(CG 着色パース、A3 判、外観〇面、内観〇面) (オ) 簡易な透視図作成(計画段階の確認用及び色決め用程度) (カ) 石綿含有事前調査箇所:5箇所程度 (キ) 窓枠シーリング材 PCB 含有検査(試料採取及び分析)〇箇所 (ク) 照明器具安定器、変圧器・コンデンサー PCB 含有検査(試料採取及び… | [特記仕様書（PDF：234KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_6_koukoku.files/6_3_tokki_inakita_kaisyu_jissisekkei.pdf>) / [業務委託に関する参考資料（PDF：84KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_6_koukoku.files/6_4_siryou_inakita_kaisyu_jissisekkei.pdf>) / [業務委託仕様書（PDF：105KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_6_koukoku.files/6_5_itaku_inakita_kaisyu_jissisekkei.pdf>) / [調査方法及び判断基準（PDF：298KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_6_koukoku.files/6_6_kijun_inakita_kaisyu_jissisekkei.pdf>) / [位置図（PDF：1,292KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_6_koukoku.files/6_7_itizu_inakita_kaisyu_jissisekkei.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

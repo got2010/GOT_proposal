@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-16T10:32+09:00（収集時点）
+最終更新：2026-11-17T13:18+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**544件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**545件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 6
 
@@ -52,6 +52,7 @@
 | 東京都 | [2027（令和９）年国民生活基礎調査マニュアル動画・広報用動画改修業務一式](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 厚生労働省 | 2026-08-05 | 2026-09-09 | 2027(令和9)年国民生活基礎調査マニュアル動画・広報用動画改修業務一式 | — |
 | 東京都 | [緊急地震速報20周年映像資料の制作](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-29 | 2026-08-19 | 緊急地震速報20周年映像資料の制作 | — |
 | 東京都 | [令和７年度新宿御苑日本館御殿工事（Ⅰ）展示映像撮影業務（総合評価落札方式）](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 環境省 | 2026-07-23 | 2026-08-05 | 令和7年度新宿御苑日本館御殿工事(I)展示映像撮影業務(総合評価落札方式) | — |
+| 東京都 | [2026.11.16\_東京科学大学病院薬剤部支援業務 一式](<https://www.tmd.ac.jp/archive-tmdu/medkanri/%E2%96%B62026.11.16_%E6%9D%B1%E4%BA%AC%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E8%96%AC%E5%89%A4%E9%83%A8%E6%94%AF%E6%8F%B4%E6%A5%AD%E5%8B%99%20%E4%B8%80%E5%BC%8F.pdf>) | 国立大学法人東京科学大学 | 2026-11-16 | 原文を確認 | 教育研究評議会学長選考・監察会議広報誌・刊行物広報誌・刊行物トップ大学紹介動画大学紹介動画トップ大学紹介動画キャンパスライフ編留学制度編多職種連携教育編学長×医学部学生懇談学長×歯学部学生懇談東京医科歯科大学の歴史大学概要(冊子)統合報告書広報誌広報誌トップ広報誌「Bloom! 医科歯科大」英語版広報誌「TMDU AN… | — |
 | 東京都 | [国立大洲青少年交流の家 汚水処理施設中空糸膜交換](<https://www.niye.go.jp/wp-content/uploads/2026/11/20261113_%E5%A4%A7%E6%B4%B2%E6%A9%9F%E6%A2%B001.pdf>) | 独立行政法人国立青少年教育振興機構 | 2026-11-13 | 2026-12-23 | なお、本項に規定していない事項は「工事写真撮影要領(文部科学省大臣官房文教施設企画・防災部参事官)」に準ずる | [入札説明書（PDF/1MB）](<https://www.niye.go.jp/wp-content/uploads/2026/11/20261113_%E5%A4%A7%E6%B4%B2%E6%A9%9F%E6%A2%B002.pdf>) / [設計図書（PDF/2MB）](<https://www.niye.go.jp/wp-content/uploads/2026/11/20261113_%E5%A4%A7%E6%B4%B2%E6%A9%9F%E6%A2%B003.pdf>) |
 | 千葉県 | [（RE-14672）高崎地区中央変電所ガスタービン発電機修繕工事【掲載期間：2026年11月13日～2026年12月3日】](<https://www.qst.go.jp/uploaded/attachment/54099.pdf>) | 国立研究開発法人量子科学技術研究開発機構本部・放射線医学総合研究所 | 2026-11-13 | 2026-12-04 | (f)写真は撮影箇所及び作業内容を表示すること | [仕様書 \[PDFファイル／1.15MB\]](<https://www.qst.go.jp/uploaded/attachment/54100.pdf>) |
 | 千葉県 | [（RE-14921）総合管理棟等放送設備改修工事【掲載期間：2026年11月13日～2026年12月3日】](<https://www.qst.go.jp/uploaded/attachment/54098.pdf>) | 国立研究開発法人量子科学技術研究開発機構本部・放射線医学総合研究所 | 2026-11-13 | 2026-12-04 | (e) 装丁写真は撮影箇所及び作業内容を表示すること | [仕様書 \[PDFファイル／365KB\]](<https://www.qst.go.jp/uploaded/attachment/54097.pdf>) |
@@ -115,6 +116,5 @@
 | 東京都 | [Ｒ９ー城北住まいセンター消防用設備点検等業務 （令和8年10月22日）](<https://www.ur-net.go.jp/orders/east/pdf/order_44305_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部 | 2026-10-22 | 2027-01-27 | に規定する消防設備士でなくても行える軽微な整備ホ 記録方法については、写真撮影(着手前後)による記録も行う | [仕様書\[14055KB\]](<https://www.ur-net.go.jp/orders/east/pdf/order_44305_4.pdf>) |
 | 東京都 | [Ｒ９ー千葉西住まいセンター消防用設備点検等業務 （令和8年10月22日）](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44304_2.pdf>) | 独立行政法人都市再生機構東日本賃貸住宅本部（千葉地域） | 2026-10-22 | 2027-01-27 | に規定する消防設備士でなくても行える軽微な整備ホ 記録方法については、写真撮影(着手前後)による記録も行う | [仕様書\[15197KB\]](<https://www.ur-net.go.jp/orders/chiba/pdf/order_44304_4.pdf>) |
 | 埼玉県 | [【10月21日公告】今宿雨水管人孔部改築工事（第3工区）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202610211.files/8-607_koukoku.pdf>) | 埼玉県狭山市 | 2026-10-21 | 原文を確認 | 1 工事概要2 職務分担および緊急時の連絡体制3 工事記録写真撮影計画4 実施工程表5 工法6 主要機械7 主要資材8 材料設計および水理性能評価9 材料品質証明の内容10 施工管理11 品質管理12 環境対策13 安全・衛生管理14 材料の製造から使用までの保管期間と保管方法15 材料の運搬方法16 工事記録等の管理… | [入札説明書（PDF・65KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202610211.files/8-607-1_nyuusatusetumeisyo.pdf>) / [位置図（PDF・446KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202610211.files/8-607-2_itizu.pdf>) / [仕様書（PDF・189KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202610211.files/8-607-3_siyousyo.pdf>) / [特記仕様書（更生工事）（PDF・130KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202610211.files/8-607-4_tokkisiyousyo_kousei.pdf>) / [特記仕様書（PDF・109KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202610211.files/8-607-5_tokkisiyousyo.pdf>) |
-| 茨城県 | [（RE-12787）JT-60実験棟空調機AC-101冷水コイル他補修工事【掲載期間：2026-10-21～2026-11-10】](<https://www.qst.go.jp/uploaded/attachment/53576.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-10-21 | 2026-12-03 | デジタルカメラで撮影する場合は、国土交通省が定めた「営繕工事写真撮影要領」有効画素数100~300万画素数程度の仕様とする | [仕様書 \[PDFファイル／4.75MB\]](<https://www.qst.go.jp/uploaded/attachment/53577.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)
