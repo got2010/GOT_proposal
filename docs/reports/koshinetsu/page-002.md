@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-17T13:18+09:00（収集時点）
+最終更新：2026-11-18T12:19+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**206件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**208件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 新潟県 | [遭埼行者礁照射灯災害復旧工事](<https://www.kaiho.mlit.go.jp/09kanku/soumubu/nyuusatu/koukoku/R8nendo/r8_keiri_c15_koukoku.pdf>) | 海上保安庁第九管区海上保安本部 | 2026-09-10 | 2026-10-14 | 3.完成時の写真撮影については、原則として竣工時に家具等が全て整った段階する | [仕様書](<https://www.kaiho.mlit.go.jp/09kanku/soumubu/nyuusatu/siyousyo/R8nendo/r8_keiri_c15_shiyousyo.pdf>) / [入札説明書](<https://www.kaiho.mlit.go.jp/09kanku/soumubu/nyuusatu/nyuusatusetumeisyo/ippankyousou/R8nendo/r8_keiri_c15_setumeisyo.pdf>) / [パンフレット（内訳書について）](<https://www.kaiho.mlit.go.jp/09kanku/soumubu/nyuusatu/nyuusatusetumeisyo/ippankyousou/R8nendo/panf.pdf>) |
+| 山梨県 | [八幡小学校プール解体工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11862.pdf>) | 山梨県山梨市 | 2026-09-08 | 2026-09-15 | 工事報告書には月間工程表、工事写真(定点撮影を含む)を添付する | [第一般61号 設計書 \[その他のファイル／4.89MB](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11853.zip>) |
 | 山梨県 | [下石森・上石森地内配水管布設替工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11861.pdf>) | 山梨県山梨市 | 2026-09-08 | 2026-09-15 | 整備事業 山梨西部地区(2工区)運搬距離:4.4km2)残土処理置場の写真を撮影し、工事完成写真に添付するものとする | [第一般60号 設計書 \[その他のファイル／4.26MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11852.zip>) |
 | 山梨県 | [小原西地内配水管布設替(その2)工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11860.pdf>) | 山梨県山梨市 | 2026-09-08 | 2026-09-15 | おいて指定機械であることを識別するラベルが確認できるように、建設機械を写真撮影し、工事写真綴りに添付すること | [第一般59号 設計書 \[その他のファイル／5MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11851.zip>) |
 | 山梨県 | [北地内配水管布設替工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11859.pdf>) | 山梨県山梨市 | 2026-09-08 | 2026-09-15 | 整備事業 山梨西部地区(2工区)運搬距離:4.5km2)残土処理置場の写真を撮影し、工事完成写真に添付するものとする | [第一般58号 設計書 \[その他のファイル／4.76MB\]](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11850.zip>) |
@@ -114,7 +116,5 @@
 | 長野県 | [（8.7.16公告）令和8年度 新戸倉体育館整備に係る支障物撤去工事(PDFファイル:295.6KB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080728-14.pdf>) | 長野県千曲市 | 2026-07-16 | 原文を確認 | 1千曲市杭瀬下二丁目1番地・写真のサイズ及び整備 a 工事中に撮影する写真は工程順に撮影箇所等を記入して整理する | [図面等(PDFファイル:1.5MB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080728-16.pdf>) |
 | 山梨県 | [令和8年度上佐野地区森林環境保全整備事業（保育間伐活用型）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/0716_seisan.html>) | 林野庁関東森林管理局山梨森林管理事務所 | 2026-07-16 | 2026-08-19 | 事業請負標準仕様書(別紙)製品生産事業請負実行管理基準の別表「実行記録写真の撮影要領」は別紙3のとおりとする | [入札公告(PDF : 206KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-1.pdf>) / [(1)入札説明書(PDF : 324KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-2.pdf>) / [(4)特記仕様書(PDF : 1,047KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-5.pdf>) / [(5)造材寸法表(PDF : 41KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-6.pdf>) / [(6)事業条件調書(PDF : 42KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-7.pdf>) |
 | 新潟県 | [5(319)綱木処理場機能強化対策工事](<https://www.town.aga.niigata.jp/material/files/group/3/08-319.xls>) | 新潟県阿賀町 | 2026-07-15 | 2026-07-23 | (3) 工事記録写真撮影1.工事の施工順序に従い、監督職員の指示または必要に応じて記録写真を整備し、工事 完了後提出しなければならない | [5(319)設計図書 (PDFファイル: 3.4MB)](<https://www.town.aga.niigata.jp/material/files/group/3/0800728-319.pdf>) |
-| 長野県 | [3 保育所施設整備事業 城下保育園長寿命化工事](<https://www.city.ueda.nagano.jp/uploaded/attachment/83727.pdf>) | 長野県上田市 | 2026-07-14 | 2026-07-30 | 誌へ記録する書類及び使用した資料等を整理するとともに、随時、実施状況の写真を撮影すること | [設計書 \[PDFファイル／140KB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/83730.pdf>) / [設計図 \[PDFファイル／635KB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/83732.pdf>) |
-| 長野県 | [令和8年度 富県小学校 老朽化対策等改修工事 実施設計業務委託【建築コンサルタント（一級・二級建築士2名以上）（市内本店）（一抜け方式3番）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_7_koukoku.files/7_1_koukoku_tomigata_kaisyuu_jissisekkei.pdf>) | 長野県伊那市 | 2026-07-14 | 2026-07-28 | (エ) 透視図作成(CG 着色パース、A3 判、外観〇面、内観〇面) (オ) 簡易な透視図作成(計画段階の確認用及び色決め用程度) (カ) 石綿含有事前調査箇所:5箇所程度 (キ) 窓枠シーリング材 PCB 含有検査(試料採取及び分析)〇箇所 (ク) 照明器具安定器、変圧器・コンデンサー PCB 含有検査(試料採取及び… | [特記仕様書（PDF：233KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_7_koukoku.files/7_3_tokki_tomigata_kaisyuu_jissisekkei.pdf>) / [業務委託に関する参考資料（PDF：83KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_7_koukoku.files/7_4_siryou_tomigata_kaisyuu_jissisekkei.pdf>) / [位置図（PDF：1,337KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_7_koukoku.files/7_5_itizu_tomigata_kaisyu_jissisekkei.pdf>) / [配置図（PDF：55KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_7_koukoku.files/7_6_haitizu_tomigata_kaisyu_jissisekkei.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

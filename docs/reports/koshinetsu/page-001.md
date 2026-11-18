@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-17T13:18+09:00（収集時点）
+最終更新：2026-11-18T12:19+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**206件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**208件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 長野県 | [1 令和8年度 国補保全松林健全化整備事業業務委託（丸子第2区）](<https://www.city.ueda.nagano.jp/uploaded/attachment/87275.pdf>) | 長野県上田市 | 2026-11-17 | 2026-12-03 | 5 空の容器は、容器に番号を付して、流し掛け状況を番号が分かるように写真を撮影するものとする | [設計書 \[PDFファイル／211KB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/87276.pdf>) / [仕様書 \[PDFファイル／327KB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/87277.pdf>) |
+| 長野県 | [令和8年度 交通安全施設工事 市道 日影沢線【土木一式工事Ｃ・Ｄ・Ｅ級（市内本店）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081117_1_koukoku.files/1_1_koukoku_koutuuanzen_hikagesawa.pdf>) | 長野県伊那市 | 2026-11-17 | 2026-12-01 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [特記仕様書（PDF：163KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081117_1_koukoku.files/1_3_tokki_koutuuanzen_hikagesawa.pdf>) / [工程表（PDF：22KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081117_1_koukoku.files/1_5_koutei_koutuuanzen_hikagesawa.pdf>) / [位置図（PDF：1,468KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081117_1_koukoku.files/1_6_itizu_koutuuanzen_hikagesawa.pdf>) / [図面（PDF：935KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081117_1_koukoku.files/1_7_zumen_koutuuanzen_hikagesawa.pdf>) |
 | 長野県 | [令和8年度 国庫補助道路メンテナンス事業小横川橋補修工事（令和8年11月16日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku1108.pdf>) | 長野県辰野町 | 2026-11-16 | 2026-12-02 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [2 設計書 (PDFファイル: 54.7KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo1108.pdf>) / [3 特記仕様書 (PDFファイル: 191.8KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo1108.pdf>) / [5 公表単価 (PDFファイル: 51.4KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/05_kohyotanka1108.pdf>) / [6 位置図 (PDFファイル: 284.3KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/06_itizu1108.pdf>) / [7 図面 (PDFファイル: 706.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/07_zumen1108.pdf>) |
 | 新潟県 | [9時30分 松くい虫被害木伐倒駆除（くん蒸）業務委託No.2 (圧縮ファイル: 2.7MB)](<https://www.town.seiro.niigata.jp/material/files/group/6/20261125_1.zip>) | 新潟県聖籠町 | 2026-11-13 | 2026-11-24 | )を伐根に再設置し、写真を撮影し記録整備すること | — |
 | 新潟県 | [9時30分 東新橋修繕工事 (圧縮ファイル: 4.7MB)](<https://www.town.seiro.niigata.jp/material/files/group/6/20261113_1.zip>) | 新潟県聖籠町 | 2026-11-13 | 2026-11-19 | を装着した建設機 械を使用する場合、施工現場において使用する建設機械の写真撮影を行い 提出するものとする | — |
@@ -114,7 +116,5 @@
 | 長野県 | [令和8年度 舗装長寿命化事業舗装維持工事 市道三峰川右岸土地改良幹線【舗装工事Ａ・Ｂ・Ｃ級（市内本店）（支店・営業所の本店扱い含む）（一抜け方式2番）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_2_koukoku.files/2_1_koukoku_mibugawa_ugan.pdf>) | 長野県伊那市 | 2026-09-15 | 2026-10-06 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [特記仕様書（PDF：125KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_2_koukoku.files/2_3_tokki_mibugawa_ugan.pdf>) / [位置図（PDF：2,818KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_2_koukoku.files/2_4_itizu_mibugawa_ugan.pdf>) / [図面（PDF：22KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_2_koukoku.files/2_5_zumen_mibugawa_ugan.pdf>) |
 | 長野県 | [令和8年度 舗装修繕工事 市道宮ノ原線【舗装工事Ａ・Ｂ級（市内本店）（支店・営業所の本店扱い含む）（一抜け方式1番）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_1_koukoku.files/1_1_koukoku_hosou_miyanohara.pdf>) | 長野県伊那市 | 2026-09-15 | 2026-10-06 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [特記仕様書（PDF：123KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_1_koukoku.files/1_4_tokki_hosou_miyanohara.pdf>) / [位置図（PDF：110KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_1_koukoku.files/1_5_itizu_hosou_miyanohara.pdf>) / [図面（PDF：288KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_1_koukoku.files/1_6_zumen_hosou_miyanohara.pdf>) |
 | 山梨県 | [甲府地区有害鳥獣捕獲委託事業(R7明許)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/20260914_yuugai.html>) | 林野庁関東森林管理局山梨森林管理事務所 | 2026-09-14 | 2026-10-20 | (2)捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [入札公告(PDF : 901KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/20260914_yuugai-1.pdf>) / [入札説明書(PDF : 1,200KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/20260914_yuugai-2.pdf>) / [共通仕様書(PDF : 1,741KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/20260914_yuugai-4.pdf>) / [特記仕様書(PDF : 1,020KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/20260914_yuugai-5.pdf>) / [位置図(PDF : 3,424KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/20260914_yuugai-6.pdf>) |
-| 新潟県 | [遭埼行者礁照射灯災害復旧工事](<https://www.kaiho.mlit.go.jp/09kanku/soumubu/nyuusatu/koukoku/R8nendo/r8_keiri_c15_koukoku.pdf>) | 海上保安庁第九管区海上保安本部 | 2026-09-10 | 2026-10-14 | 3.完成時の写真撮影については、原則として竣工時に家具等が全て整った段階する | [仕様書](<https://www.kaiho.mlit.go.jp/09kanku/soumubu/nyuusatu/siyousyo/R8nendo/r8_keiri_c15_shiyousyo.pdf>) / [入札説明書](<https://www.kaiho.mlit.go.jp/09kanku/soumubu/nyuusatu/nyuusatusetumeisyo/ippankyousou/R8nendo/r8_keiri_c15_setumeisyo.pdf>) / [パンフレット（内訳書について）](<https://www.kaiho.mlit.go.jp/09kanku/soumubu/nyuusatu/nyuusatusetumeisyo/ippankyousou/R8nendo/panf.pdf>) |
-| 山梨県 | [八幡小学校プール解体工事](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11862.pdf>) | 山梨県山梨市 | 2026-09-08 | 2026-09-15 | 工事報告書には月間工程表、工事写真(定点撮影を含む)を添付する | [第一般61号 設計書 \[その他のファイル／4.89MB](<https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/11853.zip>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

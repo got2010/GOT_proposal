@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-17T13:18+09:00（収集時点）
+最終更新：2026-11-18T12:19+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**256件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**258件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 広島県 | [久地地区下水管路施設点検業務８－３５](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640096600101.pdf>) | 広島県広島市 | 2026-08-07 | 2026-08-31 | (4) マンホール内においては、内部状況を可視範囲まで動画撮影を行い、管内においては、管口から可視範囲まで動画撮影を行う | [③仕様書及び位置図](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640096600103.pdf>) / [④設計書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640096600104.pdf>) |
+| 広島県 | [本郷小学校屋内運動場長寿命化改修工事（建築主体工事）](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/165645.pdf>) | 広島県三原市 | 2026-08-05 | 2026-09-03 | ・完成写真(竣工写真)の撮影を外注する場合は、撮影データを三原市が利用することについての承諾書を提出す ること | [仕様書等](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/165646.pdf>) |
 | 広島県 | [安佐南区内下水管路施設等点検業務８－１](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640094600102.pdf>) | 広島県広島市 | 2026-08-04 | 原文を確認 | (4) マンホール内においては、内部状況を可視範囲まで動画撮影を行い、管内においては、管口から可視範囲まで動画撮影を行う | [03\_位置図](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640094600103.pdf>) / [04\_設計書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640094600104.pdf>) |
 | 広島県 | [令和８年度広島市マンション実態調査業務](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640090800101.pdf>) | 広島県広島市 | 2026-08-04 | 2027-02-12 | ンションへ訪問し、管理組合の代表等に対し面談調査を行うとともに、外観の撮影を行う | [03 仕様書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640090800103.pdf>) |
 | 広島県 | [一般競争入札（旧廿日市市清掃センター解体工事）](<https://www.city.hatsukaichi.hiroshima.jp/uploaded/attachment/92762.pdf>) | 広島県廿日市市 | 2026-08-04 | 原文を確認 | キシン類の測定(汚染物のサンプリング調査箇所)、結果の記録、除去前後の写真撮影、評価記録を作成すること | [令和8年7月16日開札分 \[PDFファイル／41KB\]](<https://www.city.hatsukaichi.hiroshima.jp/uploaded/attachment/95486.pdf>) / [入札説明書（事後審査型）共通説明書 \[PDFファイル／207KB\]](<https://www.city.hatsukaichi.hiroshima.jp/uploaded/attachment/92815.pdf>) / [発注仕様書 \[PDFファイル／16.34MB\]](<https://www.city.hatsukaichi.hiroshima.jp/uploaded/attachment/92743.pdf>) / [添付資料1-1～7 \[その他のファイル／24.51MB\]](<https://www.city.hatsukaichi.hiroshima.jp/uploaded/attachment/92816.zip>) / [添付資料8-1図面 \[その他のファイル／23.03MB\]](<https://www.city.hatsukaichi.hiroshima.jp/uploaded/attachment/92502.zip>) |

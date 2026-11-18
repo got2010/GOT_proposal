@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-17T13:18+09:00（収集時点）
+最終更新：2026-11-18T12:19+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**256件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**258件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 広島県 | [2号7-108-215杉坂排水路修繕工事(PDFファイル:204.7KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-215_kokoku.pdf>) | 広島県東広島市 | 2026-09-14 | 2026-10-09 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-215(PDFファイル:2.5MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_7-108-215.pdf>) |
+| 広島県 | [2号7-108-214馬木里道道路維持修繕工事(PDFファイル:207.4KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-214_kokoku.pdf>) | 広島県東広島市 | 2026-09-14 | 2026-10-08 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-214(PDFファイル:3.6MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_7-108-214.pdf>) |
 | 広島県 | [2号7-108-213木谷岸壁修繕工事(PDFファイル:203.7KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-213_kokoku.pdf>) | 広島県東広島市 | 2026-09-14 | 2026-10-09 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-213(PDFファイル:512KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_7-108-213.pdf>) |
 | 広島県 | [2号7-108-212志和堀西10号線道路改良工事その2(PDFファイル:217KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-212_kokoku.pdf>) | 広島県東広島市 | 2026-09-14 | 2026-10-07 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-212(PDFファイル:7MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_7-108-212.pdf>) |
 | 広島県 | [2号7-108-210掛中排水路修繕工事(PDFファイル:209.7KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-210_kokoku.pdf>) | 広島県東広島市 | 2026-09-14 | 2026-10-08 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-210(PDFファイル:866.4KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_7-108-210.pdf>) |
@@ -114,7 +116,5 @@
 | 広島県 | [2号7-108-150切田団地3号線道路修繕工事(PDFファイル:93KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-150kokoku.pdf>) | 広島県東広島市 | 2026-08-13 | 2026-09-01 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-150(PDFファイル:3.6MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-150tosho.pdf>) |
 | 広島県 | [通信施設等点検業務委託（令和8年8月13日～令和8年8月19日）](<https://www.chugokushikoku.npa.go.jp/kaikei/ippan/file/hiroshima/nyusatu-koukoku-080813.pdf>) | 国家公安委員会（警察庁）中国四国管区警察局 | 2026-08-13 | 2026-08-20 | (特定資料並びに特定物件の複製及び写真撮影)第6条 乙は、主たる契約に定められている場合を除き、特定資料を複製し又は 特定物件の見取図、試験成績表等の製作若しくは写真撮影をしようとするとき は、あらかじめ甲の許可を受けるものとする | — |
 | 広島県 | [通信施設等点検業務委託（令和8年8月13日～令和8年8月19日）](<https://www.chugokushikoku.npa.go.jp/kaikei/ippan/file/hiroshima/nyusatu-koukoku-080813.pdf>) | 国家公安委員会（警察庁）中国管区警察局 | 2026-08-13 | 2026-08-20 | (特定資料並びに特定物件の複製及び写真撮影)第6条 乙は、主たる契約に定められている場合を除き、特定資料を複製し又は 特定物件の見取図、試験成績表等の製作若しくは写真撮影をしようとするとき は、あらかじめ甲の許可を受けるものとする | — |
-| 広島県 | [久地地区下水管路施設点検業務８－３５](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640096600101.pdf>) | 広島県広島市 | 2026-08-07 | 2026-08-31 | (4) マンホール内においては、内部状況を可視範囲まで動画撮影を行い、管内においては、管口から可視範囲まで動画撮影を行う | [③仕様書及び位置図](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640096600103.pdf>) / [④設計書](<https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202640096600104.pdf>) |
-| 広島県 | [本郷小学校屋内運動場長寿命化改修工事（建築主体工事）](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/165645.pdf>) | 広島県三原市 | 2026-08-05 | 2026-09-03 | ・完成写真(竣工写真)の撮影を外注する場合は、撮影データを三原市が利用することについての承諾書を提出す ること | [仕様書等](<https://www.city.mihara.hiroshima.jp/uploaded/attachment/165646.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

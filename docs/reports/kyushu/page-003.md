@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-17T13:18+09:00（収集時点）
+最終更新：2026-11-18T12:19+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県
 
-**218件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**220件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 熊本県 | [【入札関係】熊本市北区白土ため池ハザードマップ作成業務委託について](<https://www.city.kumamoto.jp/kiji00371703/3_71703_511659_up_8ywitnlv.pdf>) | 熊本県熊本市 | 2026-07-23 | 原文を確認 | 最新の航空写真を背景とし、対象ため池の浸水氾濫シミュレーションの二次元動画データの作成も行い、住民説明会(ワークショップ)における説明資料に使用するものとする | [05\_仕様書等（PDF：609.6キロバイト）](<https://www.city.kumamoto.jp/kiji00371703/3_71703_510334_up_0gutu6nx.pdf>) / [06\_金抜き設計書（PDF：148.7キロバイト）](<https://www.city.kumamoto.jp/kiji00371703/3_71703_510335_up_uwepyxnz.pdf>) |
+| 大分県 | [令和8年度シカ等林業被害緊急対策に係る有害鳥獣捕獲等事業（大分中部流域）](<https://www.rinya.maff.go.jp/kyusyu/apply/publicsale/oita/attach/pdf/sikahokakuitakuzigyou2026723-5.pdf>) | 林野庁九州森林管理局大分森林管理署 | 2026-07-23 | 2026-08-27 | (2) 捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [4.共通仕様書(PDF : 1,838KB)](<https://www.rinya.maff.go.jp/kyusyu/apply/publicsale/oita/attach/pdf/sikahokakuitakuzigyou2026723-7.pdf>) / [5.特記仕様書(PDF : 260KB)](<https://www.rinya.maff.go.jp/kyusyu/apply/publicsale/oita/attach/pdf/sikahokakuitakuzigyou2026723-2.pdf>) / [10.別添1捕獲状況集計表(EXCEL : 46KB)](<https://www.rinya.maff.go.jp/kyusyu/apply/publicsale/oita/attach/xls/sikahokakuitakuzigyou2026723-2.xlsx>) |
 | 宮崎県 | [佐土原高等学校空調工事に伴う引越業務委託の入札公告](<https://www.pref.miyazaki.lg.jp/ky-zaimufukuri/kense/chotatsu/20260608111911.html>) | 宮崎県 | 2026-07-21 | 2026-08-04 | ンスキャラバン業務委託に係る企画提案競技について 令和8年度明るい選挙啓発動画作品コンテスト業務委託企画提案競技の実施について 県内観光機運醸成CMプロモーション業務委託企画提案競技の実施について 令和8年度デジタル導入による業務刷新支援業務に関する情報提供依頼 | [01-1入札説明書（佐土原高校）（PDF：218KB）](<https://www.pref.miyazaki.lg.jp/documents/109801/109801_20260716101741-1.pdf>) / [02委託仕様書（佐土原高校）（PDF：353KB）](<https://www.pref.miyazaki.lg.jp/documents/109801/109801_20260716101828-1.pdf>) / [【別紙1】業務内容（佐土原高校）（PDF：245KB）](<https://www.pref.miyazaki.lg.jp/documents/109801/109801_20260716101914-1.pdf>) / [【別紙2】佐土原高等学校配置図（PDF：356KB）](<https://www.pref.miyazaki.lg.jp/documents/109801/109801_20260715143100-1.pdf>) / [【別紙3】引越先教室一覧図・移転対象備品等一覧（PDF：346KB）](<https://www.pref.miyazaki.lg.jp/documents/109801/109801_20260716101933-1.pdf>) |
 | 熊本県 | [【入札関係】託麻弓削遺跡群第3次調査区（2区）埋蔵文化財発掘調査業務委託に係る一般競争入札について](<https://www.city.kumamoto.jp/kiji00371750/3_71750_509842_up_47r3jvhk.pdf>) | 熊本県熊本市 | 2026-07-21 | 原文を確認 | 5 乙は、作業区分ごとに作業前、作業中、作業後の状況写真を撮影すること | [共通仕様書（PDF：250.9キロバイト）](<https://www.city.kumamoto.jp/kiji00371750/3_71750_509843_up_0raekkn1.pdf>) / [特記仕様書（PDF：484.9キロバイト）](<https://www.city.kumamoto.jp/kiji00371750/3_71750_509844_up_dm12lzw3.pdf>) / [別紙3 実測図作成面積（PDF：123.7キロバイト）](<https://www.city.kumamoto.jp/kiji00371750/3_71750_509847_up_4ol4grjh.pdf>) |
 | 熊本県 | [【入札関係】高橋町遺跡群1次調査区埋蔵文化財発掘調査業務委託に係る一般競争入札について](<https://www.city.kumamoto.jp/kiji00371749/3_71749_509838_up_tpwm7tyz.pdf>) | 熊本県熊本市 | 2026-07-21 | 原文を確認 | 5 乙は、作業区分ごとに作業前、作業中、作業後の状況写真を撮影すること | [共通仕様書（PDF：263キロバイト）](<https://www.city.kumamoto.jp/kiji00371749/3_71749_up_051oj5ex.pdf>) / [特記仕様書（PDF：497.2キロバイト）](<https://www.city.kumamoto.jp/kiji00371749/3_71749_up_d22kh4o7.pdf>) / [別紙3 実測図作成面積（PDF：126.7キロバイト）](<https://www.city.kumamoto.jp/kiji00371749/3_71749_up_5creuv04.pdf>) |
