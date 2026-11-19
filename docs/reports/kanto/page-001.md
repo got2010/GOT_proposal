@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-18T12:19+09:00（収集時点）
+最終更新：2026-11-19T11:56+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**557件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**564件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 6
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 神奈川県 | [Ｒ８横浜国道事務所管内広報用航空写真撮影業務 \[PDF：96KB\]](<https://www.ktr.mlit.go.jp/ktr_content/content/000963227.pdf>) | 国土交通省関東地方整備局横浜国道事務所 | 2026-11-18 | 2026-12-21 | R8横浜国道事務所管内広報用航空写真撮影業務 \[PDF:96KB\] | — |
 | 東京都 | [頼れる身寄りがいない高齢者等を支援する民生委員に関する普及啓発動画の制作及び配信等業務委託一式](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 厚生労働省 | 2026-11-12 | 2026-11-30 | 頼れる身寄りがいない高齢者等を支援する民生委員に関する普及啓発動画の制作及び配信等業務委託一式 | — |
 | 東京都 | [地方公共団体におけるアナログ規制見直しの支援に関する動画作成事業](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | デジタル庁東京都 | 2026-11-11 | 2026-12-08 | 地方公共団体におけるアナログ規制見直しの支援に関する動画作成事業 | — |
 | 東京都 | [｢車両火災の発生要因及び緊急時対応に関する調査検証業務｣に基づく啓発ビデオ制作の撮影等委託](<https://www.ntsel.go.jp/alias/pc/chotatsu/cyoutatsu_file/2026/261106_1.pdf>) | 独立行政法人自動車技術総合機構交通安全環境研究所 | 2026-11-06 | 原文を確認 | 「車両火災の発生要因及び緊急時対応に関する調査検証業務」に基づく啓発ビデオ制作の撮影等委託 | — |
@@ -52,6 +53,12 @@
 | 東京都 | [2027（令和９）年国民生活基礎調査マニュアル動画・広報用動画改修業務一式](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 厚生労働省 | 2026-08-05 | 2026-09-09 | 2027(令和9)年国民生活基礎調査マニュアル動画・広報用動画改修業務一式 | — |
 | 東京都 | [緊急地震速報20周年映像資料の制作](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-29 | 2026-08-19 | 緊急地震速報20周年映像資料の制作 | — |
 | 東京都 | [令和７年度新宿御苑日本館御殿工事（Ⅰ）展示映像撮影業務（総合評価落札方式）](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 環境省 | 2026-07-23 | 2026-08-05 | 令和7年度新宿御苑日本館御殿工事(I)展示映像撮影業務(総合評価落札方式) | — |
+| 東京都 | [行船公園管理委託プロポーザルの実施](<https://www.city.edogawa.tokyo.jp/documents/75197/boshuyoko.pdf>) | 東京都江戸川区 | 2026-11-18 | 2027-01-08 | イ.清掃後の現場写真を毎月一回撮影し、上記報告書に添付する | [行船公園管理委託仕様書（PDF：1,057KB）](<https://www.city.edogawa.tokyo.jp/documents/75197/shiyosho.pdf>) |
+| 栃木県 | [仕様書](<https://jsite.mhlw.go.jp/tochigi-roudoukyoku/content/contents/002899391.pdf>) | 厚生労働省栃木労働局 | 2026-11-18 | 原文を確認 | 施工中・施工後)※処分する安定器がある場合は、撤去した安定器を全て必ず写真撮影すること | — |
+| 神奈川県 | [動的貫入試験の数値計算補助業務](<https://www.pari.go.jp/about/procurance/pdf/bid/ea6b82788275ea0e86afaab80315d1d186997d72.pdf>) | 国立研究開発法人海上・港湾・航空技術研究所港湾空港技術研究所 | 2026-11-18 | 2026-12-09 | 反力等)について図の作成(時刻歴図、変形図、色塗りコンター図等)および動画の作成を行い、整理する | [仕様書](<https://www.pari.go.jp/about/procurance/pdf/bid/07002fd474badd48c605ff0549ec93a7a8a3f6f4.pdf>) |
+| 茨城県 | [(RE-13783）軟X線計測用信号線の敷設【掲載期間：2026-11-18～2026-12-8】](<https://www.qst.go.jp/uploaded/attachment/54112.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-11-18 | 原文を確認 | (5) QSTは、立会現場の写真撮影の必要性を認める場合には、撮影できることとする | [仕様書 \[PDFファイル／753KB\]](<https://www.qst.go.jp/uploaded/attachment/54113.pdf>) |
+| 茨城県 | [【電子入札】【電子契約】レストハウス等の空調機更新作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C04454.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-11-18 | 2027-01-14 | OX燃料技術開発部内要領別添9-6大型特殊物品等の保管方法(別添)7 写真撮影に係る手続き等MOX燃料技術開発部敷地内外において静止画及び動画(以下、写真等)を撮影したい時は、JAEAが用意するカメラでJAEA立会者が撮影し、データをJAEAが確認後メール等で送信することを基本とするが、受注者において用意するカメラで撮… | — |
+| 千葉県 | [佐原児童クラブ整備事業基本設計業務委託に係る公募型プロポーザルの実施について](<https://www.city.katori.lg.jp/government/keiyaku/proposal/#cms6BD47>) | 千葉県香取市 | 2026-11-18 | 2027-03-19 | 機械設備積算□透視図作成〔種類( )〕□模型製作〔縮尺( )〕□模型の写真撮影〔カットの枚数( )〕□計画通知、確認申請手続き業務(手数料の納付は含まない)□関係法令等に基づく各種申請手続き業務(標識看板の作成、設置報告書等の届出)□防災計画評定又は防災性能評定に関する申請手続き業務□建築物省エネルギー関係計算書の作成… | [公告文（PDF：102KB）](<https://www.city.katori.lg.jp/government/keiyaku/proposal/sawarajidoclub.files/00koukoku.pdf>) / [実施要領（PDF：265KB）](<https://www.city.katori.lg.jp/government/keiyaku/proposal/sawarajidoclub.files/02jissiyouryou.pdf>) / [建築設計業務委託特記仕様書（PDF：405KB）](<https://www.city.katori.lg.jp/government/keiyaku/proposal/sawarajidoclub.files/03tokkishiyousho.pdf>) |
 | 東京都 | [杉並区文化芸術・交流自治体情報紙デザイン制作・編集業務公募型プロポーザル](<https://www.city.suginami.tokyo.jp/documents/30159/zisshiyouryoupdf.pdf>) | 東京都杉並区 | 2026-11-17 | 2026-12-11 | (2) 取材・撮影及び原稿作成1 編集会議で決定した特集記事(1面インタビュー)について、取材内容を検討し、プロのカメラマン、インタビュアー、ライターを手配し、取材、撮影、原稿作成を行うこと | — |
 | 茨城県 | [【電子入札】【電子契約】金属燃料試験用グローブボックス及び試験装置の改造](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01247.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-11-17 | 2026-11-17 | ただし、コピーや写真撮影等の行為は禁止する | — |
 | 千葉県 | [08.11.17\_%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A%2B%E4%BB%95%E6%A7%98%E6%9B%B8%EF%BC%88R8%E5%AD%A6%E4%BD%8D%E8%A8%98%E6%8E%88%E4%B8%8E%E5%BC%8F%E9%81%8B%E5%96%B6%E6%A5%AD%E5%8B%99%EF%BC%89.pdf](<https://www.ouj.ac.jp/about/procurement/general/assets/pdf/nyusatu_r8/08.11.17_%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A%2B%E4%BB%95%E6%A7%98%E6%9B%B8%EF%BC%88R8%E5%AD%A6%E4%BD%8D%E8%A8%98%E6%8E%88%E4%B8%8E%E5%BC%8F%E9%81%8B%E5%96%B6%E6%A5%AD%E5%8B%99%EF%BC%89.pdf>) | 放送大学学園 | 2026-11-17 | 原文を確認 | 放送番組制作も踏まえ、番組制作スタッフ等関係者も交えたリハーサル進行を行うこと | — |
@@ -109,12 +116,5 @@
 | 千葉県 | [松契一般第281号 汚水管きょ更生工事(R8-1)（PDF：367KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/281.pdf>) | 千葉県松戸市 | 2026-10-30 | 2026-10-30 | 写真管理 写真撮影内容は目的を満足しているか | [松契一般第281号 設計図書（PDF：3,835KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/281s.pdf>) |
 | 千葉県 | [松契一般第280号 松戸市立古ケ崎中学校屋上防水改修工事（PDF：375KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/280.pdf>) | 千葉県松戸市 | 2026-10-30 | 2026-10-30 | における2の(2)手すり 国土交通省大臣官房官庁営繕部制定の「営繕工事写真撮影要領(最新版)」及び官公署等への手続ているものは、証明となる資料等の提出を省略することができる | [松契一般第280号 設計図書（PDF：2,609KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/280s.pdf>) |
 | 千葉県 | [松契一般第279号 松戸市立第一中学校屋上防水改修工事（PDF：374KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/279.pdf>) | 千葉県松戸市 | 2026-10-30 | 2026-10-30 | 理人以外の検査とする)【工事完了後速やかに】報告1■工事写真(建築工事写真撮影基準に準拠)■1工事記録写真■2完成写真【工事完了後速やかに】写真帳写真帳11建1.2.4電1.2.4機1.2.4代表者■完成図PDF,CADデータCDもしくはDVD2建1.7.2電1.7.2機1.7.2□電子納品電子媒体電子媒体納品書CDも… | [松契一般第279号 設計図書（PDF：737KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/279s.pdf>) |
-| 千葉県 | [松契一般第278号 松戸市立六実小学校屋上防水改修工事（PDF：375KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/278.pdf>) | 千葉県松戸市 | 2026-10-30 | 2026-10-30 | における2の(2)手すり 国土交通省大臣官房官庁営繕部制定の「営繕工事写真撮影要領(最新版)」及び官公署等への手続 ているものは、証明となる資料等の提出を省略することができる | [松契一般第278号 設計図書（PDF：3,500KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/278s.pdf>) |
-| 千葉県 | [松契一般第276号 松戸市立第六中学校屋上防水改修工事（PDF：375KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/276.pdf>) | 千葉県松戸市 | 2026-10-30 | 2026-10-30 | 理人以外の検査とする)【工事完了後速やかに】報告1■工事写真(建築工事写真撮影基準に準拠)■1工事記録写真■2完成写真【工事完了後速やかに】写真帳写真帳11建1.2.4電1.2.4機1.2.4代表者■完成図PDF,CADデータCDもしくはDVD2建1.7.2電1.7.2機1.7.2□電子納品電子媒体電子媒体納品書CDも… | [松契一般第276号 設計図書（PDF：1,617KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/276s.pdf>) |
-| 千葉県 | [松契一般第275号 松戸市健康福祉会館冷温水発生機交換工事（第3期）（PDF：369KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/275.pdf>) | 千葉県松戸市 | 2026-10-30 | 2026-10-30 | 〇全空気方式●工事写真@ 国土交通省大臣官房官庁営繕部制定の「営繕工事写真撮影要領(令和5年版)」による | [松契一般第275号 設計図書（PDF：3,780KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/275s.pdf>) |
-| 埼玉県 | [駒場運動公園陸上競技場躯体の健全性調査業務の入札情報](<https://www.city.saitama.lg.jp/006/011/003/p134569_d/fil/1_.pdf>) | 埼玉県さいたま市 | 2026-10-28 | 2026-11-26 | 劣化や不具合が見つかった場合は写真を撮影し、その位置を平面図等に記録する | [2\_業務委託特記仕様書（PDF形式 868キロバイト）](<https://www.city.saitama.lg.jp/006/011/003/p134569_d/fil/2_.pdf>) / [3\_入札説明書（PDF形式 139キロバイト）](<https://www.city.saitama.lg.jp/006/011/003/p134569_d/fil/3_.pdf>) |
-| 埼玉県 | [駒場運動公園陸上競技場躯体の健全性調査業務の入札情報](<https://www.city.saitama.lg.jp/005/001/017/006/003/p134868_d/fil/1_.pdf>) | 埼玉県さいたま市 | 2026-10-28 | 2026-11-26 | 劣化や不具合が見つかった場合は写真を撮影し、その位置を平面図等に記録する | [2\_業務委託特記仕様書（PDF形式 868キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p134868_d/fil/2_.pdf>) / [3\_入札説明書（PDF形式 139キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p134868_d/fil/3_.pdf>) |
-| 埼玉県 | [さいたま市家庭ごみ収集所看板・啓発物掲示等業務](<https://www.city.saitama.lg.jp/005/001/017/006/003/p134559_d/fil/kokuji.pdf>) | 埼玉県さいたま市 | 2026-10-27 | 2026-11-16 | キ 作業を実施したすべての箇所について、貼付後の状況が確認できる写真を撮影し、整理・保存のうえ、提出又は提示できる状態とすること | [02\_入札説明書（PDF形式 183キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p134559_d/fil/nyuusatusetumeisyo.pdf>) / [03\_家庭ごみ収集所看板・啓発物掲示等業務仕様書（PDF形式 307キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p134559_d/fil/siyousyo.pdf>) |
-| 茨城県 | [（RE-13097）ITER水平ランチャー用HIP接合材の品質確認試験【掲載期間：2026-10-27～2026-11-16】](<https://www.qst.go.jp/uploaded/attachment/53687.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-10-27 | 原文を確認 | (4)QSTが立会にあたり現場の写真撮影の必要性を認めた場合は、受注者の許可の下に、QSTが撮影できることとする | [仕様書 \[PDFファイル／1.42MB\]](<https://www.qst.go.jp/uploaded/attachment/53684.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

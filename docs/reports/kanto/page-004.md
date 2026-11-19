@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-18T12:19+09:00（収集時点）
+最終更新：2026-11-19T11:56+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**557件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**564件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 4 / 6
 
@@ -16,6 +16,13 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 茨城県 | [【電子入札】【電子契約】「常陽」運転管理棟1F衛生設備の更新](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01369.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-09-16 | 2026-11-12 | 5(12) 以下に従い写真を撮影し、作業報告書に添付すること | — |
+| 千葉県 | [%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A%2B%E4%BB%95%E6%A7%98%E6%9B%B8\_R9-11%E6%94%BE%E9%80%81%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%9C%92%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%95%AA%E7%B5%84%E5%88%B6%E4%BD%9C%E6%8A%80%E8%A1%93%E7%AD%89%E3%81%AE%E6%A5…](<https://www.ouj.ac.jp/about/procurement/general/assets/pdf/nyusatu_r8/%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A%2B%E4%BB%95%E6%A7%98%E6%9B%B8_R9-11%E6%94%BE%E9%80%81%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%9C%92%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%95%AA%E7%B5%84%E5%88%B6%E4%BD%9C%E6%8A%80%E8%A1%93%E7%AD%89%E3%81%AE%E6%A5%AD%E5%8B%99%E5%A7%94%E8%A8%97.pdf>) | 放送大学学園 | 2026-09-16 | 原文を確認 | 入札に付する事項 (1) 件 名 令和9~11年度放送大学学園における番組制作技術等の業務委託 (2) 仕様等 詳細については,仕様書のとおり | — |
+| 東京都 | [令和８年度皇居外苑濠水浄化施設保守清掃業務](<https://www.env.go.jp/garden/kokyogaien/4_sup/2022/sup_00150.html>) | 環境省皇居外苑 | 2026-09-15 | 2026-09-30 | サルデザイン 皇居ラン(マラソン)について 個人撮影について メディア取材、撮影について 駐車場について 校外学習について 団体利用について 案内板等設置等について 調達情報 フォトアルバム リンク集 国民公園一覧 皇居外苑 京都御苑 新宿御苑 千鳥ケ淵戦没者墓苑 環境省(法人番号1000012110001)皇居外苑管… | [入札説明書](<https://www.env.go.jp/garden/content/000429846.pdf>) / [仕様書](<https://www.env.go.jp/garden/content/000429847.pdf>) |
+| 東京都 | [欧州・インド太平洋ラウンドテーブル国際会議運営業務委託](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 防衛省 | 2026-09-15 | 原文を確認 | 容については12月8日(火)午前中に会場準備(主要器材の設置及び配信・映像撮影に関する事 前予行を含む)を完了するものとして、12月8日(火)の会場準備及びラウンドテーブル当日それぞ れの設営時の体制・時間計画を含むこと | — |
+| 神奈川県 | [池子小学校2階防水改修工事](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_ikegosyo2kaibousuikaisyu.pdf>) | 神奈川県逗子市 | 2026-09-15 | 2026-10-07 | (工事写真)第9条 受注者は、工事中の写真を撮影し、工事着手前、施工中、完成時の工程順に整理編集し、工事完了後写真帳(デジタルカメラ可)を提出すること | [02\_図面一式 （PDF 1.8 MB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8zumen_ikegosyo2kaibousuikaisyu.pdf>) / [03\_設計書 （Excel 80.5 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8utiwake_ikegosyo2kaibousuikaisyu.xls>) / [01\_仕様書 （PDF 550.7 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8siyo_ikegosyo2kaibousuikaisyu.pdf>) |
+| 茨城県 | [【電子入札】【電子契約】令和8年度 構内草刈作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01436.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-09-15 | 2026-09-15 | \*4:記録写真の撮影に当たっては事前に機構の承認を得るものとし、撮影した写真に建屋やフェンス等が含まれないようにすること | — |
+| 埼玉県 | [さいたま市消防局庁舎外23署所建築物及び建築設備等定期点検業務の入札情報](<https://www.city.saitama.lg.jp/005/001/017/006/003/p121930_d/fil/01.pdf>) | 埼玉県さいたま市 | 2026-09-14 | 2026-10-08 | (2) 業務履行にあたり、写真撮影を行う際は、その諸室等を管理する者の確認を得たうえで撮影し、撮影部位が明確に判るよう撮影すること | [02\_入札説明書（PDF形式 164キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p121930_d/fil/02.pdf>) / [03\_仕様書（PDF形式 590キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p121930_d/fil/03.pdf>) |
 | 千葉県 | [（RE-11619）マウスを用いた反復投与安全性試験の実施【掲載期間：2026年9月14日～2026年10月7日】](<https://www.qst.go.jp/uploaded/attachment/53153.pdf>) | 国立研究開発法人量子科学技術研究開発機構本部・放射線医学総合研究所 | 2026-09-14 | 2026-10-23 | なくとも各群マウスの代表1匹の病理標本(各臓器×3匹 各群代表1匹)の写真を撮影し、提出すること | [仕様書 \[PDFファイル／289KB\]](<https://www.qst.go.jp/uploaded/attachment/53154.pdf>) |
 | 埼玉県 | [ddd-425.pdf](<https://www.maff.go.jp/kanto/shinsei/order/attach/pdf/ddd-425.pdf>) | 農林水産省関東農政局 | 2026-09-14 | 原文を確認 | 第2-2条(調査項目)1.現地実証調査(1)現地確認(2)UAVによる動画撮影(3)UAV写真点群測量(SfM解析・DSM作成)(4)UAVレーザ測量(DEM作成)2.調査結果とりまとめ・報告書作成第3章 調査内容第3-1条(作業内容)作業内容は、次に示すとおりである | [仕様書(PDF : 2,991KB)](<https://www.maff.go.jp/kanto/shinsei/order/attach/pdf/ddd-426.pdf>) |
 | 茨城県 | [【電子入札】【電子契約】四足歩行ロボット搭載用放射線測定システムの製作](<https://keiyaku.jaea.go.jp/compe/02/pdf/0812C00462.pdf>) | 国立研究開発法人日本原子力研究開発機構福島 | 2026-09-14 | 2026-11-06 | 2) 測定部確認用カメラ測定部を撮影可能で、カラー映像を連続的に取得できること | — |
@@ -109,12 +116,5 @@
 | 埼玉県 | [さいたま市技能者表彰式典運営等業務の入札情報](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133083_d/fil/kokuji.pdf>) | 埼玉県さいたま市 | 2026-08-26 | 2026-09-15 | カメラマンを手配し、市長と受賞者の集合写真及び各受賞者の壇上の様子の写真撮影を行うこと | [02\_入札説明書（さいたま市技能者表彰式典運営等業務）（PDF形式 172キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133083_d/fil/setsumei.pdf>) / [03\_仕様書（PDF形式 298キロバイト）](<https://www.city.saitama.lg.jp/005/001/017/006/003/p133083_d/fil/shiyou.pdf>) |
 | 千葉県 | [ちばの「海と夕陽」を活用した観光プロモーション事業に係る企画提案の募集について](<https://www.pref.chiba.lg.jp/kankou/chiba-nature/r8chiba-sea-sunset.html>) | 千葉県 | 2026-08-26 | 2026-09-18 | 成等本業務の趣旨を踏まえ、キャンペーンの周知に必要なチラシ、ポスター、動画等の作成・納品、上映を行うこと | [仕様書（PDF：310.4KB）](<https://www.pref.chiba.lg.jp/kankou/chiba-nature/documents/shiyousyo.pdf>) |
 | 千葉県 | [「令和8年度養老渓谷温泉郷の観光地域づくりに関する調査等業務委託」に係る企画提案の募集について](<https://www.pref.chiba.lg.jp/kankou/chiba-nature/r8yourou-research.html>) | 千葉県 | 2026-08-26 | 2027-03-31 | いて、協議会の開催時に報告を行うオ 記録等・欠席者への資料の送付・記録写真の撮影・会議記録の作成受託者は、会議における意見・結果等をとりまとめ、やむを得ない場合を除き、協議会開催後7日以内に作成し、県の確認を得た上で、各出席者に送付する | [企画提案仕様書（PDF：379KB）](<https://www.pref.chiba.lg.jp/kankou/chiba-nature/documents/siyousyo.tyousa.pdf>) |
-| 神奈川県 | [久木中学校屋内運動場外壁改修工事](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_hisatyuunndouzyogaihekikaisyu.pdf>) | 神奈川県逗子市 | 2026-08-25 | 2026-09-09 | 材(アスベスト含有)吹付タイル【施工調査により変更数量となる場合は全て写真撮影を行う事】※ 施工調査範囲は外壁全面とする | [02\_図面一式 （PDF 1.4 MB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8zumen_hisatyuunndouzyogaihekikaisyu.pdf>) / [03\_設計書 （Excel 72.0 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8utiwake_hisatyuunndouzyogaihekikaisyu.xls>) / [01\_仕様書 （PDF 559.3 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8siyo_hisatyuunndouzyogaihekikaisyu.pdf>) |
-| 茨城県 | [【電子入札】【電子契約】光学定盤等の移設作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01221.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-08-25 | 2026-10-13 | ただし、コピーや写真撮影等の行為は禁止する | — |
-| 栃木県 | [健康センター解体工事](<https://www.town.nogi.lg.jp/data/doc/1787535671_doc_44_0.pdf>) | 栃木県野木町 | 2026-08-24 | 2026-09-17 | 1章 一般共通事項○1-1 適用基準等◎工事写真撮影ガイドブック(建築工事編及び解体工事編)国土交通省大臣官房官庁営繕部監修(令和5年版)◎建設副産物適正処理推進要綱 栃木県県土整備部(平成14年5月)◎建築物の解体工事における外壁の崩落等による公衆災害防止対策に関するガイドライン国土交通省住宅局策定(平成15年7月)… | [設計書](<https://www.town.nogi.lg.jp/data/doc/1787535675_doc_44_0.pdf>) / [設計図(1)](<https://www.town.nogi.lg.jp/data/doc/1787535683_doc_44_0.pdf>) / [設計図(2)](<https://www.town.nogi.lg.jp/data/doc/1787535702_doc_44_0.pdf>) / [設計図(3)](<https://www.town.nogi.lg.jp/data/doc/1787535722_doc_44_0.pdf>) / [設計図(4)](<https://www.town.nogi.lg.jp/data/doc/1787535743_doc_44_0.pdf>) |
-| 茨城県 | [【電子入札】【電子契約】「常陽」第１倉庫西側シャッター等の更新作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01179.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-08-24 | 2026-10-13 | (12) 以下に従い写真を撮影し、作業報告書に添付すること | — |
-| 茨城県 | [【電子入札】【電子契約】ペレット外観検査技術に関する合否判定プログラム更新](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03227.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-08-24 | 2026-08-24 | 画像の場合は1枚の判定で終了し、映像の場合は1つのペレットに対して撮影した複数の画像から総合的に判断する | — |
-| 茨城県 | [【電子入札】【電子契約】共同溝送風機（DF-03、DF-04）更新工事](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03408.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-08-24 | 2026-09-30 | ・工事写真撮影時は、屋外のフェンス、監視カメラ、建家開口部(窓・扉)等が写り込まないような構図で撮影すること | — |
-| 東京都 | [港区放課GO→クラブあざぶ運営事業候補者をプロポーザル方式により募集します](<https://www.city.minato.tokyo.jp/documents/179838/20260821111853.pdf>) | 東京都港区 | 2026-08-23 | 2026-10-22 | 8年9月3日(木)午後5時までウ 見学時における注意事項・会場の様子を写真・動画等で撮影する場合、個人情報保護の観点から、児童等の顔や氏名が特定できるような撮影は禁止します | [【別紙1】仕様書（PDF：854KB）](<https://www.city.minato.tokyo.jp/documents/179838/20260821112227.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-003.md) ｜ [次の100件](page-005.md)

@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-18T12:19+09:00（収集時点）
+最終更新：2026-11-19T11:56+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：岐阜県 静岡県 愛知県 三重県
 
-**130件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**131件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 2
 
@@ -19,6 +19,7 @@
 | 岐阜県 | [令和8年度地方創生SDGsワークスタイル情報発信動画制作・広告出稿業務委託に関する一般競争入札公告](<https://www.pref.gifu.lg.jp/uploaded/life/516685_2972474_misc.pdf>) | 岐阜県 | 2026-09-09 | 2026-09-18 | 令和8年度地方創生SDGsワークスタイル情報発信動画制作・広告出稿業務委託に関する一般競争入札公告 | — |
 | 岐阜県 | [令和8年度地方創生SDGsワークスタイル情報発信動画制作・広告出稿業務委託に関する一般競争入札公告](<https://www.pref.gifu.lg.jp/uploaded/life/516416_2970143_misc.pdf>) | 岐阜県 | 2026-09-07 | 2026-09-18 | 令和8年度地方創生SDGsワークスタイル情報発信動画制作・広告出稿業務委託に関する一般競争入札公告 | — |
 | 静岡県 | [R8年度熱海市・三島市・函南町航空写真共同撮影業務委託](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-kokoku.pdf>) | 静岡県熱海市 | 2026-08-13 | 原文を確認 | R8年度熱海市・三島市・函南町航空写真共同撮影業務委託 | [設計書 （PDF 228.3KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-sekkei1.pdf>) / [仕様書 （PDF 319.9KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-siyou1.pdf>) / [仕様書別添1 （PDF 490.6KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-siyou2.pdf>) / [仕様書別添2 （PDF 563.5KB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-siyou3.pdf>) / [仕様書別添3 （PDF 5.6MB）](<https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/023/dx1-siyou4.pdf>) |
+| 岐阜県 | [令和8年度 若葉台地内舗装修繕工事](<https://www.city.kani.lg.jp/secure/30598/1-102koukoku.pdf>) | 岐阜県可児市 | 2026-11-18 | 原文を確認 | 調査に際しては、記録保存の必要を認めた場合は写真撮影、測量等を行わなければならない | [仕様書(pdf 1637KB)](<https://www.city.kani.lg.jp/secure/30598/1-102siyousyo.pdf>) |
 | 岐阜県 | [1) 契約第491号 （ゼロ債務）（補）青年の家 講堂空調機設置（空調）工事](<https://www.city.ogaki.lg.jp/cmsfiles/contents/0000071/71260/491gou_shiyoushotou.zip>) | 岐阜県大垣市 | 2026-11-16 | 2026-12-15 | ●☆工事写真撮影ガイドブック・機械設備工事編(最新版) 中間階の定義は、地下階、1階を除く各階で上層階に該当しないものとする | [契約第491号 公告文](<https://www.city.ogaki.lg.jp/cmsfiles/contents/0000071/71260/491gou_koukokubun.pdf>) |
 | 三重県 | [志摩市本庁舎出納執務室改修工事(電気設備工事)](<https://www.city.shima.mie.jp/material/files/group/7/0401koukokuR081125.pdf>) | 三重県志摩市 | 2026-11-11 | 原文を確認 | 利用の促進に関する法律、廃棄物の処理及び清掃に関する法律、そ 営繕工事写真撮影要領(国土交通省大臣官房官庁営繕部監修(令和5年版))に従い、工IV.施工仕様 都合、図面上の誤記及び記載漏れ等に起因する問題点及び疑義、設計図書のとおりに施工 の他関係法令に従い適正に処理し、監督職員に報告すること | [入札参考資料 (PDFファイル: 68.2KB)](<https://www.city.shima.mie.jp/material/files/group/7/0406sankoushiryouR081125.pdf>) / [仕様書等 (圧縮ファイル: 3.6MB)](<https://www.city.shima.mie.jp/material/files/group/7/0404shiyoushoR081125.zip>) |
 | 三重県 | [志摩市本庁舎出納執務室改修工事(建築工事)](<https://www.city.shima.mie.jp/material/files/group/7/0201koukokuR081125.pdf>) | 三重県志摩市 | 2026-11-11 | 原文を確認 | 17 工事写真 営繕工事写真撮影要領(国土交通省大臣官房官庁営繕部 (令和5年版))に従い撮影すること | [入札参考資料 (PDFファイル: 67.6KB)](<https://www.city.shima.mie.jp/material/files/group/7/0206sankoushiryouR081125.pdf>) / [仕様書等 (圧縮ファイル: 4.8MB)](<https://www.city.shima.mie.jp/material/files/group/7/0204shiyoushoR081125.zip>) |
@@ -115,6 +116,5 @@
 | 岐阜県 | [08都市第55号城山公園（金竜ヶ丘）公衆便所改築工事](<https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/023/882/08tosi55.pdf>) | 岐阜県高山市 | 2026-08-17 | 2026-09-01 | 時及び工事中B,工事完成時工事写真完成時-全景及び屋内外の主要をカラー撮影及びCADデータ実施すること | [08tosi55 （zip 4.0MB）](<https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/023/882/08tosi55.zip>) |
 | 岐阜県 | [08こ政第55号久々野保育園遊戯室エアコン設置工事](<https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/023/882/08kosei55.pdf>) | 岐阜県高山市 | 2026-08-17 | 2026-09-01 | 時及び工事中B,工事完成時工事写真完成時-全景及び屋内外の主要をカラー撮影及びCADデータ実施すること | [08kosei55 （zip 1.0MB）](<https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/023/882/08kosei55.zip>) |
 | 岐阜県 | [下水委第16号](<https://www.city.kaizu.lg.jp/shisei/cmsfiles/contents/0000004/4537/20260812_gesuii16_06koukoku.pdf>) | 岐阜県海津市 | 2026-08-12 | 2026-08-27 | の提出が妥当でない業務(積算事務、現場技術事務、広報用の映画作成や航空写真撮影等)及び用地調査業務, における、戸籍・住民票等、土地境界確認書、第6章から第12章は対象外とする | [特記仕様書 (PDF形式、310.69KB)](<https://www.city.kaizu.lg.jp/shisei/cmsfiles/contents/0000004/4537/20260812_gesuii16_03tokki.pdf>) / [位置図 (PDF形式、1.23MB)](<https://www.city.kaizu.lg.jp/shisei/cmsfiles/contents/0000004/4537/20260812_gesuii16_04itizu01.pdf>) / [耐震補強対策位置図 (PDF形式、5.28MB)](<https://www.city.kaizu.lg.jp/shisei/cmsfiles/contents/0000004/4537/20260812_gesuii16_05itizu02.pdf>) / [仕様書 (エクセル形式、86.25KB)](<https://www.city.kaizu.lg.jp/shisei/cmsfiles/contents/0000004/4537/20260812_gesuii16_01siyousho.xlsx>) |
-| 愛知県 | [2026～2028 年度課題別「上水道無収水量管理対策（漏水防止対策）（A）」に係る研修委託契約（一般競争入札（総合評価落札方式））（113KB）](<https://www.jica.go.jp/about/announce/domestic/02/11/__icsFiles/afieldfile/2026/08/07/attachment.pdf>) | 独立行政法人国際協力機構JICA中部 | 2026-08-07 | 2027-03-05 | 来日前にオンデマンド教材を使用した自己学習を実施するため、30分程度の動画教材を作成する | [1（601KB）](<https://www.jica.go.jp/about/announce/domestic/02/11/__icsFiles/afieldfile/2026/08/07/attachment1_1.pdf>) / [2（142KB）](<https://www.jica.go.jp/about/announce/domestic/02/11/__icsFiles/afieldfile/2026/08/07/attachment2.pdf>) / [3（75KB）](<https://www.jica.go.jp/about/announce/domestic/02/11/__icsFiles/afieldfile/2026/08/07/attachment3.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

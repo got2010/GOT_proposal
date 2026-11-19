@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-18T12:19+09:00（収集時点）
+最終更新：2026-11-19T11:56+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**557件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**564件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 6 / 6
 
@@ -16,6 +16,13 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 千葉県 | [松契一般第175号 松戸市立旭町小学校公共下水道接続工事（PDF：371KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-07524kouji2w.files/175.pdf>) | 千葉県松戸市 | 2026-07-24 | 2026-07-24 | 〇全空気方式●工事写真@ 国土交通省大臣官房官庁営繕部制定の「営繕工事写真撮影要領(令和5年版)」による | [松契一般第175号 設計図書（PDF：5,436KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-07524kouji2w.files/175s.pdf>) |
+| 千葉県 | [松契一般第176号 小山ポンプ場ゲート駆動部修繕 （PDF：343KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0724shuzen.files/176.pdf>) | 千葉県松戸市 | 2026-07-24 | 2026-07-24 | 1 5.写真撮影要領 1)現地及び工場における写真を工程毎に撮影すること | [松契一般第176号 設計図書（PDF：13,459KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0724shuzen.files/176s.pdf>) |
+| 千葉県 | [松契一般第180号 八柱駅周辺地区電線共同溝整備工事（PDF：301KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0724kouji_sougou.files/180.pdf>) | 千葉県松戸市 | 2026-07-24 | 2026-09-24 | 写真管理 写真撮影内容は目的を満足しているか | [松契一般第180号 設計図書（PDF：8,927KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/R8-0724kouji_sougou.files/180s.pdf>) |
+| 東京都 | [世田谷区発達障害相談・療育センター等運営事業委託に係るプロポーザルの実施について](<https://www.city.setagaya.lg.jp/documents/34310/00_koukoku.pdf>) | 東京都世田谷区 | 2026-07-23 | 2026-09-04 | 研修の実施にあたっては動画配信を活用するなど、新型コロナウイルス感染症の発生状況に関わらず、参加者が受講しやすいよう工夫すること | [実施要領兼説明書（PDF：271KB）](<https://www.city.setagaya.lg.jp/documents/34310/01_jisshiyouryou.pdf>) |
+| 埼玉県 | [【7月23日公告】堀兼浄水場・水野配水場緊急遮断弁更新実施設計業務委託](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202607232.files/8-708_koukoku.pdf>) | 埼玉県狭山市 | 2026-07-23 | 原文を確認 | なお、現場調査時に現場写真を撮影し、整理のうえ成果品と共に提出する | [入札説明書（PDF・105KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202607232.files/8-708-1_nyuusatusetumeisyo.pdf>) / [位置図（PDF・119KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202607232.files/8-708-2_itizu.pdf>) / [仕様書（PDF・183KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202607232.files/8-708-3_siyousyo.pdf>) / [特記仕様書（PDF・215KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202607232.files/8-708-4_tokkisiyousyo.pdf>) / [参考図（PDF・540KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/zyougesuihachu/202607232.files/8-708-5_sankouzu.pdf>) |
+| 埼玉県 | [【7月23日公告】狭山市中部備蓄倉庫改修工事](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202607231.files/8-16_koukoku.pdf>) | 埼玉県狭山市 | 2026-07-23 | 原文を確認 | (6)改修工事等を施工する場合、施工する前後に工事対象箇所の写真撮影を 行う | [入札説明書（PDF・146KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202607231.files/8-16-1_nyuusatusetumeisyo.pdf>) / [図面一式（PDF・4,438KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202607231.files/8-16-2_zumenissiki.pdf>) / [参考様式：内訳書（建設工事）（ワード・19KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202607231.files/uchiwakekouji_202512.docx>) / [様式一式（工事・単体企業用）（ワード・105KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202607231.files/kouhosyayousikitantai.doc>) |
+| 茨城県 | [【電子入札】【電子契約】令和8年度 HTTR地震観測システムのうち屋内加速度計等に関する保守・点検作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01093.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-07-23 | 2026-09-16 | また、採寸作業時の写真を撮影する | — |
 | 茨城県 | [【電子入札】【電子契約】施設照明の交換及び電源系統変更作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01122.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-07-23 | 2026-09-09 | 15.機密保持構内の写真等撮影は、許可を受けた場合以外は原則として禁止する | — |
 | 茨城県 | [【電子入札】【電子契約】再処理第4変電所受変電設備点検等作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03012.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-07-23 | 2026-09-18 | 2.10 作業報告書及び写真撮影(1) 作業報告書1 作業結果の各項目、測定結果に対して、異常の有無の判定を記載すること | — |
 | 東京都 | [（一般競争入札公告）令和8年度国民健康・栄養調査オンラインシステムの構築・運用・保守一式（総合評価落札方式）](<https://www.nibn.go.jp/procurement/2026/2026-0710-1114-65.html>) | 国立研究開発法人医薬基盤・健康・栄養研究所国立健康・栄養研究所 | 2026-07-22 | 2026-09-17 | 操作マニュアル、運用・保守手順書、教育資料(本システムの概要資料、操作動画、FAQ 等を想定)を作成すること | [入札説明書.pdf](<https://www.nibn.go.jp/procurement/2026/documents/nyusatsu0722-3.pdf>) |

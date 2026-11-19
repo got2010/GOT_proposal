@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-18T12:19+09:00（収集時点）
+最終更新：2026-11-19T11:56+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：鳥取県 島根県 岡山県 広島県 山口県
 
-**258件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**260件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 岡山県 | [令和８年度旭川水系空中写真撮影](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-11-18 | 原文を確認 | 令和8年度旭川水系空中写真撮影 | — |
+| 広島県 | [令和８年度旭川水系空中写真撮影](<https://www.cgr.mlit.go.jp/hattyu/buppin/261118/261118-1-e.pdf>) | 国土交通省中国地方整備局 | 2026-11-18 | 原文を確認 | 令和8年度旭川水系空中写真撮影 | — |
 | 山口県 | [環境学習動画教材制作業務公募型プロポーザルの実施について](<https://www.city.shimonoseki.lg.jp/uploaded/life/165799_657339_misc.pdf>) | 山口県下関市 | 2026-11-16 | 2026-12-04 | 環境学習動画教材制作業務公募型プロポーザルの実施について | [環境学習動画教材制作業務公募型プロポーザル実施要領 \[PDFファイル／145KB\]](<https://www.city.shimonoseki.lg.jp/uploaded/life/165799_657353_misc.pdf>) / [環境学習動画教材制作業仕様書 \[PDFファイル／326KB\]](<https://www.city.shimonoseki.lg.jp/uploaded/life/165799_657340_misc.pdf>) |
 | 山口県 | [令和８年度山口河川国道事務所管内航空写真撮影作業](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-10-27 | 原文を確認 | 令和8年度山口河川国道事務所管内航空写真撮影作業 | — |
 | 広島県 | [令和８年度山口河川国道事務所管内航空写真撮影作業](<https://www.cgr.mlit.go.jp/hattyu/buppin/261027/261027-1-e.pdf>) | 国土交通省中国地方整備局 | 2026-10-27 | 原文を確認 | 令和8年度山口河川国道事務所管内航空写真撮影作業 | — |
@@ -114,7 +116,5 @@
 | 広島県 | [維7-108-221河内町市道除草業務(PDFファイル:194KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-221_kokoku.pdf>) | 広島県東広島市 | 2026-09-14 | 2026-10-09 | 隔に1回撮影することとするが、法面除草箇所においては、1か所以上出来形写真を撮影すること | [7-108-221(PDFファイル:901.4KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_7-108-221.pdf>) |
 | 広島県 | [維7-108-219河内町市道伐木業務(PDFファイル:193.1KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-219_kokoku.pdf>) | 広島県東広島市 | 2026-09-14 | 2026-10-09 | 2. 業務写真業務写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、業務写真の提出部数は、工事写真帳と原本(電子媒体)を各1部提出する | [7-108-219(PDFファイル:745.3KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_7-108-219.pdf>) |
 | 広島県 | [1号7-108-217下三永排水路修繕工事その2(PDFファイル:229.8KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-217_kokoku.pdf>) | 広島県東広島市 | 2026-09-14 | 2026-10-09 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-217(PDFファイル:2.8MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_7-108-217.pdf>) |
-| 広島県 | [1号7-108-216下本郷宮中線ほか道路舗装修繕工事(PDFファイル:198.2KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-216_kokoku.pdf>) | 広島県東広島市 | 2026-09-14 | 2026-10-09 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [7-108-216(PDFファイル:2.5MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_7-108-216.pdf>) |
-| 広島県 | [2号8-108-23大内原地区農業集落排水管更生等改築工事（大08-2）(PDFファイル:227.7KB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/8-108-23_kokoku.pdf>) | 広島県東広島市 | 2026-09-14 | 2026-10-09 | 2. 工事写真 工事写真の撮影に当っては、広島県制定「写真管理基準(令和7年8月)」によるものとし、納 品に当っては、電子媒体又は紙媒体、情報共有システム登録のいずれかとする | [8-108-23(PDFファイル:1.3MB)](<https://www.city.higashihiroshima.lg.jp/material/files/group/7/tosho_8-108-23.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)
