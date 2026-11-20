@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-19T11:56+09:00（収集時点）
+最終更新：2026-11-20T11:49+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**564件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**568件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 6
 
@@ -53,6 +53,10 @@
 | 東京都 | [2027（令和９）年国民生活基礎調査マニュアル動画・広報用動画改修業務一式](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 厚生労働省 | 2026-08-05 | 2026-09-09 | 2027(令和9)年国民生活基礎調査マニュアル動画・広報用動画改修業務一式 | — |
 | 東京都 | [緊急地震速報20周年映像資料の制作](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-29 | 2026-08-19 | 緊急地震速報20周年映像資料の制作 | — |
 | 東京都 | [令和７年度新宿御苑日本館御殿工事（Ⅰ）展示映像撮影業務（総合評価落札方式）](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 環境省 | 2026-07-23 | 2026-08-05 | 令和7年度新宿御苑日本館御殿工事(I)展示映像撮影業務(総合評価落札方式) | — |
+| 東京都 | [江東区男女共同参画等学習講座運営業務委託に係る公募型プロポーザルの実施について](<https://www.city.koto.lg.jp/055201/documents/01_jissiyouryo.pdf>) | 東京都江東区 | 2026-11-19 | 2027-01-18 | ウ 講座終了の挨拶エ 講座記録写真の撮影4 講座終了後ア 講師と次回の打合せ(必要に応じて実施)イ 受講者数の集計ウ アンケートその他区の指定する書類等の回収、集計エ 会場の片付け、原状回復、使用物品の点検・収納(11)実施報告の作成及び報告受託者は、講座等の実施結果について実施報告書を作成し、調整会議において報告する… | [仕様書（PDF：446KB）（別ウィンドウで開きます）](<https://www.city.koto.lg.jp/055201/documents/02_siyosyo.pdf>) |
+| 茨城県 | [【電子入札】【電子契約】原子炉領域の解体に係る濁水浄化系統の概念検討](<https://keiyaku.jaea.go.jp/compe/02/pdf/0804C00789.pdf>) | 国立研究開発法人日本原子力研究開発機構敦賀 | 2026-11-19 | 2027-01-12 | 4.6 写真等の管理受注者は、作業の必要上写真、ビデオ映像等の撮影を行う場合には、次の事項を厳守すること | — |
+| 茨城県 | [【電子入札】【電子契約】周辺監視区域ITVカメラの更新](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01652.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-11-19 | 2027-01-08 | ※4:記録写真について、撮影に当たっては事前に原子力機構の承認を得るものとし、撮影した写真に建屋やフェンス等が含まれないようにすること | — |
+| 茨城県 | [【電子入札】【電子契約】第2排水処理場スクリーン更新作業](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C04877.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-11-19 | 2027-01-08 | 2.10 作業報告書及び写真撮影(1) 作業報告書1 作業結果の各項目、測定結果に対して、異常の有無の判定を記載すること | — |
 | 東京都 | [行船公園管理委託プロポーザルの実施](<https://www.city.edogawa.tokyo.jp/documents/75197/boshuyoko.pdf>) | 東京都江戸川区 | 2026-11-18 | 2027-01-08 | イ.清掃後の現場写真を毎月一回撮影し、上記報告書に添付する | [行船公園管理委託仕様書（PDF：1,057KB）](<https://www.city.edogawa.tokyo.jp/documents/75197/shiyosho.pdf>) |
 | 栃木県 | [仕様書](<https://jsite.mhlw.go.jp/tochigi-roudoukyoku/content/contents/002899391.pdf>) | 厚生労働省栃木労働局 | 2026-11-18 | 原文を確認 | 施工中・施工後)※処分する安定器がある場合は、撤去した安定器を全て必ず写真撮影すること | — |
 | 神奈川県 | [動的貫入試験の数値計算補助業務](<https://www.pari.go.jp/about/procurance/pdf/bid/ea6b82788275ea0e86afaab80315d1d186997d72.pdf>) | 国立研究開発法人海上・港湾・航空技術研究所港湾空港技術研究所 | 2026-11-18 | 2026-12-09 | 反力等)について図の作成(時刻歴図、変形図、色塗りコンター図等)および動画の作成を行い、整理する | [仕様書](<https://www.pari.go.jp/about/procurance/pdf/bid/07002fd474badd48c605ff0549ec93a7a8a3f6f4.pdf>) |
@@ -112,9 +116,5 @@
 | 千葉県 | [松契一般第252号 松戸市立東部小学校エレベーター設置工事（PDF：382KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030teinyuu2w.files/252.pdf>) | 千葉県松戸市 | 2026-10-30 | 2026-10-30 | 本※ 1 部 部 本工事中に作成した工事関係書類等をまとめたもの※完成写真の撮影者は、監督員が承諾した撮影者とする | [松契一般第252号 設計図書（PDF：18,292KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030teinyuu2w.files/252s.pdf>) |
 | 千葉県 | [松契一般第251号 松戸市立常盤平中学校屋上防水改修工事（PDF：384KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030teinyuu2w.files/251.pdf>) | 千葉県松戸市 | 2026-10-30 | 2026-10-30 | 理人以外の検査とする)【工事完了後速やかに】報告1■工事写真(建築工事写真撮影基準に準拠)■1工事記録写真■2完成写真【工事完了後速やかに】写真帳写真帳11建1.2.4電1.2.4機1.2.4代表者■完成図PDF,CADデータCDもしくはDVD2建1.7.2電1.7.2機1.7.2□電子納品電子媒体電子媒体納品書CDも… | [松契一般第251号 設計図書（PDF：677KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030teinyuu2w.files/251s.pdf>) |
 | 千葉県 | [松契一般第250号 松戸市立松飛台第二小学校屋上防水改修工事（PDF：386KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030teinyuu2w.files/250.pdf>) | 千葉県松戸市 | 2026-10-30 | 2026-10-30 | 理人以外の検査とする)【工事完了後速やかに】報告1■工事写真(建築工事写真撮影基準に準拠)■1工事記録写真■2完成写真【工事完了後速やかに】写真帳写真帳11建1.2.4電1.2.4機1.2.4代表者■完成図PDF,CADデータCDもしくはDVD2建1.7.2電1.7.2機1.7.2□電子納品電子媒体電子媒体納品書CDも… | [松契一般第250号 設計図書（PDF：2,586KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030teinyuu2w.files/250s.pdf>) |
-| 千葉県 | [松契一般第282号 汚水管きょ更生工事(R8-2)（PDF：366KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/282.pdf>) | 千葉県松戸市 | 2026-10-30 | 2026-10-30 | 写真管理 写真撮影内容は目的を満足しているか | [松契一般第282号 設計図書（PDF：4,882KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/282s.pdf>) |
-| 千葉県 | [松契一般第281号 汚水管きょ更生工事(R8-1)（PDF：367KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/281.pdf>) | 千葉県松戸市 | 2026-10-30 | 2026-10-30 | 写真管理 写真撮影内容は目的を満足しているか | [松契一般第281号 設計図書（PDF：3,835KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/281s.pdf>) |
-| 千葉県 | [松契一般第280号 松戸市立古ケ崎中学校屋上防水改修工事（PDF：375KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/280.pdf>) | 千葉県松戸市 | 2026-10-30 | 2026-10-30 | における2の(2)手すり 国土交通省大臣官房官庁営繕部制定の「営繕工事写真撮影要領(最新版)」及び官公署等への手続ているものは、証明となる資料等の提出を省略することができる | [松契一般第280号 設計図書（PDF：2,609KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/280s.pdf>) |
-| 千葉県 | [松契一般第279号 松戸市立第一中学校屋上防水改修工事（PDF：374KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/279.pdf>) | 千葉県松戸市 | 2026-10-30 | 2026-10-30 | 理人以外の検査とする)【工事完了後速やかに】報告1■工事写真(建築工事写真撮影基準に準拠)■1工事記録写真■2完成写真【工事完了後速やかに】写真帳写真帳11建1.2.4電1.2.4機1.2.4代表者■完成図PDF,CADデータCDもしくはDVD2建1.7.2電1.7.2機1.7.2□電子納品電子媒体電子媒体納品書CDも… | [松契一般第279号 設計図書（PDF：737KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1030kouji2w.files/279s.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

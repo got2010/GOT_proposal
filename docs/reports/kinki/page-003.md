@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-19T11:56+09:00（収集時点）
+最終更新：2026-11-20T11:49+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**264件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**267件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 兵庫県 | [【制限付一般競争入札】明石市立ふれあいの里魚住 屋上防水及び外壁、ガラスブロック改修ほか修繕（8月17日発注）](<https://www.city.akashi.lg.jp/documents/40171/03koukokubun_1.pdf>) | 兵庫県明石市 | 2026-08-17 | 原文を確認 | 繕着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、修繕完成時に現状復旧が行われているか確認すること | [共通仕様書（PDF：323KB）](<https://www.city.akashi.lg.jp/documents/40171/11kyoutuusiyousyo_2.pdf>) / [特記仕様書（PDF：234KB）](<https://www.city.akashi.lg.jp/documents/40171/12tokkisiyousyo_1.pdf>) |
+| 京都府 | [令和8年8月17日公告分デジタル解析図化機の賃貸借に係る入札公告等](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/081701.pdf>) | 国家公安委員会（警察庁）京都府警察 | 2026-08-17 | 原文を確認 | る物件 (ウ) 前記 (ア)又は (イ)を基に、受注者が作成(複製及び写真撮影を含む )した文 | [仕様書（PDF：208KB）](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/081702.pdf>) / [入札説明書（PDF：136KB）](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/081703.pdf>) |
+| 京都府 | [公衆トイレ応急対応業務委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/434866.htm>) | 京都府京都市 | 2026-08-17 | 原文を確認 | \*1 業務実施に当たっては、施設ごとの施設外観の写真を撮影するとともに、業務開始前・業務終了時の写真(施設内)を応急対応業務日常報告書(別紙3)として提出すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./434866_12_08030905.pdf>) |
 | 兵庫県 | [K02 波賀中学校エレベーター棟増築等工事](<https://www.city.shiso.lg.jp/material/files/group/29/260814_K02_1_hagachuuelevatortouzouchikutou_koukokusho.pdf>) | 兵庫県宍粟市 | 2026-08-14 | 2026-09-08 | 輌の荷積み状態の写真(全てのマニフェストA票に対してその積載状況が判る写真が必要)を撮影し、分類整理されたマニフェストに添付する | [1.](<https://www.city.shiso.lg.jp/material/files/group/29/260814_K02_4-1_hagachuuelevatortouzouchikutou_setsumeisho.pdf>) / [3.](<https://www.city.shiso.lg.jp/material/files/group/29/260814_K02_4-3_hagachuuelevatortouzouchikutou_ichizu.pdf>) / [4.](<https://www.city.shiso.lg.jp/material/files/group/29/260814_K02_4-4_hagachuuelevatortouzouchikutou_zumen1.pdf>) / [5.](<https://www.city.shiso.lg.jp/material/files/group/29/260814_K02_4-5_hagachuuelevatortouzouchikutou_zumen2.pdf>) / [6.](<https://www.city.shiso.lg.jp/material/files/group/29/260814_K02_4-6_hagachuuelevatortouzouchikutou_zumen3.pdf>) |
 | 兵庫県 | [K01 山崎西中学校長寿命化改修工事（I期）](<https://www.city.shiso.lg.jp/material/files/group/29/260814_K01_1_yamasakinishichuuchoujumyoukakaishuu_koukokusho.pdf>) | 兵庫県宍粟市 | 2026-08-14 | 2026-09-08 | 輌の荷積み状態の写真(全てのマニフェストA票に対してその積載状況が判る写真が必要)を撮影し、分類整理されたマニフェストに添付する | [1.](<https://www.city.shiso.lg.jp/material/files/group/29/260814_K01_4-1_yamasakinishichuuchoujumyoukakaishuu_setsumeisho.pdf>) / [3.](<https://www.city.shiso.lg.jp/material/files/group/29/260814_K01_4-3_yamasakinishichuuchoujumyoukakaishuu_ichizu.pdf>) / [4.](<https://www.city.shiso.lg.jp/material/files/group/29/260814_K01_4-4_yamasakinishichuuchoujumyoukakaishuu_zumen1.pdf>) / [5.](<https://www.city.shiso.lg.jp/material/files/group/29/260814_K01_4-5_yamasakinishichuuchoujumyoukakaishuu_zumen2.pdf>) / [6.](<https://www.city.shiso.lg.jp/material/files/group/29/260814_K01_4-6_yamasakinishichuuchoujumyoukakaishuu_zumen3.pdf>) |
 | 京都府 | [一般競争入札のお知らせ（令和８年度主伐・再造林一貫作業実施業務（埴生事業地））](<https://www.pref.kyoto.jp/rinmu/fuyurin/nyuusatu_habu2.html>) | 京都府 | 2026-08-12 | 2026-08-28 | 業終了後には実施状況や出来形数量等が確認できない部分を中心に作業状況を写真撮影する | [(1)入札公告（PDF：246KB）](<https://www.pref.kyoto.jp/rinmu/fuyurin/documents/01nyuusatsukoukoku_habu2.pdf>) / [(2)入札説明書（PDF：222KB）](<https://www.pref.kyoto.jp/rinmu/fuyurin/documents/02nyuusatsusetumeisyo_habu2.pdf>) / [(4)位置図（PDF：169KB）](<https://www.pref.kyoto.jp/rinmu/fuyurin/documents/04ichizu_habu2.pdf>) / [(5)閲覧設計書（PDF：361KB）](<https://www.pref.kyoto.jp/rinmu/fuyurin/documents/05etsurannsekkeisyo_habu2.pdf>) / [(6)図面（PDF：2,069KB）](<https://www.pref.kyoto.jp/rinmu/fuyurin/documents/06zumen_habu2.pdf>) |

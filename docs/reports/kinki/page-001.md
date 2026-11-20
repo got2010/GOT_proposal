@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-19T11:56+09:00（収集時点）
+最終更新：2026-11-20T11:49+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**264件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**267件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 京都府 | [令和8年度動画編集用コンピュータ及び周辺機器賃貸借（京都市元町小学校他 計236校及び学校事務支援室）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/460748.htm>) | 京都府京都市 | 2026-11-19 | 原文を確認 | 令和8年度動画編集用コンピュータ及び周辺機器賃貸借(京都市元町小学校他 計236校及び学校事務支援室) | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./460748_12_11171703.pdf>) |
 | 京都府 | [令和８年度京都御苑映像制作等企画業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 環境省 | 2026-10-09 | 原文を確認 | 令和8年度京都御苑映像制作等企画業務 | — |
 | 京都府 | [令和８年度京都御苑映像制作等企画業務［総合評価落札方式］](<https://www.env.go.jp/garden/kyotogyoen/4_sup/sup_00106.html>) | 環境省京都御苑 | 2026-10-08 | 2026-10-29 | 令和8年度京都御苑映像制作等企画業務\[総合評価落札方式\] | [入札説明書](<https://www.env.go.jp/garden/content/000434584.pdf>) |
 | 大阪府 | [映像音響処理及び撮影業務（さいたま支局） 一式 令和8年10月20日](<https://www.mint.go.jp/about/bid/nyusatsu/nyusatsu-honkyoku/261001347.html>) | 独立行政法人造幣局 | 2026-10-05 | 原文を確認 | 映像音響処理及び撮影業務(さいたま支局) 一式 令和8年10月20日 | — |
@@ -26,6 +27,8 @@
 | 兵庫県 | [宝塚市広報番組制作業務委託に係る公募型プロポーザル](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/boshuyoko.pdf>) | 兵庫県宝塚市 | 2026-08-05 | 原文を確認 | 宝塚市広報番組制作業務委託に係る公募型プロポーザル | [業務仕様書 （PDF 345.9 KB）](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/2_gyomusiyosho.pdf>) / [資料2\_秘密保持等に関する特記仕様書 （PDF 196.0 KB）](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/2_himituhojitounikansurutoltukisiyousho.pdf>) |
 | 京都府 | [令和8年度きょうとプレコン推進事業（幼児期から中学生等を対象とした教育プログラムに係るデザイン・動画作成事業）](<https://www.pref.kyoto.jp/kosodate/news/2026/purecon-sougouhyoka.html>) | 京都府 | 2026-08-03 | 2027-03-31 | 令和8年度きょうとプレコン推進事業(幼児期から中学生等を対象とした教育プログラムに係るデザイン・動画作成事業) | [総合評価競争入札公告（PDF：264KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/01_koukoku.pdf>) / [入札説明書（PDF：228KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/02_nyuusatusetumeisyo_1.pdf>) / [(別紙1)業務委託仕様書（PDF：267KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/03_siyousyo.pdf>) / [(別紙2)企画提案書作成要領（PDF：137KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/03_sakuseiyouryou.pdf>) / [落札者決定基準（PDF：52KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/15_ketteikizyunn.pdf>) |
 | 京都府 | [令和８年度京都市美術館所蔵品撮影業務](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/432372.htm>) | 京都府京都市 | 2026-07-27 | 原文を確認 | 令和8年度京都市美術館所蔵品撮影業務 | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./432372_12_07241115.pdf>) |
+| 京都府 | [令和９年度京都市国民健康保険特定健康診査受診の手引等作製業務](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/459066.htm>) | 京都府京都市 | 2026-11-19 | 原文を確認 | ・封入・封かん業務受注業者へ納品時、授受証拠として納品状態を写真撮影しその写真データを当課へ納品すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./459066_12_11121030.pdf>) |
+| 京都府 | [高台寺山国有林林相改善事業（広葉樹伐採）](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/261119.html>) | 林野庁近畿中国森林管理局京都大阪森林管理事務所 | 2026-11-19 | 原文を確認 | 3 実行記録写真は、造林事業請負実行管理基準に定める実行記録写真の撮影要領に基づき撮影することとするが、ナンバーテープ毎に一連の作業を撮影するものとする | [入札説明書(PDF : 163KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/attach/pdf/261119-2.pdf>) / [閲覧図書(PDF : 3,980KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/attach/pdf/261119-4.pdf>) |
 | 京都府 | [京都市立学校教員用タブレット端末整備 ただし、左京区北部](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/458404.htm>) | 京都府京都市 | 2026-11-18 | 2026-12-23 | 整が可能なスタンドを有することケースを装着したままで、液晶画面の確認、写真撮影、本体の操作(各種 ボタン操作を含む | [入札公告](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./458404_01_11161603.pdf>) / [入札説明書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./458404_02_11161603.pdf>) / [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./458404_03_11161603.pdf>) |
 | 京都府 | [京都市立学校教員用タブレット端末整備 ただし、左京区南部](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/458406.htm>) | 京都府京都市 | 2026-11-18 | 2026-12-23 | 整が可能なスタンドを有することケースを装着したままで、液晶画面の確認、写真撮影、本体の操作(各種 ボタン操作を含む | [入札公告](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./458406_01_11161608.pdf>) / [入札説明書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./458406_02_11161608.pdf>) / [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./458406_03_11161608.pdf>) |
 | 京都府 | [京都市立学校教員用タブレット端末整備 ただし、中京区](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/458408.htm>) | 京都府京都市 | 2026-11-18 | 2026-12-23 | 整が可能なスタンドを有することケースを装着したままで、液晶画面の確認、写真撮影、本体の操作(各種 ボタン操作を含む | [入札公告](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./458408_01_11161611.pdf>) / [入札説明書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./458408_02_11161611.pdf>) / [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./458408_03_11161611.pdf>) |
@@ -113,8 +116,5 @@
 | 滋賀県 | [【公募型プロポーザル】日野町電話交換機等の更新業務](<https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000008/8938/zisshiyouryou.pdf>) | 滋賀県日野町 | 2026-10-01 | 2026-11-05 | 表ほか・納入機器仕様書(A4ファイル綴じ) 2部・保証書類 1部・完成写真(撮影箇所は監督員の指示による) 1部・電子データ上記完成図面、納入仕様書、完成写真の電子データを記録したCD-R 1部※ファイルは、Adobe Acrobat(\*.pdf)形式にて、またpdf形式に変換する前の原データをそれぞれのアプリケーショ… | [仕様書 (PDF形式、774.06KB)](<https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000008/8938/shiyousyo.pdf>) |
 | 大阪府 | [「マイナンバーカードオンライン申請補助端末（マイナ・アシスト2）等納入業務」に係る一般競争入札の実施について](<https://www.city.yao.osaka.jp/_res/projects/default_project/_page_/001/025/516/kokuji.pdf>) | 大阪府八尾市 | 2026-10-01 | 2026-10-13 | 11 顔写真撮影後、彩度、明度、傾き補正を任意で修正可能な機能を有すること | [仕様書 （PDF 205.4KB）](<https://www.city.yao.osaka.jp/_res/projects/default_project/_page_/001/025/516/siyousyo.pdf>) |
 | 兵庫県 | [【制限付一般競争入札】西部配水場屋外灯修繕（10月1日発注）](<https://www.city.akashi.lg.jp/documents/40490/00_20261001_seibuokugai-koukoku.pdf>) | 兵庫県明石市 | 2026-10-01 | 原文を確認 | 1. 修繕写真第2節の撮影要領による | [設計書及び仕様書（PDF：1,904KB）](<https://www.city.akashi.lg.jp/documents/40490/08_20261001_seibuokugai-sekkeisyo.pdf>) |
-| 大阪府 | [08-洛西新林団地環境整備造園その他工事監督業務 （令和8年10月1日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44187_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-10-01 | 2026-11-24 | の明示できる図表、既往成果等を用いることは支障ないが、本件のために特に作成したCG、詳細図面等を用いることは認めない | [仕様書\[431KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44187_4.pdf>) |
-| 兵庫県 | [S01 市道河東神野線他道路CBR調査業務](<https://www.city.shiso.lg.jp/material/files/group/29/260930_S01_1_kawahigashikannohokadourocbrchousa_koukokusho.pdf>) | 兵庫県宍粟市 | 2026-09-30 | 2026-10-16 | また、採取深さ、地盤及び路盤の状態が確認できるように写真撮影を行い、採取後は、原形復旧を行うこと | [設計書等](<https://www.city.shiso.lg.jp/material/files/group/29/260930_S01_4_kawahigashikannohokadourocbrchousa_sekkeisho.pdf>) |
-| 京都府 | [令和８年度南丹市多言語観光パンフレット作成業務 公募型プロポーザルの実施について](<https://www.city.nantan.kyoto.jp/www/town/124/007/000/1020763/1020878_1_501_28.pdf>) | 京都府南丹市 | 2026-09-30 | 2026-10-08 | (1) 企画制作 企画・構成、編集(2) 写真撮影(3) 地図等の作成(4) 翻訳(5) 校正・校閲・色校正の校正刷りは実際のできあがりが確認できる用紙にすることとし、その都度提出すること | [実施要領](<https://www.city.nantan.kyoto.jp/www/town/124/007/000/1020763/1020878_1_501_29.pdf>) / [仕様書](<https://www.city.nantan.kyoto.jp/www/town/124/007/000/1020763/1020878_1_501_30.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

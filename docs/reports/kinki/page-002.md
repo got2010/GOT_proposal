@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-19T11:56+09:00（収集時点）
+最終更新：2026-11-20T11:49+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**264件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**267件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 大阪府 | [08-洛西新林団地環境整備造園その他工事監督業務 （令和8年10月1日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44187_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-10-01 | 2026-11-24 | の明示できる図表、既往成果等を用いることは支障ないが、本件のために特に作成したCG、詳細図面等を用いることは認めない | [仕様書\[431KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44187_4.pdf>) |
+| 兵庫県 | [S01 市道河東神野線他道路CBR調査業務](<https://www.city.shiso.lg.jp/material/files/group/29/260930_S01_1_kawahigashikannohokadourocbrchousa_koukokusho.pdf>) | 兵庫県宍粟市 | 2026-09-30 | 2026-10-16 | また、採取深さ、地盤及び路盤の状態が確認できるように写真撮影を行い、採取後は、原形復旧を行うこと | [設計書等](<https://www.city.shiso.lg.jp/material/files/group/29/260930_S01_4_kawahigashikannohokadourocbrchousa_sekkeisho.pdf>) |
+| 京都府 | [令和８年度南丹市多言語観光パンフレット作成業務 公募型プロポーザルの実施について](<https://www.city.nantan.kyoto.jp/www/town/124/007/000/1020763/1020878_1_501_28.pdf>) | 京都府南丹市 | 2026-09-30 | 2026-10-08 | (1) 企画制作 企画・構成、編集(2) 写真撮影(3) 地図等の作成(4) 翻訳(5) 校正・校閲・色校正の校正刷りは実際のできあがりが確認できる用紙にすることとし、その都度提出すること | [実施要領](<https://www.city.nantan.kyoto.jp/www/town/124/007/000/1020763/1020878_1_501_29.pdf>) / [仕様書](<https://www.city.nantan.kyoto.jp/www/town/124/007/000/1020763/1020878_1_501_30.pdf>) |
 | 京都府 | [嵐山山腹工事](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/260930.html>) | 林野庁近畿中国森林管理局京都大阪森林管理事務所 | 2026-09-30 | 2026-12-02 | 黒板情報の電子的記入 受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [入札公告(PDF : 200KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/attach/pdf/260930-1.pdf>) / [入札説明書(PDF : 366KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/attach/pdf/260930-2.pdf>) / [閲覧図書(PDF : 1,077KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/kyoto/attach/pdf/260930-3.pdf>) |
 | 京都府 | [令和８年度京都市森林経営管理事業間伐業務（京都集計R7-22ほか）](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/446527.htm>) | 京都府京都市 | 2026-09-29 | 原文を確認 | 作業日報(様式4)ウ 業務写真エ その他市長が必要とする書類なお、業務写真については、撮影日、林相、業務内容(測量中、選木前、選木後(マーキングが鮮明に写るようにすること)、保育間伐中、保育間伐後、伐採整理前、伐採整理後)がわかるよう撮影すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./446527_12_09241408.pdf>) |
 | 兵庫県 | [兵庫森林管理署 高圧受電設備更新工事](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/hyogo/260929.html>) | 林野庁近畿中国森林管理局兵庫森林管理署 | 2026-09-29 | 2026-11-05 | (工事写真の撮影)5 工事写真は主要な工事段階ごとに着工前、完成後及び工事後隠ぺいとなる箇所、材料・器具搬入時、その他監督職員の指示に基づき撮影し、工事完了後は速やかに提出する | [入札公告(PDF : 126KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/hyogo/attach/pdf/260929-1.pdf>) / [閲覧図書1(PDF : 2,116KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/hyogo/attach/pdf/260929-5.pdf>) / [閲覧図書2(PDF : 2,299KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/hyogo/attach/pdf/260929-2.pdf>) / [閲覧図書3(PDF : 4,984KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/hyogo/attach/pdf/260929-3.pdf>) / [入札説明書(PDF : 222KB)](<https://www.rinya.maff.go.jp/kinki/apply/publicsale/hyogo/attach/pdf/260929-4.pdf>) |
@@ -113,8 +116,5 @@
 | 兵庫県 | [Inseyets Offline Standalone外の納入①](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/D26081703.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-08-17 | 2026-08-17 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |
 | 兵庫県 | [Inseyets Offline Standaloneの納入](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/D26081702.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-08-17 | 2026-08-17 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |
 | 兵庫県 | [録音録画装置](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/D26081701.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-08-17 | 2026-08-17 | 定める台数、兵庫県警察が指定する施設にそれぞれ納入し、同施設にて設置(映像音声の撮影及び記録に関する必要な調整を含む | — |
-| 兵庫県 | [【制限付一般競争入札】明石市立ふれあいの里魚住 屋上防水及び外壁、ガラスブロック改修ほか修繕（8月17日発注）](<https://www.city.akashi.lg.jp/documents/40171/03koukokubun_1.pdf>) | 兵庫県明石市 | 2026-08-17 | 原文を確認 | 繕着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、修繕完成時に現状復旧が行われているか確認すること | [共通仕様書（PDF：323KB）](<https://www.city.akashi.lg.jp/documents/40171/11kyoutuusiyousyo_2.pdf>) / [特記仕様書（PDF：234KB）](<https://www.city.akashi.lg.jp/documents/40171/12tokkisiyousyo_1.pdf>) |
-| 京都府 | [令和8年8月17日公告分デジタル解析図化機の賃貸借に係る入札公告等](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/081701.pdf>) | 国家公安委員会（警察庁）京都府警察 | 2026-08-17 | 原文を確認 | る物件 (ウ) 前記 (ア)又は (イ)を基に、受注者が作成(複製及び写真撮影を含む )した文 | [仕様書（PDF：208KB）](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/081702.pdf>) / [入札説明書（PDF：136KB）](<https://www.pref.kyoto.jp/fukei/site/kaikei_f/nyuusatsu/documents/081703.pdf>) |
-| 京都府 | [公衆トイレ応急対応業務委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/434866.htm>) | 京都府京都市 | 2026-08-17 | 原文を確認 | \*1 業務実施に当たっては、施設ごとの施設外観の写真を撮影するとともに、業務開始前・業務終了時の写真(施設内)を応急対応業務日常報告書(別紙3)として提出すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./434866_12_08030905.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)
