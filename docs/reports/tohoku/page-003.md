@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-20T11:49+09:00（収集時点）
+最終更新：2026-11-21T11:59+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**308件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**309件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 4
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 岩手県 | [令和8年8月21日公告 令和8年度寺林山市有林造林作業業務委託その3に係る一般競争入札の実施について（林政課）](<https://www.city.morioka.iwate.jp/_res/projects/default_project/_page_/001/058/281/01.pdf>) | 岩手県盛岡市 | 2026-08-21 | 2026-09-18 | (現地写真の撮影及び提出)第5条 受注者は、作業の施工地ごとの現地写真を別紙「写真撮影基準」に基づき撮影し、作業完了後速やかに提出する | [02-1 仕様書 （PDF 228.0 KB）](<https://www.city.morioka.iwate.jp/_res/projects/default_project/_page_/001/058/281/02-1.pdf>) / [06 公正な職務の執行に係る特記仕様書 （PDF 87.3 KB）](<https://www.city.morioka.iwate.jp/_res/projects/default_project/_page_/001/058/281/06.pdf>) |
 | 宮城県 | [造林事業請負（川崎地区、準備地拵）](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sendai/260821zorin.html>) | 林野庁東北森林管理局仙台森林管理署 | 2026-08-21 | 2026-10-13 | 形管理基準(b) 出来形図面(3) 実行記録写真管理 (a) 実行記録写真の撮影要領(b) 実行記録写真の撮影と整理4.管理の実施(1) 現場代理人は、作業の実施の都度、その結果を記録するとともに、その結果に基づいて適切な実行管理を行わなければならない | [入札公告(PDF : 143KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sendai/./attach/pdf/260821zorin-1.pdf>) / [入札説明書(PDF : 164KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sendai/./attach/pdf/260821zorin-2.pdf>) / [造林事業請負標準仕様書(PDF : 507KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sendai/./attach/pdf/260821zorin-3.pdf>) / [国土強靭化関連事業における工事看板の取扱い特記仕様書(PDF : 2,136KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sendai/./attach/pdf/260821zorin-4.pdf>) / [入札説明資料(PDF : 8,281KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/sendai/./attach/pdf/260821zorin-5.pdf>) |
 | 秋田県 | [姫ヶ岳林道災害復旧工事](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kamikoani/260821.html>) | 林野庁東北森林管理局米代東部森林管理署上小阿仁支署 | 2026-08-21 | 2026-10-01 | 注者は、林業専用道に係る工事(新設に限る)の施工に当たっては、別紙の「写真撮影基準」により施工管理を行うことができるものとする | [入札公告 (PDF : 139KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kamikoani/./attach/pdf/260821-1.pdf>) / [入札説明書(PDF : 201KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kamikoani/./attach/pdf/260821-2.pdf>) / [現場説明書(PDF : 336KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kamikoani/./attach/pdf/260821-5.pdf>) / [特記仕様書(PDF : 1,143KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kamikoani/./attach/pdf/260821-6.pdf>) / [図面(PDF : 16,432KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/kamikoani/./attach/pdf/260821-7.pdf>) |
 | 山形県 | [8月20日公告（土木一式A）格付指定型一般競争入札の公告について 工事名：鶴岡市公共下水道事業 雨水道形第1-1幹線1094-A号新設工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/080820-31.files/080820-31.pdf>) | 山形県鶴岡市 | 2026-08-20 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧設計書 （PDF：3,740KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/080820-31.files/080820-31-01.pdf>) / [参考資料 （PDF：850KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/080820-31.files/080820-31-02.pdf>) |
@@ -115,6 +116,5 @@
 | 青森県 | [町道十字路・長下線舗装補修工事](<https://www.town.shichinohe.lg.jp/jigyo/f2c9108de916769c97cd9f213e03229a_3.pdf>) | 青森県七戸町 | 2026-07-14 | 2026-07-30 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [工事-43 町道十字路・長下線舗装補修工事.zip](<https://www.town.shichinohe.lg.jp/jigyo/8915e011c9e2e4b6a3184835e30fa6ea_1.zip>) |
 | 青森県 | [町道横町・蛇坂・荒熊内線外1路線舗装補修工事](<https://www.town.shichinohe.lg.jp/jigyo/d041dace3cf481b7eb0ec6e933b85e32_2.pdf>) | 青森県七戸町 | 2026-07-14 | 原文を確認 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [工事-49 町道横町・蛇坂・荒熊内線外1路線舗装補修工事.zip](<https://www.town.shichinohe.lg.jp/jigyo/1c9db8b584f011d78f5bd75aeeb23217_1.zip>) |
 | 青森県 | [町道白石・市ノ渡線舗装補修工事](<https://www.town.shichinohe.lg.jp/jigyo/32f99fd4fccd10aa66483ad446ff83f6_4.pdf>) | 青森県七戸町 | 2026-07-14 | 原文を確認 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [工事-42 町道白石・市ノ渡線舗装補修工事.zip](<https://www.town.shichinohe.lg.jp/jigyo/da61973fa8cb094dfe494f81ed5c590e_1.zip>) |
-| 山形県 | [7月13日公告（土木一式A）格付指定型一般競争入札の公告について 工事名：市道大泉橋一日市町線道路改良工事（その2）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260713koukoku2.files/20260713koukoku2-1.pdf>) | 山形県鶴岡市 | 2026-07-13 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：2,714KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260713koukoku2.files/20260713koukoku2-2.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-002.md) ｜ [次の100件](page-004.md)

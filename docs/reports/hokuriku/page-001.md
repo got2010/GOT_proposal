@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-20T11:49+09:00（収集時点）
+最終更新：2026-11-21T11:59+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：富山県 石川県 福井県
 
-**59件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**60件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 1
 
@@ -23,6 +23,7 @@
 | 福井県 | [「ポジティブ教育推進事業」動画作成業務委託に係る業者選定プロポーザルについて](<https://www.pref.fukui.lg.jp/doc/gimu/positive-douga_d/fil/betten.pdf>) | 福井県 | 2026-08-20 | 2026-09-18 | 「ポジティブ教育推進事業」動画作成業務委託に係る業者選定プロポーザルについて | [02\_【公告】「ポジティブ教育推進事業」動画作成配信業務に係る 公募型プロポーザル（公募時公開資料）（ＰＤＦ形式 282キロバイト）](<https://www.pref.fukui.lg.jp/doc/gimu/positive-douga_d/fil/koukoku.pdf>) / [01\_【実施要領】「ポジティブ教育推進事業」動画作成配信業務に係る 公募型プロポーザル（公募時公開資料）（ＰＤＦ形式 292キロバイト）](<https://www.pref.fukui.lg.jp/doc/gimu/positive-douga_d/fil/jisshiyouryou.pdf>) / [03 【仕様書】「ポジティブ教育推進事業」動画作成配信業務に係る 公募型プロポーザル委託仕様書（ＰＤＦ形式 243キロバイト）](<https://www.pref.fukui.lg.jp/doc/gimu/positive-douga_d/fil/shiyousho.pdf>) |
 | 富山県 | [富山河川国道事務所（道路）広報動画制作作業その２【オープンカウンター方式】](<https://www.hrr.mlit.go.jp/toyama/webfile/t1_31b762b2aac29eab357d8a4a21abd853.pdf>) | 国土交通省北陸地方整備局富山河川国道事務所 | 2026-08-05 | 原文を確認 | 富山河川国道事務所(道路)広報動画制作作業その2【オープンカウンター方式】 | — |
 | 福井県 | [一般競争入札公告（デジタル航空写真撮影業務委託）](<https://www.town.minamiechizen.lg.jp/tyousei/708/p011527_d/fil/koukoku.pdf>) | 福井県南越前町 | 2026-07-13 | 2026-07-27 | 一般競争入札公告(デジタル航空写真撮影業務委託) | [設計図書（圧縮ファイル（ＺＩＰ） 6,367キロバイト）](<https://www.town.minamiechizen.lg.jp/tyousei/708/p011527_d/fil/sekkeitosyo.zip>) |
+| 福井県 | [福井労働基準監督署 庁舎外壁・内壁等補修工事](<https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002902248.pdf>) | 厚生労働省福井労働局 | 2026-11-20 | 2026-12-09 | 共 通 事 項一 般 共 通 事 項11適用区分適用区分・ 営繕工事写真撮影要領(平成28年版)・同解説 工事写真の撮り方(国土交通省大臣官房官庁営繕部監修)・ 営繕工事写真撮影要領(平成28年版)・同解説 工事写真の撮り方(国土交通省大臣官房官庁営繕部監修)・ 営繕工事写真撮影要領(平成28年版)・同解説 工事写真の… | [入札説明書](<https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002902265.pdf>) / [業務仕様書](<https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002902268.pdf>) / [仕様書](<https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002902269.pdf>) / [様式](<https://jsite.mhlw.go.jp/fukui-roudoukyoku/content/contents/002902271.docx>) |
 | 石川県 | [田鶴浜小学校学校備品](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/20261207_buppin03.pdf>) | 石川県七尾市 | 2026-11-16 | 2026-12-03 | 納入の際は検収用の写真を撮影し、必要事項を記載し提出すること | [エクセル（エクセル：42KB）](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/20261207_shinsei03.xls>) / [ZIP（ZIP：181KB）](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/03_buppin20061207.zip>) |
 | 石川県 | [田鶴浜小学校収納棚・ロッカー等](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/20261207_buppin02.pdf>) | 石川県七尾市 | 2026-11-16 | 2026-12-03 | 納入の際は検収用の写真を撮影し、必要事項を記載し提出すること | [エクセル（エクセル：42KB）](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/20261207_shinsei02.xls>) / [ZIP（ZIP：171KB）](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/02_buppin20261207.zip>) |
 | 石川県 | [令和8年度七尾市防災倉庫新設工事（その2）](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/17_koukoku20261116.pdf>) | 石川県七尾市 | 2026-11-16 | 2026-12-03 | 事 中完 成 時・※カラー※カラー・※カラー・・・※ 景以上「営繕工事写真撮影要領」による※ 景以上※ 1部※ 1部※ 1部・・アルバム部 数 分 類 区 分 撮影枚数・※カラー ※ 景以上・写真パネル完 成 時部 数 分 類 区 分・※カラー 完 成 時 ※木製枠フック付き・ ・ ・仕 様 各区分の写真はA4版スクラ… | [ZIP（ZIP：4,619KB）](<https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/17_kouji20261116.zip>) |

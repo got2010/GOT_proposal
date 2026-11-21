@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-20T11:49+09:00（収集時点）
+最終更新：2026-11-21T11:59+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**267件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**268件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -50,6 +50,7 @@
 | 大阪府 | [ＵＲ賃貸住宅等の保全工事に係る事務処理業務（西日本支社） （令和8年11月17日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44438_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-11-17 | 2027-02-08 | ロ 業務内容及び作業方法対象住戸について、完成住戸の写真を撮影し、PowerPointにて募集PR用資料を作成する | [入札説明書等\[1546KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44438_3.pdf>) / [仕様書\[1517KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44438_4.pdf>) |
 | 奈良県 | [「嘱託登記業務委託（大柳生町地内・東部出張所移転・整備事業）」について、一般競争入札を実施します。](<https://www.city.nara.lg.jp/soshiki/31/279239.html>) | 奈良県奈良市 | 2026-11-16 | 2026-11-26 | よりトータルステーション等を用いて下記を確認する作業をいう(境界標等の写真撮影を含む) | [01\_入札公告 \[PDFファイル／179KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/219247.pdf>) / [02\_入札説明書 \[PDFファイル／177KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/219153.pdf>) / [05\_共通仕様書 \[PDFファイル／306KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/219248.pdf>) / [07\_特記仕様書 \[PDFファイル／156KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/219250.pdf>) / [08\_委託設計書・位置図（嘱託登記業務委託\_大柳生町地内） \[PDFファイル／500KB\]](<https://www.city.nara.lg.jp/uploaded/attachment/219162.pdf>) |
 | 兵庫県 | [K02 宍粟市役所北庁舎 ピロティ屋根防水修繕](<https://www.city.shiso.lg.jp/material/files/group/29/261116_K02_1_kitachoushapirothiyanebousuishuuzen_koukokusho.pdf>) | 兵庫県宍粟市 | 2026-11-16 | 2026-12-02 | (事前に証拠写真等の撮影を行い記録を残しておくこと)(4) 着手前に発注者に対して、作業工程、修繕概要、安全管理対策等の書類を提出し、協議のうえ承認を得ること | [仕様書等](<https://www.city.shiso.lg.jp/material/files/group/29/261116_K02_4_kitachoushapirothiyanebousuishuuzen_shiyousho.pdf>) |
+| 大阪府 | [郵送期限：11月30日 大和田小学校及び上野口小学校外壁等の仕上げ塗材アスベスト含有状況調査業務委託](<https://www.city.kadoma.osaka.jp/material/files/group/81/asubesuto2026_zissiyouryou1120.pdf>) | 大阪府門真市 | 2026-11-13 | 原文を確認 | (エ) 調査場所を確認のうえ、採取後に当該採取場所の写真を撮影すること | [(イ)仕様書 (PDFファイル: 745.5KB)](<https://www.city.kadoma.osaka.jp/material/files/group/81/asubesuto2026_siyousyo20261118.pdf>) / [(シ)内封筒貼付票 (Wordファイル: 32.1KB)](<https://www.city.kadoma.osaka.jp/material/files/group/81/asubesuto2026_utihuutou1120.docx>) |
 | 大阪府 | [郵便期限：12月1日 門真市立門真はすはな中学校総合管理業務委託](<https://www.city.kadoma.osaka.jp/material/files/group/48/jisiyouryou_hasu.pdf>) | 大阪府門真市 | 2026-11-13 | 原文を確認 | (エ) 調査の際、生徒及び職員等の個人情報が写らない範囲であれば、写真撮影は可とします | [内封筒貼付票 (Wordファイル: 32.2KB)](<https://www.city.kadoma.osaka.jp/material/files/group/48/utsifuutouharitukesyo_hasu.docx>) / [標準仕様書 門真市立門真はすはな中学校 総合管理業務委託 (PDFファイル: 381.1KB)](<https://www.city.kadoma.osaka.jp/material/files/group/48/hyoujyunsiyousyo_hasu.pdf>) / [特記仕様書1 特殊建築物等建築物・建築設備・防火設備定期点検業務 (PDFファイル: 151.7KB)](<https://www.city.kadoma.osaka.jp/material/files/group/48/tokkisiyousho_hasu.pdf>) / [特記仕様書2 消防設備点検業務 (PDFファイル: 336.9KB)](<https://www.city.kadoma.osaka.jp/material/files/group/48/tokkisiyousho2_hasu.pdf>) / [特記仕様書3 給排水設備点検業務 (PDFファイル: 101.7KB)](<https://www.city.kadoma.osaka.jp/material/files/group/48/tokkisiyousho3_hasu.pdf>) |
 | 大阪府 | [郵送期限：11月30日 大和田小学校及び上野口小学校外壁等の仕上げ塗材アスベスト含有状況調査業務委託](<https://www.city.kadoma.osaka.jp/material/files/group/81/asubesutozissiyouryou.pdf>) | 大阪府門真市 | 2026-11-13 | 原文を確認 | (エ) 調査場所を確認のうえ、採取後に当該採取場所の写真を撮影すること | [(イ)仕様書 (PDFファイル: 880.8KB)](<https://www.city.kadoma.osaka.jp/material/files/group/81/asubesuto2026_siyousyo.pdf>) / [(シ)内封筒貼付票 (Wordファイル: 32.1KB)](<https://www.city.kadoma.osaka.jp/material/files/group/81/asubesuto2026_utihuutou.docx>) |
 | 京都府 | [公園樹木現況調査業務委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/458243.htm>) | 京都府京都市 | 2026-11-13 | 原文を確認 | 高・面積(cm2)2のは総称(ツツジ類、サクラ類等)を記録するとともに写真を撮影し、監督員へ報告すること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./458243_12_11101134.pdf>) |
@@ -115,6 +116,5 @@
 | 京都府 | [京都市立美術工芸高等学校教員用タブレット端末賃借](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/447673.htm>) | 京都府京都市 | 2026-10-02 | 原文を確認 | (エ) ケースを装着したままで液晶画面の確認、写真撮影、Apple Pencil Proの充電、本体大及び各種ボタン操作ができること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./447673_12_09291700.pdf>) |
 | 滋賀県 | [【公募型プロポーザル】日野町電話交換機等の更新業務](<https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000008/8938/zisshiyouryou.pdf>) | 滋賀県日野町 | 2026-10-01 | 2026-11-05 | 表ほか・納入機器仕様書(A4ファイル綴じ) 2部・保証書類 1部・完成写真(撮影箇所は監督員の指示による) 1部・電子データ上記完成図面、納入仕様書、完成写真の電子データを記録したCD-R 1部※ファイルは、Adobe Acrobat(\*.pdf)形式にて、またpdf形式に変換する前の原データをそれぞれのアプリケーショ… | [仕様書 (PDF形式、774.06KB)](<https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000008/8938/shiyousyo.pdf>) |
 | 大阪府 | [「マイナンバーカードオンライン申請補助端末（マイナ・アシスト2）等納入業務」に係る一般競争入札の実施について](<https://www.city.yao.osaka.jp/_res/projects/default_project/_page_/001/025/516/kokuji.pdf>) | 大阪府八尾市 | 2026-10-01 | 2026-10-13 | 11 顔写真撮影後、彩度、明度、傾き補正を任意で修正可能な機能を有すること | [仕様書 （PDF 205.4KB）](<https://www.city.yao.osaka.jp/_res/projects/default_project/_page_/001/025/516/siyousyo.pdf>) |
-| 兵庫県 | [【制限付一般競争入札】西部配水場屋外灯修繕（10月1日発注）](<https://www.city.akashi.lg.jp/documents/40490/00_20261001_seibuokugai-koukoku.pdf>) | 兵庫県明石市 | 2026-10-01 | 原文を確認 | 1. 修繕写真第2節の撮影要領による | [設計書及び仕様書（PDF：1,904KB）](<https://www.city.akashi.lg.jp/documents/40490/08_20261001_seibuokugai-sekkeisyo.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

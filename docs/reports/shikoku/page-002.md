@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-20T11:49+09:00（収集時点）
+最終更新：2026-11-21T11:59+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：徳島県 香川県 愛媛県 高知県
 
-**168件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**169件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 愛媛県 | [令和8年度愛媛県海洋プラスチックごみ実態把握調査業務に係る入札案内](<https://www.pref.ehime.jp/uploaded/attachment/188357.pdf>) | 愛媛県 | 2026-08-21 | 2026-09-01 | から推定・現地踏査による推定・10m×10mの範囲のごみから量を推定・写真撮影により容量を把握し、他の地点と比較・季節によって漂着するごみの量に違いあり(4パターン)POINT 調査実施時間は下記項目から推定(別紙3参照)・100m2あたりの海岸に漂着しているごみの量・回収調査の範囲(100m2の何倍?)・回収効率(m… | [1．入札公告 \[PDFファイル／172KB\]](<https://www.pref.ehime.jp/uploaded/attachment/188358.pdf>) / [2．入札説明書 \[PDFファイル／262KB\]](<https://www.pref.ehime.jp/uploaded/attachment/188359.pdf>) / [6ー1．仕様書 \[PDFファイル／257KB\]](<https://www.pref.ehime.jp/uploaded/attachment/188334.pdf>) / [環境省「地方公共団体向け漂着ごみ組成調査ガイドライン（令和8年4月第5版） \[PDFファイル／1.92MB\]](<https://www.pref.ehime.jp/uploaded/attachment/188342.pdf>) |
 | 高知県 | [(農第08060号)町田堰頭首工護床工復旧工事【8月19日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_noudai08060-2.pdf>) | 高知県香南市 | 2026-08-19 | 2026-09-24 | 数を用いて体積を算出して設計数量を バーが写るよう運搬車後面のデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 403.4KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_noudai08060.pdf>) / [公表単価一覧表 (PDFファイル: 33.2KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_noudai08060.pdf>) / [位置図 (PDFファイル: 373.8KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_noudai08060.pdf>) / [図面 (PDFファイル: 1.9MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_noudai08060.pdf>) |
 | 高知県 | [(高潮第1-2号)吉川漁港海岸高潮対策工事（鋼矢板圧入)【8月19日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_takasiodai1-2.pdf>) | 高知県香南市 | 2026-08-19 | 2026-09-24 | 源利用計画書及び 荷姿、運搬車のナンバーが写るよう運搬車後面のデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 424.5KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_takashio1-2.pdf>) / [数量計算書 (PDFファイル: 97.1KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/suryou_takashio1-2.pdf>) / [位置図 (PDFファイル: 736.3KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_takashio1-2.pdf>) / [図面 (PDFファイル: 898.4KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_takashio1-2.pdf>) |
 | 高知県 | [(農第08061号)物部川統合堰2号魚道改修工事【8月19日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_nourindai08061-2.pdf>) | 高知県香南市 | 2026-08-19 | 2026-09-24 | 数を用いて体積を算出して設計数量を バーが写るよう運搬車後面のデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 393.9KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_noudai08061.pdf>) / [公表単価一覧表 (PDFファイル: 29.3KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_nou08061.pdf>) / [位置図 (PDFファイル: 372.1KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_nou08061.pdf>) / [図面 (PDFファイル: 2.6MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_noudai08061-1.pdf>) |

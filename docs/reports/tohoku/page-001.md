@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-20T11:49+09:00（収集時点）
+最終更新：2026-11-21T11:59+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**308件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**309件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 4
 
@@ -22,6 +22,7 @@
 | 秋田県 | [【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-08-17 | 2026-09-16 | 【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務 | — |
 | 岩手県 | [【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-21 | 原文を確認 | 【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務 | — |
 | 岩手県 | [龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について](<https://www.town.iwaizumi.lg.jp/docs/2026071400011/file_contents/00.pdf>) | 岩手県岩泉町 | 2026-07-17 | 2026-09-04 | 龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について | — |
+| 宮城県 | [令和8年度石巻市立桜坂高等学校教育用サーバ、コンピュータ及び周辺機器賃貸借](<https://www.city.ishinomaki.lg.jp/cont/20102000/nyusatsu/0002/nyuusatukoukoku.pdf>) | 宮城県石巻市 | 2026-11-20 | 原文を確認 | 画面転送、動画配信、電源管理、生徒用画面のモニタリング、リモート操作・制御、簡易ユーザ管理、個人・グループフォルダの作成納入時の最新版を納品すること | [仕様書](<https://www.city.ishinomaki.lg.jp/cont/20102000/nyusatsu/0002/siyousyo.pdf>) / [個人情報の取り扱いに関する特記仕様書](<https://www.city.ishinomaki.lg.jp/cont/20102000/nyusatsu/0002/kozinnzyouhousiyousyo.pdf>) / [内訳書](<https://www.city.ishinomaki.lg.jp/cont/20102000/nyusatsu/0002/utiwakesyogoukei.pdf>) / [PC室平面図](<https://www.city.ishinomaki.lg.jp/cont/20102000/nyusatsu/0002/PCshituheimennzu.pdf>) / [桜坂高校既存ネットワーク図](<https://www.city.ishinomaki.lg.jp/cont/20102000/nyusatsu/0002/sakurazakakizonnnetto.pdf>) |
 | 岩手県 | [【医療局入札公告】県立病院（大船渡病院ほか10施設）重油地下タンク貯蔵所ほか清掃点検業務](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/424/r8south/01_koukoku_south.pdf>) | 岩手県 | 2026-11-19 | 原文を確認 | 作のチェックリストを作成し添付)7 業務管理(作業完了確認、品質確認、写真撮影要領等)8 緊急時の体制及び対応9 交通管理(敷地内走行速度、過積載防止、車両点検、道路交通法の遵守等)10 環境対策(騒音、振動、ゴミ、ほこり等の対策等)11 産業廃棄物処理(産業廃棄物の運搬、処分方法等)12 その他(作業用電源・水道等)… | [02入札説明書 （PDF 255.3KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/424/r8south/02_setsumei_south.pdf>) / [06契約の保証について （PDF 102.3KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/424/r8south/06_keiyakuhoshou.pdf>) / [07業務仕様書 （PDF 322.9KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/424/r8south/07_shiyousyo_south.pdf>) |
 | 岩手県 | [【医療局入札公告】県立病院（遠野病院ほか8施設）重油等地下タンク貯蔵所ほか清掃点検業務](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/425/r8north/01_koukoku_north.pdf>) | 岩手県 | 2026-11-19 | 原文を確認 | 作のチェックリストを作成し添付)7 業務管理(作業完了確認、品質確認、写真撮影要領等)8 緊急時の体制及び対応9 交通管理(敷地内走行速度、過積載防止、車両点検、道路交通法の遵守等)10 環境対策(騒音、振動、ゴミ、ほこり等の対策等)11 産業廃棄物処理(産業廃棄物の運搬、処分方法等)12 その他(作業用電源・水道等)… | [02入札説明書 （PDF 255.3KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/425/r8north/02_setsumei_north.pdf>) / [06契約の保証について （PDF 102.3KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/425/r8north/06_keiyakuhoshou.pdf>) / [07業務仕様書 （PDF 320.4KB）](<https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/425/r8north/07_shiyousyo_north.pdf>) |
 | 福島県 | [令和８年度福島国際研究教育機構敷地整備工事 （令和8年11月19日）](<https://www.ur-net.go.jp/orders/f-reconstruction/pdf/order_44514_2.pdf>) | 独立行政法人都市再生機構東北震災復興支援本部 | 2026-11-19 | 2026-12-11 | 12 本工事は、建設現場において動画撮影用のカメラ(タブレット端末やスマートフォン等)によって取得した映像及び音声を利用し、遠隔 地からWeb会議システム等を介して「段階確認」、「材料確認」と「立会い」を行う遠隔臨場の試行工事である | — |
@@ -115,6 +116,5 @@
 | 山形県 | [10月5日公告（土木一式A～D）条件付き一般競争入札の公告について 工事名：鶴岡市公共下水道事業 汚水1C084号ほか人孔改良工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/081005-36.files/081005-36.pdf>) | 山形県鶴岡市 | 2026-10-05 | 2026-10-23 | (3) 緊急巡回にあたっては、写真撮影により日時及びその状況を記録しておくものとする | [入札説明書 （PDF：213KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/081005-36.files/081005-36-01.pdf>) / [条件付き一般競争入札参加資格確認申請様式等 （ワード：68KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/081005-36.files/081005-36-02.doc>) / [閲覧図書一式 （PDF：11,243KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/081005-36.files/081005-36-03.pdf>) |
 | 宮城県 | [令７−依・学環・交 第二中学校長寿命化改良工事（3期・電気設備）](<https://www.city.shiogama.miyagi.jp/uploaded/life/58947_151335_misc.pdf>) | 宮城県塩竃市 | 2026-10-05 | 2026-10-25 | ※ 営繕工事写真撮影要領(国土交通省大臣官房官庁営繕部監修 令和5年版) 工事編&gt; (国土交通省大臣官房庁営繕部監修 令和5年版)・ 宮城県建築工事写真撮影要領(宮城県土木部制定 令和5年版)及び工事写真撮影ガイドブック&lt;電気設備解体工事1.特記事項※ 建物一式のとりこわし工事に適用とし、機器等の改修工事は適用外建設副… | [設計書一式 \[その他のファイル／2.6MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/58947_151337_misc.zip>) |
 | 宮城県 | [令７−依・学環・交 第二中学校長寿命化改良工事（3期・機械設備）](<https://www.city.shiogama.miyagi.jp/uploaded/life/58949_151346_misc.pdf>) | 宮城県塩竃市 | 2026-10-05 | 2026-10-25 | 屋外露出,多湿箇所 ・ ステンレス鋼板( )1部CD2枚1部・営繕工事写真撮影要領(国土交通省大臣官房庁営繕部監修 平成31年版)・建設工事執行規則(昭和39年3月宮城県規則第9号)・宮城県建設工事元請・下請関係適正化要綱(最新版)・宮城県建築工事写真撮影要領(宮城県土木部制定 平成12年版)及び工事写真撮影ガイドブッ… | [設計書一式 \[その他のファイル／2.21MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/58949_151348_misc.zip>) |
-| 青森県 | [8589.zip](<https://www.town.aomori-nanbu.lg.jp/uploaded/attachment/8589.zip>) | 青森県南部町 | 2026-10-05 | 2026-10-23 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | — |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)
