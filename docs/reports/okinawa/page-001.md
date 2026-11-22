@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-21T11:59+09:00（収集時点）
+最終更新：2026-11-22T10:53+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：沖縄県
 
-**77件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**79件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 1
 
@@ -17,6 +17,8 @@
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
 | 沖縄県 | [浄水場見学者用動画作成業務委託の一般競争入札](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/625/r8_18_01.pdf>) | 沖縄県 | 2026-10-09 | 2026-10-21 | 浄水場見学者用動画作成業務委託の一般競争入札 | [入札説明書 （PDF 138.8KB）](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/625/r8_18_03.pdf>) |
+| 沖縄県 | [血管造影室映像システム](<https://www.u-ryukyu.ac.jp/wp-content/uploads/2026/11/d6b24316a70658adc56cf3a7746ad1bb.pdf>) | 国立大学法人琉球大学 | 2026-11-21 | 2026-12-01 | び構成内訳血管造影室映像システム 一式(構成内訳)1.サーバー設備2.映像収録設備3.連携対応3 技術的要件の概要1. 本調達物品に係る性能・機能及び技術等の要求要件は別紙に示すとおりである | [入札説明書](<https://www.u-ryukyu.ac.jp/wp-content/uploads/2026/11/32663861f236c76e453f1808f188c5f5.pdf>) / [仕様書](<https://www.u-ryukyu.ac.jp/wp-content/uploads/2026/11/e6209931f1227526c43b4fdf75f6538c.pdf>) |
+| 沖縄県 | [内視鏡室映像システム](<https://www.u-ryukyu.ac.jp/wp-content/uploads/2026/11/7fee233440a52331deecc129caf63b02.pdf>) | 国立大学法人琉球大学 | 2026-11-21 | 2026-12-01 | 目的2 調達物品及び構成内訳内視鏡室映像システム 一式(構成内訳)1.映像収録設備2.連携対応3 技術的要件の概要1. 本調達物品に係る性能・機能及び技術等の要求要件は別紙に示すとおりである | [入札説明書](<https://www.u-ryukyu.ac.jp/wp-content/uploads/2026/11/6646399b449294b1e717c6dee655c5f5.pdf>) / [仕様書](<https://www.u-ryukyu.ac.jp/wp-content/uploads/2026/11/5a48373d549508dfea0537ac1a68dd7a.pdf>) |
 | 沖縄県 | [防災行政用無線石垣中継局自営受電線路改修工事（再公告）](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/946/01kokoku.pdf>) | 沖縄県 | 2026-11-19 | 2026-12-10 | )(2) 主任技術者及び監理技術者の雇用関係についてア(3)※営繕工事写真撮影要領(令和5年版)イ※(4)○ (1) 関連工事との取り合いは、別表-1による | [02 入札説明書 （PDF 253.6KB）](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/946/02nyusatusetumeisyo.pdf>) / [03 設計図面 （PDF 1.4MB）](<https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/946/03zumen.pdf>) |
 | 沖縄県 | [標体整備（浦添第二回）](<https://www.kaiho.mlit.go.jp/11kanku/nyusatu/007-reiwa8nenndo/ekimu/ekimu113/ekimu113koukoku.pdf>) | 海上保安庁第十一管区海上保安本部 | 2026-11-19 | 2026-12-16 | 試験含む)3 塗装検査仕上塗装の目視検査のほか、下地処理の状況はカラー写真撮影、塗装は各工程ごとに塗膜測定を行い、取りまとめて監督職員に提出し、確認を受ける | [仕様書](<https://www.kaiho.mlit.go.jp/11kanku/nyusatu/007-reiwa8nenndo/ekimu/ekimu113/ekimu113siyousyo.pdf>) |
 | 沖縄県 | [水納島無線方位信号所撤去工事](<https://www.kaiho.mlit.go.jp/11kanku/nyusatu/007-reiwa8nenndo/kouji/kouji68/kouji68koukoku.pdf>) | 海上保安庁第十一管区海上保安本部 | 2026-11-17 | 2026-12-14 | (2) 工事完成後に視認できない箇所については、工事の進捗につれて写真撮影を行う | [仕様書](<https://www.kaiho.mlit.go.jp/11kanku/nyusatu/007-reiwa8nenndo/kouji/kouji68/kouji68shiyosho.pdf>) |
