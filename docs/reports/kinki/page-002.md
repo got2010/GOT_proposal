@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-24T14:44+09:00（収集時点）
+最終更新：2026-11-25T13:46+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**268件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**271件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 京都府 | [京都市立美術工芸高等学校教員用タブレット端末賃借](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/447673.htm>) | 京都府京都市 | 2026-10-02 | 原文を確認 | (エ) ケースを装着したままで液晶画面の確認、写真撮影、Apple Pencil Proの充電、本体大及び各種ボタン操作ができること | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./447673_12_09291700.pdf>) |
+| 滋賀県 | [【公募型プロポーザル】日野町電話交換機等の更新業務](<https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000008/8938/zisshiyouryou.pdf>) | 滋賀県日野町 | 2026-10-01 | 2026-11-05 | 表ほか・納入機器仕様書(A4ファイル綴じ) 2部・保証書類 1部・完成写真(撮影箇所は監督員の指示による) 1部・電子データ上記完成図面、納入仕様書、完成写真の電子データを記録したCD-R 1部※ファイルは、Adobe Acrobat(\*.pdf)形式にて、またpdf形式に変換する前の原データをそれぞれのアプリケーショ… | [仕様書 (PDF形式、774.06KB)](<https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000008/8938/shiyousyo.pdf>) |
+| 大阪府 | [「マイナンバーカードオンライン申請補助端末（マイナ・アシスト2）等納入業務」に係る一般競争入札の実施について](<https://www.city.yao.osaka.jp/_res/projects/default_project/_page_/001/025/516/kokuji.pdf>) | 大阪府八尾市 | 2026-10-01 | 2026-10-13 | 11 顔写真撮影後、彩度、明度、傾き補正を任意で修正可能な機能を有すること | [仕様書 （PDF 205.4KB）](<https://www.city.yao.osaka.jp/_res/projects/default_project/_page_/001/025/516/siyousyo.pdf>) |
 | 兵庫県 | [【制限付一般競争入札】西部配水場屋外灯修繕（10月1日発注）](<https://www.city.akashi.lg.jp/documents/40490/00_20261001_seibuokugai-koukoku.pdf>) | 兵庫県明石市 | 2026-10-01 | 原文を確認 | 1. 修繕写真第2節の撮影要領による | [設計書及び仕様書（PDF：1,904KB）](<https://www.city.akashi.lg.jp/documents/40490/08_20261001_seibuokugai-sekkeisyo.pdf>) |
 | 大阪府 | [08-洛西新林団地環境整備造園その他工事監督業務 （令和8年10月1日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44187_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-10-01 | 2026-11-24 | の明示できる図表、既往成果等を用いることは支障ないが、本件のために特に作成したCG、詳細図面等を用いることは認めない | [仕様書\[431KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44187_4.pdf>) |
 | 兵庫県 | [S01 市道河東神野線他道路CBR調査業務](<https://www.city.shiso.lg.jp/material/files/group/29/260930_S01_1_kawahigashikannohokadourocbrchousa_koukokusho.pdf>) | 兵庫県宍粟市 | 2026-09-30 | 2026-10-16 | また、採取深さ、地盤及び路盤の状態が確認できるように写真撮影を行い、採取後は、原形復旧を行うこと | [設計書等](<https://www.city.shiso.lg.jp/material/files/group/29/260930_S01_4_kawahigashikannohokadourocbrchousa_sekkeisho.pdf>) |
@@ -113,8 +116,5 @@
 | 大阪府 | [武庫川団地における放置自転車等調査検討業務 （令和8年8月19日）](<https://www.ur-net.go.jp/orders/west/pdf/order_43896_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-08-19 | 2026-10-09 | の明示できる図表、既往成果等を用いることは支障ないが、本件のために特に作成したCG、詳細図面等を用いることは認めない | — |
 | 奈良県 | [一般競争入札公告（「ザ！雑巾ダッシュ！！2026 inみつえ」会場設営等業務委託）](<https://www.vill.mitsue.nara.jp/material/files/group/4/zoukin2026koukoku.pdf>) | 奈良県御杖村 | 2026-08-17 | 2026-08-26 | (6)過去2年以内にイベントの映像配信業務の履行実績を有すること | [2.入札説明書 (PDFファイル: 103.4KB)](<https://www.vill.mitsue.nara.jp/material/files/group/4/zoukinsetsumei2026.pdf>) / [3.委託業務仕様書 (PDFファイル: 87.4KB)](<https://www.vill.mitsue.nara.jp/material/files/group/4/zoukinsiyousyo2026.pdf>) / [4.大会要領 (PDFファイル: 274.7KB)](<https://www.vill.mitsue.nara.jp/material/files/group/4/zoukinyoukou2026.pdf>) / [5.会場設営図 (PNG: 425.5KB)](<https://www.vill.mitsue.nara.jp/material/files/group/4/zoukinkaijouzu2026.png>) / [6.会場設営資料 (PDFファイル: 232.3KB)](<https://www.vill.mitsue.nara.jp/material/files/group/4/zoukinsetsuei2026.pdf>) |
 | 奈良県 | [https://www.city.ikoma.lg.jp/0000042102.html](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42102/001.pdf>) | 奈良県生駒市 | 2026-08-17 | 2026-09-02 | ・施工前、施工中、施工後の写真を撮影し、業務完了報告書に添付して提出すること | [契約主要事項説明書(PDF形式、133.95KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42102/02.pdf>) / [仕様書 (PDF形式、200.95KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42102/03.pdf>) / [事前審査型条件付一般競争入札参加資格確認申請書 (ワード形式、35.00KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42102/12.doc>) / [業務履行実績調書 (ワード形式、36.00KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42102/13.doc>) / [誓約書 (ワード形式、60.50KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42102/14.doc>) |
-| 兵庫県 | [Inseyets Offline Standalone外の納入②](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/D26081704.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-08-17 | 2026-08-17 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |
-| 兵庫県 | [Inseyets Offline Standalone外の納入①](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/D26081703.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-08-17 | 2026-08-17 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |
-| 兵庫県 | [Inseyets Offline Standaloneの納入](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/D26081702.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-08-17 | 2026-08-17 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

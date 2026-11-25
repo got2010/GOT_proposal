@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-24T14:44+09:00（収集時点）
+最終更新：2026-11-25T13:46+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**309件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**312件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 4
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 山形県 | [10月5日公告（土木一式A～D）条件付き一般競争入札の公告について 工事名：鶴岡市公共下水道事業 汚水1C084号ほか人孔改良工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/081005-36.files/081005-36.pdf>) | 山形県鶴岡市 | 2026-10-05 | 2026-10-23 | (3) 緊急巡回にあたっては、写真撮影により日時及びその状況を記録しておくものとする | [入札説明書 （PDF：213KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/081005-36.files/081005-36-01.pdf>) / [条件付き一般競争入札参加資格確認申請様式等 （ワード：68KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/081005-36.files/081005-36-02.doc>) / [閲覧図書一式 （PDF：11,243KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/081005-36.files/081005-36-03.pdf>) |
+| 宮城県 | [令７−依・学環・交 第二中学校長寿命化改良工事（3期・電気設備）](<https://www.city.shiogama.miyagi.jp/uploaded/life/58947_151335_misc.pdf>) | 宮城県塩竃市 | 2026-10-05 | 2026-10-25 | ※ 営繕工事写真撮影要領(国土交通省大臣官房官庁営繕部監修 令和5年版) 工事編&gt; (国土交通省大臣官房庁営繕部監修 令和5年版)・ 宮城県建築工事写真撮影要領(宮城県土木部制定 令和5年版)及び工事写真撮影ガイドブック&lt;電気設備解体工事1.特記事項※ 建物一式のとりこわし工事に適用とし、機器等の改修工事は適用外建設副… | [設計書一式 \[その他のファイル／2.6MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/58947_151337_misc.zip>) |
+| 宮城県 | [令７−依・学環・交 第二中学校長寿命化改良工事（3期・機械設備）](<https://www.city.shiogama.miyagi.jp/uploaded/life/58949_151346_misc.pdf>) | 宮城県塩竃市 | 2026-10-05 | 2026-10-25 | 屋外露出,多湿箇所 ・ ステンレス鋼板( )1部CD2枚1部・営繕工事写真撮影要領(国土交通省大臣官房庁営繕部監修 平成31年版)・建設工事執行規則(昭和39年3月宮城県規則第9号)・宮城県建設工事元請・下請関係適正化要綱(最新版)・宮城県建築工事写真撮影要領(宮城県土木部制定 平成12年版)及び工事写真撮影ガイドブッ… | [設計書一式 \[その他のファイル／2.21MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/58949_151348_misc.zip>) |
 | 青森県 | [8589.zip](<https://www.town.aomori-nanbu.lg.jp/uploaded/attachment/8589.zip>) | 青森県南部町 | 2026-10-05 | 2026-10-23 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | — |
 | 青森県 | [8588.zip](<https://www.town.aomori-nanbu.lg.jp/uploaded/attachment/8588.zip>) | 青森県南部町 | 2026-10-05 | 2026-10-23 | 1-8.工事記録写真撮影(写真管理)1. 撮影箇所(1) 工種別に、施工前・施工中・施工後の写真を同一方向から撮影すること2. 写真の種類(1) 写真はカラーとする | — |
 | 山形県 | [LGWANネットワーク等無線LAN環境構築工事 条件付き一般競争入札（10月2日公告）](<https://www.town.oishida.yamagata.jp/chousei/nyuusatsu/koukoku/musen_nyusatsu.files/kokoku.pdf>) | 山形県大石田町 | 2026-10-03 | 原文を確認 | イ アのほか、受注者は、次に掲げる施工状況について工事写真を撮影し、工事写真帳として紙により1部及び電子データにより1式(完成図書と同一の媒体に記録)提出すること | [様式第2号 同種工事の施工実績（ワード：18KB）](<https://www.town.oishida.yamagata.jp/chousei/nyuusatsu/koukoku/musen_nyusatsu.files/koji_jisseki.docx>) / [様式第3号 現場代理人の資格・工事経験（ワード：19KB）](<https://www.town.oishida.yamagata.jp/chousei/nyuusatsu/koukoku/musen_nyusatsu.files/dairinin_shikaku.docx>) / [様式第4号 主任技術者資格・工事経験（ワード：19KB）](<https://www.town.oishida.yamagata.jp/chousei/nyuusatsu/koukoku/musen_nyusatsu.files/shunin_shikaku_word.docx>) / [設計書（PDF：135KB）](<https://www.town.oishida.yamagata.jp/chousei/nyuusatsu/koukoku/musen_nyusatsu.files/sekkeisho.pdf>) / [特記仕様書（PDF：405KB）](<https://www.town.oishida.yamagata.jp/chousei/nyuusatsu/koukoku/musen_nyusatsu.files/tokkishiyosho.pdf>) |
@@ -113,8 +116,5 @@
 | 青森県 | [岩木町・飯詰線舗装１工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k036.pdf>) | 青森県五所川原市 | 2026-08-26 | 2026-09-02 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j036.zip>) |
 | 青森県 | [岩木町・飯詰線舗装２工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k035.pdf>) | 青森県五所川原市 | 2026-08-26 | 2026-09-02 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j035.zip>) |
 | 山形県 | [【郵送入札】告示第545号 鳥海高原観光レクリエーション地区給水施設清掃等業務委託【単価契約】（8月25日公告、9月10日開札）](<https://www.city.sakata.lg.jp/shisei/nyusatsu/nyusatsukoukoku/keiyaku545.files/koukoku545.pdf>) | 山形県酒田市 | 2026-08-25 | 2026-09-01 | (1)作業完了報告書(2)業務写真(作業前、作業中、作業後の写真を撮影し、作業報告書として提出すること | [確約書（PDF：121KB）](<https://www.city.sakata.lg.jp/shisei/nyusatsu/nyusatsukoukoku/keiyaku545.files/kakuyaku545.pdf>) / [仕様書（PDF：91KB）](<https://www.city.sakata.lg.jp/shisei/nyusatsu/nyusatsukoukoku/keiyaku545.files/siyou545.pdf>) |
-| 秋田県 | [造林事業請負（象潟地区、下刈・除伐）](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuri/260825.html>) | 林野庁東北森林管理局由利森林管理署 | 2026-08-25 | 2026-09-25 | (3) 実行記録写真(a) 実行記録写真の撮影要領ア.実行記録写真は、事業完了時に確認できない部分等の証拠及び品質管理等実行管理に役立たせるために撮影するものとし、事業着手前の状況から事業完了に至るまでの実行の経過を記録し、整理編集の上、監督職員に提出しなければならない | [入札公告.pdf(PDF : 324KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuri/./attach/pdf/260825-1.pdf>) / [（1）入札説明書.pdf(PDF : 397KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuri/./attach/pdf/260825-2.pdf>) / [（2）競争参加資格確認申請書外.pdf(PDF : 779KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuri/./attach/pdf/260825-3.pdf>) / [（3）紙入札参加承諾願.pdf(PDF : 172KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuri/./attach/pdf/260825-4.pdf>) / [（5）条件因子表（象潟地区）.pdf(PDF : 79KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/yuri/./attach/pdf/260825-6.pdf>) |
-| 宮城県 | [令和8年度 矢本東小学校トイレ改修工事](<https://www.city.higashimatsushima.miyagi.jp/jigyosya/keiyaku-nyusatsu/keiyaku-nyusatsu/ippankyosonyusatsu/kanzaikeiyakuk1119.files/10yamotohigasitoire.zip>) | 宮城県東松島市 | 2026-08-21 | 2026-08-31 | ・フリーアルバム・ 箇所 枚 (台紙寸法323×270程度)・営繕工事写真撮影要領により、完成届に添付する完成写真とは別に次のものを原本(電子媒体)とともに監督職員に提出する | — |
-| 岩手県 | [令和8年8月21日公告 令和8年度寺林山市有林造林作業業務委託その3に係る一般競争入札の実施について（林政課）](<https://www.city.morioka.iwate.jp/_res/projects/default_project/_page_/001/058/281/01-11.pdf>) | 岩手県盛岡市 | 2026-08-21 | 2026-09-18 | (現地写真の撮影及び提出)第5条 受注者は、作業の施工地ごとの現地写真を別紙「写真撮影基準」に基づき撮影し、作業完了後速やかに提出する | [02-1 仕様書 （PDF 228.0 KB）](<https://www.city.morioka.iwate.jp/_res/projects/default_project/_page_/001/058/281/02-1.pdf>) / [06 公正な職務の執行に係る特記仕様書 （PDF 87.3 KB）](<https://www.city.morioka.iwate.jp/_res/projects/default_project/_page_/001/058/281/06.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

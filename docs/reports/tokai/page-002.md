@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-24T14:44+09:00（収集時点）
+最終更新：2026-11-25T13:46+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：岐阜県 静岡県 愛知県 三重県
 
-**131件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**132件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 岐阜県 | [下水委第16号](<https://www.city.kaizu.lg.jp/shisei/cmsfiles/contents/0000004/4537/20260812_gesuii16_06koukoku.pdf>) | 岐阜県海津市 | 2026-08-12 | 2026-08-27 | の提出が妥当でない業務(積算事務、現場技術事務、広報用の映画作成や航空写真撮影等)及び用地調査業務, における、戸籍・住民票等、土地境界確認書、第6章から第12章は対象外とする | [特記仕様書 (PDF形式、310.69KB)](<https://www.city.kaizu.lg.jp/shisei/cmsfiles/contents/0000004/4537/20260812_gesuii16_03tokki.pdf>) / [位置図 (PDF形式、1.23MB)](<https://www.city.kaizu.lg.jp/shisei/cmsfiles/contents/0000004/4537/20260812_gesuii16_04itizu01.pdf>) / [耐震補強対策位置図 (PDF形式、5.28MB)](<https://www.city.kaizu.lg.jp/shisei/cmsfiles/contents/0000004/4537/20260812_gesuii16_05itizu02.pdf>) / [仕様書 (エクセル形式、86.25KB)](<https://www.city.kaizu.lg.jp/shisei/cmsfiles/contents/0000004/4537/20260812_gesuii16_01siyousho.xlsx>) |
 | 愛知県 | [2026～2028 年度課題別「上水道無収水量管理対策（漏水防止対策）（A）」に係る研修委託契約（一般競争入札（総合評価落札方式））（113KB）](<https://www.jica.go.jp/about/announce/domestic/02/11/__icsFiles/afieldfile/2026/08/07/attachment.pdf>) | 独立行政法人国際協力機構JICA中部 | 2026-08-07 | 2027-03-05 | 来日前にオンデマンド教材を使用した自己学習を実施するため、30分程度の動画教材を作成する | [1（601KB）](<https://www.jica.go.jp/about/announce/domestic/02/11/__icsFiles/afieldfile/2026/08/07/attachment1_1.pdf>) / [2（142KB）](<https://www.jica.go.jp/about/announce/domestic/02/11/__icsFiles/afieldfile/2026/08/07/attachment2.pdf>) / [3（75KB）](<https://www.jica.go.jp/about/announce/domestic/02/11/__icsFiles/afieldfile/2026/08/07/attachment3.pdf>) |
 | 三重県 | [令和8年度 受 第6号 川越町いきいきセンター給排水改修工事](<https://www.town.kawagoe.mie.jp/_res/projects/default_project/_page_/001/004/282/koukoku12ikiiki.docx>) | 三重県川越町 | 2026-08-06 | 2026-08-18 | 料・設備機材等品質12 建築材料等 時 期(年 月 日~ ) 営繕工事写真撮影要領(国土交通省大臣官房官庁営繕部 (令和3年版))に従い撮影すること | [川越町いきいきセンター給排水改修工事 設計図書 （zip 9.6MB）](<https://www.town.kawagoe.mie.jp/_res/projects/default_project/_page_/001/004/282/ikiikisekkei.zip>) |
 | 静岡県 | [令和8年度 磐田市役所本庁舎外3支所宿日直業務委託 入札](<https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/016/810/kokoku.pdf>) | 静岡県磐田市 | 2026-08-05 | 2026-08-17 | 対応(市民からの問合せ対応、担当課職員への電話取次ぎ)7 戸籍届に伴う写真撮影(婚姻届について、届出人の希望があった場合)8 動物死体処理に係る業者への連絡9 市が作成するマニュアル記載の事務10 郵便物、配送物等の受領11 非常時の担当職員等への連絡、取次ぎ12 防災FAXの受信13 物品等の貸し出し及び返却時の受領… | [仕様書 （PDF 254.9KB）](<https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/016/810/shiyosyo.pdf>) / [個人情報の保護に関する特記事項 （PDF 163.9KB）](<https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/016/810/kojinjoho.pdf>) / [内訳書 （Excel 12.7KB）](<https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/016/810/uchiwakesyo.xlsx>) |

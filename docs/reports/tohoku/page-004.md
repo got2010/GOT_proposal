@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-24T14:44+09:00（収集時点）
+最終更新：2026-11-25T13:46+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**309件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**312件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 4 / 4
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 青森県 | [町道十字路・長下線舗装補修工事](<https://www.town.shichinohe.lg.jp/jigyo/f2c9108de916769c97cd9f213e03229a_3.pdf>) | 青森県七戸町 | 2026-07-14 | 2026-07-30 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [工事-43 町道十字路・長下線舗装補修工事.zip](<https://www.town.shichinohe.lg.jp/jigyo/8915e011c9e2e4b6a3184835e30fa6ea_1.zip>) |
+| 青森県 | [町道横町・蛇坂・荒熊内線外1路線舗装補修工事](<https://www.town.shichinohe.lg.jp/jigyo/d041dace3cf481b7eb0ec6e933b85e32_2.pdf>) | 青森県七戸町 | 2026-07-14 | 原文を確認 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [工事-49 町道横町・蛇坂・荒熊内線外1路線舗装補修工事.zip](<https://www.town.shichinohe.lg.jp/jigyo/1c9db8b584f011d78f5bd75aeeb23217_1.zip>) |
+| 青森県 | [町道白石・市ノ渡線舗装補修工事](<https://www.town.shichinohe.lg.jp/jigyo/32f99fd4fccd10aa66483ad446ff83f6_4.pdf>) | 青森県七戸町 | 2026-07-14 | 原文を確認 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [工事-42 町道白石・市ノ渡線舗装補修工事.zip](<https://www.town.shichinohe.lg.jp/jigyo/da61973fa8cb094dfe494f81ed5c590e_1.zip>) |
 | 山形県 | [7月13日公告（土木一式A）格付指定型一般競争入札の公告について 工事名：市道大泉橋一日市町線道路改良工事（その2）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260713koukoku2.files/20260713koukoku2-1.pdf>) | 山形県鶴岡市 | 2026-07-13 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：2,714KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260713koukoku2.files/20260713koukoku2-2.pdf>) |
 | 山形県 | [7月13日公告（土木一式A）格付指定型一般競争入札の公告について 工事名：市道小名部小国線宮下橋橋梁補修工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260713koukoku3.files/20260713koukoku3-1.pdf>) | 山形県鶴岡市 | 2026-07-13 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：5,064KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260713koukoku3.files/20260713koukoku3-2.pdf>) |
 | 山形県 | [7月13日公告（土木一式A）格付指定型一般競争入札の公告について 工事名：鶴岡市公共下水道事業 雨水道形第1排水区1115～1121号新設工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/080713-23.files/080713-23.pdf>) | 山形県鶴岡市 | 2026-07-13 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書一式 （PDF：3,439KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/080713-23.files/080713-23-01.pdf>) |
