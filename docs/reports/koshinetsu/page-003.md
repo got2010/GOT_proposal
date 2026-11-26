@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-25T13:46+09:00（収集時点）
+最終更新：2026-11-26T12:54+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**209件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**210件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 山梨県 | [令和8年度上佐野地区森林環境保全整備事業（保育間伐活用型）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/0716_seisan.html>) | 林野庁関東森林管理局山梨森林管理事務所 | 2026-07-16 | 2026-08-19 | 事業請負標準仕様書(別紙)製品生産事業請負実行管理基準の別表「実行記録写真の撮影要領」は別紙3のとおりとする | [入札公告(PDF : 206KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-1.pdf>) / [(1)入札説明書(PDF : 324KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-2.pdf>) / [(4)特記仕様書(PDF : 1,047KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-5.pdf>) / [(5)造材寸法表(PDF : 41KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-6.pdf>) / [(6)事業条件調書(PDF : 42KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-7.pdf>) |
 | 新潟県 | [5(319)綱木処理場機能強化対策工事](<https://www.town.aga.niigata.jp/material/files/group/3/08-319.xls>) | 新潟県阿賀町 | 2026-07-15 | 2026-07-23 | (3) 工事記録写真撮影1.工事の施工順序に従い、監督職員の指示または必要に応じて記録写真を整備し、工事 完了後提出しなければならない | [5(319)設計図書 (PDFファイル: 3.4MB)](<https://www.town.aga.niigata.jp/material/files/group/3/0800728-319.pdf>) |
 | 長野県 | [3 保育所施設整備事業 城下保育園長寿命化工事](<https://www.city.ueda.nagano.jp/uploaded/attachment/83727.pdf>) | 長野県上田市 | 2026-07-14 | 2026-07-30 | 誌へ記録する書類及び使用した資料等を整理するとともに、随時、実施状況の写真を撮影すること | [設計書 \[PDFファイル／140KB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/83730.pdf>) / [設計図 \[PDFファイル／635KB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/83732.pdf>) |
 | 長野県 | [令和8年度 富県小学校 老朽化対策等改修工事 実施設計業務委託【建築コンサルタント（一級・二級建築士2名以上）（市内本店）（一抜け方式3番）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_7_koukoku.files/7_1_koukoku_tomigata_kaisyuu_jissisekkei.pdf>) | 長野県伊那市 | 2026-07-14 | 2026-07-28 | (エ) 透視図作成(CG 着色パース、A3 判、外観〇面、内観〇面) (オ) 簡易な透視図作成(計画段階の確認用及び色決め用程度) (カ) 石綿含有事前調査箇所:5箇所程度 (キ) 窓枠シーリング材 PCB 含有検査(試料採取及び分析)〇箇所 (ク) 照明器具安定器、変圧器・コンデンサー PCB 含有検査(試料採取及び… | [特記仕様書（PDF：233KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_7_koukoku.files/7_3_tokki_tomigata_kaisyuu_jissisekkei.pdf>) / [業務委託に関する参考資料（PDF：83KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_7_koukoku.files/7_4_siryou_tomigata_kaisyuu_jissisekkei.pdf>) / [位置図（PDF：1,337KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_7_koukoku.files/7_5_itizu_tomigata_kaisyu_jissisekkei.pdf>) / [配置図（PDF：55KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_7_koukoku.files/7_6_haitizu_tomigata_kaisyu_jissisekkei.pdf>) |

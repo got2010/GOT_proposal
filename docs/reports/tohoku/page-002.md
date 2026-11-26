@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-25T13:46+09:00（収集時点）
+最終更新：2026-11-26T12:54+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**312件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**316件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 4
 
@@ -16,6 +16,10 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 山形県 | [10月6日公告（建築一式BC）格付指定型一般競争入札の公告について 工事名：鶴岡市立あさひ小学校バリアフリートイレ改修工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20261006koukoku3.files/20261006koukoku3-1.pdf>) | 山形県鶴岡市 | 2026-10-06 | 原文を確認 | 版) ・山形県電子納品取扱要領(令和3年2月10日) ・山形県建築工事写真撮影要領(令和2年3月) ・公共建築数量積算基準(令和5年版)・ 埋設配管・配線および 鉄筋調査株 式会 社DAYSHEET NO SCALE: 1D.N TITLE REVISIONMEMO〒997-0042 鶴岡市新形町24-1FAX 023… | [設計図 （PDF：3,156KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20261006koukoku3.files/20261006koukoku3-3.pdf>) / [【参考】石綿分析試験結果報告書 （PDF：981KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20261006koukoku3.files/20261006koukoku3-5.pdf>) / [【参考】アスベスト分析結果一覧 （PDF：48KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20261006koukoku3.files/20261006koukoku3-6.pdf>) |
+| 岩手県 | [大槌町多目的体育館（弓道場）改修工事（その２）](<https://www.town.otsuchi.iwate.jp/fs/2/7/5/3/4/4/_/01_______118__________________________2__.pdf>) | 岩手県大槌町 | 2026-10-06 | 2026-10-20 | 出仕様(・紙ベース ・電子データ ・)\[1.9.2\]\[1.9.3\]完成写真撮影箇所及び提出サイズ、仕様 ※監督員の指示による ・ 13.設備工事との取合い施工範囲・ 図示した貫通孔、開口部の型枠及びそれらの補強・ 図示した壁、天井の仕上材、下地材の切り込み及び下地材の補強・ 自動閉鎖装置取付けの箇所の切り込み及び補強・… | [02\_説明書【大槌町多目的体育館(弓道場)改修工事(その2)】 (PDF 104KB)](<https://www.town.otsuchi.iwate.jp/fs/2/7/5/3/4/5/_/02__________________________2__.pdf>) / [04\_仕様書設計書一式 (ZIP 2.25MB)](<https://www.town.otsuchi.iwate.jp/fs/2/7/5/3/4/3/_/04_________.zip>) |
+| 岩手県 | [大ケ口地区津波避難設備整備に係る支障木伐採工事](<https://www.town.otsuchi.iwate.jp/fs/2/7/5/3/5/1/_/01_______117_____________________________.pdf>) | 岩手県大槌町 | 2026-10-06 | 2026-10-20 | さらに、写真管理基準に定める品質管理写真について、撮影頻度及び提出頻度を通常の2倍とするものとする | [02\_説明書【大ケ口地区津波避難設備整備に係る支障木伐採工事】 (PDF 110KB)](<https://www.town.otsuchi.iwate.jp/fs/2/7/5/3/4/1/_/02_____________________________.pdf>) / [05\_仕様書設計書等一式 (ZIP 2.53MB)](<https://www.town.otsuchi.iwate.jp/fs/2/7/5/3/3/9/_/05__________.zip>) |
+| 青森県 | [（RE-12640)光学顕微鏡等の購入【掲載期間：2026-10-6～2026-10-27】](<https://www.qst.go.jp/uploaded/attachment/53373.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門六ヶ所核融合研究所 | 2026-10-06 | 2026-10-28 | ・完成検査及び動作確認はQST貸与の試験片(1個)の像撮影を行うこと | [仕様書 \[PDFファイル／227KB\]](<https://www.qst.go.jp/uploaded/attachment/53374.pdf>) |
 | 山形県 | [10月5日公告（土木一式A～D）条件付き一般競争入札の公告について 工事名：鶴岡市公共下水道事業 汚水1C084号ほか人孔改良工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/081005-36.files/081005-36.pdf>) | 山形県鶴岡市 | 2026-10-05 | 2026-10-23 | (3) 緊急巡回にあたっては、写真撮影により日時及びその状況を記録しておくものとする | [入札説明書 （PDF：213KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/081005-36.files/081005-36-01.pdf>) / [条件付き一般競争入札参加資格確認申請様式等 （ワード：68KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/081005-36.files/081005-36-02.doc>) / [閲覧図書一式 （PDF：11,243KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/081005-36.files/081005-36-03.pdf>) |
 | 宮城県 | [令７−依・学環・交 第二中学校長寿命化改良工事（3期・電気設備）](<https://www.city.shiogama.miyagi.jp/uploaded/life/58947_151335_misc.pdf>) | 宮城県塩竃市 | 2026-10-05 | 2026-10-25 | ※ 営繕工事写真撮影要領(国土交通省大臣官房官庁営繕部監修 令和5年版) 工事編&gt; (国土交通省大臣官房庁営繕部監修 令和5年版)・ 宮城県建築工事写真撮影要領(宮城県土木部制定 令和5年版)及び工事写真撮影ガイドブック&lt;電気設備解体工事1.特記事項※ 建物一式のとりこわし工事に適用とし、機器等の改修工事は適用外建設副… | [設計書一式 \[その他のファイル／2.6MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/58947_151337_misc.zip>) |
 | 宮城県 | [令７−依・学環・交 第二中学校長寿命化改良工事（3期・機械設備）](<https://www.city.shiogama.miyagi.jp/uploaded/life/58949_151346_misc.pdf>) | 宮城県塩竃市 | 2026-10-05 | 2026-10-25 | 屋外露出,多湿箇所 ・ ステンレス鋼板( )1部CD2枚1部・営繕工事写真撮影要領(国土交通省大臣官房庁営繕部監修 平成31年版)・建設工事執行規則(昭和39年3月宮城県規則第9号)・宮城県建設工事元請・下請関係適正化要綱(最新版)・宮城県建築工事写真撮影要領(宮城県土木部制定 平成12年版)及び工事写真撮影ガイドブッ… | [設計書一式 \[その他のファイル／2.21MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/58949_151348_misc.zip>) |
@@ -112,9 +116,5 @@
 | 山形県 | [8月26日公告（土木一式）災害復旧型一般競争入札の公告について 工事名：令和6年災33-104鷺畑第一揚水機場再度災害防止工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260826koukoku3.files/20260826koukoku3-1.pdf>) | 山形県鶴岡市 | 2026-08-26 | 原文を確認 | III 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：1,276KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260826koukoku3.files/20260826koukoku3-2.pdf>) |
 | 山形県 | [8月26日公告（土木一式AB）格付指定型一般競争入札の公告について 工事名：市道馬渡西線中川橋補修工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260826koukoku1.files/20260826koukoku1-1.pdf>) | 山形県鶴岡市 | 2026-08-26 | 原文を確認 | III 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：3,447KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260826koukoku1.files/20260826koukoku1-2.pdf>) |
 | 山形県 | [西郡林道災害復旧工事](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/nsgor26860826.html>) | 林野庁東北森林管理局山形森林管理署 | 2026-08-26 | 2026-10-07 | 注者は、林業専用道に係る工事(新設に限る)の施工に当たっては、別紙の「写真撮影基準」により施工管理を行うことができるものとする | [入札公告(PDF : 140KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nsgor26860826-1.pdf>) / [入札説明書(PDF : 190KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nsgor26860826-2.pdf>) / [特記仕様書(PDF : 1,142KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nsgor26860826-5.pdf>) / [現場説明書(PDF : 266KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nsgor26860826-6.pdf>) / [図面(PDF : 734KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nsgor26860826-7.pdf>) |
-| 青森県 | [鶴ヶ岡６号線外道路整備３工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k034.pdf>) | 青森県五所川原市 | 2026-08-26 | 2026-09-02 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j034.zip>) |
-| 青森県 | [岩木町・飯詰線舗装１工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k036.pdf>) | 青森県五所川原市 | 2026-08-26 | 2026-09-02 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j036.zip>) |
-| 青森県 | [岩木町・飯詰線舗装２工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k035.pdf>) | 青森県五所川原市 | 2026-08-26 | 2026-09-02 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j035.zip>) |
-| 山形県 | [【郵送入札】告示第545号 鳥海高原観光レクリエーション地区給水施設清掃等業務委託【単価契約】（8月25日公告、9月10日開札）](<https://www.city.sakata.lg.jp/shisei/nyusatsu/nyusatsukoukoku/keiyaku545.files/koukoku545.pdf>) | 山形県酒田市 | 2026-08-25 | 2026-09-01 | (1)作業完了報告書(2)業務写真(作業前、作業中、作業後の写真を撮影し、作業報告書として提出すること | [確約書（PDF：121KB）](<https://www.city.sakata.lg.jp/shisei/nyusatsu/nyusatsukoukoku/keiyaku545.files/kakuyaku545.pdf>) / [仕様書（PDF：91KB）](<https://www.city.sakata.lg.jp/shisei/nyusatsu/nyusatsukoukoku/keiyaku545.files/siyou545.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

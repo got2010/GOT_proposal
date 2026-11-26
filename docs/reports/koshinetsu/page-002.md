@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-25T13:46+09:00（収集時点）
+最終更新：2026-11-26T12:54+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**209件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**210件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -44,6 +44,7 @@
 | 長野県 | [5 市民の森公園体育館LED化改修工事](<https://www.city.ueda.nagano.jp/uploaded/attachment/85098.pdf>) | 長野県上田市 | 2026-09-01 | 2026-09-17 | 上主要な間仕切りを貫通する場合、その施工状況について貫通個所の両面から写真撮影し、工事写真として提出する | [設計書 \[PDFファイル／118KB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/85101.pdf>) / [設計図 \[PDFファイル／544KB\]](<https://www.city.ueda.nagano.jp/uploaded/attachment/85103.pdf>) |
 | 長野県 | [令和8年度 老朽管更新黒沢配水管布設替工事【水道施設工事Ｂ・Ｃ級（市内本店）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080901tansyuku-4.files/4_1_koukoku_kurosawa_haisui.pdf>) | 長野県伊那市 | 2026-09-01 | 2026-09-08 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [特記仕様書（PDF：233KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080901tansyuku-4.files/4_3_tokki_kurosawa_haisui.pdf>) / [位置図（PDF：151KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080901tansyuku-4.files/4_4_itizu_kurosawa_haisui.pdf>) / [図面（PDF：1,122KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080901tansyuku-4.files/4_5_zumen_kurosawa_haisui.pdf>) |
 | 山梨県 | [令和8年度上佐野地区森林環境保全整備事業（保育間伐活用型）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/0901_seisan.html>) | 林野庁関東森林管理局山梨森林管理事務所 | 2026-09-01 | 2026-10-14 | 事業請負標準仕様書(別紙)製品生産事業請負実行管理基準の別表「実行記録写真の撮影要領」は別紙3のとおりとする | [入札公告(PDF : 206KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0901_seisan-1.pdf>) / [(1)入札説明書(PDF : 324KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0901_seisan-2.pdf>) / [(4)特記仕様書(PDF : 393KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0901_seisan-5.pdf>) / [(5)造材寸法表(PDF : 41KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0901_seisan-4.pdf>) / [(7)位置図等(PDF : 2,276KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0901_seisan-6.pdf>) |
+| 長野県 | [令和8年度クラウドPBX導入業務に係る公募型プロポーザルの実施について](<https://www.city.chino.lg.jp/uploaded/attachment/42543.pdf>) | 長野県茅野市 | 2026-08-31 | 原文を確認 | オンライン研修や動画配信の利用も可能とするため、多様な研修方法について提案すること | [プロポーザル業務仕様書 \[PDFファイル／840KB\]](<https://www.city.chino.lg.jp/uploaded/attachment/42544.pdf>) / [プロポーザル業務仕様書 別紙1 \[PDFファイル／89KB\]](<https://www.city.chino.lg.jp/uploaded/attachment/42545.pdf>) / [プロポーザル業務仕様書 別紙2 \[PDFファイル／151KB\]](<https://www.city.chino.lg.jp/uploaded/attachment/42546.pdf>) |
 | 長野県 | [令和8年度 町単 雲場池公衆トイレ建築他工事](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10374.pdf>) | 長野県軽井沢町 | 2026-08-26 | 2026-10-06 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [金抜設計書 \[PDFファイル／722KB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10333.pdf>) / [​現場説明事項・施工条件明示事項 \[PDFファイル／789KB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10334.pdf>) / [図面（建築1） \[PDFファイル／3.22MB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10335.pdf>) / [図面（建築2） \[PDFファイル／8.31MB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10336.pdf>) / [図面（建築3） \[PDFファイル／1.14MB\]](<https://www.town.karuizawa.lg.jp/uploaded/attachment/10337.pdf>) |
 | 長野県 | [令和８年度中部山岳国立公園南部地域「Kita Alps Traverse Route」におけるロングトレイルを通じた感動体験・海外情報発信業務](<https://chubu.env.go.jp/shinetsu/content/000424931.pdf>) | 環境省信越自然環境事務所 | 2026-08-26 | 2026-09-14 | 公園南部地域3.業務内容(1)英語圏向け訪日観光Webメディア及び公式動画チャンネルでの掲載・配信2訪日外国人旅行者に対して高い到達力を有する英語圏向け訪日観光 Web メディアにおいて、信飛トレイル及びKita Alps Traverse Routeの魅力を紹介する記事及び動画を制作し、掲載又は配信すること | [入札説明書一式\[PDF 1.6MB\]](<https://chubu.env.go.jp/shinetsu/content/000424932.pdf>) |
 | 長野県 | [9月10日開札（一般競争）旭ヶ丘1号マンホールポンプ場外更新工事](<https://www.city.suzaka.nagano.jp/material/files/group/4/260825koukoku110.zip>) | 長野県須坂市 | 2026-08-25 | 2026-09-10 | また、工事着手前に破損している構造物に関しては状況写真を撮影すること | — |
@@ -115,6 +116,5 @@
 | 長野県 | [（8.7.24公告）令和8年度 千曲市立戸倉上山田中学校屋内運動場空調設備更新工事実施設計業務委託(PDFファイル:266.2KB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080804-01.pdf>) | 長野県千曲市 | 2026-07-24 | 原文を確認 | 一式 ※CADデータあり (d)写真の著作権の権利等について 受注者は写真の撮影を再委託する場合は、次の事項を条件とすること | [仕様書等(PDFファイル:1.2MB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080804-03.pdf>) |
 | 新潟県 | [10時10分 網代浜居浦浜山線消雪井戸設置工事 (圧縮ファイル: 19.5MB)](<https://www.town.seiro.niigata.jp/material/files/group/6/20260729_3.zip>) | 新潟県聖籠町 | 2026-07-17 | 2026-07-28 | を装着した建設機 械を使用する場合、施工現場において使用する建設機械の写真撮影を行い 提出するものとする | — |
 | 長野県 | [（8.7.16公告）令和8年度 新戸倉体育館整備に係る支障物撤去工事(PDFファイル:295.6KB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080728-14.pdf>) | 長野県千曲市 | 2026-07-16 | 原文を確認 | 1千曲市杭瀬下二丁目1番地・写真のサイズ及び整備 a 工事中に撮影する写真は工程順に撮影箇所等を記入して整理する | [図面等(PDFファイル:1.5MB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080728-16.pdf>) |
-| 山梨県 | [令和8年度上佐野地区森林環境保全整備事業（保育間伐活用型）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/0716_seisan.html>) | 林野庁関東森林管理局山梨森林管理事務所 | 2026-07-16 | 2026-08-19 | 事業請負標準仕様書(別紙)製品生産事業請負実行管理基準の別表「実行記録写真の撮影要領」は別紙3のとおりとする | [入札公告(PDF : 206KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-1.pdf>) / [(1)入札説明書(PDF : 324KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-2.pdf>) / [(4)特記仕様書(PDF : 1,047KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-5.pdf>) / [(5)造材寸法表(PDF : 41KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-6.pdf>) / [(6)事業条件調書(PDF : 42KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-7.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

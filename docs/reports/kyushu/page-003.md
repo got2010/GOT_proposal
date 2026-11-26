@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-25T13:46+09:00（収集時点）
+最終更新：2026-11-26T12:54+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県
 
-**225件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**226件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 長崎県 | [第72031号 大島文化ホール空調設備改修工事](<https://www.city.saikai.nagasaki.jp/material/files/group/2/080904-1-koukoku.pdf>) | 長崎県西海市 | 2026-07-24 | 原文を確認 | (着工前の現況写真は、通行路も撮影しておくこと | [縦覧設計書など(圧縮ファイル:5.8MB)](<https://www.city.saikai.nagasaki.jp/material/files/group/2/080904-1-72031.zip>) / [特定建設工事共同企業体協定書(Wordファイル:39KB)](<https://www.city.saikai.nagasaki.jp/material/files/group/2/080904-1-kyouteisyo.doc>) |
 | 福岡県 | [通信施設点検業務委託](<https://www.kyushu.npa.go.jp/from_2023/bidding/bidding_pdf/nyuusatu/ekimu20260724-0810.pdf>) | 国家公安委員会（警察庁）九州管区警察局 | 2026-07-24 | 2026-08-12 | (特定資料並びに特定物件の複製及び写真撮影)第6条 乙は、主たる契約に定められている場合を除き、特定資料を複製し又は特定物件の見取図、試験成績表等の製作若しくは写真撮影をしようとするときは、あらかじめ甲の許可を受けるものとする | — |
 | 佐賀県 | [令和8年度 有浦海岸調査業務委託に関する条件付き一般競争入札を行います。](<https://www.town.genkai.lg.jp/uploaded/attachment/8295.pdf>) | 佐賀県玄海町 | 2026-07-23 | 2026-08-06 | (1) 土木建築工事(2) 測量業務(土地の測量、地図の調整及び測量用写真の撮影であって、政令で定めるもの以外のもの)、土木建築に関する調査及び工事の設計2 前金払の対象となる経費の範囲は、当該工事の材料費、労務費、機械器具の賃借料、機械購入費(当該工事において償却される割合に相当する額に限る | [ア～ク 様式集 \[その他のファイル／73KB\]](<https://www.town.genkai.lg.jp/uploaded/attachment/8296.zip>) / [ケ 特記仕様書 \[PDFファイル／88KB\]](<https://www.town.genkai.lg.jp/uploaded/attachment/8297.pdf>) / [コ 切抜設計書等 \[その他のファイル／904KB\]](<https://www.town.genkai.lg.jp/uploaded/attachment/8298.zip>) / [サ 郵便入札の留意事項 \[PDFファイル／1.44MB\]](<https://www.town.genkai.lg.jp/uploaded/attachment/8299.pdf>) / [シ 入札・契約執行要綱 \[PDFファイル／224KB\]](<https://www.town.genkai.lg.jp/uploaded/attachment/8300.pdf>) |
 | 宮崎県 | [宮崎県東京ビル引越等業務に係る一般競争入札について](<https://www.pref.miyazaki.lg.jp/zaisansogokanri/kense/chotatsu/20260714092955.html>) | 宮崎県 | 2026-07-23 | 2026-08-06 | ンスキャラバン業務委託に係る企画提案競技について 令和8年度明るい選挙啓発動画作品コンテスト業務委託企画提案競技の実施について 県内観光機運醸成CMプロモーション業務委託企画提案競技の実施について 令和8年度デジタル導入による業務刷新支援業務に関する情報提供依頼 | [宮崎県庁本館1階会議室（PDF：28KB）](<https://www.pref.miyazaki.lg.jp/documents/110901/110901_20260714094516-1.pdf>) / [入札公告等（PDF：753KB）](<https://www.pref.miyazaki.lg.jp/documents/110901/110901_20260717101122-1.pdf>) / [仕様書（PDF：878KB）](<https://www.pref.miyazaki.lg.jp/documents/110901/110901_20260717101101-1.pdf>) / [金抜設計書（PDF：297KB）](<https://www.pref.miyazaki.lg.jp/documents/110901/110901_20260717095117-1.pdf>) |

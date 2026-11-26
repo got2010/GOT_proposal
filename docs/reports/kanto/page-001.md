@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-25T13:46+09:00（収集時点）
+最終更新：2026-11-26T12:54+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**585件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**587件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 6
 
@@ -54,6 +54,8 @@
 | 東京都 | [2027（令和９）年国民生活基礎調査マニュアル動画・広報用動画改修業務一式](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 厚生労働省 | 2026-08-05 | 2026-09-09 | 2027(令和9)年国民生活基礎調査マニュアル動画・広報用動画改修業務一式 | — |
 | 東京都 | [緊急地震速報20周年映像資料の制作](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-29 | 2026-08-19 | 緊急地震速報20周年映像資料の制作 | — |
 | 東京都 | [令和７年度新宿御苑日本館御殿工事（Ⅰ）展示映像撮影業務（総合評価落札方式）](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 環境省 | 2026-07-23 | 2026-08-05 | 令和7年度新宿御苑日本館御殿工事(I)展示映像撮影業務(総合評価落札方式) | — |
+| 茨城県 | [(RE-1646)ITER水平ランチャー内部遮蔽体等の製作【掲載期間:2026-11-25～2026-01-19】](<https://www.qst.go.jp/uploaded/attachment/54010.pdf>) | 国立研究開発法人量子科学技術研究開発機構核融合エネルギー研究開発部門那珂核融合研究所 | 2026-11-25 | 原文を確認 | 2.7. 微視的組織観察(1) 写真撮影による顕微鏡検査は、主な伸長方向と平行に実施するものとする | [仕様書 \[PDFファイル／2.76MB\]](<https://www.qst.go.jp/uploaded/attachment/53978.pdf>) |
+| 茨城県 | [【電子入札】【電子契約】金属燃料試験用分電盤の改造](<https://keiyaku.jaea.go.jp/compe/02/pdf/0803C01808.pdf>) | 国立研究開発法人日本原子力研究開発機構大洗 | 2026-11-25 | 2027-01-20 | ただし、コピーや写真撮影等の行為は禁止する | — |
 | 東京都 | [2026.11.24\_東京科学大学病院歯系診療部門（D棟）滅菌等業務 一式](<https://www.tmd.ac.jp/archive-tmdu/medkanri/%E2%96%B62026.11.24_%E6%9D%B1%E4%BA%AC%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6%E7%97%85%E9%99%A2%E6%AD%AF%E7%B3%BB%E8%A8%BA%E7%99%82%E9%83%A8%E9%96%80%EF%BC%88D%E6%A3%9F%EF%BC%89%E6%BB%85%E8%8F%8C%E7%AD%89%E6%A5%AD%E5%8B%99%20%E4%B8%80%E5%BC%8F.pdf>) | 国立大学法人東京科学大学 | 2026-11-24 | 原文を確認 | 教育研究評議会学長選考・監察会議広報誌・刊行物広報誌・刊行物トップ大学紹介動画大学紹介動画トップ大学紹介動画キャンパスライフ編留学制度編多職種連携教育編学長×医学部学生懇談学長×歯学部学生懇談東京医科歯科大学の歴史大学概要(冊子)統合報告書広報誌広報誌トップ広報誌「Bloom! 医科歯科大」英語版広報誌「TMDU AN… | — |
 | 東京都 | [2026.11.24\_口腔健康管理科用歯科ユニット 4式](<https://www.tmd.ac.jp/archive-tmdu/medkanri/%E2%96%B62026.11.24_%E5%8F%A3%E8%85%94%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86%E7%A7%91%E7%94%A8%E6%AD%AF%E7%A7%91%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%204%E5%BC%8F.pdf>) | 国立大学法人東京科学大学 | 2026-11-24 | 原文を確認 | 教育研究評議会学長選考・監察会議広報誌・刊行物広報誌・刊行物トップ大学紹介動画大学紹介動画トップ大学紹介動画キャンパスライフ編留学制度編多職種連携教育編学長×医学部学生懇談学長×歯学部学生懇談東京医科歯科大学の歴史大学概要(冊子)統合報告書広報誌広報誌トップ広報誌「Bloom! 医科歯科大」英語版広報誌「TMDU AN… | — |
 | 神奈川県 | [逗子市公共下水道総合地震対策管路施設耐震診断等業務委託](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_gesuidousougouzisinntaisakutaisinnsinndanntou.pdf>) | 神奈川県逗子市 | 2026-11-24 | 2026-12-09 | 況等を調査し、調査年月日、調査内容、発生場所等を明記した黒板を入れて、写真撮影を行うこと | [02\_図面一式 （PDF 5.9 MB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8zumen_gesuidousougouzisinntaisakutaisinnsinndanntou.pdf>) / [01\_仕様書一式 （PDF 550.0 KB）](<https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8siyo_gesuidousougouzisinntaisakutaisinnsinndanntou.pdf>) |
@@ -114,7 +116,5 @@
 | 千葉県 | [松契一般第305号 街路樹せん定委託（常盤平ユリノキ通り その1他）（PDF：345KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/305.pdf>) | 千葉県松戸市 | 2026-11-06 | 2026-11-12 | の作業を行う場合はそれらの作業内容毎)に、同一の構図で作業前・中・後の写真を撮影すること | [松契一般第305号 設計図書（PDF：2,970KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/305s.pdf>) |
 | 千葉県 | [松契一般第304号 街路樹せん定委託（新松戸ユリノキ通り その2他）（PDF：343KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/304.pdf>) | 千葉県松戸市 | 2026-11-06 | 2026-11-12 | の作業を行う場合はそれらの作業内容毎)に、同一の構図で作業前・中・後の写真を撮影すること | [松契一般第304号 設計図書（PDF：1,460KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/304s.pdf>) |
 | 千葉県 | [松契一般第303号 街路樹せん定委託（新松戸ユリノキ通り その1他）（PDF：344KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/303.pdf>) | 千葉県松戸市 | 2026-11-06 | 2026-11-12 | の作業を行う場合はそれらの作業内容毎)に、同一の構図で作業前・中・後の写真を撮影すること | [松契一般第303号 設計図書（PDF：2,421KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/303s.pdf>) |
-| 千葉県 | [松契一般第302号 街路樹せん定委託（小金原イチョウ通り その2）（PDF：343KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/302.pdf>) | 千葉県松戸市 | 2026-11-06 | 2026-11-12 | の作業を行う場合はそれらの作業内容毎)に、同一の構図で作業前・中・後の写真を撮影すること | [松契一般第302号 設計図書（PDF：1,056KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/302s.pdf>) |
-| 千葉県 | [松契一般第301号 街路樹せん定委託（小金原イチョウ通り その1他）（PDF：344KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/301.pdf>) | 千葉県松戸市 | 2026-11-06 | 2026-11-12 | の作業を行う場合はそれらの作業内容毎)に、同一の構図で作業前・中・後の写真を撮影すること | [松契一般第301号 設計図書（PDF：1,657KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/301s.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)
