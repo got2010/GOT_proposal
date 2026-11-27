@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-26T12:54+09:00（収集時点）
+最終更新：2026-11-27T12:55+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**316件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**317件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 4
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 山形県 | [10月6日公告（土木一式AB）格付指定型一般競争入札の公告について 工事名：市道文下馬場添荒井京田線道路改良工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20261006koukoku2.files/20261006koukoku2-1.pdf>) | 山形県鶴岡市 | 2026-10-06 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：1,419KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20261006koukoku2.files/20261006koukoku2-2.pdf>) |
 | 山形県 | [10月6日公告（建築一式BC）格付指定型一般競争入札の公告について 工事名：鶴岡市立あさひ小学校バリアフリートイレ改修工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20261006koukoku3.files/20261006koukoku3-1.pdf>) | 山形県鶴岡市 | 2026-10-06 | 原文を確認 | 版) ・山形県電子納品取扱要領(令和3年2月10日) ・山形県建築工事写真撮影要領(令和2年3月) ・公共建築数量積算基準(令和5年版)・ 埋設配管・配線および 鉄筋調査株 式会 社DAYSHEET NO SCALE: 1D.N TITLE REVISIONMEMO〒997-0042 鶴岡市新形町24-1FAX 023… | [設計図 （PDF：3,156KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20261006koukoku3.files/20261006koukoku3-3.pdf>) / [【参考】石綿分析試験結果報告書 （PDF：981KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20261006koukoku3.files/20261006koukoku3-5.pdf>) / [【参考】アスベスト分析結果一覧 （PDF：48KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20261006koukoku3.files/20261006koukoku3-6.pdf>) |
 | 岩手県 | [大槌町多目的体育館（弓道場）改修工事（その２）](<https://www.town.otsuchi.iwate.jp/fs/2/7/5/3/4/4/_/01_______118__________________________2__.pdf>) | 岩手県大槌町 | 2026-10-06 | 2026-10-20 | 出仕様(・紙ベース ・電子データ ・)\[1.9.2\]\[1.9.3\]完成写真撮影箇所及び提出サイズ、仕様 ※監督員の指示による ・ 13.設備工事との取合い施工範囲・ 図示した貫通孔、開口部の型枠及びそれらの補強・ 図示した壁、天井の仕上材、下地材の切り込み及び下地材の補強・ 自動閉鎖装置取付けの箇所の切り込み及び補強・… | [02\_説明書【大槌町多目的体育館(弓道場)改修工事(その2)】 (PDF 104KB)](<https://www.town.otsuchi.iwate.jp/fs/2/7/5/3/4/5/_/02__________________________2__.pdf>) / [04\_仕様書設計書一式 (ZIP 2.25MB)](<https://www.town.otsuchi.iwate.jp/fs/2/7/5/3/4/3/_/04_________.zip>) |
 | 岩手県 | [大ケ口地区津波避難設備整備に係る支障木伐採工事](<https://www.town.otsuchi.iwate.jp/fs/2/7/5/3/5/1/_/01_______117_____________________________.pdf>) | 岩手県大槌町 | 2026-10-06 | 2026-10-20 | さらに、写真管理基準に定める品質管理写真について、撮影頻度及び提出頻度を通常の2倍とするものとする | [02\_説明書【大ケ口地区津波避難設備整備に係る支障木伐採工事】 (PDF 110KB)](<https://www.town.otsuchi.iwate.jp/fs/2/7/5/3/4/1/_/02_____________________________.pdf>) / [05\_仕様書設計書等一式 (ZIP 2.53MB)](<https://www.town.otsuchi.iwate.jp/fs/2/7/5/3/3/9/_/05__________.zip>) |
@@ -115,6 +116,5 @@
 | 山形県 | [8月26日公告（土木一式AB）格付指定型一般競争入札の公告について 工事名：鶴岡市都市公園施設長寿命化対策工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260826koukoku2.files/20260826koukoku2-1.pdf>) | 山形県鶴岡市 | 2026-08-26 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：2,550KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260826koukoku2.files/20260826koukoku2-2.pdf>) |
 | 山形県 | [8月26日公告（土木一式）災害復旧型一般競争入札の公告について 工事名：令和6年災33-104鷺畑第一揚水機場再度災害防止工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260826koukoku3.files/20260826koukoku3-1.pdf>) | 山形県鶴岡市 | 2026-08-26 | 原文を確認 | III 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：1,276KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260826koukoku3.files/20260826koukoku3-2.pdf>) |
 | 山形県 | [8月26日公告（土木一式AB）格付指定型一般競争入札の公告について 工事名：市道馬渡西線中川橋補修工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260826koukoku1.files/20260826koukoku1-1.pdf>) | 山形県鶴岡市 | 2026-08-26 | 原文を確認 | III 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：3,447KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20260826koukoku1.files/20260826koukoku1-2.pdf>) |
-| 山形県 | [西郡林道災害復旧工事](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/nsgor26860826.html>) | 林野庁東北森林管理局山形森林管理署 | 2026-08-26 | 2026-10-07 | 注者は、林業専用道に係る工事(新設に限る)の施工に当たっては、別紙の「写真撮影基準」により施工管理を行うことができるものとする | [入札公告(PDF : 140KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nsgor26860826-1.pdf>) / [入札説明書(PDF : 190KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nsgor26860826-2.pdf>) / [特記仕様書(PDF : 1,142KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nsgor26860826-5.pdf>) / [現場説明書(PDF : 266KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nsgor26860826-6.pdf>) / [図面(PDF : 734KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nsgor26860826-7.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

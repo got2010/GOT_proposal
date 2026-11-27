@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-26T12:54+09:00（収集時点）
+最終更新：2026-11-27T12:55+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**272件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**273件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 奈良県 | [一般競争入札公告（「ザ！雑巾ダッシュ！！2026 inみつえ」会場設営等業務委託）](<https://www.vill.mitsue.nara.jp/material/files/group/4/zoukin2026koukoku.pdf>) | 奈良県御杖村 | 2026-08-17 | 2026-08-26 | (6)過去2年以内にイベントの映像配信業務の履行実績を有すること | [2.入札説明書 (PDFファイル: 103.4KB)](<https://www.vill.mitsue.nara.jp/material/files/group/4/zoukinsetsumei2026.pdf>) / [3.委託業務仕様書 (PDFファイル: 87.4KB)](<https://www.vill.mitsue.nara.jp/material/files/group/4/zoukinsiyousyo2026.pdf>) / [4.大会要領 (PDFファイル: 274.7KB)](<https://www.vill.mitsue.nara.jp/material/files/group/4/zoukinyoukou2026.pdf>) / [5.会場設営図 (PNG: 425.5KB)](<https://www.vill.mitsue.nara.jp/material/files/group/4/zoukinkaijouzu2026.png>) / [6.会場設営資料 (PDFファイル: 232.3KB)](<https://www.vill.mitsue.nara.jp/material/files/group/4/zoukinsetsuei2026.pdf>) |
 | 奈良県 | [https://www.city.ikoma.lg.jp/0000042102.html](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42102/001.pdf>) | 奈良県生駒市 | 2026-08-17 | 2026-09-02 | ・施工前、施工中、施工後の写真を撮影し、業務完了報告書に添付して提出すること | [契約主要事項説明書(PDF形式、133.95KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42102/02.pdf>) / [仕様書 (PDF形式、200.95KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42102/03.pdf>) / [事前審査型条件付一般競争入札参加資格確認申請書 (ワード形式、35.00KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42102/12.doc>) / [業務履行実績調書 (ワード形式、36.00KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42102/13.doc>) / [誓約書 (ワード形式、60.50KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42102/14.doc>) |
 | 兵庫県 | [Inseyets Offline Standalone外の納入②](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/D26081704.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-08-17 | 2026-08-17 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |
 | 兵庫県 | [Inseyets Offline Standalone外の納入①](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/D26081703.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-08-17 | 2026-08-17 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |

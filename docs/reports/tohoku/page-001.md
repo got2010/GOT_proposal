@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-26T12:54+09:00（収集時点）
+最終更新：2026-11-27T12:55+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**316件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**317件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 4
 
@@ -23,6 +23,7 @@
 | 秋田県 | [【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-08-17 | 2026-09-16 | 【東北地整 秋田】秋田河川国道事務所管内航空写真撮影業務 | — |
 | 岩手県 | [【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務](<https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101>) | 国土交通省 | 2026-07-21 | 原文を確認 | 【東北地整 北上川ダム統管】北上川ダム統管航空写真撮影業務 | — |
 | 岩手県 | [龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について](<https://www.town.iwaizumi.lg.jp/docs/2026071400011/file_contents/00.pdf>) | 岩手県岩泉町 | 2026-07-17 | 2026-09-04 | 龍泉洞洞内解説映像コンテンツ制作業務にかかる公募型プロポーザルの実施について | — |
+| 山形県 | [及位・金山森林事務所構内排雪作業外【再公告】](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/20261126johaisetsu_1.html>) | 林野庁東北森林管理局山形森林管理署 | 2026-11-26 | 2026-12-03 | 了時に表示板等に日時、作業内容等を記載の上、使用機械と作業場所が入った写真を撮影すること | [入札公告(PDF : 136KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/20261126johaisetsu_1-1.pdf>) / [（1）入札説明書(PDF : 154KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/20261126johaisetsu_1-2.pdf>) / [（2）除排雪作業仕様書・実施要領(PDF : 160KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/20261126johaisetsu_1-3.pdf>) / [（5）各種様式(PDF : 302KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/20261126johaisetsu_1-6.pdf>) |
 | 青森県 | [金木公民館代替施設建設基本・実施設計業務](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/R8gi.k024.pdf>) | 青森県五所川原市 | 2026-11-25 | 2026-12-02 | d. 写真の著作権の権利等について 受注者は写真の撮影を再委託する場合は、次の事項を条件とすること | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8gi.j024.zip>) |
 | 青森県 | [七ツ館地区外排水路整備４工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k049.pdf>) | 青森県五所川原市 | 2026-11-25 | 2026-12-02 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j049.zip>) |
 | 山形県 | [11月24日公告（土木一式AB）格付指定型一般競争入札の公告について 工事名：湯温海排水路工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20261124koukoku1.files/20261124koukoku1-1.pdf>) | 山形県鶴岡市 | 2026-11-24 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：3,211KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20261124koukoku1.files/20261124koukoku1-2.pdf>) |
@@ -115,6 +116,5 @@
 | 青森県 | [広田団地市営住宅（№3～6,8～10号棟）解体工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k039.pdf>) | 青森県五所川原市 | 2026-10-07 | 2026-10-16 | ※ 各種配管の末端の処理は、全箇所、着手前・状況・完了を写真撮影すること | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j039.zip>) |
 | 青森県 | [喜良市老人福祉センター解体工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k040.pdf>) | 青森県五所川原市 | 2026-10-07 | 2026-10-16 | )について、営繕工事写真撮影要領2.(3)撮影方法に示す項目の電子的記入ができること、かつ信憑性確認(改ざん検知機能)を有するものを使用することとする | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j040.zip>) |
 | 山形県 | [10月6日公告（土木一式AB）格付指定型一般競争入札の公告について 工事名：市道原海11号線ほか道路改良工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20261006koukoku1.files/20261006koukoku1-1.pdf>) | 山形県鶴岡市 | 2026-10-06 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：2,433KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20261006koukoku1.files/20261006koukoku1-2.pdf>) |
-| 山形県 | [10月6日公告（土木一式AB）格付指定型一般競争入札の公告について 工事名：市道文下馬場添荒井京田線道路改良工事](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20261006koukoku2.files/20261006koukoku2-1.pdf>) | 山形県鶴岡市 | 2026-10-06 | 原文を確認 | (3) 緊急巡回にあたっては、写真撮影をし、日時及びその状況を記録しておくものとする | [閲覧図書 （PDF：1,419KB）](<https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20261006koukoku2.files/20261006koukoku2-2.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

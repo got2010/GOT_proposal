@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-26T12:54+09:00（収集時点）
+最終更新：2026-11-27T12:55+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**272件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**273件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -27,6 +27,7 @@
 | 兵庫県 | [宝塚市広報番組制作業務委託に係る公募型プロポーザル](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/boshuyoko.pdf>) | 兵庫県宝塚市 | 2026-08-05 | 原文を確認 | 宝塚市広報番組制作業務委託に係る公募型プロポーザル | [業務仕様書 （PDF 345.9 KB）](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/2_gyomusiyosho.pdf>) / [資料2\_秘密保持等に関する特記仕様書 （PDF 196.0 KB）](<https://www.city.takarazuka.hyogo.jp/_res/projects/default_project/_page_/001/057/657/2_himituhojitounikansurutoltukisiyousho.pdf>) |
 | 京都府 | [令和8年度きょうとプレコン推進事業（幼児期から中学生等を対象とした教育プログラムに係るデザイン・動画作成事業）](<https://www.pref.kyoto.jp/kosodate/news/2026/purecon-sougouhyoka.html>) | 京都府 | 2026-08-03 | 2027-03-31 | 令和8年度きょうとプレコン推進事業(幼児期から中学生等を対象とした教育プログラムに係るデザイン・動画作成事業) | [総合評価競争入札公告（PDF：264KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/01_koukoku.pdf>) / [入札説明書（PDF：228KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/02_nyuusatusetumeisyo_1.pdf>) / [(別紙1)業務委託仕様書（PDF：267KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/03_siyousyo.pdf>) / [(別紙2)企画提案書作成要領（PDF：137KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/03_sakuseiyouryou.pdf>) / [落札者決定基準（PDF：52KB）](<https://www.pref.kyoto.jp/kosodate/news/2026/documents/15_ketteikizyunn.pdf>) |
 | 京都府 | [令和８年度京都市美術館所蔵品撮影業務](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/432372.htm>) | 京都府京都市 | 2026-07-27 | 原文を確認 | 令和8年度京都市美術館所蔵品撮影業務 | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./432372_12_07241115.pdf>) |
+| 兵庫県 | [【制限付一般競争入札】船上城跡埋蔵文化財発掘調査業務委託（11月26日発注）](<https://www.city.akashi.lg.jp/documents/40669/03_funagejou_koukoku.pdf>) | 兵庫県明石市 | 2026-11-26 | 原文を確認 | (2)作業者は、写真撮影用足場組立てに際しては、労働安全衛生法施行令等に定める足場の組立て作業主任者を配置し、その立会いの下に実施しなければならない | [仕様書（PDF：69KB）](<https://www.city.akashi.lg.jp/documents/40669/13_funagejou_siyou.pdf>) / [共通仕様書（PDF：109KB）](<https://www.city.akashi.lg.jp/documents/40669/15_funagejou_general.pdf>) / [特記仕様書（PDF：80KB）](<https://www.city.akashi.lg.jp/documents/40669/16_funagejou_special.pdf>) |
 | 奈良県 | [小規模農林業基盤整備工事（平田地内）](<https://www.asukamura.jp/files/nyusatsu_joho/261124/08-126-01.pdf>) | 奈良県明日香村 | 2026-11-24 | 原文を確認 | 4 工事写真 共通仕様書1-1-1-26-8 - ○ 1 ○ ○・工事写真の撮影にあたっては、写真管理基準(案)を適用する | [特記仕様書](<https://www.asukamura.jp/files/nyusatsu_joho/261124/08-126-02b.pdf>) / [数量計算書](<https://www.asukamura.jp/files/nyusatsu_joho/261124/08-126-04.pdf>) / [図面](<https://www.asukamura.jp/files/nyusatsu_joho/261124/08-126-05.pdf>) / [工事関係書類一覧表](<https://www.asukamura.jp/files/nyusatsu_joho/261124/08-126-08.pdf>) / [位置図](<https://www.asukamura.jp/files/nyusatsu_joho/261124/08-126-09.pdf>) |
 | 奈良県 | [舗装修繕工事（奥山地内他）](<https://www.asukamura.jp/files/nyusatsu_joho/261124/08-123-01.pdf>) | 奈良県明日香村 | 2026-11-24 | 原文を確認 | 4 工事写真 共通仕様書1-1-1-26-8 - ○ 1 ○ ○・工事写真の撮影にあたっては、写真管理基準(案)を適用する | [特記仕様書](<https://www.asukamura.jp/files/nyusatsu_joho/261124/08-123-02b.pdf>) / [数量計算書](<https://www.asukamura.jp/files/nyusatsu_joho/261124/08-123-04.pdf>) / [図面](<https://www.asukamura.jp/files/nyusatsu_joho/261124/08-123-05.pdf>) / [工事関係書類一覧表](<https://www.asukamura.jp/files/nyusatsu_joho/261124/08-123-08.pdf>) / [位置図](<https://www.asukamura.jp/files/nyusatsu_joho/261124/08-123-09.pdf>) |
 | 兵庫県 | [ビデオカメラシステム（カメラ、モニター、レコーダー）の納入](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/D26112403.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-11-24 | 2026-11-24 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |
@@ -115,6 +116,5 @@
 | 兵庫県 | [携帯電話回線（スマートフォン）提供業務](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/B26100901.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-10-09 | 2026-10-29 | 機能 ・ 通話機能、通信機能、カメラ(静止画撮影/動画撮影)機能を有すること | — |
 | 大阪府 | [08-南港前団地トータルコーディネート設計業務 （令和8年10月9日）](<https://www.ur-net.go.jp/orders/west/pdf/order_44242_3.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-10-09 | 2026-12-07 | の明示できる図表、既往成果等を用いることは支障ないが、本件のために特に作成したCG、詳細図面等を用いることは認めない | [仕様書\[2206KB\]](<https://www.ur-net.go.jp/orders/west/pdf/order_44242_4.pdf>) |
 | 兵庫県 | [【制限付一般競争入札】明石市はたちのつどい2027会場設営等業務委託(10月8日発注)](<https://www.city.akashi.lg.jp/documents/40500/011_kokokubun.pdf>) | 兵庫県明石市 | 2026-10-08 | 原文を確認 | らホール内の式典の音声を放送できるように「明石市はたちのつどい2027映像配信業務委託」受託者が配線を行うので、接続については受託者間で調整を行うこと | [仕様書（PDF：464KB）](<https://www.city.akashi.lg.jp/documents/40500/01_shiyosho.pdf>) |
-| 兵庫県 | [兵庫県警察ホームページ作成用端末装置賃貸借](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/B26100701.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-10-07 | 2026-10-07 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)

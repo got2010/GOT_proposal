@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-26T12:54+09:00（収集時点）
+最終更新：2026-11-27T12:55+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：青森県 岩手県 宮城県 秋田県 山形県 福島県
 
-**316件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**317件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 4
 
@@ -16,6 +16,7 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 山形県 | [西郡林道災害復旧工事](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/nsgor26860826.html>) | 林野庁東北森林管理局山形森林管理署 | 2026-08-26 | 2026-10-07 | 注者は、林業専用道に係る工事(新設に限る)の施工に当たっては、別紙の「写真撮影基準」により施工管理を行うことができるものとする | [入札公告(PDF : 140KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nsgor26860826-1.pdf>) / [入札説明書(PDF : 190KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nsgor26860826-2.pdf>) / [特記仕様書(PDF : 1,142KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nsgor26860826-5.pdf>) / [現場説明書(PDF : 266KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nsgor26860826-6.pdf>) / [図面(PDF : 734KB)](<https://www.rinya.maff.go.jp/tohoku/apply/publicsale/mogami/./attach/pdf/nsgor26860826-7.pdf>) |
 | 青森県 | [鶴ヶ岡６号線外道路整備３工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k034.pdf>) | 青森県五所川原市 | 2026-08-26 | 2026-09-02 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j034.zip>) |
 | 青森県 | [岩木町・飯詰線舗装１工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k036.pdf>) | 青森県五所川原市 | 2026-08-26 | 2026-09-02 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j036.zip>) |
 | 青森県 | [岩木町・飯詰線舗装２工区工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k035.pdf>) | 青森県五所川原市 | 2026-08-26 | 2026-09-02 | 小黒板情報の電子的記入受注者は、同条1.の使用機器を用いてデジタル工事写真を撮影する場合は、被写体と小黒板情報を電子画像として同時に記録してもよい | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j035.zip>) |
@@ -115,6 +116,5 @@
 | 青森県 | [十三地区漁業集落排水処理施設マンホールポンプ更新工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k025.pdf>) | 青森県五所川原市 | 2026-07-15 | 2026-07-23 | 6)品質管理写真 7)出来形管理写真 8)産業廃棄物関係写真 (2)写真の撮影基準 1)写真の撮影にあたっては、工事名、工種内容、測点等の必要な項目を記載した小黒板を写体と共に写し込むこと | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j025.zip>) |
 | 青森県 | [旧商工会館解体工事](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k026.pdf>) | 青森県五所川原市 | 2026-07-15 | 2026-07-23 | )について、営繕工事写真撮影要領2.(3)撮影方法に示す項目の電子的記入ができること、かつ信憑性確認(改ざん検知機能)を有するものを使用することとする | [縦覧資料](<https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.j026.zip>) |
 | 宮城県 | [令８−依・宮振・補 伊保石公園市民の森記念館トイレ等改修工事](<https://www.city.shiogama.miyagi.jp/uploaded/life/57549_146066_misc.pdf>) | 宮城県塩竃市 | 2026-07-14 | 2026-07-28 | 記載されていない事項は、「公共建築工事標準仕様書(令和7年・ 営繕工事写真撮影要領(国土交通省大臣官房官庁営繕部 令和5年版)及び工事写真撮影ガイドブック(国土交通省大臣官房官庁営繕部監修 令和5年版)監督職員に提出する | [設計書一式 \[その他のファイル／41.33MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/57549_146065_misc.zip>) |
-| 宮城県 | [令８−依・官振・補 伊保石公園市民の森記念館トイレ等改修工事](<https://www.city.shiogama.miyagi.jp/uploaded/life/57496_145889_misc.pdf>) | 宮城県塩竃市 | 2026-07-14 | 2026-07-28 | 記載されていない事項は、「公共建築工事標準仕様書(令和7年・ 営繕工事写真撮影要領(国土交通省大臣官房官庁営繕部 令和5年版)及び工事写真撮影ガイドブック(国土交通省大臣官房官庁営繕部監修 令和5年版)監督職員に提出する | [設計書一式 \[その他のファイル／41.33MB\]](<https://www.city.shiogama.miyagi.jp/uploaded/life/57496_145918_misc.zip>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-002.md) ｜ [次の100件](page-004.md)
