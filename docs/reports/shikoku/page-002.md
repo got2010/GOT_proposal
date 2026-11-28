@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-27T12:55+09:00（収集時点）
+最終更新：2026-11-28T12:42+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：徳島県 香川県 愛媛県 高知県
 
-**170件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**173件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 2
 
@@ -16,6 +16,9 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 徳島県 | [市道富岡小東線ほか配水管布設替工事](<https://www.city.anan.tokushima.jp/docs/2026082400079/file_contents/20260825-6.pdf>) | 徳島県阿南市 | 2026-08-25 | 原文を確認 | 受注者は、工事全般にわたって、監督員の指示により、工事過程を段階的に撮影、編集して工事検査の際写真帳として提出しなければならない | [市道富岡小東線ほか配水管布設替工事 03.水道工事特記仕様書\[PDF：256KB\]](<https://www.city.anan.tokushima.jp/docs/2026082400079/file_contents/20260825-6-03.pdf>) / [市道富岡小東線ほか配水管布設替工事 04.石綿管撤去特記仕様書\[PDF：826KB\]](<https://www.city.anan.tokushima.jp/docs/2026082400079/file_contents/20260825-6-04.pdf>) / [市道富岡小東線ほか配水管布設替工事 05.設計書\[PDF：3.15MB\]](<https://www.city.anan.tokushima.jp/docs/2026082400079/file_contents/20260825-6-05.pdf>) / [市道富岡小東線ほか配水管布設替工事 07.位置図\[PDF：161KB\]](<https://www.city.anan.tokushima.jp/docs/2026082400079/file_contents/20260825-6-07.pdf>) / [市道富岡小東線ほか配水管布設替工事 08.図面\[PDF：3.31MB\]](<https://www.city.anan.tokushima.jp/docs/2026082400079/file_contents/20260825-6-08.pdf>) |
+| 徳島県 | [阿南市防犯灯新設工事](<https://www.city.anan.tokushima.jp/docs/2026082400048/file_contents/20260825-2.pdf>) | 徳島県阿南市 | 2026-08-25 | 原文を確認 | トイレ ・阿南市建築工事様式集で監督員が指示した図書(必要部数)◎工事写真の撮影は, 国土交通省大臣官房官庁営繕部監修「営繕工事写真撮影要領」によること. 的確に確認できること.完成写真については, 工事目的物の状態が,資機材, 施工状況等については,不可視部分の出来形が写真で◎工事写真の電子データは完成写真, 着手前… | [阿南市防犯灯新設工事 1.閲覧補足説明書\[PDF：93.3KB\]](<https://www.city.anan.tokushima.jp/docs/2026082400048/file_contents/20260825-2-1.pdf>) / [阿南市防犯灯新設工事 2.図面\[PDF：791KB\]](<https://www.city.anan.tokushima.jp/docs/2026082400048/file_contents/20260825-2-2.pdf>) |
+| 高知県 | [(上水第08036号)第1水源配水池更新工事【8月19日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukokuteisei_jyousui08036.pdf>) | 高知県香南市 | 2026-08-24 | 2026-09-02 | 正に処理されてい 荷姿、運搬車のナンバーが写るよう運搬車後面のデジタル写真撮影をする | [入札公告 (PDFファイル: 191.5KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_jyousuidai08036.pdf>) / [金抜き設計書 (PDFファイル: 775.2KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_jyousuidai08036.pdf>) / [公表単公表単価 (PDFファイル: 4.1MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_jyousuidai08036.pdf>) / [位置図 (PDFファイル: 116.6KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_jyousuidai08036.pdf>) / [図面 (PDFファイル: 8.1MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_jyousuidai08036.pdf>) |
 | 徳島県 | [市道江野島敷地線配水管布設替工事](<https://www.city.anan.tokushima.jp/docs/2026081900051/file_contents/20260821-3.pdf>) | 徳島県阿南市 | 2026-08-21 | 原文を確認 | 受注者は、工事全般にわたって、監督員の指示により、工事過程を段階的に撮影、編集して工事検査の際写真帳として提出しなければならない | [市道江野島敷地線配水管布設替工事 3.特記仕様書\[PDF：248KB\]](<https://www.city.anan.tokushima.jp/docs/2026081900051/file_contents/20260821-3-3.pdf>) / [市道江野島敷地線配水管布設替工事 4.設計書\[PDF：554KB\]](<https://www.city.anan.tokushima.jp/docs/2026081900051/file_contents/20260821-3-4.pdf>) / [市道江野島敷地線配水管布設替工事 6.位置図\[PDF：733KB\]](<https://www.city.anan.tokushima.jp/docs/2026081900051/file_contents/20260821-3-6.pdf>) / [市道江野島敷地線配水管布設替工事 7.図面\[PDF：1.13MB\]](<https://www.city.anan.tokushima.jp/docs/2026081900051/file_contents/20260821-3-7.pdf>) |
 | 愛媛県 | [令和8年度愛媛県海洋プラスチックごみ実態把握調査業務に係る入札案内](<https://www.pref.ehime.jp/uploaded/attachment/188357.pdf>) | 愛媛県 | 2026-08-21 | 2026-09-01 | から推定・現地踏査による推定・10m×10mの範囲のごみから量を推定・写真撮影により容量を把握し、他の地点と比較・季節によって漂着するごみの量に違いあり(4パターン)POINT 調査実施時間は下記項目から推定(別紙3参照)・100m2あたりの海岸に漂着しているごみの量・回収調査の範囲(100m2の何倍?)・回収効率(m… | [1．入札公告 \[PDFファイル／172KB\]](<https://www.pref.ehime.jp/uploaded/attachment/188358.pdf>) / [2．入札説明書 \[PDFファイル／262KB\]](<https://www.pref.ehime.jp/uploaded/attachment/188359.pdf>) / [6ー1．仕様書 \[PDFファイル／257KB\]](<https://www.pref.ehime.jp/uploaded/attachment/188334.pdf>) / [環境省「地方公共団体向け漂着ごみ組成調査ガイドライン（令和8年4月第5版） \[PDFファイル／1.92MB\]](<https://www.pref.ehime.jp/uploaded/attachment/188342.pdf>) |
 | 高知県 | [(農第08060号)町田堰頭首工護床工復旧工事【8月19日公告】](<https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_noudai08060-2.pdf>) | 高知県香南市 | 2026-08-19 | 2026-09-24 | 数を用いて体積を算出して設計数量を バーが写るよう運搬車後面のデジタル写真撮影をする | [金抜き設計書 (PDFファイル: 403.4KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kinnuki_noudai08060.pdf>) / [公表単価一覧表 (PDFファイル: 33.2KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/kouhyoutanka_noudai08060.pdf>) / [位置図 (PDFファイル: 373.8KB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/ichizu_noudai08060.pdf>) / [図面 (PDFファイル: 1.9MB)](<https://www.city.kochi-konan.lg.jp/material/files/group/35/zumen_noudai08060.pdf>) |

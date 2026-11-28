@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-27T12:55+09:00（収集時点）
+最終更新：2026-11-28T12:42+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県
 
-**226件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**228件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 福岡県 | [【令和8年10月15日申込締切】令和8年度北九州市犯罪被害者に寄り添うまちづくり市民大会（仮称）業務委託（公募型プロポーザル）](<https://www.city.kitakyushu.lg.jp/files/001230726.pdf>) | 福岡県北九州市 | 2026-09-24 | 2026-10-15 | 会進行・会場運営・受付業務・来場者誘導・会場設営及び撤去・案内表示等の作成・音響及び映像機器運営・出演者対応・関係者対応・記録写真撮影(5)出演者等との調整出演者及び関係機関との連絡調整を行うこと | [仕様書（PDF形式：335KB）](<https://www.city.kitakyushu.lg.jp/files/001230727.pdf>) |
+| 佐賀県 | [令和8年度 玄海町庁舎照明器具等改修工事設計業務委託に関する条件付き一般競争入札を行います。](<https://www.town.genkai.lg.jp/uploaded/attachment/8429.pdf>) | 佐賀県玄海町 | 2026-09-18 | 原文を確認 | (1) 土木建築工事(2) 測量業務(土地の測量、地図の調整及び測量用写真の撮影であって、政令で定めるもの以外のもの)、土木建築に関する調査及び工事の設計2 前金払の対象となる経費の範囲は、当該工事の材料費、労務費、機械器具の賃借料、機械購入費(当該工事において償却される割合に相当する額に限る | [ア～ク 様式集 \[その他のファイル／74KB\]](<https://www.town.genkai.lg.jp/uploaded/attachment/8430.zip>) / [ケ 特記仕様書 \[PDFファイル／401KB\]](<https://www.town.genkai.lg.jp/uploaded/attachment/8431.pdf>) / [コ～サ 現場説明書他 \[その他のファイル／282KB\]](<https://www.town.genkai.lg.jp/uploaded/attachment/8432.zip>) / [シ 郵便入札の留意事項 \[PDFファイル／596KB\]](<https://www.town.genkai.lg.jp/uploaded/attachment/8433.pdf>) / [ス 入札・契約執行要綱 \[PDFファイル／234KB\]](<https://www.town.genkai.lg.jp/uploaded/attachment/8434.pdf>) |
 | 宮崎県 | [愛称ロード標識撤去業務委託に係る条件付一般競争入札の実施について](<https://www.pref.miyazaki.lg.jp/kanko-suishin/kense/chotatsu/20260915152024.html>) | 宮崎県 | 2026-09-18 | 2026-10-06 | PR動画の制作に係る企画提案競技を実施します 令和8年度広報用航空写真撮影業務委託に係る一般競争入札について 【変更】旅券(パスポート)等輸送業務委託に係る一般競争入札の実施について 外国人材確保プロモーション業務委託企画提案競技(プロポーザル方式)の実施について 【質疑回答書追加】(9月11日更新)畜産試験場施設整備… | [入札説明書（PDF：93KB）](<https://www.pref.miyazaki.lg.jp/documents/112545/112545_20260915152733-1.pdf>) / [業務委託仕様書（PDF：82KB）](<https://www.pref.miyazaki.lg.jp/documents/112545/112545_20260915152926-1.pdf>) / [別紙1（PDF：4,437KB）](<https://www.pref.miyazaki.lg.jp/documents/112545/112545_20260915153217-1.pdf>) |
 | 宮崎県 | [国スポ・障スポに向けた県境歓迎板改修等業務委託に係る条件付一般競争入札の実施について](<https://www.pref.miyazaki.lg.jp/kanko-suishin/kense/chotatsu/20260915144021.html>) | 宮崎県 | 2026-09-18 | 2026-10-06 | PR動画の制作に係る企画提案競技を実施します 令和8年度広報用航空写真撮影業務委託に係る一般競争入札について 【変更】旅券(パスポート)等輸送業務委託に係る一般競争入札の実施について 外国人材確保プロモーション業務委託企画提案競技(プロポーザル方式)の実施について 【質疑回答書追加】(9月11日更新)畜産試験場施設整備… | [入札説明書（PDF：93KB）](<https://www.pref.miyazaki.lg.jp/documents/112544/112544_20260915145355-1.pdf>) / [業務委託仕様書（PDF：92KB）](<https://www.pref.miyazaki.lg.jp/documents/112544/112544_20260915145529-1.pdf>) / [別紙1（PDF：3,411KB）](<https://www.pref.miyazaki.lg.jp/documents/112544/112544_20260915145553-1.pdf>) |
 | 福岡県 | [令和8年度後期 福岡労働局各官署における植栽管理業務委託（北九州・筑豊地区）](<https://jsite.mhlw.go.jp/fukuoka-roudoukyoku/content/contents/002824904.pdf>) | 厚生労働省福岡労働局 | 2026-09-18 | 2026-10-14 | 」により点検を実施の上、この樹木等点検結果表の作成や問題があった箇所の写真撮影、対処に必要な参考費用(見積書)等の書類を下記8の作業記録と併せて完成図書として編集の上提出すること | — |
@@ -114,7 +116,5 @@
 | 福岡県 | [【入札公告】三辻川5号橋架替工事](<https://www.city.fukutsu.lg.jp/material/files/group/12/20260911_koubo_koukoku.pdf>) | 福岡県福津市 | 2026-07-28 | 2026-08-27 | )により写真撮影する | [【入札説明書】三辻川5号橋架替工事 (PDFファイル: 438.5KB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20260911_koubo_setsumei.pdf>) / [設計書（三辻川5号橋架替工事） (PDFファイル: 396.4KB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20260911_koubo_sekkei.pdf>) / [設計書（三辻川5号橋架替工事） (Excelファイル: 275.5KB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20260911_koubo_sekkei.xls>) / [仕様書、特記仕様書 (PDFファイル: 306.2KB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20260911_koubo_shiyou.pdf>) / [図面一式 (PDFファイル: 9.9MB)](<https://www.city.fukutsu.lg.jp/material/files/group/12/20260911_koubo_zumen.pdf>) |
 | 宮崎県 | [令和8年度法人県民税・事業税納付書印字・封入封緘業務委託(1月～3月)の入札公告](<https://www.pref.miyazaki.lg.jp/zeimu/kense/chotatsu/20260714135016.html>) | 宮崎県 | 2026-07-27 | 2026-08-13 | ンスキャラバン業務委託に係る企画提案競技について 令和8年度明るい選挙啓発動画作品コンテスト業務委託企画提案競技の実施について 県内観光機運醸成CMプロモーション業務委託企画提案競技の実施について 令和8年度デジタル導入による業務刷新支援業務に関する情報提供依頼 | [令和8年度法人県民税・事業税納付書印字・封入封緘業務委託(1月～3月)\_入札説明書（PDF：96KB）](<https://www.pref.miyazaki.lg.jp/documents/110910/110910_20260722164918-1.pdf>) / [令和8年度法人県民税・事業税納付書印字・封入封緘業務委託(1月～3月)\_仕様書（PDF：962KB）](<https://www.pref.miyazaki.lg.jp/documents/110910/110910_20260722173702-1.pdf>) |
 | 宮崎県 | [令和8年度還付充当通知書・隔地払通知書印字・封入封緘業務委託の入札公告](<https://www.pref.miyazaki.lg.jp/zeimu/kense/chotatsu/20260624163028.html>) | 宮崎県 | 2026-07-27 | 2026-08-13 | ンスキャラバン業務委託に係る企画提案競技について 令和8年度明るい選挙啓発動画作品コンテスト業務委託企画提案競技の実施について 県内観光機運醸成CMプロモーション業務委託企画提案競技の実施について 令和8年度デジタル導入による業務刷新支援業務に関する情報提供依頼 | [入札説明書（PDF：160KB）](<https://www.pref.miyazaki.lg.jp/documents/110309/110309_20260716103327-1.pdf>) / [仕様書（PDF：679KB）](<https://www.pref.miyazaki.lg.jp/documents/110309/110309_20260723131629-1.pdf>) |
-| 熊本県 | [【入札関係】令和8年度 熊本市風致地区看板台帳作成等業務委託](<https://www.city.kumamoto.jp/kiji00371885/3_71885_510808_up_jip6dmi7.pdf>) | 熊本県熊本市 | 2026-07-27 | 原文を確認 | 1/2,500等)31/25,000地形図印刷図及びラスタデータ4航空写真(令和5年度撮影)5熊本都市計画総括図6各種都市計画決定図書7その他必要と認められる資料2) 受託者は、貸与された図書及び関係資料等の必要がなくなった場合には、直ちに返却しなければならない | [4 特記仕様書（PDF：579.8キロバイト）](<https://www.city.kumamoto.jp/kiji00371885/3_71885_510811_up_4yaq1tzh.pdf>) / [5 金抜設計書（PDF：306キロバイト）](<https://www.city.kumamoto.jp/kiji00371885/3_71885_510812_up_k6mb5ihw.pdf>) |
-| 福岡県 | [奄美自動車検査登録事務所 庁舎渡廊下支柱塗装改修工事](<https://wwwtb.mlit.go.jp/kyushu/content/000378174.pdf>) | 国土交通省九州運輸局 | 2026-07-27 | 2026-08-24 | 必要に応じて工事工程写真及び完成写真を撮影し、現像・整理の上、当局へ提出すること | [②仕様書【PDF(83KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000378175.pdf>) / [③仕様書別添図面【PDF(720KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000378176.pdf>) / [④入札説明書【PDF(151KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000378177.pdf>) / [⑥入札時積算数量書【Excel(18KB)】](<https://wwwtb.mlit.go.jp/kyushu/content/000378179.xlsx>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

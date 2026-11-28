@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-27T12:55+09:00（収集時点）
+最終更新：2026-11-28T12:42+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**212件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**214件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 新潟県 | [11時10分 別條1号線道路舗装工事 (圧縮ファイル: 6.1MB)](<https://www.town.seiro.niigata.jp/material/files/group/6/20260930_7.zip>) | 新潟県聖籠町 | 2026-09-16 | 2026-09-29 | を装着した建設機 械を使用する場合、施工現場において使用する建設機械の写真撮影を行い 提出するものとする | — |
+| 長野県 | [令和8年度 伊那東小学校トイレ改修工事 実施設計業務委託【建築コンサルタント（一級・二級建築士2名以下）（市内本店）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_3_koukoku.files/3_1_koukoku_inahigasi_toire_sekkei.pdf>) | 長野県伊那市 | 2026-09-15 | 2026-10-13 | (エ) 透視図作成(CG 着色パース、A3 判、外観〇面、内観〇面) (オ) 簡易な透視図作成(計画段階の確認用及び色決め用程度) (カ) 石綿含有事前調査1箇所(分析:事前調査) (キ) 窓枠シーリング材 PCB 含有検査(試料採取及び分析)〇箇所 (ク) 照明器具安定器、変圧器・コンデンサー PCB 含有検査(試料… | [特記仕様書（PDF：271KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_3_koukoku.files/3_3_tokki_inahigasi_toire_sekkei.pdf>) / [業務委託に関する参考資料（PDF：83KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_3_koukoku.files/3_4_siryou_inahigasi_toire_sekkei.pdf>) / [位置図（PDF：520KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_3_koukoku.files/3_5_itizu_inahigasi_toire_sekkei.pdf>) / [図面（PDF：832KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_3_koukoku.files/3_6_zumen_inahigasi_toire_sekkei.pdf>) |
 | 長野県 | [令和8年度 舗装長寿命化事業舗装維持工事 市道三峰川右岸土地改良幹線【舗装工事Ａ・Ｂ・Ｃ級（市内本店）（支店・営業所の本店扱い含む）（一抜け方式2番）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_2_koukoku.files/2_1_koukoku_mibugawa_ugan.pdf>) | 長野県伊那市 | 2026-09-15 | 2026-10-06 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [特記仕様書（PDF：125KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_2_koukoku.files/2_3_tokki_mibugawa_ugan.pdf>) / [位置図（PDF：2,818KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_2_koukoku.files/2_4_itizu_mibugawa_ugan.pdf>) / [図面（PDF：22KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_2_koukoku.files/2_5_zumen_mibugawa_ugan.pdf>) |
 | 長野県 | [令和8年度 舗装修繕工事 市道宮ノ原線【舗装工事Ａ・Ｂ級（市内本店）（支店・営業所の本店扱い含む）（一抜け方式1番）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_1_koukoku.files/1_1_koukoku_hosou_miyanohara.pdf>) | 長野県伊那市 | 2026-09-15 | 2026-10-06 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [特記仕様書（PDF：123KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_1_koukoku.files/1_4_tokki_hosou_miyanohara.pdf>) / [位置図（PDF：110KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_1_koukoku.files/1_5_itizu_hosou_miyanohara.pdf>) / [図面（PDF：288KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_1_koukoku.files/1_6_zumen_hosou_miyanohara.pdf>) |
 | 山梨県 | [甲府地区有害鳥獣捕獲委託事業(R7明許)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/20260914_yuugai.html>) | 林野庁関東森林管理局山梨森林管理事務所 | 2026-09-14 | 2026-10-20 | (2)捕獲個体の記録写真受託者は、以下の項目を踏まえ、記録写真を撮影すること | [入札公告(PDF : 901KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/20260914_yuugai-1.pdf>) / [入札説明書(PDF : 1,200KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/20260914_yuugai-2.pdf>) / [共通仕様書(PDF : 1,741KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/20260914_yuugai-4.pdf>) / [特記仕様書(PDF : 1,020KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/20260914_yuugai-5.pdf>) / [位置図(PDF : 3,424KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/20260914_yuugai-6.pdf>) |
@@ -114,7 +116,5 @@
 | 山梨県 | [10 古市場10号線舗装修繕工事 (PDF 226KB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/5/2/4/6/_/10____10________.pdf>) | 山梨県南アルプス市 | 2026-07-24 | 2026-08-24 | 異変形が生じないように注意して施工するものとし、各種施設の調査を測量、写真撮影により、施工前、施工中、施工後及び必要に応じて随時行うこと | [5081000068 (ZIP 2.98MB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/5/2/1/0/_/5081000068.zip>) |
 | 山梨県 | [08 公共下水道舗装本復旧工事(西新居工区) (PDF 222KB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/5/2/4/4/_/08____________________.pdf>) | 山梨県南アルプス市 | 2026-07-24 | 2026-08-24 | 異変形が生じないように注意して施工するものとし、各種施設の調査を測量、写真撮影により、施工前、施工中、施工後及び必要に応じて随時行うこと | [5081000066 (ZIP 4.46MB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/5/2/0/9/_/5081000066.zip>) |
 | 山梨県 | [07 公共下水道舗装本復旧工事(桃園1工区) (PDF 222KB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/5/2/4/3/_/07________________1___.pdf>) | 山梨県南アルプス市 | 2026-07-24 | 2026-08-24 | 異変形が生じないように注意して施工するものとし、各種施設の調査を測量、写真撮影により、施工前、施工中、施工後及び必要に応じて随時行うこと | [5081000065 (ZIP 9.55MB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/5/2/0/8/_/5081000065.zip>) |
-| 長野県 | [（8.7.24公告）令和8年度 千曲市坊城平いこいの森キャビン等解体工事(PDFファイル:300KB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080818-06-.pdf>) | 長野県千曲市 | 2026-07-24 | 原文を確認 | ・写真のサイズ及び整備 a 工事中に撮影する写真は工程順に撮影箇所等を記入して整理する | [図面等(PDFファイル:6.8MB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080818-08.pdf>) |
-| 長野県 | [（8.7.24公告）令和8年度 千曲市立戸倉上山田中学校屋内運動場空調設備更新工事実施設計業務委託(PDFファイル:266.2KB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080804-01.pdf>) | 長野県千曲市 | 2026-07-24 | 原文を確認 | 一式 ※CADデータあり (d)写真の著作権の権利等について 受注者は写真の撮影を再委託する場合は、次の事項を条件とすること | [仕様書等(PDFファイル:1.2MB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080804-03.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

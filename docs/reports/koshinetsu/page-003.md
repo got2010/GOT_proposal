@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-27T12:55+09:00（収集時点）
+最終更新：2026-11-28T12:42+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**212件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**214件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 長野県 | [（8.7.24公告）令和8年度 千曲市坊城平いこいの森キャビン等解体工事(PDFファイル:300KB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080818-06-.pdf>) | 長野県千曲市 | 2026-07-24 | 原文を確認 | ・写真のサイズ及び整備 a 工事中に撮影する写真は工程順に撮影箇所等を記入して整理する | [図面等(PDFファイル:6.8MB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080818-08.pdf>) |
+| 長野県 | [（8.7.24公告）令和8年度 千曲市立戸倉上山田中学校屋内運動場空調設備更新工事実施設計業務委託(PDFファイル:266.2KB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080804-01.pdf>) | 長野県千曲市 | 2026-07-24 | 原文を確認 | 一式 ※CADデータあり (d)写真の著作権の権利等について 受注者は写真の撮影を再委託する場合は、次の事項を条件とすること | [仕様書等(PDFファイル:1.2MB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080804-03.pdf>) |
 | 新潟県 | [10時10分 網代浜居浦浜山線消雪井戸設置工事 (圧縮ファイル: 19.5MB)](<https://www.town.seiro.niigata.jp/material/files/group/6/20260729_3.zip>) | 新潟県聖籠町 | 2026-07-17 | 2026-07-28 | を装着した建設機 械を使用する場合、施工現場において使用する建設機械の写真撮影を行い 提出するものとする | — |
 | 長野県 | [（8.7.16公告）令和8年度 新戸倉体育館整備に係る支障物撤去工事(PDFファイル:295.6KB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080728-14.pdf>) | 長野県千曲市 | 2026-07-16 | 原文を確認 | 1千曲市杭瀬下二丁目1番地・写真のサイズ及び整備 a 工事中に撮影する写真は工程順に撮影箇所等を記入して整理する | [図面等(PDFファイル:1.5MB)](<https://www.city.chikuma.lg.jp/material/files/group/11/080728-16.pdf>) |
 | 山梨県 | [令和8年度上佐野地区森林環境保全整備事業（保育間伐活用型）](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/0716_seisan.html>) | 林野庁関東森林管理局山梨森林管理事務所 | 2026-07-16 | 2026-08-19 | 事業請負標準仕様書(別紙)製品生産事業請負実行管理基準の別表「実行記録写真の撮影要領」は別紙3のとおりとする | [入札公告(PDF : 206KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-1.pdf>) / [(1)入札説明書(PDF : 324KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-2.pdf>) / [(4)特記仕様書(PDF : 1,047KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-5.pdf>) / [(5)造材寸法表(PDF : 41KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-6.pdf>) / [(6)事業条件調書(PDF : 42KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/0716_seisan-7.pdf>) |

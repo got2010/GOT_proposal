@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-27T12:55+09:00（収集時点）
+最終更新：2026-11-28T12:42+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県
 
-**587件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**591件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 2 / 6
 
@@ -16,6 +16,10 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 千葉県 | [松契一般第306号 街路樹せん定委託（常盤平ユリノキ通り その2他）（PDF：343KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/306.pdf>) | 千葉県松戸市 | 2026-11-06 | 2026-11-12 | の作業を行う場合はそれらの作業内容毎)に、同一の構図で作業前・中・後の写真を撮影すること | [松契一般第306号 設計図書（PDF：3,153KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/306s.pdf>) |
+| 千葉県 | [松契一般第305号 街路樹せん定委託（常盤平ユリノキ通り その1他）（PDF：345KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/305.pdf>) | 千葉県松戸市 | 2026-11-06 | 2026-11-12 | の作業を行う場合はそれらの作業内容毎)に、同一の構図で作業前・中・後の写真を撮影すること | [松契一般第305号 設計図書（PDF：2,970KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/305s.pdf>) |
+| 千葉県 | [松契一般第304号 街路樹せん定委託（新松戸ユリノキ通り その2他）（PDF：343KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/304.pdf>) | 千葉県松戸市 | 2026-11-06 | 2026-11-12 | の作業を行う場合はそれらの作業内容毎)に、同一の構図で作業前・中・後の写真を撮影すること | [松契一般第304号 設計図書（PDF：1,460KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/304s.pdf>) |
+| 千葉県 | [松契一般第303号 街路樹せん定委託（新松戸ユリノキ通り その1他）（PDF：344KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/303.pdf>) | 千葉県松戸市 | 2026-11-06 | 2026-11-12 | の作業を行う場合はそれらの作業内容毎)に、同一の構図で作業前・中・後の写真を撮影すること | [松契一般第303号 設計図書（PDF：2,421KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/303s.pdf>) |
 | 千葉県 | [松契一般第302号 街路樹せん定委託（小金原イチョウ通り その2）（PDF：343KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/302.pdf>) | 千葉県松戸市 | 2026-11-06 | 2026-11-12 | の作業を行う場合はそれらの作業内容毎)に、同一の構図で作業前・中・後の写真を撮影すること | [松契一般第302号 設計図書（PDF：1,056KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/302s.pdf>) |
 | 千葉県 | [松契一般第301号 街路樹せん定委託（小金原イチョウ通り その1他）（PDF：344KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/301.pdf>) | 千葉県松戸市 | 2026-11-06 | 2026-11-12 | の作業を行う場合はそれらの作業内容毎)に、同一の構図で作業前・中・後の写真を撮影すること | [松契一般第301号 設計図書（PDF：1,657KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1106itaku.files/301s.pdf>) |
 | 東京都 | [%E2%96%B62026.11.05\_%E5%B0%8F%E5%85%90%E6%AD%AF%E7%A7%91%E7%94%A8%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%204%E5%BC%8F.pdf](<https://www.tmd.ac.jp/archive-tmdu/medkanri/%E2%96%B62026.11.05_%E5%B0%8F%E5%85%90%E6%AD%AF%E7%A7%91%E7%94%A8%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%204%E5%BC%8F.pdf>) | 国立大学法人東京科学大学 | 2026-11-05 | 原文を確認 | 教育研究評議会学長選考・監察会議広報誌・刊行物広報誌・刊行物トップ大学紹介動画大学紹介動画トップ大学紹介動画キャンパスライフ編留学制度編多職種連携教育編学長×医学部学生懇談学長×歯学部学生懇談東京医科歯科大学の歴史大学概要(冊子)統合報告書広報誌広報誌トップ広報誌「Bloom! 医科歯科大」英語版広報誌「TMDU AN… | — |
@@ -112,9 +116,5 @@
 | 埼玉県 | [【10月5日公告】令和8年度航空写真作成及び家屋図更新等業務委託](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202610051.files/8-373_koukoku.pdf>) | 埼玉県狭山市 | 2026-10-05 | 原文を確認 | 航空写真撮影(デジタル航空カメラ 1/30,000)一式簡易オルソ画像作成 143枚家屋図更新 1000棟家屋評価調書ファイリング700棟落札候補者について、狭山市建設工事請負等一般競争入札(事後審査型)執行要綱に基づき入札参加資格を満たしているか否かの審査を行う | [入札説明書（PDF・105KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202610051.files/8-373-1_nyuusatusetumeisyo.pdf>) / [仕様書（PDF・244KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202610051.files/8-373-2-1_siyousyo.pdf>) / [別紙1\_撮影計画図（PDF・1,280KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202610051.files/8-373-2-2_bessi1_satueikeikakuzu.pdf>) / [別紙2（PDF・57KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202610051.files/8-373-2-3_bessi2.pdf>) / [特記仕様書（PDF・104KB）](<https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202610051.files/8-373-3_tokkisiyousyo.pdf>) |
 | 茨城県 | [【電子入札】【電子契約】エントランスノズル組立品の試作試験](<https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03584.pdf>) | 国立研究開発法人日本原子力研究開発機構本部 | 2026-10-05 | 2026-11-27 | 験片)採取して溶接部断面の溶け込み状況を顕微鏡を用いて観察すると共に、写真撮影を行い溶け込みがそれぞれの試料で規定された深さに達していること | — |
 | 東京都 | [「デジタル・シティズンシップ醸成講座実施委託」公募型プロポーザルの実施について](<https://www.city.setagaya.lg.jp/documents/34835/02_yoryo.pdf>) | 東京都世田谷区 | 2026-10-02 | 2026-12-08 | 領域に応じた講座設計(3) モデル校講座の内容・構成・実施方法(4) 動画教材の企画・撮影・編集及び全校展開性(5) 教員向け授業支援資料の実用性(6) 保護者向け講座及び教職員向け講座の実効性(7) アンケート設計・集計・分析及び報告(8) 実施体制・専門性・進行管理(9) 情報管理・権利処理・危機管理(10) 類似… | — |
-| 千葉県 | [松契一般第238号 矢切地区排水整備工事（PDF：371KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1002kouji2w.files/238.pdf>) | 千葉県松戸市 | 2026-10-02 | 2026-10-02 | 写真管理 写真撮影内容は目的を満足しているか | [松契一般第238号 設計図書（PDF：16,055KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1002kouji2w.files/238s.pdf>) |
-| 千葉県 | [松契一般第237号 市内サクラ通り他街路樹マス整備委託（PDF：137KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1002itaku.files/237.pdf>) | 千葉県松戸市 | 2026-10-02 | 2026-10-02 | の作業を行う場合はそれらの作業内容毎)に、同一の構図で作業前・中・後の写真を撮影すること | [松契一般第237号 設計図書（PDF：640KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1002itaku.files/237s.pdf>) |
-| 千葉県 | [松契一般第236号 街路樹せん定委託（上本郷ユリノキ通り）（PDF：136KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1002itaku.files/236.pdf>) | 千葉県松戸市 | 2026-10-02 | 2026-10-08 | の作業を行う場合はそれらの作業内容毎)に、同一の構図で作業前・中・後の写真を撮影すること | [松契一般第236号 設計図書（PDF：1,071KB）](<https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/densi/r8-1002itaku.files/236s.pdf>) |
-| 東京都 | [国民健康保険・後期高齢者医療事務業務委託に係るプロポーザルの実施について](<https://www.city.setagaya.lg.jp/documents/35641/01_jisshiyouryo.pdf>) | 東京都世田谷区 | 2026-10-01 | 2028-03-31 | 4 文書等の内容を、写真撮影、複写、転記、電磁的記録化その他の方法により記録してはならない | [要求仕様書（PDF：6,746KB）](<https://www.city.setagaya.lg.jp/documents/35641/03-4_youkyuushiyousho.pdf>) |
 
 [この地域の目次](README.md) ｜ [前の100件](page-001.md) ｜ [次の100件](page-003.md)

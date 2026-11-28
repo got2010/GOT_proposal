@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-27T12:55+09:00（収集時点）
+最終更新：2026-11-28T12:42+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県
 
-**273件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**278件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 3 / 3
 
@@ -16,6 +16,11 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 奈良県 | [ネットワーク道路整備工事（橘地内）](<https://www.asukamura.jp/files/nyusatsu_joho/260824/08-114-01.pdf>) | 奈良県明日香村 | 2026-08-24 | 原文を確認 | 4 工事写真 共通仕様書1-1-1-26-8 - ○ 1 ○ ○・工事写真の撮影にあたっては、写真管理基準(案)を適用する | [特記仕様書](<https://www.asukamura.jp/files/nyusatsu_joho/260824/08-114-02.pdf>) / [数量計算書](<https://www.asukamura.jp/files/nyusatsu_joho/260824/08-114-04.pdf>) / [図面](<https://www.asukamura.jp/files/nyusatsu_joho/260824/08-114-05.pdf>) / [工事関係書類一覧表](<https://www.asukamura.jp/files/nyusatsu_joho/260824/08-114-08.pdf>) / [位置図](<https://www.asukamura.jp/files/nyusatsu_joho/260824/08-114-09.pdf>) |
+| 兵庫県 | [【制限付一般競争入札】明石市立小・中学校受変電設備高圧コンデンサ取替修繕（８月21日発注）](<https://www.city.akashi.lg.jp/documents/40326/3-011_koukoku_kondensa.pdf>) | 兵庫県明石市 | 2026-08-21 | 原文を確認 | 場着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、完成時に現状復旧が行われているか確認すること | [業務仕様書（PDF：277KB）](<https://www.city.akashi.lg.jp/documents/40326/21-siyousho_kondensa.pdf>) / [特記仕様書（PDF：231KB）](<https://www.city.akashi.lg.jp/documents/40326/22_tokki_bessi_kondensa.pdf>) |
+| 京都府 | [令和８年度京都市東部山間埋立処分地環境モニタリング解析業務委託](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/437207.htm>) | 京都府京都市 | 2026-08-21 | 原文を確認 | )及び報告書の作成、提出に係る費用(2) 各種試験、検査、写真撮影等に必要な費用(3) 打合せ、解析結果の報告説明等のための本市施設への訪問に伴う交通費(4) 本市の施設及び第三者等に損害を与えた場合、復旧する費用及び補償(5) 官公署等に対する書類の作成及び届出等の手続きに必要な費用(6) 受注者の本委託業務の履行不… | [仕様書](<https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./437207_12_08181410.pdf>) |
+| 兵庫県 | [【制限付一般競争入札】明石市立明石商業高等学校体育館屋根修繕(8月20日発注)](<https://www.city.akashi.lg.jp/documents/40334/20260819115811.pdf>) | 兵庫県明石市 | 2026-08-20 | 原文を確認 | 繕着手前に敷地内外(敷地内の既存建物、近接建物、道路等の構造物など)の写真撮影を行い、修繕完成時に現状復旧が行われているか確認すること | [仕様書（PDF：2,323KB）](<https://www.city.akashi.lg.jp/documents/40334/20260819104127.pdf>) / [特記仕様書（PDF：216KB）](<https://www.city.akashi.lg.jp/documents/40334/20260819104145.pdf>) |
+| 大阪府 | [武庫川団地における放置自転車等調査検討業務 （令和8年8月19日）](<https://www.ur-net.go.jp/orders/west/pdf/order_43896_2.pdf>) | 独立行政法人都市再生機構西日本支社 | 2026-08-19 | 2026-10-09 | の明示できる図表、既往成果等を用いることは支障ないが、本件のために特に作成したCG、詳細図面等を用いることは認めない | — |
 | 奈良県 | [一般競争入札公告（「ザ！雑巾ダッシュ！！2026 inみつえ」会場設営等業務委託）](<https://www.vill.mitsue.nara.jp/material/files/group/4/zoukin2026koukoku.pdf>) | 奈良県御杖村 | 2026-08-17 | 2026-08-26 | (6)過去2年以内にイベントの映像配信業務の履行実績を有すること | [2.入札説明書 (PDFファイル: 103.4KB)](<https://www.vill.mitsue.nara.jp/material/files/group/4/zoukinsetsumei2026.pdf>) / [3.委託業務仕様書 (PDFファイル: 87.4KB)](<https://www.vill.mitsue.nara.jp/material/files/group/4/zoukinsiyousyo2026.pdf>) / [4.大会要領 (PDFファイル: 274.7KB)](<https://www.vill.mitsue.nara.jp/material/files/group/4/zoukinyoukou2026.pdf>) / [5.会場設営図 (PNG: 425.5KB)](<https://www.vill.mitsue.nara.jp/material/files/group/4/zoukinkaijouzu2026.png>) / [6.会場設営資料 (PDFファイル: 232.3KB)](<https://www.vill.mitsue.nara.jp/material/files/group/4/zoukinsetsuei2026.pdf>) |
 | 奈良県 | [https://www.city.ikoma.lg.jp/0000042102.html](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42102/001.pdf>) | 奈良県生駒市 | 2026-08-17 | 2026-09-02 | ・施工前、施工中、施工後の写真を撮影し、業務完了報告書に添付して提出すること | [契約主要事項説明書(PDF形式、133.95KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42102/02.pdf>) / [仕様書 (PDF形式、200.95KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42102/03.pdf>) / [事前審査型条件付一般競争入札参加資格確認申請書 (ワード形式、35.00KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42102/12.doc>) / [業務履行実績調書 (ワード形式、36.00KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42102/13.doc>) / [誓約書 (ワード形式、60.50KB)](<https://www.city.ikoma.lg.jp/cmsfiles/contents/0000042/42102/14.doc>) |
 | 兵庫県 | [Inseyets Offline Standalone外の納入②](<https://www.police.pref.hyogo.lg.jp/chotatu/kou_data/2026/D26081704.pdf>) | 国家公安委員会（警察庁）兵庫県警察 | 2026-08-17 | 2026-08-17 | 秘密に属する物件三 一号又は二号に掲げるものを基に、乙が作成(複製及び写真撮影を含む | — |

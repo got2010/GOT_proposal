@@ -2,13 +2,13 @@
 
 [地域選択へ戻る](../README.md)
 
-最終更新：2026-11-27T12:55+09:00（収集時点）
+最終更新：2026-11-28T12:42+09:00（収集時点）
 
 締切は公告文からの推定です。受付状況・条件は必ず原文で確認してください。過去の案件も含みます。
 
 対象：新潟県 山梨県 長野県
 
-**212件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
+**214件** ／ 映像業務の関連度順、同じ関連度では公告日が新しい順。
 
 ## 一覧 1 / 3
 
@@ -16,6 +16,8 @@
 
 | 都道府県 | 案件名・原文 | 発注元 | 公告日 | 締切の目安 | 判定根拠 | 資料 |
 |---|---|---|---|---|---|---|
+| 新潟県 | [9時30分 寺島網代浜線（寺島2-1工区）道路舗装工事 (圧縮ファイル: 6.7MB)](<https://www.town.seiro.niigata.jp/material/files/group/6/20261208_1.zip>) | 新潟県聖籠町 | 2026-11-27 | 2026-12-07 | を装着した建設機 械を使用する場合、施工現場において使用する建設機械の写真撮影を行い 提出するものとする | — |
+| 長野県 | [令和８年度（翌債）妙高戸隠連山国立公園妙高高原ビジターセンターエントランス改修工事](<https://chubu.env.go.jp/shinetsu/content/000444145.pdf>) | 環境省信越自然環境事務所 | 2026-11-27 | 2026-12-22 | ラー印画紙キャビネ判影業者督職員が承諾する撮実績がある者で、監建築完成写真の撮影の補正を行ったもセル以上で画像半切(324×400mm)・圧縮率1/4程度)カラー木製パネルカラー印画紙キャビネ判工事完成時に次の写真を撮影し、監督職員に提出する | [入札説明書（設計図書を除く）\[PDF 996KB\]](<https://chubu.env.go.jp/shinetsu/content/000444146.pdf>) / [図面・特記仕様書１\[PDF 9.7MB\]](<https://chubu.env.go.jp/shinetsu/content/000444147.pdf>) / [図面・特記仕様書２\[PDF 943KB\]](<https://chubu.env.go.jp/shinetsu/content/000444148.pdf>) |
 | 長野県 | [令和８年度 村単道路改良工事](<https://www.vill.nakagawa.nagano.jp/uploaded/attachment/8816.pdf>) | 長野県中川村 | 2026-11-26 | 原文を確認 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [03 位置図 \[PDFファイル／4.04MB\]](<https://www.vill.nakagawa.nagano.jp/uploaded/attachment/8825.pdf>) / [05 条件明示、特記仕様書 \[PDFファイル／209KB\]](<https://www.vill.nakagawa.nagano.jp/uploaded/attachment/8823.pdf>) / [06 設計図面 \[PDFファイル／2.19MB\]](<https://www.vill.nakagawa.nagano.jp/uploaded/attachment/8824.pdf>) |
 | 山梨県 | [令和8年度山梨森林管理事務所庁舎照明器具LED化工事](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/261126_cyousya.html>) | 林野庁関東森林管理局山梨森林管理事務所 | 2026-11-26 | 2027-01-06 | (3) 工事の施工状況について、施工前、施行中、施工後の写真を撮影し提出すること | [入札公告(PDF : 288KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/261126_cyousya-8.pdf>) / [入札説明書(PDF : 371KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/261126_cyousya-2.pdf>) / [工事仕様書(PDF : 103KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/261126_cyousya-5.pdf>) / [図面(PDF : 722KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/261126_cyousya-6.pdf>) / [参考様式(PDF : 645KB)](<https://www.rinya.maff.go.jp/kanto/apply/publicsale/yamanasi/attach/pdf/261126_cyousya-7.pdf>) |
 | 山梨県 | [04 吉田36号線水路改修工事 (PDF 226KB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/7/4/3/9/_/04___36________.pdf>) | 山梨県南アルプス市 | 2026-11-20 | 2026-12-15 | 異変形が生じないように注意して施工するものとし、各種施設の調査を測量、写真撮影により、施工前、施工中、施工後及び必要に応じて随時行うこと | [5081000106 (ZIP 3.97MB)](<https://www.city.minami-alps.yamanashi.jp/fs/1/4/7/4/5/3/_/5081000106.zip>) |
@@ -114,7 +116,5 @@
 | 長野県 | [田沢減圧槽フロート弁及び仕切弁更新工事(掲載日:令和8年9月18日)](<https://www.city.tomi.nagano.jp/file/186171.pdf>) | 長野県東御市 | 2026-09-18 | 2026-10-08 | 事記録写真(1) 請負者は、工事着手に先立ち、「施行計画書 工事記録,写真撮影計画書」を作成し、係員に提出すること | [電子入札案件に紙入札により参加する場合の注意事項(pdf 129 kb)](<https://www.city.tomi.nagano.jp/file/183935.pdf>) / [02【特記仕様書】田沢減圧槽フロート弁及び仕切弁更新工事(pdf 173 kb)](<https://www.city.tomi.nagano.jp/file/186166.pdf>) / [04【平図面】田沢減圧槽フロート弁及び仕切弁更新工事(pdf 34 kb)](<https://www.city.tomi.nagano.jp/file/186168.pdf>) / [05【部材断面図】田沢減圧槽フロート弁及び仕切弁更新工事(pdf 94 kb)](<https://www.city.tomi.nagano.jp/file/186169.pdf>) / [06【金抜設計書】田沢減圧槽フロート弁及び仕切弁更新工事(pdf 126 kb)](<https://www.city.tomi.nagano.jp/file/186170.pdf>) |
 | 長野県 | [令和8年度 町単道路舗装事業町道2383号線工事（令和8年9月18日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku911.pdf>) | 長野県辰野町 | 2026-09-18 | 2026-10-08 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [2 設計書 (PDFファイル: 29.3KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo911.pdf>) / [3 特記仕様書 (PDFファイル: 179.4KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo911.pdf>) / [5 位置図 (PDFファイル: 240.3KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/05_itizu911.pdf>) / [6 図面 (PDFファイル: 26.1KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/06_zumen911.pdf>) / [7 工事内訳書 (Excelファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/07_utiwake911.xls>) |
 | 長野県 | [令和8年度 町単道路舗装事業町道1523号線工事（令和8年9月18日公告）](<https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku910.pdf>) | 長野県辰野町 | 2026-09-18 | 2026-10-08 | 設機械を使用する場合、現場代理人は施工現場において、使用する建設機械の写真撮影を行い、監督員に提出するものとする | [2 設計書 (PDFファイル: 29.3KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/02_sekkeisyo910.pdf>) / [3 特記仕様書 (PDFファイル: 172.4KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/03_tokkisiyo910.pdf>) / [5 位置図 (PDFファイル: 250.7KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/05_itizu910.pdf>) / [6 図面 (PDFファイル: 18.9KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/06_zumen910.pdf>) / [7 工事内訳書 (Excelファイル: 42.0KB)](<https://www.town.tatsuno.lg.jp/material/files/group/3/07_utiwake910.xls>) |
-| 新潟県 | [11時10分 別條1号線道路舗装工事 (圧縮ファイル: 6.1MB)](<https://www.town.seiro.niigata.jp/material/files/group/6/20260930_7.zip>) | 新潟県聖籠町 | 2026-09-16 | 2026-09-29 | を装着した建設機 械を使用する場合、施工現場において使用する建設機械の写真撮影を行い 提出するものとする | — |
-| 長野県 | [令和8年度 伊那東小学校トイレ改修工事 実施設計業務委託【建築コンサルタント（一級・二級建築士2名以下）（市内本店）】](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_3_koukoku.files/3_1_koukoku_inahigasi_toire_sekkei.pdf>) | 長野県伊那市 | 2026-09-15 | 2026-10-13 | (エ) 透視図作成(CG 着色パース、A3 判、外観〇面、内観〇面) (オ) 簡易な透視図作成(計画段階の確認用及び色決め用程度) (カ) 石綿含有事前調査1箇所(分析:事前調査) (キ) 窓枠シーリング材 PCB 含有検査(試料採取及び分析)〇箇所 (ク) 照明器具安定器、変圧器・コンデンサー PCB 含有検査(試料… | [特記仕様書（PDF：271KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_3_koukoku.files/3_3_tokki_inahigasi_toire_sekkei.pdf>) / [業務委託に関する参考資料（PDF：83KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_3_koukoku.files/3_4_siryou_inahigasi_toire_sekkei.pdf>) / [位置図（PDF：520KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_3_koukoku.files/3_5_itizu_inahigasi_toire_sekkei.pdf>) / [図面（PDF：832KB）](<https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080915_3_koukoku.files/3_6_zumen_inahigasi_toire_sekkei.pdf>) |
 
 [この地域の目次](README.md) ｜ [次の100件](page-002.md)
